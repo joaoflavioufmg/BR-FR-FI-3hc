@@ -305,9 +305,9 @@ class OriDestAssignment:
                 print('{0:s}'.format(linha), file = file_out)
 
 
-        # RETIRAR O COMENTARIO APOS A OTIMIZACAO!
+        # # COMENTAR PARA GERAR RELATORIOS APENAS
         # # ################################################################
-        # make_flow_maps(self.level)  # Gera o mapa após as estatísticas
+        make_flow_maps(self.level)  # Gera o mapa após as estatísticas
         # # ################################################################
 
         # Muda para Diretorio um nivel superior
