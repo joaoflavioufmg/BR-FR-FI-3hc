@@ -322,7 +322,11 @@ $ git push upstream --delete master
 $ git checkout
 $ git fetch upstream
 
+# Remover PASTA no repositorio online 
+git rm -r --cached .\share\.
 
+# Remover ARQUIVO no repositorio online
+git rm --cached .\git.txt   
 
 
 
