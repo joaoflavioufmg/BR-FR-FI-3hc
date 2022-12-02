@@ -1,0 +1,340 @@
+https://doane-ccla.gitbook.io/docs/git-version-control/git-basics
+https://doane-ccla.gitbook.io/docs/git-version-control/git-workflow
+http://johnatten.com/2012/09/08/basic-git-command-line-reference-for-windows-users/
+
+# Git Bash: Syntax Notes
+# Directory Paths
+# Note that Git Bash is a *nix application (Unix/Linux), and expects inputs according 
+# to *nix conventions when it comes to file system navigation.
+
+# Git Bash: Navigating the File System (cd)
+# cd [options] [<directory>]
+
+# Navigate to the Home Directory (Default folder for the current user):
+
+$ cd
+
+# Navigate to a specific folder in the file system:
+
+$ cd /c/SomeFolder/SomeOtherFolder/
+
+# Navigate to a specific folder in the file system (if there are spaces in the directory path):
+
+$ cd “/c/Some Folder/Some Other Folder/”
+
+# Go back to the previous Location:
+
+$ cd -
+
+# Move Up One Directory Level:
+
+$ cd ..
+
+# Git Bash: Show Directory Contents (ls)
+# ls [options]
+
+# List the contents of the current directory, one item per line:
+
+$ ls -1
+
+# List only the subdirectories (folders) within the current directory:
+
+$ ls –d */
+
+# List everything in long form, vertically:
+
+$ ls –al
+
+# Git Bash: Create a New Directory (mkdir)
+# mkdir [options] <folderName>
+# Create a folder in the current directory (without spaces in the folder name):
+
+$ mkdir NewFolderName
+
+# Create a folder in the current directory (with spaces in the folder name):
+
+$ mkdir “New Folder Name”
+
+# Create a folder at the specific directory path:
+
+$ mkdir /c/ExistingParentFolder/NewFolderName
+
+# Create a folder at the specific directory path, and create parent directories as needed:
+
+$ mkdir -p /c/NewParentFolder/NewFolderName
+
+# Create a folder at the specific directory path, create parent directories as needed, 
+# and print a description of what was done in the console window:
+
+$ mkdir -p --verbose /c/NewParentFolder/NewFolderName
+
+# Git Bash: Create Files (touch, echo)
+# touch [options] <FileName>
+# echo [options] TextString > FileName
+
+# Create a single (empty) text file in the current directory:
+
+$ touch newFile.txt
+
+# Create a single (empty) text file in the specified directory:
+
+$ touch /c/SomeFolder/newFile.txt
+
+# Create multiple (empty) text files in the current directory:
+
+$ touch newFile_1.txt newFile_2 . . . newFile_n
+
+# Append (>>) text to a file. If the file does not exist, one is created:
+
+$ echo “This text is added to the end of the file” >> newFile.txt
+
+# Overwrites (>) text in a file. If the file does not exist, one is created:
+
+$ echo “This text replaces existing text in the file” > newFile.txt
+
+# Overwrites text in a file at the specified location. If the file does not exist, one is created:
+
+$ echo “This text replaces existing text in the file” > /c/SomeFolder/newFile.txt
+
+# Git Bash: Remove Files (rm)
+# rm [options] -<FileName>
+# Remove the specified file from the current directory (no spaces):
+
+$ rm -DeleteFileName
+
+# Remove the specified file from the current directory (with spaces):
+
+$ rm -“Delete File Name”
+
+# Prompt for confirmation before remove the specified file from the current directory (no spaces):
+
+$ rm -i -DeleteFileName
+
+# Removes the specified file and reports what was done in the console window:
+
+$ rm -v -DeleteFileName
+
+# Git Bash: Remove Directories (rmdir, rm -rf)
+# rmdir [options] <FolderName>
+# rm -rf
+
+# Removes the specified folder if empty. Operation fails if folder is  not empty:
+
+$ rmdir -DeleteFolderName
+
+# Removes the specified folder and all contents:
+
+$ rm -rf -DeleteFileName
+
+#######################################################################################################
+# Git Bash: Configure Git (git config)
+#######################################################################################################
+
+# git config --global user.name <“User Name”>
+# git config --global user.email <UserEmailAddress>
+
+$ git --version
+
+# Set the global User.Name value for the current user on the system:
+
+$ git config --global user.name “FirstName LastName”
+
+# Set the global User.Email value for the current user on the system:
+
+$ git config --global user.email "your_email_address@example.com"
+
+$ git config --global --list
+
+# Git Bash: Initialize a New Git Repo (git init)
+# git init
+# Create files required in the current directory to perform version control:
+
+$ git init 
+$ git init ProjectFolder 	(exemplo)
+$ cd ProjectFolder		(do exemplo)
+
+# Em seguida, crie um arquivo (file1.txt, por exemplo)
+
+# Git Bash: Add/Stage for Commit (git add)
+# git add [options] [<File_1>] [<File_2>] . . . [<File_n>]
+
+$ git add -A
+$ git add file1.txt (do exemplo. É apenas uma intensão, que é atendida com o commit e uma mensagem "-m")
+$ git commit –m “Adicionei o file1.txt”	
+
+# Remove the specified file from the next commit:
+# Git Bash: Unstage from Commit (git reset)
+# git reset HEAD <File_1>
+
+$ git reset HEAD FileName
+
+# Git Bash: Committing Changes (git commit)
+# git commit [options] [<File_1>] [<File_2>] . . . [<File_n>] [-m <“Commit Message”>]
+#Commits all files changed since last commit.
+
+$ git commit –a –m “Message Text”
+
+# Git Bash: Remote Repositories (git remote)
+# git remote add <RemoteName> <RemoteURL>
+# git remote show <RemoteName>  # RemoteName represents a local alias (or nickname) for your remote repository
+# Add the specified remote repo to your git config file.
+
+$ git remote add RemoteName https://RemoteName/Proj.git
+
+# Print information about the specified remote to the console window:
+
+$ git remote show RemoteName
+
+# Git Bash: Branching (git branch)
+# git branch [options][<BranchName>][<StartPoint>]
+
+# List all >>local<< branches:
+
+$ git branch
+
+# List all >>remote<< branches:
+
+$ git branch -r
+
+# List all local and remote branches:
+
+$ git branch -a
+
+# Create a new branch starting at the some point in history as the current branch:
+# Note that this creates the new branch, but does not “check it out” (make it the current working branch).
+
+$ git branch BranchName
+
+# Switch from the current branch to the indicated branch:
+
+$ git checkout BranchName
+
+# Create a new branch and switch to it from the current branch:
+
+$ git checkout –b NewBranchName-StartPoint
+
+# Git Bash: Merging Branches
+# git merge [<BranchName>][--no-commit]
+# Merge the specified branch into the current branch and auto-commit the results:
+
+$ git merge BranchName
+
+# Merge the specified branch into the current branch and do not commit the results:
+
+$ git merge BranchName --no-commit
+
+# Git Bash: Pushing to Remote Repositories (git push)
+# git push [<RemoteName> <BranchName>]
+# Update the remote server with commits for all existing branches common to both the local system and the server. 
+# Branches on the local system which have never been pushed to the server are not shared.
+
+$ git push
+
+# Updates the remote server with commits for the specific branch named. 
+# This command is required to push a new branch from the local repo to 
+# the server if the new branch does not exist on the server.
+
+$ git push RemoteName BranchName
+
+# Git Bash: Fetching from Remote Repositories (git fetch)
+# git fetch <RemoteName>
+# Retrieve  any commits from the server that do not already exist locally:
+
+$ git fetch RemoteName
+
+# NOTE: git fetch retrieves information from the remote and records it locally as a 
+branch in your current repository. In order to merge the new changes into your local 
+branch, you need to run git fetch followed by git merge. Since there may be more 
+than one branch on the remote repository, it is necessary to specify the branch you 
+wish to merge into your current branch:
+
+# git merge <RemoteName/BranchName>
+
+# Merge the newly fetched branch from the remote into your current working branch:
+
+$ git merge RemoteName/BranchName
+
+# Git Bash: Pulling from Remote Repositories (git pull)
+# git pull <RemoteName/BranchName>
+# Fetch changes from the specified branch in the remote, and merge them into the current local branch:
+
+$ git pull RemoteName/BranchName
+
+# NOTE: git pull is essentially the same as running git fetch immediately followed by git merge. 
+
+# Git Bash: Undo (git reset)
+# git reset [options]
+# Undo everything since the last commit:
+
+$ git reset --hard
+
+# Undo most recent successful merge and all changes after:
+
+$ git reset --hard ORIG_HEAD
+
+Undo most recent commit but retain changes in staging (Stage) area:
+
+$ git reset --soft HEAD^
+
+# Git Bash: Tags (git tag)
+# git tag [options] [<TagName>] [<CommitChecksum>] [<TagMessage?]
+# List all tags in the current repository:
+
+$ git tag
+
+# Create a tag at the current revision:
+
+$ git tag TagName
+
+# Create an annotated tag:
+
+$ git tag -a TagName -m TagMessage
+
+# Push tags to a remote repository:
+
+$ git push --tags
+
+# Print information about a specific tag to the console window:
+
+$ git show TagName
+
+############################################ Git with GitHub ########################################
+
+$ git clone git@github.com:joaoflavioufmg/sop.git
+
+$ cd sop/
+
+$ git remote add upstream git@github.com:joaoflavioufmg/sop.git
+$ git remote -v
+
+# Deleting remote branches
+
+$ git branch -a
+$ git push upstream --delete master
+
+# An example: If you are working in the 2.6 documentation branch, you might do something like this:
+# git checkout 2.6
+# git fetch upstream
+# git rebase upstream/2.6
+
+# For master
+
+$ git checkout
+$ git fetch upstream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

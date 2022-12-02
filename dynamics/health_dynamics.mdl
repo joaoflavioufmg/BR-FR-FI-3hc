@@ -1,0 +1,254 @@
+{UTF-8}
+Accidents requiring EC  = A FUNCTION OF( )
+	~	
+	~		|
+
+Ageing society  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Delays (queues) of scheduled service in a tertiary care"  = A FUNCTION OF( "Referrals to hospitals or reference centres (tertiary care)"\
+		)
+	~	
+	~		|
+
+"Delays (queues) of scheduled service on secondary care"  = A FUNCTION OF( "Referrals to medical specialist centres or small hospitals (secondary care)"\
+		)
+	~	
+	~		|
+
+"Demand for hospital care (most expensive) from preventable diseases"  = A FUNCTION OF( \
+		Accidents requiring EC,Ageing society,"Referrals to hospitals or reference centres (tertiary care)"\
+		)
+	~	
+	~		|
+
+Desired number of primary health care services  = A FUNCTION OF( )
+	~	
+	~		|
+
+Education for primary healthcare professionals  = A FUNCTION OF( "Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+Effectiveness of BC  = A FUNCTION OF( Quality of BC,Technology for public health care\
+		)
+	~	
+	~		|
+
+"Government campaigns for vaccination, drugs reduction, well-being (sports, sleep)"  = A FUNCTION OF( \
+		)
+	~	
+	~		|
+
+"Health professionals market on local/regional public health services"  = A FUNCTION OF( \
+		The gap between demand and supply)
+	~	
+	~		|
+
+Knowledge about real hierarchical system demand  = A FUNCTION OF( Train healthcare professionals to act as gatekeepers\
+		)
+	~	
+	~		|
+
+Patient's health status  = A FUNCTION OF( Effectiveness of BC,"Government campaigns for vaccination, drugs reduction, well-being (sports, sleep)"\
+		,Primary health care services)
+	~	
+	~		|
+
+Pressure to meet health care requirements  = A FUNCTION OF( Knowledge about real hierarchical system demand\
+		)
+	~	
+	~		|
+
+Preventive recommendations  = A FUNCTION OF( Education for primary healthcare professionals\
+		)
+	~	
+	~		|
+
+Primary health care services  = A FUNCTION OF( "Health professionals market on local/regional public health services"\
+		)
+	~	
+	~		|
+
+Progression of critical diseases  = A FUNCTION OF( Patient's health status)
+	~	
+	~		|
+
+Quality of BC  = A FUNCTION OF( Preventive recommendations,Education for primary healthcare professionals\
+		)
+	~	
+	~		|
+
+Quality of secondary care services  = A FUNCTION OF( "Delays (queues) of scheduled service on secondary care"\
+		,"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+Quality of tertiary care services  = A FUNCTION OF( "Delays (queues) of scheduled service in a tertiary care"\
+		,"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+"Referrals to hospitals or reference centres (tertiary care)"  = A FUNCTION OF( "Referrals to medical specialist centres or small hospitals (secondary care)"\
+		,"Visits of non-referred patients requiring IC or SC")
+	~	
+	~		|
+
+"Referrals to medical specialist centres or small hospitals (secondary care)"  = A FUNCTION OF( \
+		Progression of critical diseases,"Visits of non-referred patients requiring AC, or IC"\
+		)
+	~	
+	~		|
+
+"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		  = A FUNCTION OF( "Demand for hospital care (most expensive) from preventable diseases"\
+		,Pressure to meet health care requirements)
+	~	
+	~		|
+
+Technology for public health care  = A FUNCTION OF( "Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+The gap between demand and supply  = A FUNCTION OF( Desired number of primary health care services\
+		,"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+Train healthcare professionals to act as gatekeepers  = A FUNCTION OF( Quality of secondary care services\
+		,Quality of tertiary care services,"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care"\
+		)
+	~	
+	~		|
+
+"Visits of non-referred patients requiring AC, or IC"  = A FUNCTION OF( Train healthcare professionals to act as gatekeepers\
+		)
+	~	
+	~		|
+
+"Visits of non-referred patients requiring IC or SC"  = A FUNCTION OF( Train healthcare professionals to act as gatekeepers\
+		)
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP 
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,80,0
+10,1,Desired number of primary health care services,339,227,61,28,8,3,0,0,0,0,0,0
+10,2,The gap between demand and supply,560,260,62,19,8,3,0,0,0,0,0,0
+10,3,"Health professionals market on local/regional public health services",790,236,93,28,8,3,0,0,0,0,0,0
+10,4,Effectiveness of BC,789,322,50,19,8,3,0,0,0,0,0,0
+10,5,Technology for public health care,570,381,56,19,8,3,0,0,0,0,0,0
+10,6,Primary health care services,1009,216,61,19,8,3,0,0,0,0,0,0
+1,7,1,2,1,0,43,12,3,65,0,255-0-255,|0|B|0-0-0,1|(449,198)|
+1,8,2,3,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(632,201)|
+10,9,Train healthcare professionals to act as gatekeepers,1499,198,70,28,8,3,0,0,0,0,0,0
+10,10,Knowledge about real hierarchical system demand,1607,816,87,19,8,3,0,0,0,0,0,0
+10,11,Pressure to meet health care requirements,1197,833,74,19,8,3,0,0,0,0,0,0
+10,14,"Delays (queues) of scheduled service on secondary care",1188,676,66,28,8,3,0,0,0,0,0,0
+1,16,10,11,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1391,857)|
+1,21,3,6,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(871,172)|
+1,22,6,31,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(1097,244)|
+1,24,5,4,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(663,344)|
+10,26,Ageing society,921,679,46,11,8,3,0,0,0,0,0,0
+1,27,26,35,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(891,719)|
+10,28,Quality of BC,659,468,44,11,8,3,0,0,0,0,0,0
+10,29,Preventive recommendations,512,511,56,19,8,3,0,0,0,0,0,0
+10,30,Education for primary healthcare professionals,550,654,75,19,8,3,0,0,0,0,0,0
+10,31,Patient's health status,1182,373,47,19,8,3,0,0,0,0,0,0
+10,32,Progression of critical diseases,1025,491,49,19,8,3,0,0,0,0,0,0
+10,33,"Referrals to medical specialist centres or small hospitals (secondary care)",1391,494,94,28,8,3,0,0,0,0,0,0
+10,34,"Referrals to hospitals or reference centres (tertiary care)",1672,683,81,28,8,3,0,0,0,0,0,0
+10,35,"Demand for hospital care (most expensive) from preventable diseases",948,793,80,28,8,3,0,0,0,0,0,0
+10,36,"Resources for new BHU (cheapest care), AC, LC, medicines and education in health care",532,789,111,28,8,3,0,0,0,0,0,0
+1,37,30,28,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(580,559)|
+1,38,28,4,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(698,386)|
+1,39,29,28,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(578,455)|
+1,40,4,31,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(964,297)|
+1,41,31,32,1,0,45,12,3,65,0,255-0-255,|0||-1--1--1,1|(1067,420)|
+1,43,32,33,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1194,433)|
+1,46,33,34,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1477,623)|
+1,47,34,35,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1249,777)|
+1,48,35,36,1,0,45,12,3,65,0,255-0-255,|0||-1--1--1,1|(743,829)|
+1,49,36,30,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(524,708)|
+1,50,36,2,1,0,45,12,3,64,0,255-0-255,|0||-1--1--1,1|(367,530)|
+10,51,"Government campaigns for vaccination, drugs reduction, well-being (sports, sleep)",828,499,91,28,8,3,0,0,0,0,0,0
+1,52,51,31,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(963,392)|
+1,53,36,5,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(431,523)|
+12,55,0,754,613,99,34,8,7,0,8,0,0,0,0,-1--1--1,0-0-0,|16|B|0-0-0
+(B) "Population health and primary health services"
+1,56,30,29,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(504,584)|
+1,57,11,36,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(810,868)|
+10,58,"Visits of non-referred patients requiring AC, or IC",1446,369,89,19,8,3,0,0,0,0,0,0
+10,59,"Visits of non-referred patients requiring IC or SC",1643,371,86,19,8,3,0,0,0,0,0,0
+1,60,9,58,1,0,45,12,3,64,0,255-0-255,|0||-1--1--1,1|(1467,276)|
+1,61,9,59,1,0,45,12,3,64,0,255-0-255,|0||-1--1--1,1|(1530,284)|
+1,62,58,33,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1432,421)|
+1,63,59,34,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1538,511)|
+10,64,Quality of secondary care services,1273,241,66,19,8,3,0,0,0,0,0,0
+10,65,Quality of tertiary care services,1829,330,56,19,8,3,0,0,0,0,0,0
+1,67,34,71,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1766,650)|
+1,69,33,14,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1337,645)|
+1,70,14,64,1,0,45,12,3,64,0,255-0-255,|0||-1--1--1,1|(1207,475)|
+10,71,"Delays (queues) of scheduled service in a tertiary care",1830,542,69,28,8,3,0,0,0,0,0,0
+1,72,71,65,1,0,45,12,3,64,0,255-0-255,|0||-1--1--1,1|(1879,453)|
+1,73,36,9,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(915,636)|
+1,74,65,9,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1686,209)|
+1,75,64,9,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1420,193)|
+1,76,9,10,1,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1694,178)|
+12,77,0,1290,565,72,23,8,7,0,8,-1,0,0,0,-1--1--1,0-0-0,|16||0-0-0
+(R1) "Quality of secondary care"
+12,78,0,1656,550,72,23,8,7,0,8,-1,0,0,0,-1--1--1,0-0-0,|16||0-0-0
+(R2) "Quality of tertiray care"
+12,79,0,1615,756,95,23,8,7,0,8,-1,0,0,0,-1--1--1,0-0-0,|16||0-0-0
+(R3) Diagnostic and stability of the system
+10,80,Accidents requiring EC,1035,678,41,19,8,3,0,0,0,0,0,0
+1,81,80,35,0,0,43,12,3,64,0,255-0-255,|0||-1--1--1,1|(1000,724)|
+1,82,36,64,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(562,136)|
+1,83,36,65,1,0,43,12,3,65,0,255-0-255,|0||-1--1--1,1|(1783,733)|
+///---\\\
+:L<%^E!@
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:80,0
+27:0,
+34:0,
+5:Quality of BC
+24:0
+25:0
+26:0

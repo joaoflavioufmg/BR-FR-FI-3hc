@@ -1,0 +1,75 @@
+# =========================================================
+# Problema: Projeto de rede de especialistas 3 niveis
+# Joao Flavio F. Almeida, 	<joao.flavio@dep.ufmg.br>
+# Horacio Faria <horaciofaria@gmail.com>
+# Leonardo <leomarie@gmail.com>
+# Hugo Rodrigues <hugonr@gmail.com>
+# Virginia 			<vmmagalhaes@nescon.medicina.ufmg.br>
+# Data   : 01/02/2021
+# Versao: 12.0: Estado (16 - Amapa)
+# ============================================================
+
+data;
+
+param Distmax:=
+1 80  # 80
+2 120 # + 120
+3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+2	10000
+3	30000
+;
+
+param DurUpper:=
+1 0.51 
+2 4.0 
+3 6.0; 
+
+# Municipios selecionados que já possuem infraestrutura de nível 3
+set S3:=
+#	co_municipio	#	no_municipio	qtd_realizado
+	160030	#	MACAPA	529
+;
+
+# CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2018	CAP	MUNICIPIO
+param: I :	RE	ES	lat	lng	POP	INFR	Mun :=
+160005	1	16	0.90	-52.00	5306	0	'Serra_Do_Navio'
+160010	1	16	2.05	-50.79	9029	0	'Amapa'
+160015	1	16	0.78	-51.95	15931	0	'Pedra_Branca_Do_Amapari'
+160020	1	16	2.50	-50.94	10926	0	'Calcoene'
+160021	1	16	0.97	-50.80	5864	1	'Cutias'
+160023	1	16	0.85	-51.19	7591	0	'Ferreira_Gomes'
+160025	1	16	0.60	-50.70	5387	1	'Itaubal'
+160027	1	16	-0.86	-52.54	49446	0	'Laranjal_Do_Jari'
+160030	1	16	0.04	-51.06	493634	0	'Macapa'
+160040	1	16	-0.12	-51.29	21206	0	'Mazagao'
+160050	1	16	3.85	-51.83	26627	0	'Oiapoque'
+160053	1	16	0.71	-51.41	21484	0	'Porto_Grande'
+160055	1	16	1.74	-50.78	4993	1	'Pracuuba'
+160060	1	16	-0.04	-51.17	119610	0	'Santana'
+160070	1	16	1.51	-50.91	16855	0	'Tartarugalzinho'
+160080	1	16	-0.92	-52.42	15605	0	'Vitoria_Do_Jari'
+
+
+# 160005	1	16	0.90	-52.00	5306	0	'Serra_Do_Navio'
+# 160010	1	16	2.05	-50.79	9029	0	'Amapa'
+# 160015	1	16	0.78	-51.95	15931	0	'Pedra_Branca_Do_Amapari'
+# 160020	1	16	2.50	-50.94	10926	0	'Calcoene'
+# 160021	1	16	0.97	-50.80	5864	0	'Cutias'
+# 160023	1	16	0.85	-51.19	7591	0	'Ferreira_Gomes'
+# 160025	1	16	0.60	-50.70	5387	0	'Itaubal'
+# 160027	1	16	-0.86	-52.54	49446	0	'Laranjal_Do_Jari'
+# 160030	1	16	0.04	-51.06	493634	1	'Macapa'
+# 160040	1	16	-0.12	-51.29	21206	0	'Mazagao'
+# 160050	1	16	3.85	-51.83	26627	0	'Oiapoque'
+# 160053	1	16	0.71	-51.41	21484	0	'Porto_Grande'
+# 160055	1	16	1.74	-50.78	4993	0	'Pracuuba'
+# 160060	1	16	-0.04	-51.17	119610	0	'Santana'
+# 160070	1	16	1.51	-50.91	16855	0	'Tartarugalzinho'
+# 160080	1	16	-0.92	-52.42	15605	0	'Vitoria_Do_Jari'
+;
+
+end;
