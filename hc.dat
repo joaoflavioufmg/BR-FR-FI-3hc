@@ -22,11 +22,15 @@ param HC:=
 3	570
 ;
 
-# Infrastructure fixed Cost per level
+# Infrastructure fixed Cost per level: Overhead costs
+# include costs for office management, transport, training courses, 
+# supplies and utilities such as water, gas and electricity
+# https://www.pssru.ac.uk/project-pages/unit-costs/unit-costs-of-health-and-social-care-2021/
+# https://kar.kent.ac.uk/92342/
 param CI:= 
-1	1e5
-2	1e6
-3	1e7
+1	0.10    # Indirect overhead percentage of Health centres 
+2	0.12    # Indirect expenditure cost percentage of Health medical centres
+3	0.21    # Indirect expenditure cost percentage of Hospitals
 ;
 
 param DurLower:=

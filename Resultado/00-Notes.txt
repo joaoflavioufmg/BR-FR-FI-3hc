@@ -1,0 +1,38 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1231361481.82
+Primary   Care Cost:	    208623600.00
+Secondary Care Cost:	    674656056.00
+Tertiary  Care Cost:	    341685360.00
+Add Infrastruc Cost:	      4142539.20
+Populat Logist Cost:	       128800.22
+Populat ExtLog Cost:	      2125126.40
+HC Cost per capita (now):	     1409.20
+HC Cost per capita (fut):	     1416.55
+----------------------------------------
+
+-----------------------------------
+State population:	869265
+Max municipa pop:	401155
+Min municipa pop:	6362
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.40
+[3]			30000  		3.80
+-----------------------------------
+
+
+Demand met by level: (Estate has 22 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  22 mun >  19 mun (100.00% coverage)
+Care Level [2]:  19 mun >   6 mun
+Care Level [3]:   6 mun >   4 mun
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------
