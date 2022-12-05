@@ -91,15 +91,16 @@ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k] >> "Resultado/00-No
 printf "%-20s\t%16.2f\n", "Tertiary  Care Cost:", 
 sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l] >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Add Infrastruc Cost:", 
-sum{n in NA, j in J} CI[n]*INFR[j]*z[n,j] >> "Resultado/00-Notes.txt";
-printf "%-20s\t%16.2f\n", "Patient Logist Cost:", 
-sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*D[i,j]*POP[i]*x[n,i,j]
-+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*D[j,k]*POP[j]*x[n,j,k]
-+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*D[k,k]*POP[k]*x[n,k,l] >> "Resultado/00-Notes.txt";
-printf "%-20s\t%16.2f\n", "Logistics Pen. Cost:", 
-sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} P*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} P*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} P*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";
+# sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j] 
+sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
++ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
++ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
+>> "Resultado/00-Notes.txt";
+printf "%-20s\t%16.2f\n", "Populat ExtLog Cost:", 
+sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
++ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
++ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+>> "Resultado/00-Notes.txt";
 printf "%-25s\t%12.2f\n", "HC Cost per capita (now):", 
 (sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]+
 sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]+
@@ -129,6 +130,23 @@ printf{n in NA: n = 2}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J1, j 
 printf{n in NA: n = 3}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J2, j in N3[i]}x[n,i,j], sum{j in J3}z[n,j] >> "Resultado/00-Notes.txt";
 printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
+# CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+printf "\nMunicipalities requiring additional infrastructure:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=1 and INFR[j] = 1 and z[n,j] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",1, j, Mun[j], sum{i in I : j in N1[i]} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=2 and INFR[k] = 1 and z[n,k] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",2, k, Mun[k], sum{j in J1: k in N2[j]} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, l in J3: n=3 and INFR[l] = 1 and z[n,l] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",3, l, Mun[l], sum{k in J2: l in N3[k]} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+
+printf "\nMunicipalities (origin) for logistics investiment:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, i in I : n=1 and sum{j in J1: i <> j} ex[n,i,j] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], sum{j in N1[i]} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=2 and sum{k in J2: j <> k} ex[n,j,k] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",2, j, Mun[j], sum{k in N2[j]} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=3 and sum{l in J3: k <> l} ex[n,k,l] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",3, k, Mun[k], sum{l in N3[k]} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+
 printf "\nMunicipalities requiring a custom solution:\n" >> "Resultado/00-Notes.txt";
 printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCLOSEST(h)\n" >> "Resultado/00-Notes.txt";
@@ -146,9 +164,9 @@ param POPN3{n in NA,l in J3: n=3} := sum{k in J2: l in N3[k]}POPN2[n-1,k]*x[n,k,
 check: sum{n in NA, j in J1:n=1}POPN1[n,j] = sum{n in NA, l in J3:n=3}POPN3[n,l];
 check: sum{n in NA, k in J2:n=2}POPN2[n,k] = sum{n in NA, l in J3:n=3}POPN3[n,l]; */
 
-/* display POPN1;
-display POPN2;
-display POPN3; */
+# display POPN1;
+# display POPN2;
+# display POPN3; 
 
 
 /* printf "\nNivel 1: Atribuicao municipio x CEM (Tipo 1)\n";

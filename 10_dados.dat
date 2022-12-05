@@ -23,9 +23,9 @@ param Distmax:=
 3 120; # + 60
 
 param DurUpper:=
-1 0.71 
-2 13.0 
-3 24.0; 
+1 0.51 
+2 1.0 
+3 2.0; 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 # set S3:=

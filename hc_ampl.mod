@@ -247,21 +247,23 @@ param HC{n in NA}, >= 0;
 # param DurUpper2 := max{j in J1, k in N2[j]}D[j,k];
 # param DurUpper3 := max{k in J2, l in N3[k]}D[k,l];
 
-# display DurUpper1;
-# display DurUpper2;
-# display DurUpper3;
-
-param f1{i in I , j in N1[i]}:= if (D[i,j] <= DurLower[1]) then 0 else (DurUpper[1]-D[i,j])/(DurUpper[1]-DurLower[1]);
-param f2{j in J1, k in N2[j]}:= if (D[j,k] <= DurLower[2]) then 0 else (DurUpper[2]-D[j,k])/(DurUpper[2]-DurLower[2]);
-param f3{k in J2, l in N3[k]}:= if (D[k,l] <= DurLower[3]) then 0 else (DurUpper[3]-D[k,l])/(DurUpper[3]-DurLower[3]);
+# f function increases accessibility costs as patients travel increases
+# f = 0 if D <= DurLower
+# f = 1% up to 100% if travel distance increases <= DurUpper
+param f1{i in I , j in N1[i]}:= if (D[i,j] <= DurLower[1]) then 0 else (D[i,j]-DurLower[1])/(DurUpper[1]-DurLower[1]);
+param f2{j in J1, k in N2[j]}:= if (D[j,k] <= DurLower[2]) then 0 else (D[j,k]-DurLower[2])/(DurUpper[2]-DurLower[2]);
+param f3{k in J2, l in N3[k]}:= if (D[k,l] <= DurLower[3]) then 0 else (D[k,l]-DurLower[3])/(DurUpper[3]-DurLower[3]);
 check{i in I , j in N1[i]}: f1[i,j] <=1;
 check{j in J1, k in N2[j]}: f2[j,k] <=1;
 check{k in J2, l in N3[k]}: f3[k,l] <=1;
 
-# Penalty as a logistic cost infrastructure / km.inhabitant
+# Penalty as a logistic cost infrastructure / h.inhabitant
 # out of the radious threshold
-param P:=1e1; 
+# Brazil	85.75		#	https://databank.worldbank.org/source/icp-2017
+# Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
+# France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
 
+param P:=85.75; 
 # ==================================================
 # Variaveis
 # ==================================================
@@ -280,19 +282,19 @@ var z{n in NA, j in J} binary;
 # Formulacao
 # ==================================================
 
-minimize of: sum{n in NA, j in J} CI[n]*INFR[j]*z[n,j] 
+minimize of: # sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+	  sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
 # Total cost of the health care system (assigning origin population)
 	+ sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]
 	+ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]
 	+ sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l]
-# Effectiveness: Displacement accessibility Cost on all three leves of care
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*D[i,j]*POP[i]*x[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*D[j,k]*POP[j]*x[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*D[k,k]*POP[k]*x[n,k,l]
-# Penalties (logistic Cost / km.pop)
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} P*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} P*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} P*POP[k]*ex[n,k,l];
+# Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+;
 
 
 # Cada Municipio segue uma unica trajetoria.

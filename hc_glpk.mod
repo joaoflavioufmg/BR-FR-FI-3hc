@@ -257,10 +257,13 @@ check{i in I , j in N1[i]}: f1[i,j] <=1;
 check{j in J1, k in N2[j]}: f2[j,k] <=1;
 check{k in J2, l in N3[k]}: f3[k,l] <=1;
 
-# Penalty as a logistic cost infrastructure / km.inhabitant
+# Penalty as a logistic cost infrastructure / h.inhabitant
 # out of the radious threshold
-param P:=1e1; 
+# Brazil	85.75		#	https://databank.worldbank.org/source/icp-2017
+# Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
+# France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
 
+param P:=85.75; 
 # ==================================================
 # Variaveis
 # ==================================================
@@ -279,19 +282,19 @@ var z{n in NA, j in J} binary;
 # Formulacao
 # ==================================================
 
-minimize of: sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j] 
+minimize of: # sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+	  sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
 # Total cost of the health care system (assigning origin population)
 	+ sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]
 	+ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]
 	+ sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l]
-# Effectiveness: Displacement accessibility Cost on all three leves of care
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*D[i,j]*POP[i]*x[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*D[j,k]*POP[j]*x[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*D[k,k]*POP[k]*x[n,k,l]
-# Penalties (logistic Cost / km.pop)
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} P*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} P*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} P*POP[k]*ex[n,k,l];
+# Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+;
 
 
 # Cada Municipio segue uma unica trajetoria.
@@ -422,15 +425,16 @@ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k] >> "Resultado/00-No
 printf "%-20s\t%16.2f\n", "Tertiary  Care Cost:", 
 sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l] >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Add Infrastruc Cost:", 
-sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j] >> "Resultado/00-Notes.txt";
-printf "%-20s\t%16.2f\n", "Populat Logist Cost:", 
-sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*D[i,j]*POP[i]*x[n,i,j]
-+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*D[j,k]*POP[j]*x[n,j,k]
-+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*D[k,k]*POP[k]*x[n,k,l] >> "Resultado/00-Notes.txt";
+# sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j] 
+sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
++ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
++ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
+>> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Populat ExtLog Cost:", 
-sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} P*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} P*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} P*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";
+sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
++ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
++ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+>> "Resultado/00-Notes.txt";
 printf "%-25s\t%12.2f\n", "HC Cost per capita (now):", 
 (sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]+
 sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]+
@@ -458,6 +462,23 @@ printf{n in NA: n = 1} "Care Level [%d]: %3d mun > %3d mun (%.2f%% coverage)\n",
 100*(sum{i in I, j in N1[i]}x[n,i,j])/card(I)>> "Resultado/00-Notes.txt";
 printf{n in NA: n = 2}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J1, j in N2[i]}x[n,i,j], sum{j in J2}z[n,j] >> "Resultado/00-Notes.txt";
 printf{n in NA: n = 3}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J2, j in N3[i]}x[n,i,j], sum{j in J3}z[n,j] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+
+# CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+printf "\nMunicipalities requiring additional infrastructure:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=1 and INFR[j] = 1 and z[n,j] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",1, j, Mun[j], sum{i in I : j in N1[i]} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=2 and INFR[k] = 1 and z[n,k] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",2, k, Mun[k], sum{j in J1: k in N2[j]} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, l in J3: n=3 and INFR[l] = 1 and z[n,l] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",3, l, Mun[l], sum{k in J2: l in N3[k]} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+
+printf "\nMunicipalities (origin) for logistics investiment:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, i in I : n=1 and sum{j in J1: i <> j} ex[n,i,j] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], sum{j in N1[i]} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=2 and sum{k in J2: j <> k} ex[n,j,k] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",2, j, Mun[j], sum{k in N2[j]} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=3 and sum{l in J3: k <> l} ex[n,k,l] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",3, k, Mun[k], sum{l in N3[k]} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";
 printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
 printf "\nMunicipalities requiring a custom solution:\n" >> "Resultado/00-Notes.txt";

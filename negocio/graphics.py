@@ -195,7 +195,9 @@ def demand_meet_graphics(file_name, level, state):
 
     
     # Ask Bokeh to show() or save() the results.
-    show(p)  # COMENTAR PARA GERAR RELATORIOS APENAS
+    # ################################################
+    # show(p)  # COMENTAR PARA GERAR RELATORIOS APENAS
+    # ################################################
 
     # Muda para Diretorio um nivel superior
     os.chdir('..')
