@@ -226,10 +226,10 @@ param Q{i in I,n in NA,e in E} := round((DEM[n,e]*POP[i])/1000,4);
 
 # Quantidade minima de demanda medica (FTE) no destino
 # Numero minimo de medicos a serem alocados em cada cidade destino
-param Qmin{n in NA, e in E} default 0;
+# param Qmin{n in NA, e in E} default 0;
 
 # Numero estimado de FTE por nível e especialidade
-param QE{n in NA, e in E} default 0;
+# param QE{n in NA, e in E} default 0;
 
 # Infrastructure fixed Cost per level
 param CI{n in NA};
@@ -317,20 +317,19 @@ s.t. R1a{n in NA, i in I diff (EX3 union EX2 union EX1): n=1}: sum{j in N1[i]} x
 s.t. R2{n in NA, i in I, j in N1[i]: (i,j) in K and n=1}: x[n,i,j] <= z[n,j];
 s.t. R3{n in NA, j in J1, k in N2[j]: (j,k) in K and n=2}: x[n,j,k] <= z[n,k];
 s.t. R4{n in NA, k in J2, l in N3[k]: (k,l) in K and n=3}: x[n,k,l] <= z[n,l];
+
 s.t. R5{n in NA, j in J1 diff (EX2 union EX1): n=2}: sum{k in N2[j]} x[n,j,k] = z[n-1,j];
 s.t. R6{n in NA, k in J2 diff (EX3 union EX2): n=3}: sum{l in N3[k]} x[n,k,l] = z[n-1,k];
 # s.t. R5{n in NA, j in J1: n=2}: sum{k in N2[j]} x[n,j,k] = z[n-1,j];
 # s.t. R6{n in NA, k in J2: n=3}: sum{l in N3[k]} x[n,k,l] = z[n-1,k];
 
 # Garante que a damanda da cidade com a unidade de saúde seja atendida por ela mesma
-
 /* s.t. R7{n in NA, i in J}: x[n,i,i] = z[n,i] ; */
 s.t. R7a{n in NA, i in J1, j in N1[i]: n=1 and i in NAE[n,j] and i=j}: x[n,i,j] = z[n,j];
 s.t. R7b{n in NA, j in J2, k in N2[j]: n=2 and j in NAE[n,k] and j=k}: x[n,j,k] = z[n,k];
 s.t. R7c{n in NA, k in J3, l in N3[k]: n=3 and k in NAE[n,l] and k=l}: x[n,k,l] = z[n,l];
 
 # Garante que sempre que a unidade de saúde possa atender niveis superiores, o mesmo vale para os niveis inferiores.
-
 s.t. R8{n in NA, j in J: n > 1}: z[n,j] <= z[n-1,j];
 
 # Nao eh necessario: R22 eh mais flexivel
@@ -386,9 +385,12 @@ s.t. R18{n in NA, k in J2, l in N3[k]: n=3 and k <> l}: D[k,l]*x[n,k,l] <= DurLo
 # s.t. R17u{n in NA, j in J1, k in N2[j]: n=2}: D[j,k]*x[n,j,k] <= DurUpper[n];
 # s.t. R18u{n in NA, k in J2, l in N3[k]: n=3}: D[k,l]*x[n,k,l] <= DurUpper[n];
 
+# For tree design
 s.t. R19{n in NA: n=1}: sum{j in J1} z[n,j] <= card(I) - 1;
 s.t. R20{n in NA: n=2}: sum{k in J2} z[n,k] <= sum{j in J1}z[n-1,j] - 1;
 s.t. R21{n in NA: n=3}: sum{l in J3} z[n,l] <= sum{k in J2}z[n-1,k] - 1;
+
+# Municipalities with reference centres for health care 
 s.t. R22{n in NA, j in S3: n=3}: z[n,j] >= 1;
 
 # /*
