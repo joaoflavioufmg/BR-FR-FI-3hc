@@ -133,7 +133,7 @@ printf "%s\n", "----------------------------------------------------------------
 # CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
 printf "\nMunicipalities requiring additional infrastructure:\n" >> "Resultado/00-Notes.txt";
 printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
-printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
 printf{n in NA, j in J1: n=1 and INFR[j] = 1 and z[n,j] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",1, j, Mun[j], sum{i in I : j in N1[i]} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j] >> "Resultado/00-Notes.txt";
 printf{n in NA, k in J2: n=2 and INFR[k] = 1 and z[n,k] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",2, k, Mun[k], sum{j in J1: k in N2[j]} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k] >> "Resultado/00-Notes.txt";
 printf{n in NA, l in J3: n=3 and INFR[l] = 1 and z[n,l] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",3, l, Mun[l], sum{k in J2: l in N3[k]} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l] >> "Resultado/00-Notes.txt";
@@ -141,7 +141,7 @@ printf "%s\n", "----------------------------------------------------------------
 
 printf "\nMunicipalities (origin) for logistics investiment:\n" >> "Resultado/00-Notes.txt";
 printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
-printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
 printf{n in NA, i in I : n=1 and sum{j in J1: i <> j} ex[n,i,j] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], sum{j in N1[i]} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j] >> "Resultado/00-Notes.txt";
 printf{n in NA, j in J1: n=2 and sum{k in J2: j <> k} ex[n,j,k] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",2, j, Mun[j], sum{k in N2[j]} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k] >> "Resultado/00-Notes.txt";
 printf{n in NA, k in J2: n=3 and sum{l in J3: k <> l} ex[n,k,l] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",3, k, Mun[k], sum{l in N3[k]} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";

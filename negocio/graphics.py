@@ -79,7 +79,7 @@ def make_flow_maps(level):
                          src_lon='lon_departure',
                          dest_lat='lat_arrival',
                          dest_lon='lon_arrival',
-                         color='Reds',
+                         color='hot_r',
                          alpha=200,
                          linewidth=6)
     else:
@@ -105,7 +105,102 @@ def make_flow_maps(level):
 
     # different bandwidths
     # geoplotlib.kde(kernel_data, bw=20, cmap='PuBuGn', cut_below=1e-4)
-    geoplotlib.kde(kernel_data, bw=10, cmap='PuBuGn', cut_below=1e-4)
+    # KERNEL
+    # geoplotlib.kde(kernel_data, bw=10, cmap='PuBuGn', cut_below=1e-4)
+    # geoplotlib.kde(kernel_data, bw=2, cmap='PuBuGn', cut_below=1e-4)
+
+    # linear colorscale
+    # geoplotlib.kde(kernel_data, bw=5, cmap='jet', cut_below=1e-4, scaling='lin')
+
+    # https://boundingbox.klokantech.com/
+    bbox = BoundingBox(west=-75.2, south=-36.2, east=-33.9, north=5.3)
+    geoplotlib.set_bbox(bbox)
+
+    # Keyboard controls
+    # P: a screenshot named and saved in current working directory
+    # M: toggle base tiles map rendering
+    # L: toggle layers rendering
+    # I/O: zoom in/out
+    # A/D: pan left/right
+    # W/S: pan up/down
+
+    # # COMENTAR PARA GERAR RELATORIOS APENAS
+    # # ################################################################
+    # geoplotlib.show()
+    # # ################################################################
+
+def make_all_flow_maps():
+    largura = 1900  # Configuração geral para os três mapas em camadas
+    altura = 1050    # Configuração geral para os três mapas em camadas
+    pontos_1 = read_csv('Nivel_1.csv')    
+    pontos_2 = read_csv('Nivel_2.csv')    
+    pontos_3 = read_csv('Nivel_3.csv')    
+    geoplotlib.dot(pontos_1, color='b', point_size= 1,\
+                    f_tooltip=lambda r:r['name'])    
+    geoplotlib.dot(pontos_2, color='g', point_size= 2,\
+                    f_tooltip=lambda r:r['name'])
+    geoplotlib.dot(pontos_3, color='r', point_size= 4,\
+                    f_tooltip=lambda r:r['name'])
+    # Configura_janela(largura,altura)
+    geoplotlib.set_window_size(largura,altura)
+    # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
+    geoplotlib.tiles_provider('positron')
+    # geoplotlib.show()
+
+    fluxo_1 = read_csv('fluxo_Nivel_1.csv')
+    fluxo_2 = read_csv('fluxo_Nivel_2.csv')
+    fluxo_3 = read_csv('fluxo_Nivel_3.csv')        
+
+    geoplotlib.graph(fluxo_1,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        color='Blues',
+                        alpha=200,
+                        linewidth=1)
+    
+    geoplotlib.graph(fluxo_2,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        color='Greens',
+                        alpha=200,
+                        linewidth=2)
+
+    geoplotlib.graph(fluxo_3,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        color='Reds', # hot_r
+                        alpha=200,
+                        linewidth=3)
+
+    # Configura_janela(largura,altura)
+    geoplotlib.set_window_size(largura,altura)
+    # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
+    geoplotlib.tiles_provider('positron')
+    # geoplotlib.show()
+
+    # kernel density estimation visualization
+
+    # kernel_data = read_csv('kernel_' + level + '.csv')
+    # Configura_janela(largura,altura)
+    # geoplotlib.set_window_size(largura,altura)
+    # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
+    # geoplotlib.tiles_provider('positron')
+
+    # geoplotlib.kde(kernel_data, bw=5, cut_below=1e-4)
+
+    # lowering clip_above changes the max value in the color scale
+    # geoplotlib.kde(kernel_data, bw=5, cut_below=1e-4, clip_above=.1)
+
+    # different bandwidths
+    # geoplotlib.kde(kernel_data, bw=20, cmap='PuBuGn', cut_below=1e-4)
+    # KERNEL
+    # geoplotlib.kde(kernel_data, bw=10, cmap='PuBuGn', cut_below=1e-4)
     # geoplotlib.kde(kernel_data, bw=2, cmap='PuBuGn', cut_below=1e-4)
 
     # linear colorscale
@@ -124,7 +219,6 @@ def make_flow_maps(level):
     # W/S: pan up/down
 
     geoplotlib.show()
-
 
 def demand_meet_graphics(file_name, level, state):
     # global maps_folder
@@ -195,9 +289,9 @@ def demand_meet_graphics(file_name, level, state):
 
     
     # Ask Bokeh to show() or save() the results.
-    # ################################################
-    # show(p)  # COMENTAR PARA GERAR RELATORIOS APENAS
-    # ################################################
+    # #################################################
+    # show(p)  # AO COMENTAR NAO GERA GRAFICOS DE BARRA
+    # #################################################
 
     # Muda para Diretorio um nivel superior
     os.chdir('..')

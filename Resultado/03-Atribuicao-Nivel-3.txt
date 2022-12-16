@@ -1,7 +1,12 @@
 CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
-120020,Cruzeiro_Do_Sul,120020,Cruzeiro_Do_Sul,0.00
-120039,Porto_Walter,120020,Cruzeiro_Do_Sul,1.16
-120030,Feijo,120030,Feijo,0.00
-120034,Manoel_Urbano,120030,Feijo,2.51
-120040,Rio_Branco,120040,Rio_Branco,0.00
-120070,Xapuri,120040,Rio_Branco,3.34
+170210,Araguaina,170210,Araguaina,0.00
+170900,Goiatins,170210,Araguaina,3.70
+171488,Nova_Olinda,170210,Araguaina,0.95
+170220,Araguatins,170220,Araguatins,0.00
+171610,Paraiso_Do_Tocantins,171610,Paraiso_Do_Tocantins,0.00
+171650,Pedro_Afonso,171610,Paraiso_Do_Tocantins,3.10
+170700,Dianopolis,171820,Porto_Nacional,4.40
+170820,Formoso_Do_Araguaia,171820,Porto_Nacional,3.62
+171620,Parana,171820,Porto_Nacional,4.75
+171820,Porto_Nacional,171820,Porto_Nacional,0.00
+172100,Palmas,172100,Palmas,0.00

@@ -14,6 +14,7 @@ import scipy.stats  # Estatísticas
 # podendo serem usadas entre os módulos que as necessitam
 from negocio import config
 from negocio.graphics import make_flow_maps
+from negocio.graphics import make_all_flow_maps
 from utils.states_info import states_mun,load_municipalities,states_pop
 
 class OriDestAssignment:
@@ -307,7 +308,7 @@ class OriDestAssignment:
 
         # # COMENTAR PARA GERAR RELATORIOS APENAS
         # # ################################################################
-        # make_flow_maps(self.level)  # Gera o mapa após as estatísticas
+        # make_flow_maps(self.level)  # Gera o mapa após as estatísticas        
         # # ################################################################
 
         # Muda para Diretorio um nivel superior
@@ -315,3 +316,11 @@ class OriDestAssignment:
 
         # Diretório atual: Retorna ao diretório atual
         # print('>>> Local atual:', pathlib.Path().absolute())
+
+        # Verifica o nome do arquivo passado no parâmetro do objeto
+        if os.path.isfile(self.maps_folder + 'kernel_Nivel_3.csv') == True:
+            # raise ValueError("Arquivo não encontrado.")
+            os.chdir(self.maps_folder)
+            make_all_flow_maps()  # Gera o mapa após as estatísticas
+            # Muda para Diretorio um nivel superior
+            os.chdir("..")
