@@ -1,0 +1,75 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1346702063.37
+Primary   Care Cost:	    225010800.00
+Secondary Care Cost:	    727650540.00
+Tertiary  Care Cost:	    346490460.00
+Add Infrastruc Cost:	     13828367.04
+Populat ExtLog Cost:	     33721896.33
+HC Cost per capita (now):	     1385.70
+HC Cost per capita (fut):	     1436.41
+----------------------------------------
+
+-----------------------------------
+State population:	937545
+Max municipa pop:	432665
+Min municipa pop:	6862
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.40
+[3]			30000  		3.80
+-----------------------------------
+
+
+Demand met by level: (Estate has 22 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  22 mun >  19 mun (100.00% coverage)
+Care Level [2]:  19 mun >   6 mun
+Care Level [3]:   6 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	120001	Acrelandia               :	388800.00
+    1	120005	Assis_Brasil             :	188952.00
+    1	120017	Capixaba                 :	296544.00
+    1	120025	Epitaciolandia           :	1138152.00
+    1	120032	Jordao                   :	211200.00
+    1	120034	Manoel_Urbano            :	241656.00
+    1	120035	Marechal_Thaumaturgo     :	477072.00
+    1	120039	Porto_Walter             :	303384.00
+    1	120043	Santa_Rosa_Do_Purus      :	164688.00
+    1	120080	Porto_Acre               :	470592.00
+    2	120034	Manoel_Urbano            :	5841871.20
+    2	120039	Porto_Walter             :	4105455.84
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	120001	Acrelandia               :	2776304.74
+    2	120005	Assis_Brasil             :	2487451.11
+    2	120017	Capixaba                 :	977450.46
+    2	120025	Epitaciolandia           :	134935.22
+    2	120032	Jordao                   :	2443645.80
+    2	120033	Mancio_Lima              :	25402.58
+    2	120035	Marechal_Thaumaturgo     :	588036.18
+    2	120038	Placido_De_Castro        :	3546613.14
+    2	120043	Santa_Rosa_Do_Purus      :	2416514.15
+    2	120045	Senador_Guiomard         :	11821.65
+    2	120050	Sena_Madureira           :	3757955.08
+    2	120060	Tarauaca                 :	147113.42
+    2	120080	Porto_Acre               :	1125983.50
+    3	120034	Manoel_Urbano            :	1764777.89
+    3	120039	Porto_Walter             :	11496.23
+    3	120070	Xapuri                   :	11506395.18
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

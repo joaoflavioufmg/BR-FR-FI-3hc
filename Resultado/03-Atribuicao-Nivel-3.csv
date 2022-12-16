@@ -1,0 +1,7 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+120020,Cruzeiro_Do_Sul,120020,Cruzeiro_Do_Sul,0.00,3
+120039,Porto_Walter,120020,Cruzeiro_Do_Sul,1.16,3
+120030,Feijo,120030,Feijo,0.00,3
+120034,Manoel_Urbano,120030,Feijo,2.51,3
+120040,Rio_Branco,120040,Rio_Branco,0.00,3
+120070,Xapuri,120040,Rio_Branco,3.34,3

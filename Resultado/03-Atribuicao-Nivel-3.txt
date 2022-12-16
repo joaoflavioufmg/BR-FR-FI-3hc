@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+120020,Cruzeiro_Do_Sul,120020,Cruzeiro_Do_Sul,0.00
+120039,Porto_Walter,120020,Cruzeiro_Do_Sul,1.16
+120030,Feijo,120030,Feijo,0.00
+120034,Manoel_Urbano,120030,Feijo,2.51
+120040,Rio_Branco,120040,Rio_Branco,0.00
+120070,Xapuri,120040,Rio_Branco,3.34
