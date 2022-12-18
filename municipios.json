@@ -9834,8 +9834,8 @@
 	{
 		"codigo_ibge" : 4105201,
 		"nome" : "Cerro Azul",
-		"latitude" : -26.0891,
-		"longitude" : -52.8691,
+		"latitude" : -24.802167,
+		"longitude" : -49.256154,
 		"capital" : false,
 		"codigo_uf" : 41
 	},
@@ -21664,7 +21664,7 @@
 		"codigo_uf" : 24
 	},
 	{
-		"codigo_ibge" : 2918803,
+		"codigo_ibge" : 2918753, 
 		"nome" : "Lagoa Real",
 		"latitude" : -14.0334,
 		"longitude" : -42.1328,
@@ -21752,7 +21752,7 @@
 		"codigo_uf" : 50
 	},
 	{
-		"codigo_ibge" : 2918902,
+		"codigo_ibge" : 2918803, 
 		"nome" : "Laje",
 		"latitude" : -13.1673,
 		"longitude" : -39.4213,
@@ -21808,16 +21808,16 @@
 		"codigo_uf" : 21
 	},
 	{
-		"codigo_ibge" : 2919009,
+		"codigo_ibge" : 2918902,
 		"nome" : "Lajedão",
-		"latitude" : -17.6056,
-		"longitude" : -40.3383,
+		"latitude" : -17.611838,
+		"longitude" : -40.345581,
 		"capital" : false,
 		"codigo_uf" : 29
 	},
 	{
-		"codigo_ibge" : 2919058,
-		"nome" : "Lajedinho",
+		"codigo_ibge" : 2919009,
+ 		"nome" : "Lajedinho",
 		"latitude" : -12.3529,
 		"longitude" : -40.9048,
 		"capital" : false,
@@ -21832,7 +21832,7 @@
 		"codigo_uf" : 26
 	},
 	{
-		"codigo_ibge" : 2918753,
+		"codigo_ibge" : 2919058, 
 		"nome" : "Lajedo do Tabocal",
 		"latitude" : -13.4663,
 		"longitude" : -40.2204,
@@ -41522,8 +41522,8 @@
 	{
 		"codigo_ibge" : 2931350,
 		"nome" : "Teixeira de Freitas",
-		"latitude" : -17.5399,
-		"longitude" : -39.74,
+		"latitude" : -17.522559,  
+		"longitude" : -39.741341,
 		"capital" : false,
 		"codigo_uf" : 29
 	},

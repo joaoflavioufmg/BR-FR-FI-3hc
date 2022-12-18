@@ -15,6 +15,7 @@ import scipy.stats  # Estatísticas
 from negocio import config
 from negocio.graphics import make_flow_maps
 from negocio.graphics import make_all_flow_maps
+from negocio.graphics import make_br_flow_map
 from utils.states_info import states_mun,load_municipalities,states_pop
 
 class OriDestAssignment:
@@ -23,6 +24,7 @@ class OriDestAssignment:
         # global maps_folder
         self.result_folder = config.result_folder
         self.maps_folder = config.maps_folder
+        self.map_br_folder = config.map_br_folder
         self.file_name = file_name
         self.level = level
         self.state_mun = states_mun(state_mun)
@@ -51,6 +53,7 @@ class OriDestAssignment:
 
             patient_dist = []
             patient_orig = []
+            patient_dest = []
             patient_flow = []
 
             for line in file.readlines():
@@ -59,7 +62,8 @@ class OriDestAssignment:
                 items = line.rstrip().split(",")
                 orig = {items[0]:items[1]}
                 dest = {items[2]:items[3]}
-                dist = int(float(items[4]))
+                # dist = int(float(items[4]))
+                dist = float(items[4])
                 path = [orig, dest, dist]
                 patient_dist.append(dist)
                 # print(items)
@@ -69,12 +73,19 @@ class OriDestAssignment:
 
                 # Visualização da estrutura do arquivo a ser gerado
                 pat_orig = []
+                pat_dest = []
                 for mun_dic in mun_list_dic:
                     if str(mun_dic['codigo_ibge'])[:-1] == items[0]:
                         pat_orig = [mun_dic['nome'], mun_dic['latitude'],\
                                         mun_dic['longitude']]
                         patient_orig.append(pat_orig)
-                        # print(pat_orig)
+                    if str(mun_dic['codigo_ibge'])[:-1] == items[2]:
+                        pat_dest = [mun_dic['nome'], mun_dic['latitude'],\
+                                        mun_dic['longitude']] 
+                        if pat_dest not in patient_dest: 
+                            patient_dest.append(pat_dest)                       
+                
+                # print(patient_dest)
             # print(patient_orig)
                         # print(mun_dic['nome'],",", \
                         # mun_dic['latitude'], ",",
@@ -161,6 +172,21 @@ class OriDestAssignment:
                 print('',file = file_out)
                 for item in patient_orig[lista]:
                     print(item, end = ',', file = file_out)
+        
+        if self.level == "Nivel_3":
+            # Abrir arquivo de destino para escerver 'w' - write
+            with open('Nivel_4.csv', 'w') as file_out:
+                print('{0:s},{1:s},{2:s}'
+                    .format('name','lat','lon'), end='', file = file_out)
+
+            # Abrir arquivo anterior para adicionar texto 'a' - append
+            with open('Nivel_4.csv', 'a') as file_out:
+                for lista in range(len(patient_dest)):
+                    print('',file = file_out)
+                    for item in patient_dest[lista]:
+                        print(item, end = ',', file = file_out)
+
+            
 
         # Para teste: Vericação de arquivo (de escrita) fechado
         # if file_out.closed: print('Ok! Arquivo de saída fechado')
@@ -324,3 +350,15 @@ class OriDestAssignment:
             make_all_flow_maps()  # Gera o mapa após as estatísticas
             # Muda para Diretorio um nivel superior
             os.chdir("..")
+        
+
+            # MAPA DO BRASIL
+            if os.path.isfile(self.map_br_folder + 'BR_Nivel_3.csv') == True:
+                # raise ValueError("Arquivo não encontrado.")
+                os.chdir(self.map_br_folder)
+                # # RETIRAR COMENTARIO PARA GERAR UM MAPA GERAL
+                # # ################################################################
+                make_br_flow_map()  # Gera o mapa após as estatísticas
+                # # ################################################################
+                # Muda para Diretorio um nivel superior
+                os.chdir("..")

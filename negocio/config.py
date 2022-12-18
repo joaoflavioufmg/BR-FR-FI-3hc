@@ -6,7 +6,7 @@
 # optimizer = "GLPK"
 optimizer = "AMPL"
 ############################################################
-state = "TO"
+state = "AC"
 ############################################################
 # "AC", "AL", "AM", "AP", "BA", "CE", "ES", "GO", "MA",
 # "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ",
@@ -22,6 +22,7 @@ state = "TO"
 
 result_folder = './Resultado/'    # <<< Não alterar!!!
 maps_folder = './Mapas/'
+map_br_folder = './MapaBr/'
 
 # Variável 'Erro_de_otimizacao' tem escopo global
 # Para ser alterada dentro de funções, as variáveis precisam

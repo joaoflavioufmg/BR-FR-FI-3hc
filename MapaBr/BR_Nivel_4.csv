@@ -1,0 +1,306 @@
+name,lat,lon
+Cruzeiro do Sul,-7.62762,-72.6756
+Feijó,-8.17054,-70.351
+Rio Branco,-9.97499,-67.8243
+Arapiraca,-9.75487,-36.6615
+Maceió,-9.66599,-35.735
+São José da Tapera,-9.55768,-37.3831
+Autazes,-3.58574,-59.1256
+Barreirinha,-2.79886,-57.0679
+Boca do Acre,-8.74232,-67.3919
+Borba,-4.39154,-59.5874
+Carauari,-4.88161,-66.9086
+Coari,-4.09412,-63.1441
+Codajás,-3.83053,-62.0658
+Eirunepé,-6.65677,-69.8662
+Humaitá,-7.51171,-63.0327
+Ipixuna,-7.04791,-71.6934
+Itacoatiara,-3.13861,-58.4449
+Lábrea,-7.26413,-64.7948
+Manaquiri,-3.44078,-60.4612
+Manaus,-3.11866,-60.0212
+Manicoré,-5.80462,-61.2895
+Maués,-3.39289,-57.7067
+Nova Olinda do Norte,-3.90037,-59.094
+Parintins,-2.63741,-56.729
+São Gabriel da Cachoeira,-0.11909,-67.084
+São Paulo de Olivença,-3.47292,-68.9646
+Tabatinga,-4.2416,-69.9383
+Tefé,-3.36822,-64.7193
+Laranjal do Jari,-0.804911,-52.453
+Macapá,0.034934,-51.0694
+Barra,-11.0859,-43.1459
+Barreiras,-12.1439,-44.9968
+Caetité,-14.0684,-42.4861
+Campo Alegre de Lourdes,-9.52221,-43.0126
+Cansanção,-10.6647,-39.4944
+Feira de Santana,-12.2664,-38.9663
+Ilhéus,-14.793,-39.046
+Itabuna,-14.7876,-39.2781
+Juazeiro,-9.41622,-40.5033
+Morro do Chapéu,-11.5488,-41.1565
+Olindina,-11.3497,-38.3379
+Paratinga,-12.687,-43.1798
+Pilão Arcado,-10.0051,-42.4936
+Salvador,-12.9718,-38.5011
+Sento Sé,-9.74138,-41.8786
+Teixeira de Freitas,-17.522559,-39.741341
+Vitória da Conquista,-14.8615,-40.8442
+Fortaleza,-3.71664,-38.5423
+Milagres,-7.29749,-38.9378
+Parambu,-6.20768,-40.6905
+Quixadá,-4.9663,-39.0155
+Sobral,-3.68913,-40.3482
+Barra de São Francisco,-18.7548,-40.8965
+Cachoeiro de Itapemirim,-20.8462,-41.1198
+Colatina,-19.5493,-40.6269
+Conceição da Barra,-18.5883,-39.7362
+Guaçuí,-20.7668,-41.6734
+Linhares,-19.3946,-40.0643
+Vila Velha,-20.3417,-40.2875
+Vitória,-20.3155,-40.3128
+Anápolis,-16.3281,-48.953
+Catalão,-18.1656,-47.944
+Goiânia,-16.6864,-49.2643
+Jataí,-17.8784,-51.7204
+Porangatu,-13.4391,-49.1503
+Posse,-14.0859,-46.3704
+Rio Verde,-17.7923,-50.9192
+Brasília,-15.7795,-47.9297
+Arame,-4.88347,-46.0032
+Arari,-3.45214,-44.7665
+Balsas,-7.53214,-46.0372
+Bom Jesus das Selvas,-4.47638,-46.8641
+Brejo,-3.67796,-42.7527
+Colinas,-6.03199,-44.2543
+Estreito,-6.56077,-47.4431
+Parnarama,-5.67365,-43.1011
+São Luís,-2.53874,-44.2825
+Turiaçu,-1.65893,-45.3798
+Vitorino Freire,-4.28184,-45.2505
+Almenara,-16.1785,-40.6942
+Barbacena,-21.2214,-43.7703
+Belo Horizonte,-19.9102,-43.9266
+Buritizeiro,-17.3656,-44.9606
+Contagem,-19.9321,-44.0539
+Coromandel,-18.4734,-47.1933
+Diamantina,-18.2413,-43.6031
+Divinópolis,-20.1446,-44.8912
+Governador Valadares,-18.8545,-41.9555
+Ipatinga,-19.4703,-42.5476
+Itajubá,-22.4225,-45.4598
+Iturama,-19.7276,-50.1966
+João Pinheiro,-17.7398,-46.1715
+Juiz de Fora,-21.7595,-43.3398
+Lavras,-21.248,-45.0009
+Montes Claros,-16.7282,-43.8578
+Muriaé,-21.13,-42.3693
+Passos,-20.7193,-46.609
+Poços de Caldas,-21.78,-46.5692
+Ponte Nova,-20.4111,-42.8978
+Pouso Alegre,-22.2266,-45.9389
+São Sebastião do Paraíso,-20.9167,-46.9837
+Sete Lagoas,-19.4569,-44.2413
+Taiobeiras,-15.8106,-42.2259
+Teófilo Otoni,-17.8595,-41.5087
+Uberaba,-19.7472,-47.9381
+Uberlândia,-18.9141,-48.2749
+Unaí,-16.3592,-46.9022
+Varginha,-21.5556,-45.4364
+Aquidauana,-20.4666,-55.7868
+Campo Grande,-20.4486,-54.6295
+Coxim,-18.5013,-54.751
+Dourados,-22.2231,-54.812
+Três Lagoas,-20.7849,-51.7007
+Alta Floresta,-9.86674,-56.0867
+Barra do Garças,-15.8804,-52.264
+Campo Verde,-15.545,-55.1626
+Colniza,-9.46121,-59.2252
+Confresa,-10.6437,-51.5699
+Cuiabá,-15.601,-56.0974
+Juína,-11.3728,-58.7483
+Pontes e Lacerda,-15.2219,-59.3435
+Rondonópolis,-16.4673,-54.6372
+Sinop,-11.8604,-55.5091
+Tangará da Serra,-14.6229,-57.4933
+Alenquer,-1.94623,-54.7384
+Almeirim,-1.52904,-52.5788
+Altamira,-3.20407,-52.21
+Anajás,-0.996811,-49.9354
+Augusto Corrêa,-1.05109,-46.6147
+Aurora do Pará,-2.14898,-47.5677
+Belém,-1.4554,-48.4898
+Breves,-1.68036,-50.4791
+Concórdia do Pará,-1.99238,-47.9422
+Dom Eliseu,-4.19944,-47.8245
+Eldorado do Carajás,-6.10389,-49.3553
+Gurupá,-1.41412,-51.6338
+Itaituba,-4.2667,-55.9926
+Juruti,-2.16347,-56.0889
+Marabá,-5.38075,-49.1327
+Mocajuba,-2.5831,-49.5042
+Monte Alegre,-1.99768,-54.0724
+Muaná,-1.53936,-49.2224
+Pacajá,-3.83542,-50.6399
+Placas,-3.86813,-54.2124
+Portel,-1.93639,-50.8194
+Porto de Moz,-1.74691,-52.2361
+Prainha,-1.798,-53.4779
+Redenção,-8.02529,-50.0317
+Santana do Araguaia,-9.3281,-50.35
+Santarém,-2.43849,-54.6996
+Tailândia,-2.94584,-48.9489
+Tucumã,-6.74687,-51.1626
+Tucuruí,-3.7657,-49.6773
+Viseu,-1.19124,-46.1399
+Campina Grande,-7.22196,-35.8731
+João Pessoa,-7.11509,-34.8641
+Patos,-7.01743,-37.2747
+Cabo de Santo Agostinho,-8.28218,-35.0253
+Caruaru,-8.28455,-35.9699
+Floresta,-8.60307,-38.5687
+Ibimirim,-8.54026,-37.7032
+Olinda,-8.01017,-34.8545
+Petrolina,-9.38866,-40.5027
+Recife,-8.04666,-34.8771
+Serra Talhada,-7.98178,-38.289
+Trindade,-7.759,-40.2647
+Floriano,-6.77182,-43.0241
+Parnaíba,-2.90585,-41.7754
+São Raimundo Nonato,-9.01241,-42.6987
+Teresina,-5.09194,-42.8034
+Arapongas,-23.4153,-51.4259
+Arapoti,-24.1548,-49.8285
+Campo Largo,-25.4525,-49.529
+Campo Mourão,-24.0463,-52.378
+Cascavel,-24.9573,-53.459
+Curitiba,-25.4195,-49.2646
+Foz do Iguaçu,-25.5427,-54.5827
+Guarapuava,-25.3902,-51.4623
+Londrina,-23.304,-51.1691
+Maringá,-23.4205,-51.9333
+Pato Branco,-26.2292,-52.6706
+Pinhão,-25.6944,-51.6536
+Ponta Grossa,-25.0916,-50.1668
+Umuarama,-23.7656,-53.3201
+Barra Mansa,-22.5481,-44.1752
+Cabo Frio,-22.8894,-42.0286
+Campos dos Goytacazes,-21.7622,-41.3181
+Duque de Caxias,-22.7858,-43.3049
+Itaperuna,-21.1997,-41.8799
+Macaé,-22.3768,-41.7848
+Niterói,-22.8832,-43.1034
+Nova Friburgo,-22.2932,-42.5377
+Nova Iguaçu,-22.7556,-43.4603
+Paraty,-23.2221,-44.7175
+Petrópolis,-22.52,-43.1926
+Rio de Janeiro,-22.9129,-43.2003
+São Gonçalo,-22.8268,-43.0634
+Volta Redonda,-22.5202,-44.0996
+Caicó,-6.45441,-37.1067
+João Câmara,-5.54094,-35.8122
+Mossoró,-5.18374,-37.3474
+Natal,-5.79357,-35.1986
+Pau dos Ferros,-6.10498,-38.2077
+Ariquemes,-9.90571,-63.0325
+Cacoal,-11.4343,-61.4562
+Guajará-Mirim,-10.7889,-65.3296
+Ouro Preto do Oeste,-10.7167,-62.2565
+Porto Velho,-8.76077,-63.8999
+Vilhena,-12.7502,-60.1488
+Boa Vista,2.82384,-60.6753
+Rorainópolis,0.939956,-60.4389
+Bento Gonçalves,-29.1662,-51.5165
+Cachoeira do Sul,-30.033,-52.8928
+Canoas,-29.9128,-51.1857
+Caxias do Sul,-29.1629,-51.1792
+Gravataí,-29.9413,-50.9869
+Ijuí,-28.388,-53.92
+Itaqui,-29.1311,-56.5515
+Lajeado,-29.4591,-51.9644
+Novo Hamburgo,-29.6875,-51.1328
+Passo Fundo,-28.2576,-52.4091
+Pelotas,-31.7649,-52.3371
+Porto Alegre,-30.0318,-51.2065
+Rio Grande,-32.0349,-52.1071
+Rosário do Sul,-30.2515,-54.9221
+Santa Cruz do Sul,-29.722,-52.4343
+Santa Maria,-29.6868,-53.8149
+Santa Vitória do Palmar,-33.525,-53.3717
+Tramandaí,-29.9841,-50.1322
+Uruguaiana,-29.7614,-57.0853
+Vacaria,-28.5079,-50.9418
+Blumenau,-26.9155,-49.0709
+Caçador,-26.7757,-51.012
+Chapecó,-27.1004,-52.6152
+Criciúma,-28.6723,-49.3729
+Florianópolis,-27.5945,-48.5477
+Itajaí,-26.9101,-48.6705
+Jaraguá do Sul,-26.4851,-49.0713
+Joinville,-26.3045,-48.8487
+Lages,-27.815,-50.3259
+Mafra,-26.1159,-49.8086
+Rio do Sul,-27.2156,-49.643
+São Bento do Sul,-26.2495,-49.3831
+São José,-27.6136,-48.6366
+Tubarão,-28.4713,-49.0144
+Xanxerê,-26.8747,-52.4036
+Aracaju,-10.9091,-37.0677
+Poço Redondo,-9.80616,-37.6833
+Propriá,-10.2138,-36.8442
+Tobias Barreto,-11.1798,-37.9995
+Amparo,-22.7088,-46.772
+Araçatuba,-21.2076,-50.4401
+Araraquara,-21.7845,-48.178
+Araras,-22.3572,-47.3842
+Assis,-22.66,-50.4183
+Avaré,-23.1067,-48.9251
+Barretos,-20.5531,-48.5698
+Barueri,-23.5057,-46.879
+Bauru,-22.3246,-49.0871
+Botucatu,-22.8837,-48.4437
+Bragança Paulista,-22.9527,-46.5419
+Campinas,-22.9053,-47.0659
+Caraguatatuba,-23.6125,-45.4125
+Catanduva,-21.1314,-48.977
+Franca,-20.5352,-47.4039
+Franco da Rocha,-23.3229,-46.729
+Guaratinguetá,-22.8075,-45.1938
+Guarujá,-23.9888,-46.258
+Guarulhos,-23.4538,-46.5333
+Indaiatuba,-23.0816,-47.2101
+Itapeva,-23.9788,-48.8764
+Jaboticabal,-21.252,-48.3252
+Jacareí,-23.2983,-45.9658
+Jaú,-22.2936,-48.5592
+Jundiaí,-23.1852,-46.8974
+Limeira,-22.566,-47.397
+Marília,-22.2171,-49.9501
+Matão,-21.6025,-48.364
+Mogi das Cruzes,-23.5208,-46.1854
+Mogi Guaçu,-22.3675,-46.9428
+Mogi Mirim,-22.4332,-46.9532
+Osasco,-23.5324,-46.7916
+Ourinhos,-22.9797,-49.8697
+Pindamonhangaba,-22.9246,-45.4613
+Piracicaba,-22.7338,-47.6476
+Presidente Prudente,-22.1207,-51.3925
+Ribeirão Preto,-21.1699,-47.8099
+Salto,-23.1996,-47.2931
+Santo André,-23.6737,-46.5432
+Santos,-23.9535,-46.335
+São Bernardo do Campo,-23.6914,-46.5646
+São Carlos,-22.0174,-47.886
+São João da Boa Vista,-21.9707,-46.7944
+São José do Rio Preto,-20.8113,-49.3758
+São José dos Campos,-23.1896,-45.8841
+São Paulo,-23.5329,-46.6395
+Sorocaba,-23.4969,-47.4451
+Taboão da Serra,-23.6019,-46.7526
+Taubaté,-23.0104,-45.5593
+Votuporanga,-20.4237,-49.9781
+Araguaína,-7.19238,-48.2044
+Araguatins,-5.64659,-48.1232
+Paraíso do Tocantins,-10.175,-48.8823
+Porto Nacional,-10.7027,-48.408
+Palmas,-10.24,-48.3558

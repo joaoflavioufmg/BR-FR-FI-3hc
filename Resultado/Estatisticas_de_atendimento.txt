@@ -1,38 +1,38 @@
 ==============================================================================
 Demand meet statistics - Nivel_1
 ==============================================================================
-Pop served:		1653560 (106.32%).
-Municipalities (hub):	      89 mun.
+Pop served:		937545 (107.85%).
+Municipalities (hub):	      19 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.20 (Chapada_De_Areia).
-Mean:			  2.42
-Median:			  1.12
-Maximum:		 40.92 (Palmas).
+Minimum:		  0.89 (Santa_Rosa_Do_Purus).
+Mean:			  6.41
+Median:			  2.61
+Maximum:		 57.66 (Rio_Branco).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.95 (Chapada_De_Areia).
-Mean:			 11.70
-Median:			  5.41
-Maximum:		198.31 (Palmas).
+Minimum:		  4.32 (Santa_Rosa_Do_Purus).
+Mean:			 31.09
+Median:			 12.66
+Maximum:		279.45 (Rio_Branco).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.54 (Chapada_De_Areia).
-Mean:			  6.69
-Median:			  3.09
-Maximum:		113.32 (Palmas).
+Minimum:		  2.47 (Santa_Rosa_Do_Purus).
+Mean:			 17.76
+Median:			  7.24
+Maximum:		159.69 (Rio_Branco).
 ==============================================================================
 Resource:		CommunityBased		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.53 (Chapada_De_Areia).
-Mean:			  6.50
-Median:			  3.01
-Maximum:		110.17 (Palmas).
+Minimum:		  2.40 (Santa_Rosa_Do_Purus).
+Mean:			 17.27
+Median:			  7.04
+Maximum:		155.25 (Rio_Branco).
 ==============================================================================
 
 
@@ -41,65 +41,65 @@ Maximum:		110.17 (Palmas).
 ==============================================================================
 Demand meet statistics - Nivel_2
 ==============================================================================
-Municipalities (hub):	      11 mun.
+Municipalities (hub):	       6 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 20.33 (Goiatins).
-Mean:			 58.21
-Median:			 36.01
-Maximum:		172.86 (Palmas).
+Minimum:		 21.49 (Porto_Walter).
+Mean:			 76.16
+Median:			 38.56
+Maximum:		273.80 (Rio_Branco).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 11.73 (Goiatins).
-Mean:			 33.58
-Median:			 20.77
-Maximum:		 99.73 (Palmas).
+Minimum:		 12.40 (Porto_Walter).
+Mean:			 43.94
+Median:			 22.25
+Maximum:		157.96 (Rio_Branco).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 28.15 (Goiatins).
-Mean:			 80.60
-Median:			 49.86
-Maximum:		239.35 (Palmas).
+Minimum:		 29.75 (Porto_Walter).
+Mean:			105.45
+Median:			 53.39
+Maximum:		379.10 (Rio_Branco).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 46.52 (Goiatins).
-Mean:			133.20
-Median:			 82.40
-Maximum:		395.59 (Palmas).
+Minimum:		 49.17 (Porto_Walter).
+Mean:			174.30
+Median:			 88.26
+Maximum:		626.57 (Rio_Branco).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.20 (Goiatins).
-Mean:			  0.56
-Median:			  0.35
-Maximum:		  1.66 (Palmas).
+Minimum:		  0.21 (Porto_Walter).
+Mean:			  0.73
+Median:			  0.37
+Maximum:		  2.63 (Rio_Branco).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.14 (Goiatins).
-Mean:			  0.40
-Median:			  0.25
-Maximum:		  1.20 (Palmas).
+Minimum:		  0.15 (Porto_Walter).
+Mean:			  0.53
+Median:			  0.27
+Maximum:		  1.90 (Rio_Branco).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.06 (Goiatins).
-Mean:			  0.18
-Median:			  0.11
-Maximum:		  0.53 (Palmas).
+Minimum:		  0.07 (Porto_Walter).
+Mean:			  0.23
+Median:			  0.12
+Maximum:		  0.84 (Rio_Branco).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.00 (Goiatins).
+Minimum:		  0.00 (Porto_Walter).
 Mean:			  0.01
 Median:			  0.01
-Maximum:		  0.03 (Araguaina).
+Maximum:		  0.05 (Rio_Branco).
 ==============================================================================
 
 
@@ -108,65 +108,65 @@ Maximum:		  0.03 (Araguaina).
 ==============================================================================
 Demand meet statistics - Nivel_3
 ==============================================================================
-Municipalities (hub):	       5 mun.
+Municipalities (hub):	       3 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 23.64 (Araguatins).
-Mean:			 93.20
-Median:			 69.21
-Maximum:		195.16 (Palmas).
+Minimum:		 29.43 (Feijo).
+Mean:			125.63
+Median:			 66.46
+Maximum:		280.99 (Rio_Branco).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 85.77 (Araguatins).
-Mean:			338.21
-Median:			251.15
-Maximum:		708.25 (Palmas).
+Minimum:		106.80 (Feijo).
+Mean:			455.91
+Median:			241.20
+Maximum:		1019.72 (Rio_Branco).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 27.45 (Araguatins).
-Mean:			108.23
-Median:			 80.37
-Maximum:		226.64 (Palmas).
+Minimum:		 34.18 (Feijo).
+Mean:			145.89
+Median:			 77.18
+Maximum:		326.31 (Rio_Branco).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 30.88 (Araguatins).
-Mean:			121.76
-Median:			 90.41
-Maximum:		254.97 (Palmas).
+Minimum:		 38.45 (Feijo).
+Mean:			164.13
+Median:			 86.83
+Maximum:		367.10 (Rio_Branco).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.57 (Araguatins).
-Mean:			  2.25
-Median:			  1.67
-Maximum:		  4.72 (Palmas).
+Minimum:		  0.71 (Feijo).
+Mean:			  3.04
+Median:			  1.61
+Maximum:		  6.80 (Rio_Branco).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.45 (Araguatins).
-Mean:			  1.79
-Median:			  1.33
-Maximum:		  3.75 (Palmas).
+Minimum:		  0.56 (Feijo).
+Mean:			  2.41
+Median:			  1.28
+Maximum:		  5.39 (Rio_Branco).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.30 (Araguatins).
-Mean:			  1.20
-Median:			  0.89
-Maximum:		  2.52 (Palmas).
+Minimum:		  0.38 (Feijo).
+Mean:			  1.62
+Median:			  0.86
+Maximum:		  3.63 (Rio_Branco).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.15 (Araguatins).
-Mean:			  0.60
-Median:			  0.45
-Maximum:		  1.26 (Palmas).
+Minimum:		  0.19 (Feijo).
+Mean:			  0.81
+Median:			  0.43
+Maximum:		  1.81 (Rio_Branco).
 ==============================================================================
 
 

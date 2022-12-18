@@ -134,22 +134,32 @@ def make_all_flow_maps():
     altura = 1050    # Configuração geral para os três mapas em camadas
     pontos_1 = read_csv('Nivel_1.csv')    
     pontos_2 = read_csv('Nivel_2.csv')    
-    pontos_3 = read_csv('Nivel_3.csv')    
-    geoplotlib.dot(pontos_1, color='b', point_size= 1,\
-                    f_tooltip=lambda r:r['name'])    
-    geoplotlib.dot(pontos_2, color='g', point_size= 2,\
+    pontos_3 = read_csv('Nivel_3.csv') 
+    pontos_4 = read_csv('Nivel_4.csv') 
+
+    # color='b'
+    geoplotlib.dot(pontos_1, color=[0,0,0], point_size= 1,\
+                    f_tooltip=lambda r:r['name'])   
+    # color='b' 
+    geoplotlib.dot(pontos_2, color=[153,51,255], point_size= 1,\
                     f_tooltip=lambda r:r['name'])
-    geoplotlib.dot(pontos_3, color='r', point_size= 4,\
+    # color='g'
+    geoplotlib.dot(pontos_3, color='g', point_size= 2,\
                     f_tooltip=lambda r:r['name'])
+    # color='r'
+    geoplotlib.dot(pontos_4, color='r', point_size= 5,\
+                    f_tooltip=lambda r:r['name'])
+   
+
     # Configura_janela(largura,altura)
-    geoplotlib.set_window_size(largura,altura)
+    # geoplotlib.set_window_size(largura,altura)
     # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
-    geoplotlib.tiles_provider('positron')
+    # geoplotlib.tiles_provider('positron')
     # geoplotlib.show()
 
     fluxo_1 = read_csv('fluxo_Nivel_1.csv')
     fluxo_2 = read_csv('fluxo_Nivel_2.csv')
-    fluxo_3 = read_csv('fluxo_Nivel_3.csv')        
+    fluxo_3 = read_csv('fluxo_Nivel_3.csv')         
 
     geoplotlib.graph(fluxo_1,
                         src_lat='lat_departure',
@@ -167,7 +177,7 @@ def make_all_flow_maps():
                         dest_lon='lon_arrival',
                         color='Greens',
                         alpha=200,
-                        linewidth=2)
+                        linewidth=1)
 
     geoplotlib.graph(fluxo_3,
                         src_lat='lat_departure',
@@ -205,6 +215,86 @@ def make_all_flow_maps():
 
     # linear colorscale
     # geoplotlib.kde(kernel_data, bw=5, cmap='jet', cut_below=1e-4, scaling='lin')
+
+    # https://boundingbox.klokantech.com/
+    bbox = BoundingBox(west=-75.2, south=-36.2, east=-33.9, north=5.3)
+    geoplotlib.set_bbox(bbox)
+
+    # Keyboard controls
+    # P: a screenshot named and saved in current working directory
+    # M: toggle base tiles map rendering
+    # L: toggle layers rendering
+    # I/O: zoom in/out
+    # A/D: pan left/right
+    # W/S: pan up/down
+
+    geoplotlib.show()
+
+def make_br_flow_map():
+    largura = 1900  # Configuração geral para os três mapas em camadas
+    altura = 1050    # Configuração geral para os três mapas em camadas
+
+    pontos_1 = read_csv('BR_Nivel_1.csv')    
+    pontos_2 = read_csv('BR_Nivel_2.csv')    
+    pontos_3 = read_csv('BR_Nivel_3.csv')
+    pontos_4 = read_csv('BR_Nivel_4.csv') 
+
+    # color='b'
+    geoplotlib.dot(pontos_1, color=[0,0,0], point_size= 1,\
+                    f_tooltip=lambda r:r['name'])   
+    # color='b' 
+    geoplotlib.dot(pontos_2, color=[153,51,255], point_size= 1,\
+                    f_tooltip=lambda r:r['name'])
+    # color='r'
+    geoplotlib.dot(pontos_3, color='g', point_size= 2,\
+                    f_tooltip=lambda r:r['name'])
+    # color='r'
+    geoplotlib.dot(pontos_4, color='r', point_size= 3,\
+                    f_tooltip=lambda r:r['name'])
+
+    # Configura_janela(largura,altura)
+    # geoplotlib.set_window_size(largura,altura)
+    # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
+    # geoplotlib.tiles_provider('positron')
+
+    fluxo_1 = read_csv('BR_fluxo_Nivel_1.csv')
+    fluxo_2 = read_csv('BR_fluxo_Nivel_2.csv')
+    fluxo_3 = read_csv('BR_fluxo_Nivel_3.csv')        
+
+    geoplotlib.graph(fluxo_1,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        # color='Blues',
+                        color=[0,0,255],
+                        alpha=200,
+                        linewidth=1)
+    
+    geoplotlib.graph(fluxo_2,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        # color='Greens',
+                        color=[0,255,0],
+                        alpha=200,
+                        linewidth=1)
+
+    geoplotlib.graph(fluxo_3,
+                        src_lat='lat_departure',
+                        src_lon='lon_departure',
+                        dest_lat='lat_arrival',
+                        dest_lon='lon_arrival',
+                        # color='Reds', # hot_r
+                        color=[255,0,0],
+                        alpha=200,
+                        linewidth=1)
+
+    # Configura_janela(largura,altura)
+    geoplotlib.set_window_size(largura,altura)
+    # [‘watercolor’, ‘toner’, ‘toner-lite’, ‘darkmatter’,’positron’]
+    geoplotlib.tiles_provider('positron')
 
     # https://boundingbox.klokantech.com/
     bbox = BoundingBox(west=-75.2, south=-36.2, east=-33.9, north=5.3)
