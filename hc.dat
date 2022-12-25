@@ -33,6 +33,14 @@ param CI:=
 3	0.21    # Indirect expenditure cost percentage of Hospitals
 ;
 
+# Penalty as a logistic cost infrastructure / h.inhabitant
+# out of the radious threshold
+# Brazil	85.75		#	https://databank.worldbank.org/source/icp-2017
+# Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
+# France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
+
+param P:=85.75; 
+
 param DurLower:=
 1 0.5  
 2 0.5 

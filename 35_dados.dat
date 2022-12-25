@@ -23,6 +23,11 @@ param POPmin:=
 3	30000
 ;
 
+# param DurUpper:=
+# 1 0.51 
+# 2 1.6 
+# 3 2.6; 
+
 param DurUpper:=
 1 0.51 
 2 1.6 

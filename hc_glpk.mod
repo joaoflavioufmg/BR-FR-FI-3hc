@@ -210,6 +210,9 @@ check{i in I, j in N1[i]}: D[i,j] <= DurUpper[1];
 # 0 - No / 1 - Yes
 param INFR{i in I} default 0;
 
+param NINFR{i in I: i in J3}:= if (INFR[i] == 1) then 0 else 1;
+
+
 # Numero de internacoes - Fator de atratividade
 # param NInter{i in I};
 
@@ -263,7 +266,7 @@ check{k in J2, l in N3[k]}: f3[k,l] <=1;
 # Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
 # France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
 
-param P:=85.75; 
+param P; 
 # ==================================================
 # Variaveis
 # ==================================================
@@ -392,6 +395,7 @@ s.t. R21{n in NA: n=3}: sum{l in J3} z[n,l] <= sum{k in J2}z[n-1,k] - 1;
 
 # Municipalities with reference centres for health care 
 s.t. R22{n in NA, j in S3: n=3}: z[n,j] >= 1;
+s.t. R23{n in NA, j in J3: n=3}: z[n,j] >= NINFR[j];
 
 # /*
 /* end; */

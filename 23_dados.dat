@@ -24,10 +24,16 @@ param POPmin:=
 3	30000
 ;
 
+# param DurUpper:=
+# 1 0.51 
+# 2 3.0 
+# 3 3.0; 
+
 param DurUpper:=
 1 0.51 
-2 3.0 
-3 3.0; 
+2 1.0 
+3 2.7;
+
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
