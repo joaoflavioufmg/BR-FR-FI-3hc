@@ -1,14 +1,14 @@
 Optimization settings:
 
 ----------------------------------------
-Objective Function: 	   2077449307.65
-Primary   Care Cost:	    396854400.00
-Secondary Care Cost:	   1096090668.00
-Tertiary  Care Cost:	    484059390.00
-Add Infrastruc Cost:	     13222200.00
-Populat ExtLog Cost:	     87222649.65
-HC Cost per capita (now):	     1178.62
-HC Cost per capita (fut):	     1238.50
+Objective Function: 	    949904314.18
+Primary   Care Cost:	    171970240.00
+Secondary Care Cost:	    475339694.00
+Tertiary  Care Cost:	    209759069.00
+Add Infrastruc Cost:	      5729620.00
+Populat ExtLog Cost:	     87105691.18
+HC Cost per capita (now):	      510.96
+HC Cost per capita (fut):	      566.30
 ----------------------------------------
 
 -----------------------------------
@@ -33,71 +33,71 @@ Care Level [3]:  11 mun >   7 mun
 
 Municipalities requiring additional infrastructure:
 ----------------------------------------------------------------
-LEVEL	CODE	DESCRIPTION					COST($)
-    1	170025	Abreulandia              :	243840.00
-    1	170030	Aguiarnopolis            :	762768.00
-    1	170110	Aparecida_Do_Rio_Negro   :	122712.00
-    1	170215	Araguana                 :	445848.00
-    1	170300	Babaculandia             :	275976.00
-    1	170305	Bandeirantes_Do_Tocantins:	90912.00
-    1	170307	Barra_Do_Ouro            :	117744.00
-    1	170310	Barrolandia              :	145320.00
-    1	170320	Bernardo_Sayao           :	115680.00
-    1	170360	Brasilandia_Do_Tocantins :	152280.00
-    1	170384	Campos_Lindos            :	256704.00
-    1	170386	Cariri_Do_Tocantins      :	248616.00
-    1	170388	Carmolandia              :	66168.00
-    1	170389	Carrasco_Bonito          :	105072.00
-    1	170390	Caseara                  :	137064.00
-    1	170460	Chapada_De_Areia         :	36264.00
-    1	170510	Chapada_Da_Natividade    :	325464.00
-    1	170560	Conceicao_Do_Tocantins   :	106752.00
-    1	170600	Couto_Magalhaes          :	143304.00
-    1	170625	Crixas_Do_Tocantins      :	184872.00
-    1	170720	Dois_Irmaos_Do_Tocantins :	186648.00
-    1	170740	Esperantina              :	280872.00
-    1	170825	Fortaleza_Do_Tabocao     :	731328.00
-    1	170830	Goianorte                :	132432.00
-    1	170980	Ipueiras                 :	51168.00
-    1	171150	Jau_Do_Tocantins         :	98856.00
-    1	171180	Juarina                  :	57000.00
-    1	171195	Lagoa_Do_Tocantins       :	183048.00
-    1	171200	Lajeado                  :	754248.00
-    1	171215	Lavandeira               :	331272.00
-    1	171245	Luzinopolis              :	362352.00
-    1	171250	Marianopolis_Do_Tocantins:	131856.00
-    1	171280	Maurilandia_Do_Tocantins :	88080.00
-    1	171380	Palmeiras_Do_Tocantins   :	493776.00
-    1	171395	Muricilandia             :	432936.00
-    1	171488	Nova_Olinda              :	303360.00
-    1	171510	Novo_Acordo              :	110976.00
-    1	171525	Novo_Jardim              :	69840.00
-    1	171550	Oliveira_De_Fatima       :	297840.00
-    1	171570	Palmeirante              :	153216.00
-    1	171630	Pau_Darco                :	125040.00
-    1	171720	Piraque                  :	78240.00
-    1	171780	Ponte_Alta_Do_Bom_Jesus  :	119088.00
-    1	171800	Porto_Alegre_Do_Tocantins:	265032.00
-    1	171855	Riachinho                :	367872.00
-    1	171870	Rio_Dos_Bois             :	418992.00
-    1	171875	Rio_Sono                 :	167424.00
-    1	171880	Sampaio                  :	806832.00
-    1	171884	Sandolandia              :	87432.00
-    1	171888	Santa_Maria_Do_Tocantins :	87528.00
-    1	171890	Santa_Rosa_Do_Tocantins  :	124536.00
-    1	172025	Sao_Salvador_Do_Tocantins:	79464.00
-    1	172030	Sao_Sebastiao_Do_Tocantins:	412968.00
-    1	172049	Sao_Valerio              :	103992.00
-    1	172085	Sucupira                 :	50376.00
-    1	172093	Taipas_Do_Tocantins      :	55152.00
-    1	172097	Talisma                  :	71784.00
-    1	172130	Tupiratins               :	164904.00
-    1	172208	Wanderlandia             :	301080.00
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	170025	Abreulandia              :	105664.00
+    1	170030	Aguiarnopolis            :	330532.80
+    1	170110	Aparecida_Do_Rio_Negro   :	53175.20
+    1	170215	Araguana                 :	193200.80
+    1	170300	Babaculandia             :	119589.60
+    1	170305	Bandeirantes_Do_Tocantins:	39395.20
+    1	170307	Barra_Do_Ouro            :	51022.40
+    1	170310	Barrolandia              :	62972.00
+    1	170320	Bernardo_Sayao           :	50128.00
+    1	170360	Brasilandia_Do_Tocantins :	65988.00
+    1	170384	Campos_Lindos            :	111238.40
+    1	170386	Cariri_Do_Tocantins      :	107733.60
+    1	170388	Carmolandia              :	28672.80
+    1	170389	Carrasco_Bonito          :	45531.20
+    1	170390	Caseara                  :	59394.40
+    1	170460	Chapada_De_Areia         :	15714.40
+    1	170510	Chapada_Da_Natividade    :	141034.40
+    1	170560	Conceicao_Do_Tocantins   :	46259.20
+    1	170600	Couto_Magalhaes          :	62098.40
+    1	170625	Crixas_Do_Tocantins      :	106402.40
+    1	170720	Dois_Irmaos_Do_Tocantins :	80880.80
+    1	170740	Esperantina              :	121711.20
+    1	170825	Fortaleza_Do_Tabocao     :	316908.80
+    1	170830	Goianorte                :	57387.20
+    1	170980	Ipueiras                 :	22172.80
+    1	171150	Jau_Do_Tocantins         :	42837.60
+    1	171180	Juarina                  :	24700.00
+    1	171195	Lagoa_Do_Tocantins       :	79320.80
+    1	171200	Lajeado                  :	326840.80
+    1	171215	Lavandeira               :	143551.20
+    1	171245	Luzinopolis              :	157019.20
+    1	171250	Marianopolis_Do_Tocantins:	57137.60
+    1	171280	Maurilandia_Do_Tocantins :	38168.00
+    1	171380	Palmeiras_Do_Tocantins   :	213969.60
+    1	171395	Muricilandia             :	187605.60
+    1	171488	Nova_Olinda              :	131456.00
+    1	171510	Novo_Acordo              :	48089.60
+    1	171525	Novo_Jardim              :	30264.00
+    1	171550	Oliveira_De_Fatima       :	102772.80
+    1	171570	Palmeirante              :	66393.60
+    1	171630	Pau_Darco                :	54184.00
+    1	171720	Piraque                  :	33904.00
+    1	171780	Ponte_Alta_Do_Bom_Jesus  :	51604.80
+    1	171800	Porto_Alegre_Do_Tocantins:	114847.20
+    1	171855	Riachinho                :	159411.20
+    1	171870	Rio_Dos_Bois             :	181563.20
+    1	171875	Rio_Sono                 :	72550.40
+    1	171880	Sampaio                  :	349627.20
+    1	171884	Sandolandia              :	37887.20
+    1	171888	Santa_Maria_Do_Tocantins :	37928.80
+    1	171890	Santa_Rosa_Do_Tocantins  :	53965.60
+    1	172025	Sao_Salvador_Do_Tocantins:	34434.40
+    1	172030	Sao_Sebastiao_Do_Tocantins:	178952.80
+    1	172049	Sao_Valerio              :	45063.20
+    1	172085	Sucupira                 :	21829.60
+    1	172093	Taipas_Do_Tocantins      :	23899.20
+    1	172097	Talisma                  :	31106.40
+    1	172130	Tupiratins               :	71458.40
+    1	172208	Wanderlandia             :	130468.00
 ----------------------------------------------------------------
 
 Municipalities (origin) for logistics investiment:
 ----------------------------------------------------------------
-LEVEL	CODE	DESCRIPTION					COST($)
+LEVEL	CODE	DESCRIPTION		COST($)
     1	171320	Miracema_Do_Tocantins    :	8757.00
     1	171900	Santa_Tereza_Do_Tocantins:	1336.90
     1	172120	Tocantinopolis           :	10799.30
@@ -124,7 +124,6 @@ LEVEL	CODE	DESCRIPTION					COST($)
     2	170510	Chapada_Da_Natividade    :	544928.37
     2	170560	Conceicao_Do_Tocantins   :	1085003.87
     2	170600	Couto_Magalhaes          :	349986.66
-    2	170610	Cristalandia             :	170788.72
     2	170625	Crixas_Do_Tocantins      :	38537.70
     2	170720	Dois_Irmaos_Do_Tocantins :	1244929.52
     2	170730	Duere                    :	31553.57
@@ -158,6 +157,7 @@ LEVEL	CODE	DESCRIPTION					COST($)
     2	171670	Colmeia                  :	496620.74
     2	171700	Pindorama_Do_Tocantins   :	1328317.00
     2	171720	Piraque                  :	42426.99
+    2	171750	Pium                     :	53830.26
     2	171780	Ponte_Alta_Do_Bom_Jesus  :	132540.94
     2	171790	Ponte_Alta_Do_Tocantins  :	1842054.72
     2	171855	Riachinho                :	725106.39

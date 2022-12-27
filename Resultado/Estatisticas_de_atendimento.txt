@@ -8,31 +8,31 @@ Municipalities (hub):	      90 mun.
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.20 (Chapada_De_Areia).
-Mean:			  2.39
-Median:			  1.11
-Maximum:		 40.92 (Palmas).
+Minimum:		  0.62 (Chapada_De_Areia).
+Mean:			  7.53
+Median:			  3.62
+Maximum:		129.06 (Palmas).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.95 (Chapada_De_Areia).
-Mean:			 11.57
-Median:			  5.36
-Maximum:		198.31 (Palmas).
+Minimum:		  3.82 (Chapada_De_Areia).
+Mean:			 46.48
+Median:			 22.36
+Maximum:		796.39 (Palmas).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.54 (Chapada_De_Areia).
-Mean:			  6.61
-Median:			  3.07
-Maximum:		113.32 (Palmas).
+Minimum:		  1.89 (Chapada_De_Areia).
+Mean:			 22.97
+Median:			 11.04
+Maximum:		393.48 (Palmas).
 ==============================================================================
 Resource:		CommunityBased		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.53 (Chapada_De_Areia).
-Mean:			  6.43
-Median:			  2.98
-Maximum:		110.17 (Palmas).
+Minimum:		  2.27 (Chapada_De_Areia).
+Mean:			 27.56
+Median:			 13.26
+Maximum:		472.17 (Palmas).
 ==============================================================================
 
 
@@ -47,59 +47,59 @@ Municipalities (hub):	      11 mun.
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 20.13 (Parana).
-Mean:			 62.58
-Median:			 47.48
-Maximum:		172.86 (Palmas).
+Minimum:		 64.66 (Parana).
+Mean:			201.02
+Median:			152.47
+Maximum:		555.16 (Palmas).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 11.62 (Parana).
-Mean:			 36.10
-Median:			 27.39
-Maximum:		 99.73 (Palmas).
+Minimum:		 46.46 (Parana).
+Mean:			144.44
+Median:			109.56
+Maximum:		398.92 (Palmas).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 27.88 (Parana).
-Mean:			 86.65
-Median:			 65.74
-Maximum:		239.35 (Palmas).
+Minimum:		 97.18 (Parana).
+Mean:			302.13
+Median:			229.17
+Maximum:		834.40 (Palmas).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 46.07 (Parana).
-Mean:			143.21
-Median:			108.65
-Maximum:		395.59 (Palmas).
+Minimum:		103.37 (Parana).
+Mean:			321.39
+Median:			243.77
+Maximum:		887.59 (Palmas).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
+==============================================================================
+Minimum:		  0.26 (Goiatins).
+Mean:			  0.79
+Median:			  0.60
+Maximum:		  2.19 (Palmas).
+==============================================================================
+Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
 Minimum:		  0.19 (Parana).
 Mean:			  0.60
 Median:			  0.46
 Maximum:		  1.66 (Palmas).
 ==============================================================================
-Resource:		MRIUnit		[FTE or unit (equipment)]
-==============================================================================
-Minimum:		  0.14 (Parana).
-Mean:			  0.43
-Median:			  0.33
-Maximum:		  1.20 (Palmas).
-==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.06 (Parana).
-Mean:			  0.19
-Median:			  0.15
-Maximum:		  0.53 (Palmas).
+Minimum:		  0.12 (Goiatins).
+Mean:			  0.37
+Median:			  0.28
+Maximum:		  1.03 (Palmas).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.00 (Parana).
-Mean:			  0.01
-Median:			  0.01
-Maximum:		  0.03 (Palmas).
+Minimum:		  0.01 (Goiatins).
+Mean:			  0.04
+Median:			  0.03
+Maximum:		  0.10 (Palmas).
 ==============================================================================
 
 
@@ -114,59 +114,59 @@ Municipalities (hub):	       7 mun.
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 23.64 (Araguatins).
-Mean:			 75.22
-Median:			 49.85
-Maximum:		195.16 (Palmas).
+Minimum:		 75.86 (Araguatins).
+Mean:			241.42
+Median:			160.01
+Maximum:		626.41 (Palmas).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 85.77 (Araguatins).
-Mean:			272.97
-Median:			180.91
-Maximum:		708.25 (Palmas).
+Minimum:		342.34 (Araguatins).
+Mean:			1089.44
+Median:			722.04
+Maximum:		2826.72 (Palmas).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 27.45 (Araguatins).
-Mean:			 87.35
-Median:			 57.89
-Maximum:		226.64 (Palmas).
+Minimum:		 95.69 (Araguatins).
+Mean:			304.51
+Median:			201.82
+Maximum:		790.10 (Palmas).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 30.88 (Araguatins).
-Mean:			 98.27
-Median:			 65.13
-Maximum:		254.97 (Palmas).
+Minimum:		 69.38 (Araguatins).
+Mean:			220.80
+Median:			146.34
+Maximum:		572.90 (Palmas).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.57 (Araguatins).
-Mean:			  1.82
-Median:			  1.21
-Maximum:		  4.72 (Palmas).
+Minimum:		  0.76 (Araguatins).
+Mean:			  2.41
+Median:			  1.60
+Maximum:		  6.26 (Palmas).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.45 (Araguatins).
-Mean:			  1.44
-Median:			  0.96
-Maximum:		  3.75 (Palmas).
+Minimum:		  0.64 (Araguatins).
+Mean:			  2.04
+Median:			  1.35
+Maximum:		  5.29 (Palmas).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.30 (Araguatins).
-Mean:			  0.97
-Median:			  0.64
-Maximum:		  2.52 (Palmas).
+Minimum:		  0.59 (Araguatins).
+Mean:			  1.89
+Median:			  1.25
+Maximum:		  4.91 (Palmas).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.15 (Araguatins).
-Mean:			  0.49
-Median:			  0.32
-Maximum:		  1.26 (Palmas).
+Minimum:		  0.39 (Araguatins).
+Mean:			  1.24
+Median:			  0.82
+Maximum:		  3.21 (Palmas).
 ==============================================================================
 
 

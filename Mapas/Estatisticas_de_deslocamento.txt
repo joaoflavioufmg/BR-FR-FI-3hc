@@ -4,7 +4,7 @@ Statistics of travel duration by patients to services - Nivel_1
 Coverage (qty):   133 mun (95.68%).
 Maximum:		  0.51 h.
 Minimum:		  0.00 h.
-Mean:			  0.12 h. [Between  0.08 and  0.15] (95% conf. interval)
+Mean:			  0.12 h. [Between  0.09 and  0.15] (95% conf. interval)
 Median:			  0.00 h.
 Std Deviation:	  0.18 h.
 Co. Variation:	  1.55 h.

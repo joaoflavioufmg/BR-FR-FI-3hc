@@ -1,12 +1,12 @@
 CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
-170210	                     Araguaina	170210	                     Araguaina	    0.00
-170900	                      Goiatins	170210	                     Araguaina	    3.70
-170220	                    Araguatins	170220	                    Araguatins	    0.00
-170550	          Colinas_Do_Tocantins	170550	          Colinas_Do_Tocantins	    0.00
-171650	                  Pedro_Afonso	170550	          Colinas_Do_Tocantins	    2.42
-170950	                        Gurupi	170950	                        Gurupi	    0.00
-171620	                        Parana	170950	                        Gurupi	    3.83
-171610	          Paraiso_Do_Tocantins	171610	          Paraiso_Do_Tocantins	    0.00
-170700	                    Dianopolis	171820	                Porto_Nacional	    4.40
-171820	                Porto_Nacional	171820	                Porto_Nacional	    0.00
-172100	                        Palmas	172100	                        Palmas	    0.00
+170210,Araguaina,170210,Araguaina,0.00
+170900,Goiatins,170210,Araguaina,3.70
+170220,Araguatins,170220,Araguatins,0.00
+170550,Colinas_Do_Tocantins,170550,Colinas_Do_Tocantins,0.00
+171650,Pedro_Afonso,170550,Colinas_Do_Tocantins,2.42
+170950,Gurupi,170950,Gurupi,0.00
+171620,Parana,170950,Gurupi,3.83
+171610,Paraiso_Do_Tocantins,171610,Paraiso_Do_Tocantins,0.00
+170700,Dianopolis,171820,Porto_Nacional,4.40
+171820,Porto_Nacional,171820,Porto_Nacional,0.00
+172100,Palmas,172100,Palmas,0.00

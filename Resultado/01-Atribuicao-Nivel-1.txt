@@ -32,10 +32,9 @@ CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	
 170550	          Colinas_Do_Tocantins	170550	          Colinas_Do_Tocantins	    0.00
 170560	        Conceicao_Do_Tocantins	170560	        Conceicao_Do_Tocantins	    0.00
 170600	               Couto_Magalhaes	170600	               Couto_Magalhaes	    0.00
-170610	                  Cristalandia	170610	                  Cristalandia	    0.00
-171750	                          Pium	170610	                  Cristalandia	    0.30
 170035	          Alianca_Do_Tocantins	170625	           Crixas_Do_Tocantins	    0.39
 170625	           Crixas_Do_Tocantins	170625	           Crixas_Do_Tocantins	    0.00
+171889	       Santa_Rita_Do_Tocantins	170625	           Crixas_Do_Tocantins	    0.46
 170700	                    Dianopolis	170700	                    Dianopolis	    0.00
 171865	              Rio_Da_Conceicao	170700	                    Dianopolis	    0.43
 170720	      Dois_Irmaos_Do_Tocantins	170720	      Dois_Irmaos_Do_Tocantins	    0.00
@@ -61,7 +60,7 @@ CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	
 170270	           Aurora_Do_Tocantins	171215	                    Lavandeira	    0.33
 170555	                     Combinado	171215	                    Lavandeira	    0.16
 171215	                    Lavandeira	171215	                    Lavandeira	    0.00
-171515	                   Novo_Alegre	171215	                    Lavandeira	    0.31
+171515	                   Novo_Alegre	171215	                    Lavandeira	    0.30
 170105	                        Angico	171245	                   Luzinopolis	    0.42
 170382	                  Cachoeirinha	171245	                   Luzinopolis	    0.29
 171245	                   Luzinopolis	171245	                   Luzinopolis	    0.00
@@ -82,7 +81,6 @@ CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	
 170755	                        Fatima	171550	            Oliveira_De_Fatima	    0.16
 171500	               Nova_Rosalandia	171550	            Oliveira_De_Fatima	    0.35
 171550	            Oliveira_De_Fatima	171550	            Oliveira_De_Fatima	    0.00
-171889	       Santa_Rita_Do_Tocantins	171550	            Oliveira_De_Fatima	    0.31
 171570	                   Palmeirante	171570	                   Palmeirante	    0.00
 171575	                 Palmeiropolis	171575	                 Palmeiropolis	    0.00
 171370	      Monte_Santo_Do_Tocantins	171610	          Paraiso_Do_Tocantins	    0.40
@@ -99,6 +97,8 @@ CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	
 171670	                       Colmeia	171670	                       Colmeia	    0.00
 171700	        Pindorama_Do_Tocantins	171700	        Pindorama_Do_Tocantins	    0.00
 171720	                       Piraque	171720	                       Piraque	    0.00
+170610	                  Cristalandia	171750	                          Pium	    0.30
+171750	                          Pium	171750	                          Pium	    0.00
 171780	       Ponte_Alta_Do_Bom_Jesus	171780	       Ponte_Alta_Do_Bom_Jesus	    0.00
 171790	       Ponte_Alta_Do_Tocantins	171790	       Ponte_Alta_Do_Tocantins	    0.00
 170040	                         Almas	171800	     Porto_Alegre_Do_Tocantins	    0.32

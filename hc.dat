@@ -13,13 +13,18 @@ data;
 # Secondary health care unit cost (n = 2)
 # Tertiary health care unit cost (n = 3)
 # Brazil # Finland # France
-# 1	240	1318	1415
-# 2	828	2480	1925
-# 3	570	1482	2077
+# 1	240	    1318	1415
+# 2	828	    2480	1925
+# 3	570	    1482	2077
+# Brazil	Finland	France (10.5% e PPP)
+# 1	104	    1743	1667
+# 2	359	    3280	2267
+# 3	247	    1960	2447
+
 param HC:= 
-1	240
-2	828
-3	570
+1	104
+2	359
+3	247
 ;
 
 # Infrastructure fixed Cost per level: Overhead costs
@@ -59,13 +64,23 @@ param: E: Res:=
 9	'Radiotherapy'    # https://data.oecd.org/healtheqt/radiotherapy-equipment.htm#indicator-chart
 ;
 
-# Minimal requirements for workforce and equipment on 3 levels of care
+
+# Requirements for workforce and equipment on 3 levels of care
 # (resource per 1 thousand pop).
-param DEM:	1	2	    3	    4	    5	    6	    7       8	    9:=
-1		0.13	0.63	0.36	0.35	.	    .	    .	    .	    .	
-2		0.52	0.30	0.72	.	    1.19	0.005	0.0036	0.0016	0.0001	
-3		0.62	2.25	0.72	.	    0.81	0.015	0.0119	0.0080	0.0040	
+param DEM:	1		2		3	    4	    5	    6	    7	    8	    9	:=
+1		    0.41	2.53	1.25	1.50	.	    .	    .	    .	    .	
+2		    1.67	1.20	2.51	.	    2.67	0.0066	0.0050	0.0031	0.0003	
+3		    1.99	8.98	2.51	.	    1.82	0.0199	0.0168	0.0156	0.0102	
 ;													
+
+
+# # Minimal requirements for workforce and equipment on 3 levels of care
+# # (resource per 1 thousand pop).
+# param DEM:	1	2	    3	    4	    5	    6	    7       8	    9:=
+# 1		0.13	0.63	0.36	0.35	.	    .	    .	    .	    .	
+# 2		0.52	0.30	0.72	.	    1.19	0.005	0.0036	0.0016	0.0001	
+# 3		0.62	2.25	0.72	.	    0.81	0.015	0.0119	0.0080	0.0040	
+# ;													
 
 # ...Or Minimal team requirement for desination
 # (resource on destination municipality).
