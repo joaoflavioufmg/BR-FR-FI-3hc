@@ -2,7 +2,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170025,Abreulandia,1,Physicians,10160,4.17
 1,170025,Abreulandia,2,Nurses,10160,25.70
 1,170025,Abreulandia,3,OtherCadres,10160,12.70
-1,170025,Abreulandia,4,CommunityBased,10160,15.24
+1,170025,Abreulandia,4,CommunityBased,10160,49.58
 1,170025,Abreulandia,5,Beds,10160,0.00
 1,170025,Abreulandia,6,CTScanner,10160,0.00
 1,170025,Abreulandia,7,MRIUnit,10160,0.00
@@ -11,7 +11,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170030,Aguiarnopolis,1,Physicians,31782,13.03
 1,170030,Aguiarnopolis,2,Nurses,31782,80.41
 1,170030,Aguiarnopolis,3,OtherCadres,31782,39.73
-1,170030,Aguiarnopolis,4,CommunityBased,31782,47.67
+1,170030,Aguiarnopolis,4,CommunityBased,31782,155.10
 1,170030,Aguiarnopolis,5,Beds,31782,0.00
 1,170030,Aguiarnopolis,6,CTScanner,31782,0.00
 1,170030,Aguiarnopolis,7,MRIUnit,31782,0.00
@@ -20,7 +20,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170070,Alvorada,1,Physicians,9089,3.73
 1,170070,Alvorada,2,Nurses,9089,23.00
 1,170070,Alvorada,3,OtherCadres,9089,11.36
-1,170070,Alvorada,4,CommunityBased,9089,13.63
+1,170070,Alvorada,4,CommunityBased,9089,44.35
 1,170070,Alvorada,5,Beds,9089,0.00
 1,170070,Alvorada,6,CTScanner,9089,0.00
 1,170070,Alvorada,7,MRIUnit,9089,0.00
@@ -29,7 +29,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170110,Aparecida_Do_Rio_Negro,1,Physicians,5113,2.10
 1,170110,Aparecida_Do_Rio_Negro,2,Nurses,5113,12.94
 1,170110,Aparecida_Do_Rio_Negro,3,OtherCadres,5113,6.39
-1,170110,Aparecida_Do_Rio_Negro,4,CommunityBased,5113,7.67
+1,170110,Aparecida_Do_Rio_Negro,4,CommunityBased,5113,24.95
 1,170110,Aparecida_Do_Rio_Negro,5,Beds,5113,0.00
 1,170110,Aparecida_Do_Rio_Negro,6,CTScanner,5113,0.00
 1,170110,Aparecida_Do_Rio_Negro,7,MRIUnit,5113,0.00
@@ -38,7 +38,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170200,Araguacu,1,Physicians,9240,3.79
 1,170200,Araguacu,2,Nurses,9240,23.38
 1,170200,Araguacu,3,OtherCadres,9240,11.55
-1,170200,Araguacu,4,CommunityBased,9240,13.86
+1,170200,Araguacu,4,CommunityBased,9240,45.09
 1,170200,Araguacu,5,Beds,9240,0.00
 1,170200,Araguacu,6,CTScanner,9240,0.00
 1,170200,Araguacu,7,MRIUnit,9240,0.00
@@ -47,7 +47,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170210,Araguaina,1,Physicians,191461,78.50
 1,170210,Araguaina,2,Nurses,191461,484.40
 1,170210,Araguaina,3,OtherCadres,191461,239.33
-1,170210,Araguaina,4,CommunityBased,191461,287.19
+1,170210,Araguaina,4,CommunityBased,191461,934.33
 1,170210,Araguaina,5,Beds,191461,0.00
 1,170210,Araguaina,6,CTScanner,191461,0.00
 1,170210,Araguaina,7,MRIUnit,191461,0.00
@@ -56,7 +56,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170215,Araguana,1,Physicians,18577,7.62
 1,170215,Araguana,2,Nurses,18577,47.00
 1,170215,Araguana,3,OtherCadres,18577,23.22
-1,170215,Araguana,4,CommunityBased,18577,27.87
+1,170215,Araguana,4,CommunityBased,18577,90.66
 1,170215,Araguana,5,Beds,18577,0.00
 1,170215,Araguana,6,CTScanner,18577,0.00
 1,170215,Araguana,7,MRIUnit,18577,0.00
@@ -65,7 +65,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170220,Araguatins,1,Physicians,38122,15.63
 1,170220,Araguatins,2,Nurses,38122,96.45
 1,170220,Araguatins,3,OtherCadres,38122,47.65
-1,170220,Araguatins,4,CommunityBased,38122,57.18
+1,170220,Araguatins,4,CommunityBased,38122,186.04
 1,170220,Araguatins,5,Beds,38122,0.00
 1,170220,Araguatins,6,CTScanner,38122,0.00
 1,170220,Araguatins,7,MRIUnit,38122,0.00
@@ -74,7 +74,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170230,Arapoema,1,Physicians,7194,2.95
 1,170230,Arapoema,2,Nurses,7194,18.20
 1,170230,Arapoema,3,OtherCadres,7194,8.99
-1,170230,Arapoema,4,CommunityBased,7194,10.79
+1,170230,Arapoema,4,CommunityBased,7194,35.11
 1,170230,Arapoema,5,Beds,7194,0.00
 1,170230,Arapoema,6,CTScanner,7194,0.00
 1,170230,Arapoema,7,MRIUnit,7194,0.00
@@ -83,7 +83,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170240,Arraias,1,Physicians,11434,4.69
 1,170240,Arraias,2,Nurses,11434,28.93
 1,170240,Arraias,3,OtherCadres,11434,14.29
-1,170240,Arraias,4,CommunityBased,11434,17.15
+1,170240,Arraias,4,CommunityBased,11434,55.80
 1,170240,Arraias,5,Beds,11434,0.00
 1,170240,Arraias,6,CTScanner,11434,0.00
 1,170240,Arraias,7,MRIUnit,11434,0.00
@@ -92,7 +92,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170300,Babaculandia,1,Physicians,11499,4.71
 1,170300,Babaculandia,2,Nurses,11499,29.09
 1,170300,Babaculandia,3,OtherCadres,11499,14.37
-1,170300,Babaculandia,4,CommunityBased,11499,17.25
+1,170300,Babaculandia,4,CommunityBased,11499,56.12
 1,170300,Babaculandia,5,Beds,11499,0.00
 1,170300,Babaculandia,6,CTScanner,11499,0.00
 1,170300,Babaculandia,7,MRIUnit,11499,0.00
@@ -101,7 +101,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170305,Bandeirantes_Do_Tocantins,1,Physicians,3788,1.55
 1,170305,Bandeirantes_Do_Tocantins,2,Nurses,3788,9.58
 1,170305,Bandeirantes_Do_Tocantins,3,OtherCadres,3788,4.74
-1,170305,Bandeirantes_Do_Tocantins,4,CommunityBased,3788,5.68
+1,170305,Bandeirantes_Do_Tocantins,4,CommunityBased,3788,18.49
 1,170305,Bandeirantes_Do_Tocantins,5,Beds,3788,0.00
 1,170305,Bandeirantes_Do_Tocantins,6,CTScanner,3788,0.00
 1,170305,Bandeirantes_Do_Tocantins,7,MRIUnit,3788,0.00
@@ -110,7 +110,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170307,Barra_Do_Ouro,1,Physicians,4906,2.01
 1,170307,Barra_Do_Ouro,2,Nurses,4906,12.41
 1,170307,Barra_Do_Ouro,3,OtherCadres,4906,6.13
-1,170307,Barra_Do_Ouro,4,CommunityBased,4906,7.36
+1,170307,Barra_Do_Ouro,4,CommunityBased,4906,23.94
 1,170307,Barra_Do_Ouro,5,Beds,4906,0.00
 1,170307,Barra_Do_Ouro,6,CTScanner,4906,0.00
 1,170307,Barra_Do_Ouro,7,MRIUnit,4906,0.00
@@ -119,7 +119,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170310,Barrolandia,1,Physicians,6055,2.48
 1,170310,Barrolandia,2,Nurses,6055,15.32
 1,170310,Barrolandia,3,OtherCadres,6055,7.57
-1,170310,Barrolandia,4,CommunityBased,6055,9.08
+1,170310,Barrolandia,4,CommunityBased,6055,29.55
 1,170310,Barrolandia,5,Beds,6055,0.00
 1,170310,Barrolandia,6,CTScanner,6055,0.00
 1,170310,Barrolandia,7,MRIUnit,6055,0.00
@@ -128,7 +128,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170320,Bernardo_Sayao,1,Physicians,4820,1.98
 1,170320,Bernardo_Sayao,2,Nurses,4820,12.19
 1,170320,Bernardo_Sayao,3,OtherCadres,4820,6.03
-1,170320,Bernardo_Sayao,4,CommunityBased,4820,7.23
+1,170320,Bernardo_Sayao,4,CommunityBased,4820,23.52
 1,170320,Bernardo_Sayao,5,Beds,4820,0.00
 1,170320,Bernardo_Sayao,6,CTScanner,4820,0.00
 1,170320,Bernardo_Sayao,7,MRIUnit,4820,0.00
@@ -137,7 +137,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170360,Brasilandia_Do_Tocantins,1,Physicians,6345,2.60
 1,170360,Brasilandia_Do_Tocantins,2,Nurses,6345,16.05
 1,170360,Brasilandia_Do_Tocantins,3,OtherCadres,6345,7.93
-1,170360,Brasilandia_Do_Tocantins,4,CommunityBased,6345,9.52
+1,170360,Brasilandia_Do_Tocantins,4,CommunityBased,6345,30.96
 1,170360,Brasilandia_Do_Tocantins,5,Beds,6345,0.00
 1,170360,Brasilandia_Do_Tocantins,6,CTScanner,6345,0.00
 1,170360,Brasilandia_Do_Tocantins,7,MRIUnit,6345,0.00
@@ -146,7 +146,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170370,Brejinho_De_Nazare,1,Physicians,5905,2.42
 1,170370,Brejinho_De_Nazare,2,Nurses,5905,14.94
 1,170370,Brejinho_De_Nazare,3,OtherCadres,5905,7.38
-1,170370,Brejinho_De_Nazare,4,CommunityBased,5905,8.86
+1,170370,Brejinho_De_Nazare,4,CommunityBased,5905,28.82
 1,170370,Brejinho_De_Nazare,5,Beds,5905,0.00
 1,170370,Brejinho_De_Nazare,6,CTScanner,5905,0.00
 1,170370,Brejinho_De_Nazare,7,MRIUnit,5905,0.00
@@ -155,7 +155,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170384,Campos_Lindos,1,Physicians,10696,4.39
 1,170384,Campos_Lindos,2,Nurses,10696,27.06
 1,170384,Campos_Lindos,3,OtherCadres,10696,13.37
-1,170384,Campos_Lindos,4,CommunityBased,10696,16.04
+1,170384,Campos_Lindos,4,CommunityBased,10696,52.20
 1,170384,Campos_Lindos,5,Beds,10696,0.00
 1,170384,Campos_Lindos,6,CTScanner,10696,0.00
 1,170384,Campos_Lindos,7,MRIUnit,10696,0.00
@@ -164,7 +164,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170386,Cariri_Do_Tocantins,1,Physicians,10359,4.25
 1,170386,Cariri_Do_Tocantins,2,Nurses,10359,26.21
 1,170386,Cariri_Do_Tocantins,3,OtherCadres,10359,12.95
-1,170386,Cariri_Do_Tocantins,4,CommunityBased,10359,15.54
+1,170386,Cariri_Do_Tocantins,4,CommunityBased,10359,50.55
 1,170386,Cariri_Do_Tocantins,5,Beds,10359,0.00
 1,170386,Cariri_Do_Tocantins,6,CTScanner,10359,0.00
 1,170386,Cariri_Do_Tocantins,7,MRIUnit,10359,0.00
@@ -173,7 +173,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170388,Carmolandia,1,Physicians,2757,1.13
 1,170388,Carmolandia,2,Nurses,2757,6.98
 1,170388,Carmolandia,3,OtherCadres,2757,3.45
-1,170388,Carmolandia,4,CommunityBased,2757,4.14
+1,170388,Carmolandia,4,CommunityBased,2757,13.45
 1,170388,Carmolandia,5,Beds,2757,0.00
 1,170388,Carmolandia,6,CTScanner,2757,0.00
 1,170388,Carmolandia,7,MRIUnit,2757,0.00
@@ -182,7 +182,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170389,Carrasco_Bonito,1,Physicians,4378,1.79
 1,170389,Carrasco_Bonito,2,Nurses,4378,11.08
 1,170389,Carrasco_Bonito,3,OtherCadres,4378,5.47
-1,170389,Carrasco_Bonito,4,CommunityBased,4378,6.57
+1,170389,Carrasco_Bonito,4,CommunityBased,4378,21.36
 1,170389,Carrasco_Bonito,5,Beds,4378,0.00
 1,170389,Carrasco_Bonito,6,CTScanner,4378,0.00
 1,170389,Carrasco_Bonito,7,MRIUnit,4378,0.00
@@ -191,7 +191,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170390,Caseara,1,Physicians,5711,2.34
 1,170390,Caseara,2,Nurses,5711,14.45
 1,170390,Caseara,3,OtherCadres,5711,7.14
-1,170390,Caseara,4,CommunityBased,5711,8.57
+1,170390,Caseara,4,CommunityBased,5711,27.87
 1,170390,Caseara,5,Beds,5711,0.00
 1,170390,Caseara,6,CTScanner,5711,0.00
 1,170390,Caseara,7,MRIUnit,5711,0.00
@@ -200,7 +200,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170460,Chapada_De_Areia,1,Physicians,1511,0.62
 1,170460,Chapada_De_Areia,2,Nurses,1511,3.82
 1,170460,Chapada_De_Areia,3,OtherCadres,1511,1.89
-1,170460,Chapada_De_Areia,4,CommunityBased,1511,2.27
+1,170460,Chapada_De_Areia,4,CommunityBased,1511,7.37
 1,170460,Chapada_De_Areia,5,Beds,1511,0.00
 1,170460,Chapada_De_Areia,6,CTScanner,1511,0.00
 1,170460,Chapada_De_Areia,7,MRIUnit,1511,0.00
@@ -209,7 +209,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170510,Chapada_Da_Natividade,1,Physicians,13561,5.56
 1,170510,Chapada_Da_Natividade,2,Nurses,13561,34.31
 1,170510,Chapada_Da_Natividade,3,OtherCadres,13561,16.95
-1,170510,Chapada_Da_Natividade,4,CommunityBased,13561,20.34
+1,170510,Chapada_Da_Natividade,4,CommunityBased,13561,66.18
 1,170510,Chapada_Da_Natividade,5,Beds,13561,0.00
 1,170510,Chapada_Da_Natividade,6,CTScanner,13561,0.00
 1,170510,Chapada_Da_Natividade,7,MRIUnit,13561,0.00
@@ -218,7 +218,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170550,Colinas_Do_Tocantins,1,Physicians,37738,15.47
 1,170550,Colinas_Do_Tocantins,2,Nurses,37738,95.48
 1,170550,Colinas_Do_Tocantins,3,OtherCadres,37738,47.17
-1,170550,Colinas_Do_Tocantins,4,CommunityBased,37738,56.61
+1,170550,Colinas_Do_Tocantins,4,CommunityBased,37738,184.16
 1,170550,Colinas_Do_Tocantins,5,Beds,37738,0.00
 1,170550,Colinas_Do_Tocantins,6,CTScanner,37738,0.00
 1,170550,Colinas_Do_Tocantins,7,MRIUnit,37738,0.00
@@ -227,7 +227,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170560,Conceicao_Do_Tocantins,1,Physicians,4448,1.82
 1,170560,Conceicao_Do_Tocantins,2,Nurses,4448,11.25
 1,170560,Conceicao_Do_Tocantins,3,OtherCadres,4448,5.56
-1,170560,Conceicao_Do_Tocantins,4,CommunityBased,4448,6.67
+1,170560,Conceicao_Do_Tocantins,4,CommunityBased,4448,21.71
 1,170560,Conceicao_Do_Tocantins,5,Beds,4448,0.00
 1,170560,Conceicao_Do_Tocantins,6,CTScanner,4448,0.00
 1,170560,Conceicao_Do_Tocantins,7,MRIUnit,4448,0.00
@@ -236,16 +236,25 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170600,Couto_Magalhaes,1,Physicians,5971,2.45
 1,170600,Couto_Magalhaes,2,Nurses,5971,15.11
 1,170600,Couto_Magalhaes,3,OtherCadres,5971,7.46
-1,170600,Couto_Magalhaes,4,CommunityBased,5971,8.96
+1,170600,Couto_Magalhaes,4,CommunityBased,5971,29.14
 1,170600,Couto_Magalhaes,5,Beds,5971,0.00
 1,170600,Couto_Magalhaes,6,CTScanner,5971,0.00
 1,170600,Couto_Magalhaes,7,MRIUnit,5971,0.00
 1,170600,Couto_Magalhaes,8,Mammography,5971,0.00
 1,170600,Couto_Magalhaes,9,Radiotherapy,5971,0.00
+1,170610,Cristalandia,1,Physicians,16031,6.57
+1,170610,Cristalandia,2,Nurses,16031,40.56
+1,170610,Cristalandia,3,OtherCadres,16031,20.04
+1,170610,Cristalandia,4,CommunityBased,16031,78.23
+1,170610,Cristalandia,5,Beds,16031,0.00
+1,170610,Cristalandia,6,CTScanner,16031,0.00
+1,170610,Cristalandia,7,MRIUnit,16031,0.00
+1,170610,Cristalandia,8,Mammography,16031,0.00
+1,170610,Cristalandia,9,Radiotherapy,16031,0.00
 1,170625,Crixas_Do_Tocantins,1,Physicians,10231,4.19
 1,170625,Crixas_Do_Tocantins,2,Nurses,10231,25.88
 1,170625,Crixas_Do_Tocantins,3,OtherCadres,10231,12.79
-1,170625,Crixas_Do_Tocantins,4,CommunityBased,10231,15.35
+1,170625,Crixas_Do_Tocantins,4,CommunityBased,10231,49.93
 1,170625,Crixas_Do_Tocantins,5,Beds,10231,0.00
 1,170625,Crixas_Do_Tocantins,6,CTScanner,10231,0.00
 1,170625,Crixas_Do_Tocantins,7,MRIUnit,10231,0.00
@@ -254,7 +263,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170700,Dianopolis,1,Physicians,25818,10.59
 1,170700,Dianopolis,2,Nurses,25818,65.32
 1,170700,Dianopolis,3,OtherCadres,25818,32.27
-1,170700,Dianopolis,4,CommunityBased,25818,38.73
+1,170700,Dianopolis,4,CommunityBased,25818,125.99
 1,170700,Dianopolis,5,Beds,25818,0.00
 1,170700,Dianopolis,6,CTScanner,25818,0.00
 1,170700,Dianopolis,7,MRIUnit,25818,0.00
@@ -263,7 +272,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170720,Dois_Irmaos_Do_Tocantins,1,Physicians,7777,3.19
 1,170720,Dois_Irmaos_Do_Tocantins,2,Nurses,7777,19.68
 1,170720,Dois_Irmaos_Do_Tocantins,3,OtherCadres,7777,9.72
-1,170720,Dois_Irmaos_Do_Tocantins,4,CommunityBased,7777,11.67
+1,170720,Dois_Irmaos_Do_Tocantins,4,CommunityBased,7777,37.95
 1,170720,Dois_Irmaos_Do_Tocantins,5,Beds,7777,0.00
 1,170720,Dois_Irmaos_Do_Tocantins,6,CTScanner,7777,0.00
 1,170720,Dois_Irmaos_Do_Tocantins,7,MRIUnit,7777,0.00
@@ -272,7 +281,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170730,Duere,1,Physicians,5055,2.07
 1,170730,Duere,2,Nurses,5055,12.79
 1,170730,Duere,3,OtherCadres,5055,6.32
-1,170730,Duere,4,CommunityBased,5055,7.58
+1,170730,Duere,4,CommunityBased,5055,24.67
 1,170730,Duere,5,Beds,5055,0.00
 1,170730,Duere,6,CTScanner,5055,0.00
 1,170730,Duere,7,MRIUnit,5055,0.00
@@ -281,7 +290,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170740,Esperantina,1,Physicians,11703,4.80
 1,170740,Esperantina,2,Nurses,11703,29.61
 1,170740,Esperantina,3,OtherCadres,11703,14.63
-1,170740,Esperantina,4,CommunityBased,11703,17.55
+1,170740,Esperantina,4,CommunityBased,11703,57.11
 1,170740,Esperantina,5,Beds,11703,0.00
 1,170740,Esperantina,6,CTScanner,11703,0.00
 1,170740,Esperantina,7,MRIUnit,11703,0.00
@@ -290,7 +299,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170770,Filadelfia,1,Physicians,9531,3.91
 1,170770,Filadelfia,2,Nurses,9531,24.11
 1,170770,Filadelfia,3,OtherCadres,9531,11.91
-1,170770,Filadelfia,4,CommunityBased,9531,14.30
+1,170770,Filadelfia,4,CommunityBased,9531,46.51
 1,170770,Filadelfia,5,Beds,9531,0.00
 1,170770,Filadelfia,6,CTScanner,9531,0.00
 1,170770,Filadelfia,7,MRIUnit,9531,0.00
@@ -299,7 +308,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170820,Formoso_Do_Araguaia,1,Physicians,19934,8.17
 1,170820,Formoso_Do_Araguaia,2,Nurses,19934,50.43
 1,170820,Formoso_Do_Araguaia,3,OtherCadres,19934,24.92
-1,170820,Formoso_Do_Araguaia,4,CommunityBased,19934,29.90
+1,170820,Formoso_Do_Araguaia,4,CommunityBased,19934,97.28
 1,170820,Formoso_Do_Araguaia,5,Beds,19934,0.00
 1,170820,Formoso_Do_Araguaia,6,CTScanner,19934,0.00
 1,170820,Formoso_Do_Araguaia,7,MRIUnit,19934,0.00
@@ -308,7 +317,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170825,Fortaleza_Do_Tabocao,1,Physicians,30472,12.49
 1,170825,Fortaleza_Do_Tabocao,2,Nurses,30472,77.09
 1,170825,Fortaleza_Do_Tabocao,3,OtherCadres,30472,38.09
-1,170825,Fortaleza_Do_Tabocao,4,CommunityBased,30472,45.71
+1,170825,Fortaleza_Do_Tabocao,4,CommunityBased,30472,148.70
 1,170825,Fortaleza_Do_Tabocao,5,Beds,30472,0.00
 1,170825,Fortaleza_Do_Tabocao,6,CTScanner,30472,0.00
 1,170825,Fortaleza_Do_Tabocao,7,MRIUnit,30472,0.00
@@ -317,7 +326,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170830,Goianorte,1,Physicians,5518,2.26
 1,170830,Goianorte,2,Nurses,5518,13.96
 1,170830,Goianorte,3,OtherCadres,5518,6.90
-1,170830,Goianorte,4,CommunityBased,5518,8.28
+1,170830,Goianorte,4,CommunityBased,5518,26.93
 1,170830,Goianorte,5,Beds,5518,0.00
 1,170830,Goianorte,6,CTScanner,5518,0.00
 1,170830,Goianorte,7,MRIUnit,5518,0.00
@@ -326,7 +335,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170900,Goiatins,1,Physicians,13959,5.72
 1,170900,Goiatins,2,Nurses,13959,35.32
 1,170900,Goiatins,3,OtherCadres,13959,17.45
-1,170900,Goiatins,4,CommunityBased,13959,20.94
+1,170900,Goiatins,4,CommunityBased,13959,68.12
 1,170900,Goiatins,5,Beds,13959,0.00
 1,170900,Goiatins,6,CTScanner,13959,0.00
 1,170900,Goiatins,7,MRIUnit,13959,0.00
@@ -335,7 +344,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170950,Gurupi,1,Physicians,92471,37.91
 1,170950,Gurupi,2,Nurses,92471,233.95
 1,170950,Gurupi,3,OtherCadres,92471,115.59
-1,170950,Gurupi,4,CommunityBased,92471,138.71
+1,170950,Gurupi,4,CommunityBased,92471,451.26
 1,170950,Gurupi,5,Beds,92471,0.00
 1,170950,Gurupi,6,CTScanner,92471,0.00
 1,170950,Gurupi,7,MRIUnit,92471,0.00
@@ -344,7 +353,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,170980,Ipueiras,1,Physicians,2132,0.87
 1,170980,Ipueiras,2,Nurses,2132,5.39
 1,170980,Ipueiras,3,OtherCadres,2132,2.67
-1,170980,Ipueiras,4,CommunityBased,2132,3.20
+1,170980,Ipueiras,4,CommunityBased,2132,10.40
 1,170980,Ipueiras,5,Beds,2132,0.00
 1,170980,Ipueiras,6,CTScanner,2132,0.00
 1,170980,Ipueiras,7,MRIUnit,2132,0.00
@@ -353,7 +362,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171050,Itacaja,1,Physicians,7996,3.28
 1,171050,Itacaja,2,Nurses,7996,20.23
 1,171050,Itacaja,3,OtherCadres,7996,9.99
-1,171050,Itacaja,4,CommunityBased,7996,11.99
+1,171050,Itacaja,4,CommunityBased,7996,39.02
 1,171050,Itacaja,5,Beds,7996,0.00
 1,171050,Itacaja,6,CTScanner,7996,0.00
 1,171050,Itacaja,7,MRIUnit,7996,0.00
@@ -362,7 +371,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171150,Jau_Do_Tocantins,1,Physicians,4119,1.69
 1,171150,Jau_Do_Tocantins,2,Nurses,4119,10.42
 1,171150,Jau_Do_Tocantins,3,OtherCadres,4119,5.15
-1,171150,Jau_Do_Tocantins,4,CommunityBased,4119,6.18
+1,171150,Jau_Do_Tocantins,4,CommunityBased,4119,20.10
 1,171150,Jau_Do_Tocantins,5,Beds,4119,0.00
 1,171150,Jau_Do_Tocantins,6,CTScanner,4119,0.00
 1,171150,Jau_Do_Tocantins,7,MRIUnit,4119,0.00
@@ -371,7 +380,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171180,Juarina,1,Physicians,2375,0.97
 1,171180,Juarina,2,Nurses,2375,6.01
 1,171180,Juarina,3,OtherCadres,2375,2.97
-1,171180,Juarina,4,CommunityBased,2375,3.56
+1,171180,Juarina,4,CommunityBased,2375,11.59
 1,171180,Juarina,5,Beds,2375,0.00
 1,171180,Juarina,6,CTScanner,2375,0.00
 1,171180,Juarina,7,MRIUnit,2375,0.00
@@ -380,7 +389,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171190,Lagoa_Da_Confusao,1,Physicians,14058,5.76
 1,171190,Lagoa_Da_Confusao,2,Nurses,14058,35.57
 1,171190,Lagoa_Da_Confusao,3,OtherCadres,14058,17.57
-1,171190,Lagoa_Da_Confusao,4,CommunityBased,14058,21.09
+1,171190,Lagoa_Da_Confusao,4,CommunityBased,14058,68.60
 1,171190,Lagoa_Da_Confusao,5,Beds,14058,0.00
 1,171190,Lagoa_Da_Confusao,6,CTScanner,14058,0.00
 1,171190,Lagoa_Da_Confusao,7,MRIUnit,14058,0.00
@@ -389,7 +398,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171195,Lagoa_Do_Tocantins,1,Physicians,7627,3.13
 1,171195,Lagoa_Do_Tocantins,2,Nurses,7627,19.30
 1,171195,Lagoa_Do_Tocantins,3,OtherCadres,7627,9.53
-1,171195,Lagoa_Do_Tocantins,4,CommunityBased,7627,11.44
+1,171195,Lagoa_Do_Tocantins,4,CommunityBased,7627,37.22
 1,171195,Lagoa_Do_Tocantins,5,Beds,7627,0.00
 1,171195,Lagoa_Do_Tocantins,6,CTScanner,7627,0.00
 1,171195,Lagoa_Do_Tocantins,7,MRIUnit,7627,0.00
@@ -398,7 +407,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171200,Lajeado,1,Physicians,31427,12.88
 1,171200,Lajeado,2,Nurses,31427,79.51
 1,171200,Lajeado,3,OtherCadres,31427,39.28
-1,171200,Lajeado,4,CommunityBased,31427,47.14
+1,171200,Lajeado,4,CommunityBased,31427,153.36
 1,171200,Lajeado,5,Beds,31427,0.00
 1,171200,Lajeado,6,CTScanner,31427,0.00
 1,171200,Lajeado,7,MRIUnit,31427,0.00
@@ -407,7 +416,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171215,Lavandeira,1,Physicians,13803,5.66
 1,171215,Lavandeira,2,Nurses,13803,34.92
 1,171215,Lavandeira,3,OtherCadres,13803,17.25
-1,171215,Lavandeira,4,CommunityBased,13803,20.70
+1,171215,Lavandeira,4,CommunityBased,13803,67.36
 1,171215,Lavandeira,5,Beds,13803,0.00
 1,171215,Lavandeira,6,CTScanner,13803,0.00
 1,171215,Lavandeira,7,MRIUnit,13803,0.00
@@ -416,7 +425,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171245,Luzinopolis,1,Physicians,15098,6.19
 1,171245,Luzinopolis,2,Nurses,15098,38.20
 1,171245,Luzinopolis,3,OtherCadres,15098,18.87
-1,171245,Luzinopolis,4,CommunityBased,15098,22.65
+1,171245,Luzinopolis,4,CommunityBased,15098,73.68
 1,171245,Luzinopolis,5,Beds,15098,0.00
 1,171245,Luzinopolis,6,CTScanner,15098,0.00
 1,171245,Luzinopolis,7,MRIUnit,15098,0.00
@@ -425,7 +434,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171250,Marianopolis_Do_Tocantins,1,Physicians,5494,2.25
 1,171250,Marianopolis_Do_Tocantins,2,Nurses,5494,13.90
 1,171250,Marianopolis_Do_Tocantins,3,OtherCadres,5494,6.87
-1,171250,Marianopolis_Do_Tocantins,4,CommunityBased,5494,8.24
+1,171250,Marianopolis_Do_Tocantins,4,CommunityBased,5494,26.81
 1,171250,Marianopolis_Do_Tocantins,5,Beds,5494,0.00
 1,171250,Marianopolis_Do_Tocantins,6,CTScanner,5494,0.00
 1,171250,Marianopolis_Do_Tocantins,7,MRIUnit,5494,0.00
@@ -434,7 +443,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171280,Maurilandia_Do_Tocantins,1,Physicians,3670,1.50
 1,171280,Maurilandia_Do_Tocantins,2,Nurses,3670,9.29
 1,171280,Maurilandia_Do_Tocantins,3,OtherCadres,3670,4.59
-1,171280,Maurilandia_Do_Tocantins,4,CommunityBased,3670,5.50
+1,171280,Maurilandia_Do_Tocantins,4,CommunityBased,3670,17.91
 1,171280,Maurilandia_Do_Tocantins,5,Beds,3670,0.00
 1,171280,Maurilandia_Do_Tocantins,6,CTScanner,3670,0.00
 1,171280,Maurilandia_Do_Tocantins,7,MRIUnit,3670,0.00
@@ -443,7 +452,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171360,Monte_Do_Carmo,1,Physicians,8442,3.46
 1,171360,Monte_Do_Carmo,2,Nurses,8442,21.36
 1,171360,Monte_Do_Carmo,3,OtherCadres,8442,10.55
-1,171360,Monte_Do_Carmo,4,CommunityBased,8442,12.66
+1,171360,Monte_Do_Carmo,4,CommunityBased,8442,41.20
 1,171360,Monte_Do_Carmo,5,Beds,8442,0.00
 1,171360,Monte_Do_Carmo,6,CTScanner,8442,0.00
 1,171360,Monte_Do_Carmo,7,MRIUnit,8442,0.00
@@ -452,7 +461,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171380,Palmeiras_Do_Tocantins,1,Physicians,20574,8.44
 1,171380,Palmeiras_Do_Tocantins,2,Nurses,20574,52.05
 1,171380,Palmeiras_Do_Tocantins,3,OtherCadres,20574,25.72
-1,171380,Palmeiras_Do_Tocantins,4,CommunityBased,20574,30.86
+1,171380,Palmeiras_Do_Tocantins,4,CommunityBased,20574,100.40
 1,171380,Palmeiras_Do_Tocantins,5,Beds,20574,0.00
 1,171380,Palmeiras_Do_Tocantins,6,CTScanner,20574,0.00
 1,171380,Palmeiras_Do_Tocantins,7,MRIUnit,20574,0.00
@@ -461,7 +470,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171395,Muricilandia,1,Physicians,18039,7.40
 1,171395,Muricilandia,2,Nurses,18039,45.64
 1,171395,Muricilandia,3,OtherCadres,18039,22.55
-1,171395,Muricilandia,4,CommunityBased,18039,27.06
+1,171395,Muricilandia,4,CommunityBased,18039,88.03
 1,171395,Muricilandia,5,Beds,18039,0.00
 1,171395,Muricilandia,6,CTScanner,18039,0.00
 1,171395,Muricilandia,7,MRIUnit,18039,0.00
@@ -470,7 +479,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171488,Nova_Olinda,1,Physicians,12640,5.18
 1,171488,Nova_Olinda,2,Nurses,12640,31.98
 1,171488,Nova_Olinda,3,OtherCadres,12640,15.80
-1,171488,Nova_Olinda,4,CommunityBased,12640,18.96
+1,171488,Nova_Olinda,4,CommunityBased,12640,61.68
 1,171488,Nova_Olinda,5,Beds,12640,0.00
 1,171488,Nova_Olinda,6,CTScanner,12640,0.00
 1,171488,Nova_Olinda,7,MRIUnit,12640,0.00
@@ -479,7 +488,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171510,Novo_Acordo,1,Physicians,4624,1.90
 1,171510,Novo_Acordo,2,Nurses,4624,11.70
 1,171510,Novo_Acordo,3,OtherCadres,4624,5.78
-1,171510,Novo_Acordo,4,CommunityBased,4624,6.94
+1,171510,Novo_Acordo,4,CommunityBased,4624,22.57
 1,171510,Novo_Acordo,5,Beds,4624,0.00
 1,171510,Novo_Acordo,6,CTScanner,4624,0.00
 1,171510,Novo_Acordo,7,MRIUnit,4624,0.00
@@ -488,7 +497,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171525,Novo_Jardim,1,Physicians,2910,1.19
 1,171525,Novo_Jardim,2,Nurses,2910,7.36
 1,171525,Novo_Jardim,3,OtherCadres,2910,3.64
-1,171525,Novo_Jardim,4,CommunityBased,2910,4.37
+1,171525,Novo_Jardim,4,CommunityBased,2910,14.20
 1,171525,Novo_Jardim,5,Beds,2910,0.00
 1,171525,Novo_Jardim,6,CTScanner,2910,0.00
 1,171525,Novo_Jardim,7,MRIUnit,2910,0.00
@@ -497,7 +506,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171550,Oliveira_De_Fatima,1,Physicians,9882,4.05
 1,171550,Oliveira_De_Fatima,2,Nurses,9882,25.00
 1,171550,Oliveira_De_Fatima,3,OtherCadres,9882,12.35
-1,171550,Oliveira_De_Fatima,4,CommunityBased,9882,14.82
+1,171550,Oliveira_De_Fatima,4,CommunityBased,9882,48.22
 1,171550,Oliveira_De_Fatima,5,Beds,9882,0.00
 1,171550,Oliveira_De_Fatima,6,CTScanner,9882,0.00
 1,171550,Oliveira_De_Fatima,7,MRIUnit,9882,0.00
@@ -506,7 +515,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171570,Palmeirante,1,Physicians,6384,2.62
 1,171570,Palmeirante,2,Nurses,6384,16.15
 1,171570,Palmeirante,3,OtherCadres,6384,7.98
-1,171570,Palmeirante,4,CommunityBased,6384,9.58
+1,171570,Palmeirante,4,CommunityBased,6384,31.15
 1,171570,Palmeirante,5,Beds,6384,0.00
 1,171570,Palmeirante,6,CTScanner,6384,0.00
 1,171570,Palmeirante,7,MRIUnit,6384,0.00
@@ -515,7 +524,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171575,Palmeiropolis,1,Physicians,8241,3.38
 1,171575,Palmeiropolis,2,Nurses,8241,20.85
 1,171575,Palmeiropolis,3,OtherCadres,8241,10.30
-1,171575,Palmeiropolis,4,CommunityBased,8241,12.36
+1,171575,Palmeiropolis,4,CommunityBased,8241,40.22
 1,171575,Palmeiropolis,5,Beds,8241,0.00
 1,171575,Palmeiropolis,6,CTScanner,8241,0.00
 1,171575,Palmeiropolis,7,MRIUnit,8241,0.00
@@ -524,7 +533,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171610,Paraiso_Do_Tocantins,1,Physicians,59886,24.55
 1,171610,Paraiso_Do_Tocantins,2,Nurses,59886,151.51
 1,171610,Paraiso_Do_Tocantins,3,OtherCadres,59886,74.86
-1,171610,Paraiso_Do_Tocantins,4,CommunityBased,59886,89.83
+1,171610,Paraiso_Do_Tocantins,4,CommunityBased,59886,292.24
 1,171610,Paraiso_Do_Tocantins,5,Beds,59886,0.00
 1,171610,Paraiso_Do_Tocantins,6,CTScanner,59886,0.00
 1,171610,Paraiso_Do_Tocantins,7,MRIUnit,59886,0.00
@@ -533,7 +542,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171620,Parana,1,Physicians,11283,4.63
 1,171620,Parana,2,Nurses,11283,28.55
 1,171620,Parana,3,OtherCadres,11283,14.10
-1,171620,Parana,4,CommunityBased,11283,16.92
+1,171620,Parana,4,CommunityBased,11283,55.06
 1,171620,Parana,5,Beds,11283,0.00
 1,171620,Parana,6,CTScanner,11283,0.00
 1,171620,Parana,7,MRIUnit,11283,0.00
@@ -542,7 +551,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171630,Pau_Darco,1,Physicians,5210,2.14
 1,171630,Pau_Darco,2,Nurses,5210,13.18
 1,171630,Pau_Darco,3,OtherCadres,5210,6.51
-1,171630,Pau_Darco,4,CommunityBased,5210,7.82
+1,171630,Pau_Darco,4,CommunityBased,5210,25.42
 1,171630,Pau_Darco,5,Beds,5210,0.00
 1,171630,Pau_Darco,6,CTScanner,5210,0.00
 1,171630,Pau_Darco,7,MRIUnit,5210,0.00
@@ -551,7 +560,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171650,Pedro_Afonso,1,Physicians,21591,8.85
 1,171650,Pedro_Afonso,2,Nurses,21591,54.63
 1,171650,Pedro_Afonso,3,OtherCadres,21591,26.99
-1,171650,Pedro_Afonso,4,CommunityBased,21591,32.39
+1,171650,Pedro_Afonso,4,CommunityBased,21591,105.36
 1,171650,Pedro_Afonso,5,Beds,21591,0.00
 1,171650,Pedro_Afonso,6,CTScanner,21591,0.00
 1,171650,Pedro_Afonso,7,MRIUnit,21591,0.00
@@ -560,7 +569,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171660,Peixe,1,Physicians,12536,5.14
 1,171660,Peixe,2,Nurses,12536,31.72
 1,171660,Peixe,3,OtherCadres,12536,15.67
-1,171660,Peixe,4,CommunityBased,12536,18.80
+1,171660,Peixe,4,CommunityBased,12536,61.18
 1,171660,Peixe,5,Beds,12536,0.00
 1,171660,Peixe,6,CTScanner,12536,0.00
 1,171660,Peixe,7,MRIUnit,12536,0.00
@@ -569,7 +578,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171670,Colmeia,1,Physicians,17417,7.14
 1,171670,Colmeia,2,Nurses,17417,44.06
 1,171670,Colmeia,3,OtherCadres,17417,21.77
-1,171670,Colmeia,4,CommunityBased,17417,26.13
+1,171670,Colmeia,4,CommunityBased,17417,85.00
 1,171670,Colmeia,5,Beds,17417,0.00
 1,171670,Colmeia,6,CTScanner,17417,0.00
 1,171670,Colmeia,7,MRIUnit,17417,0.00
@@ -578,7 +587,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171700,Pindorama_Do_Tocantins,1,Physicians,4815,1.97
 1,171700,Pindorama_Do_Tocantins,2,Nurses,4815,12.18
 1,171700,Pindorama_Do_Tocantins,3,OtherCadres,4815,6.02
-1,171700,Pindorama_Do_Tocantins,4,CommunityBased,4815,7.22
+1,171700,Pindorama_Do_Tocantins,4,CommunityBased,4815,23.50
 1,171700,Pindorama_Do_Tocantins,5,Beds,4815,0.00
 1,171700,Pindorama_Do_Tocantins,6,CTScanner,4815,0.00
 1,171700,Pindorama_Do_Tocantins,7,MRIUnit,4815,0.00
@@ -587,25 +596,16 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171720,Piraque,1,Physicians,3260,1.34
 1,171720,Piraque,2,Nurses,3260,8.25
 1,171720,Piraque,3,OtherCadres,3260,4.08
-1,171720,Piraque,4,CommunityBased,3260,4.89
+1,171720,Piraque,4,CommunityBased,3260,15.91
 1,171720,Piraque,5,Beds,3260,0.00
 1,171720,Piraque,6,CTScanner,3260,0.00
 1,171720,Piraque,7,MRIUnit,3260,0.00
 1,171720,Piraque,8,Mammography,3260,0.00
 1,171720,Piraque,9,Radiotherapy,3260,0.00
-1,171750,Pium,1,Physicians,16031,6.57
-1,171750,Pium,2,Nurses,16031,40.56
-1,171750,Pium,3,OtherCadres,16031,20.04
-1,171750,Pium,4,CommunityBased,16031,24.05
-1,171750,Pium,5,Beds,16031,0.00
-1,171750,Pium,6,CTScanner,16031,0.00
-1,171750,Pium,7,MRIUnit,16031,0.00
-1,171750,Pium,8,Mammography,16031,0.00
-1,171750,Pium,9,Radiotherapy,16031,0.00
 1,171780,Ponte_Alta_Do_Bom_Jesus,1,Physicians,4962,2.03
 1,171780,Ponte_Alta_Do_Bom_Jesus,2,Nurses,4962,12.55
 1,171780,Ponte_Alta_Do_Bom_Jesus,3,OtherCadres,4962,6.20
-1,171780,Ponte_Alta_Do_Bom_Jesus,4,CommunityBased,4962,7.44
+1,171780,Ponte_Alta_Do_Bom_Jesus,4,CommunityBased,4962,24.21
 1,171780,Ponte_Alta_Do_Bom_Jesus,5,Beds,4962,0.00
 1,171780,Ponte_Alta_Do_Bom_Jesus,6,CTScanner,4962,0.00
 1,171780,Ponte_Alta_Do_Bom_Jesus,7,MRIUnit,4962,0.00
@@ -614,7 +614,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171790,Ponte_Alta_Do_Tocantins,1,Physicians,8586,3.52
 1,171790,Ponte_Alta_Do_Tocantins,2,Nurses,8586,21.72
 1,171790,Ponte_Alta_Do_Tocantins,3,OtherCadres,8586,10.73
-1,171790,Ponte_Alta_Do_Tocantins,4,CommunityBased,8586,12.88
+1,171790,Ponte_Alta_Do_Tocantins,4,CommunityBased,8586,41.90
 1,171790,Ponte_Alta_Do_Tocantins,5,Beds,8586,0.00
 1,171790,Ponte_Alta_Do_Tocantins,6,CTScanner,8586,0.00
 1,171790,Ponte_Alta_Do_Tocantins,7,MRIUnit,8586,0.00
@@ -623,7 +623,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171800,Porto_Alegre_Do_Tocantins,1,Physicians,11043,4.53
 1,171800,Porto_Alegre_Do_Tocantins,2,Nurses,11043,27.94
 1,171800,Porto_Alegre_Do_Tocantins,3,OtherCadres,11043,13.80
-1,171800,Porto_Alegre_Do_Tocantins,4,CommunityBased,11043,16.56
+1,171800,Porto_Alegre_Do_Tocantins,4,CommunityBased,11043,53.89
 1,171800,Porto_Alegre_Do_Tocantins,5,Beds,11043,0.00
 1,171800,Porto_Alegre_Do_Tocantins,6,CTScanner,11043,0.00
 1,171800,Porto_Alegre_Do_Tocantins,7,MRIUnit,11043,0.00
@@ -632,7 +632,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171820,Porto_Nacional,1,Physicians,56839,23.30
 1,171820,Porto_Nacional,2,Nurses,56839,143.80
 1,171820,Porto_Nacional,3,OtherCadres,56839,71.05
-1,171820,Porto_Nacional,4,CommunityBased,56839,85.26
+1,171820,Porto_Nacional,4,CommunityBased,56839,277.37
 1,171820,Porto_Nacional,5,Beds,56839,0.00
 1,171820,Porto_Nacional,6,CTScanner,56839,0.00
 1,171820,Porto_Nacional,7,MRIUnit,56839,0.00
@@ -641,7 +641,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171855,Riachinho,1,Physicians,15328,6.28
 1,171855,Riachinho,2,Nurses,15328,38.78
 1,171855,Riachinho,3,OtherCadres,15328,19.16
-1,171855,Riachinho,4,CommunityBased,15328,22.99
+1,171855,Riachinho,4,CommunityBased,15328,74.80
 1,171855,Riachinho,5,Beds,15328,0.00
 1,171855,Riachinho,6,CTScanner,15328,0.00
 1,171855,Riachinho,7,MRIUnit,15328,0.00
@@ -650,7 +650,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171870,Rio_Dos_Bois,1,Physicians,17458,7.16
 1,171870,Rio_Dos_Bois,2,Nurses,17458,44.17
 1,171870,Rio_Dos_Bois,3,OtherCadres,17458,21.82
-1,171870,Rio_Dos_Bois,4,CommunityBased,17458,26.19
+1,171870,Rio_Dos_Bois,4,CommunityBased,17458,85.20
 1,171870,Rio_Dos_Bois,5,Beds,17458,0.00
 1,171870,Rio_Dos_Bois,6,CTScanner,17458,0.00
 1,171870,Rio_Dos_Bois,7,MRIUnit,17458,0.00
@@ -659,7 +659,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171875,Rio_Sono,1,Physicians,6976,2.86
 1,171875,Rio_Sono,2,Nurses,6976,17.65
 1,171875,Rio_Sono,3,OtherCadres,6976,8.72
-1,171875,Rio_Sono,4,CommunityBased,6976,10.46
+1,171875,Rio_Sono,4,CommunityBased,6976,34.04
 1,171875,Rio_Sono,5,Beds,6976,0.00
 1,171875,Rio_Sono,6,CTScanner,6976,0.00
 1,171875,Rio_Sono,7,MRIUnit,6976,0.00
@@ -668,7 +668,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171880,Sampaio,1,Physicians,33618,13.78
 1,171880,Sampaio,2,Nurses,33618,85.05
 1,171880,Sampaio,3,OtherCadres,33618,42.02
-1,171880,Sampaio,4,CommunityBased,33618,50.43
+1,171880,Sampaio,4,CommunityBased,33618,164.06
 1,171880,Sampaio,5,Beds,33618,0.00
 1,171880,Sampaio,6,CTScanner,33618,0.00
 1,171880,Sampaio,7,MRIUnit,33618,0.00
@@ -677,7 +677,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171884,Sandolandia,1,Physicians,3643,1.49
 1,171884,Sandolandia,2,Nurses,3643,9.22
 1,171884,Sandolandia,3,OtherCadres,3643,4.55
-1,171884,Sandolandia,4,CommunityBased,3643,5.46
+1,171884,Sandolandia,4,CommunityBased,3643,17.78
 1,171884,Sandolandia,5,Beds,3643,0.00
 1,171884,Sandolandia,6,CTScanner,3643,0.00
 1,171884,Sandolandia,7,MRIUnit,3643,0.00
@@ -686,7 +686,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171888,Santa_Maria_Do_Tocantins,1,Physicians,3647,1.50
 1,171888,Santa_Maria_Do_Tocantins,2,Nurses,3647,9.23
 1,171888,Santa_Maria_Do_Tocantins,3,OtherCadres,3647,4.56
-1,171888,Santa_Maria_Do_Tocantins,4,CommunityBased,3647,5.47
+1,171888,Santa_Maria_Do_Tocantins,4,CommunityBased,3647,17.80
 1,171888,Santa_Maria_Do_Tocantins,5,Beds,3647,0.00
 1,171888,Santa_Maria_Do_Tocantins,6,CTScanner,3647,0.00
 1,171888,Santa_Maria_Do_Tocantins,7,MRIUnit,3647,0.00
@@ -695,7 +695,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,171890,Santa_Rosa_Do_Tocantins,1,Physicians,5189,2.13
 1,171890,Santa_Rosa_Do_Tocantins,2,Nurses,5189,13.13
 1,171890,Santa_Rosa_Do_Tocantins,3,OtherCadres,5189,6.49
-1,171890,Santa_Rosa_Do_Tocantins,4,CommunityBased,5189,7.78
+1,171890,Santa_Rosa_Do_Tocantins,4,CommunityBased,5189,25.32
 1,171890,Santa_Rosa_Do_Tocantins,5,Beds,5189,0.00
 1,171890,Santa_Rosa_Do_Tocantins,6,CTScanner,5189,0.00
 1,171890,Santa_Rosa_Do_Tocantins,7,MRIUnit,5189,0.00
@@ -704,7 +704,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172025,Sao_Salvador_Do_Tocantins,1,Physicians,3311,1.36
 1,172025,Sao_Salvador_Do_Tocantins,2,Nurses,3311,8.38
 1,172025,Sao_Salvador_Do_Tocantins,3,OtherCadres,3311,4.14
-1,172025,Sao_Salvador_Do_Tocantins,4,CommunityBased,3311,4.97
+1,172025,Sao_Salvador_Do_Tocantins,4,CommunityBased,3311,16.16
 1,172025,Sao_Salvador_Do_Tocantins,5,Beds,3311,0.00
 1,172025,Sao_Salvador_Do_Tocantins,6,CTScanner,3311,0.00
 1,172025,Sao_Salvador_Do_Tocantins,7,MRIUnit,3311,0.00
@@ -713,7 +713,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172030,Sao_Sebastiao_Do_Tocantins,1,Physicians,17207,7.05
 1,172030,Sao_Sebastiao_Do_Tocantins,2,Nurses,17207,43.53
 1,172030,Sao_Sebastiao_Do_Tocantins,3,OtherCadres,17207,21.51
-1,172030,Sao_Sebastiao_Do_Tocantins,4,CommunityBased,17207,25.81
+1,172030,Sao_Sebastiao_Do_Tocantins,4,CommunityBased,17207,83.97
 1,172030,Sao_Sebastiao_Do_Tocantins,5,Beds,17207,0.00
 1,172030,Sao_Sebastiao_Do_Tocantins,6,CTScanner,17207,0.00
 1,172030,Sao_Sebastiao_Do_Tocantins,7,MRIUnit,17207,0.00
@@ -722,7 +722,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172049,Sao_Valerio,1,Physicians,4333,1.78
 1,172049,Sao_Valerio,2,Nurses,4333,10.96
 1,172049,Sao_Valerio,3,OtherCadres,4333,5.42
-1,172049,Sao_Valerio,4,CommunityBased,4333,6.50
+1,172049,Sao_Valerio,4,CommunityBased,4333,21.14
 1,172049,Sao_Valerio,5,Beds,4333,0.00
 1,172049,Sao_Valerio,6,CTScanner,4333,0.00
 1,172049,Sao_Valerio,7,MRIUnit,4333,0.00
@@ -731,7 +731,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172065,Silvanopolis,1,Physicians,5800,2.38
 1,172065,Silvanopolis,2,Nurses,5800,14.67
 1,172065,Silvanopolis,3,OtherCadres,5800,7.25
-1,172065,Silvanopolis,4,CommunityBased,5800,8.70
+1,172065,Silvanopolis,4,CommunityBased,5800,28.30
 1,172065,Silvanopolis,5,Beds,5800,0.00
 1,172065,Silvanopolis,6,CTScanner,5800,0.00
 1,172065,Silvanopolis,7,MRIUnit,5800,0.00
@@ -740,7 +740,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172080,Sitio_Novo_Do_Tocantins,1,Physicians,39546,16.21
 1,172080,Sitio_Novo_Do_Tocantins,2,Nurses,39546,100.05
 1,172080,Sitio_Novo_Do_Tocantins,3,OtherCadres,39546,49.43
-1,172080,Sitio_Novo_Do_Tocantins,4,CommunityBased,39546,59.32
+1,172080,Sitio_Novo_Do_Tocantins,4,CommunityBased,39546,192.98
 1,172080,Sitio_Novo_Do_Tocantins,5,Beds,39546,0.00
 1,172080,Sitio_Novo_Do_Tocantins,6,CTScanner,39546,0.00
 1,172080,Sitio_Novo_Do_Tocantins,7,MRIUnit,39546,0.00
@@ -749,7 +749,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172085,Sucupira,1,Physicians,2099,0.86
 1,172085,Sucupira,2,Nurses,2099,5.31
 1,172085,Sucupira,3,OtherCadres,2099,2.62
-1,172085,Sucupira,4,CommunityBased,2099,3.15
+1,172085,Sucupira,4,CommunityBased,2099,10.24
 1,172085,Sucupira,5,Beds,2099,0.00
 1,172085,Sucupira,6,CTScanner,2099,0.00
 1,172085,Sucupira,7,MRIUnit,2099,0.00
@@ -758,7 +758,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172090,Taguatinga,1,Physicians,17837,7.31
 1,172090,Taguatinga,2,Nurses,17837,45.13
 1,172090,Taguatinga,3,OtherCadres,17837,22.30
-1,172090,Taguatinga,4,CommunityBased,17837,26.76
+1,172090,Taguatinga,4,CommunityBased,17837,87.04
 1,172090,Taguatinga,5,Beds,17837,0.00
 1,172090,Taguatinga,6,CTScanner,17837,0.00
 1,172090,Taguatinga,7,MRIUnit,17837,0.00
@@ -767,7 +767,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172093,Taipas_Do_Tocantins,1,Physicians,2298,0.94
 1,172093,Taipas_Do_Tocantins,2,Nurses,2298,5.81
 1,172093,Taipas_Do_Tocantins,3,OtherCadres,2298,2.87
-1,172093,Taipas_Do_Tocantins,4,CommunityBased,2298,3.45
+1,172093,Taipas_Do_Tocantins,4,CommunityBased,2298,11.21
 1,172093,Taipas_Do_Tocantins,5,Beds,2298,0.00
 1,172093,Taipas_Do_Tocantins,6,CTScanner,2298,0.00
 1,172093,Taipas_Do_Tocantins,7,MRIUnit,2298,0.00
@@ -776,7 +776,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172097,Talisma,1,Physicians,2991,1.23
 1,172097,Talisma,2,Nurses,2991,7.57
 1,172097,Talisma,3,OtherCadres,2991,3.74
-1,172097,Talisma,4,CommunityBased,2991,4.49
+1,172097,Talisma,4,CommunityBased,2991,14.60
 1,172097,Talisma,5,Beds,2991,0.00
 1,172097,Talisma,6,CTScanner,2991,0.00
 1,172097,Talisma,7,MRIUnit,2991,0.00
@@ -785,7 +785,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172100,Palmas,1,Physicians,314780,129.06
 1,172100,Palmas,2,Nurses,314780,796.39
 1,172100,Palmas,3,OtherCadres,314780,393.48
-1,172100,Palmas,4,CommunityBased,314780,472.17
+1,172100,Palmas,4,CommunityBased,314780,1536.13
 1,172100,Palmas,5,Beds,314780,0.00
 1,172100,Palmas,6,CTScanner,314780,0.00
 1,172100,Palmas,7,MRIUnit,314780,0.00
@@ -794,7 +794,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172130,Tupiratins,1,Physicians,6871,2.82
 1,172130,Tupiratins,2,Nurses,6871,17.38
 1,172130,Tupiratins,3,OtherCadres,6871,8.59
-1,172130,Tupiratins,4,CommunityBased,6871,10.31
+1,172130,Tupiratins,4,CommunityBased,6871,33.53
 1,172130,Tupiratins,5,Beds,6871,0.00
 1,172130,Tupiratins,6,CTScanner,6871,0.00
 1,172130,Tupiratins,7,MRIUnit,6871,0.00
@@ -803,7 +803,7 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 1,172208,Wanderlandia,1,Physicians,12545,5.14
 1,172208,Wanderlandia,2,Nurses,12545,31.74
 1,172208,Wanderlandia,3,OtherCadres,12545,15.68
-1,172208,Wanderlandia,4,CommunityBased,12545,18.82
+1,172208,Wanderlandia,4,CommunityBased,12545,61.22
 1,172208,Wanderlandia,5,Beds,12545,0.00
 1,172208,Wanderlandia,6,CTScanner,12545,0.00
 1,172208,Wanderlandia,7,MRIUnit,12545,0.00
@@ -1142,11 +1142,11 @@ NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
 2,171575,Palmeiropolis,7,MRIUnit,0,0.00
 2,171575,Palmeiropolis,8,Mammography,0,0.00
 2,171575,Palmeiropolis,9,Radiotherapy,0,0.00
-2,171610,Paraiso_Do_Tocantins,1,Physicians,136565,179.19
-2,171610,Paraiso_Do_Tocantins,2,Nurses,136565,128.76
-2,171610,Paraiso_Do_Tocantins,3,OtherCadres,136565,269.32
+2,171610,Paraiso_Do_Tocantins,1,Physicians,136565,178.71
+2,171610,Paraiso_Do_Tocantins,2,Nurses,136565,128.42
+2,171610,Paraiso_Do_Tocantins,3,OtherCadres,136565,268.61
 2,171610,Paraiso_Do_Tocantins,4,CommunityBased,136565,0.00
-2,171610,Paraiso_Do_Tocantins,5,Beds,136565,286.49
+2,171610,Paraiso_Do_Tocantins,5,Beds,136565,285.73
 2,171610,Paraiso_Do_Tocantins,6,CTScanner,136565,0.71
 2,171610,Paraiso_Do_Tocantins,7,MRIUnit,136565,0.54
 2,171610,Paraiso_Do_Tocantins,8,Mammography,136565,0.33

@@ -57,12 +57,12 @@ CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	
 170310,Barrolandia,171610,Paraiso_Do_Tocantins,0.75
 170390,Caseara,171610,Paraiso_Do_Tocantins,2.97
 170460,Chapada_De_Areia,171610,Paraiso_Do_Tocantins,0.83
+170610,Cristalandia,171610,Paraiso_Do_Tocantins,1.22
 170720,Dois_Irmaos_Do_Tocantins,171610,Paraiso_Do_Tocantins,2.02
 171190,Lagoa_Da_Confusao,171610,Paraiso_Do_Tocantins,2.08
 171250,Marianopolis_Do_Tocantins,171610,Paraiso_Do_Tocantins,1.74
 171550,Oliveira_De_Fatima,171610,Paraiso_Do_Tocantins,0.98
 171610,Paraiso_Do_Tocantins,171610,Paraiso_Do_Tocantins,0.00
-171750,Pium,171610,Paraiso_Do_Tocantins,0.95
 170240,Arraias,171620,Parana,2.86
 170560,Conceicao_Do_Tocantins,171620,Parana,2.27
 171575,Palmeiropolis,171620,Parana,1.60

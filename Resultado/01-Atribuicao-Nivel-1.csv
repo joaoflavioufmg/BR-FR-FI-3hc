@@ -32,6 +32,8 @@ CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
 170550,Colinas_Do_Tocantins,170550,Colinas_Do_Tocantins,0.00,1
 170560,Conceicao_Do_Tocantins,170560,Conceicao_Do_Tocantins,0.00,1
 170600,Couto_Magalhaes,170600,Couto_Magalhaes,0.00,1
+170610,Cristalandia,170610,Cristalandia,0.00,1
+171750,Pium,170610,Cristalandia,0.30,1
 170035,Alianca_Do_Tocantins,170625,Crixas_Do_Tocantins,0.39,1
 170625,Crixas_Do_Tocantins,170625,Crixas_Do_Tocantins,0.00,1
 171889,Santa_Rita_Do_Tocantins,170625,Crixas_Do_Tocantins,0.46,1
@@ -97,8 +99,6 @@ CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
 171670,Colmeia,171670,Colmeia,0.00,1
 171700,Pindorama_Do_Tocantins,171700,Pindorama_Do_Tocantins,0.00,1
 171720,Piraque,171720,Piraque,0.00,1
-170610,Cristalandia,171750,Pium,0.30,1
-171750,Pium,171750,Pium,0.00,1
 171780,Ponte_Alta_Do_Bom_Jesus,171780,Ponte_Alta_Do_Bom_Jesus,0.00,1
 171790,Ponte_Alta_Do_Tocantins,171790,Ponte_Alta_Do_Tocantins,0.00,1
 170040,Almas,171800,Porto_Alegre_Do_Tocantins,0.32,1
