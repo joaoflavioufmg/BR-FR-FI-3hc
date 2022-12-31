@@ -1,40 +1,40 @@
 ==============================================================================
 Statistics of travel duration by patients to services - Nivel_1
 ==============================================================================
-Coverage (qty):   133 mun (95.68%).
+Coverage (qty):   853 mun (100.00%).
 Maximum:		  0.51 h.
 Minimum:		  0.00 h.
-Mean:			  0.12 h. [Between  0.09 and  0.15] (95% conf. interval)
+Mean:			  0.14 h. [Between  0.12 and  0.15] (95% conf. interval)
 Median:			  0.00 h.
-Std Deviation:	  0.18 h.
-Co. Variation:	  1.55 h.
-Conf. Int(95%):	  0.03 h.
+Std Deviation:	  0.19 h.
+Co. Variation:	  1.41 h.
+Conf. Int(95%):	  0.01 h.
 ==============================================================================
 
 
 ==============================================================================
 Statistics of travel duration by patients to services - Nivel_2
 ==============================================================================
-Coverage (qty):    90 mun.
-Maximum:		  2.97 h.
+Coverage (qty):   549 mun.
+Maximum:		  0.75 h.
 Minimum:		  0.00 h.
-Mean:			  1.34 h. [Between  1.18 and  1.51] (95% conf. interval)
-Median:			  1.31 h.
-Std Deviation:	  0.79 h.
-Co. Variation:	  0.59 h.
-Conf. Int(95%):	  0.17 h.
+Mean:			  0.12 h. [Between  0.10 and  0.14] (95% conf. interval)
+Median:			  0.00 h.
+Std Deviation:	  0.24 h.
+Co. Variation:	  2.04 h.
+Conf. Int(95%):	  0.02 h.
 ==============================================================================
 
 
 ==============================================================================
 Statistics of travel duration by patients to services - Nivel_3
 ==============================================================================
-Coverage (qty):    11 mun.
-Maximum:		  4.40 h.
+Coverage (qty):   438 mun.
+Maximum:		  1.66 h.
 Minimum:		  0.00 h.
-Mean:			  1.30 h. [Between  0.05 and  2.56] (95% conf. interval)
+Mean:			  0.17 h. [Between  0.13 and  0.21] (95% conf. interval)
 Median:			  0.00 h.
-Std Deviation:	  1.78 h.
-Co. Variation:	  1.36 h.
-Conf. Int(95%):	  1.25 h.
+Std Deviation:	  0.39 h.
+Co. Variation:	  2.34 h.
+Conf. Int(95%):	  0.04 h.
 ==============================================================================

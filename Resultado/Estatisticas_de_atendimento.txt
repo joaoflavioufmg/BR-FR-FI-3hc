@@ -1,38 +1,38 @@
 ==============================================================================
 Demand meet statistics - Nivel_1
 ==============================================================================
-Pop served:		1653560 (106.32%).
-Municipalities (hub):	      90 mun.
+Pop served:		22693346 (107.85%).
+Municipalities (hub):	     549 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.62 (Chapada_De_Areia).
-Mean:			  7.53
-Median:			  3.62
-Maximum:		129.06 (Palmas).
+Minimum:		  0.52 (Cedro_Do_Abaete).
+Mean:			 16.95
+Median:			  6.76
+Maximum:		1106.21 (Belo_Horizonte).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  3.82 (Chapada_De_Areia).
-Mean:			 46.48
-Median:			 22.36
-Maximum:		796.39 (Palmas).
+Minimum:		  3.20 (Cedro_Do_Abaete).
+Mean:			104.58
+Median:			 41.69
+Maximum:		6826.11 (Belo_Horizonte).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  1.89 (Chapada_De_Areia).
-Mean:			 22.97
-Median:			 11.04
-Maximum:		393.48 (Palmas).
+Minimum:		  1.58 (Cedro_Do_Abaete).
+Mean:			 51.67
+Median:			 20.60
+Maximum:		3372.59 (Belo_Horizonte).
 ==============================================================================
 Resource:		CommunityBased		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  7.37 (Chapada_De_Areia).
-Mean:			 89.66
-Median:			 43.12
-Maximum:		1536.13 (Palmas).
+Minimum:		  6.16 (Cedro_Do_Abaete).
+Mean:			201.72
+Median:			 80.42
+Maximum:		13166.58 (Belo_Horizonte).
 ==============================================================================
 
 
@@ -41,65 +41,65 @@ Maximum:		1536.13 (Palmas).
 ==============================================================================
 Demand meet statistics - Nivel_2
 ==============================================================================
-Municipalities (hub):	      11 mun.
+Municipalities (hub):	     438 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 64.66 (Parana).
-Mean:			200.97
-Median:			152.47
-Maximum:		555.16 (Palmas).
+Minimum:		  3.61 (Agua_Comprida).
+Mean:			 77.84
+Median:			 31.91
+Maximum:		4505.78 (Belo_Horizonte).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 46.46 (Parana).
-Mean:			144.41
-Median:			109.56
-Maximum:		398.92 (Palmas).
+Minimum:		  2.59 (Agua_Comprida).
+Mean:			 55.93
+Median:			 22.94
+Maximum:		3237.68 (Belo_Horizonte).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 97.18 (Parana).
-Mean:			302.06
-Median:			229.17
-Maximum:		834.40 (Palmas).
+Minimum:		  5.43 (Agua_Comprida).
+Mean:			116.99
+Median:			 47.97
+Maximum:		6772.15 (Belo_Horizonte).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		103.37 (Parana).
-Mean:			321.32
-Median:			243.77
-Maximum:		887.59 (Palmas).
+Minimum:		  5.77 (Agua_Comprida).
+Mean:			124.45
+Median:			 51.02
+Maximum:		7203.84 (Belo_Horizonte).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.26 (Goiatins).
-Mean:			  0.79
-Median:			  0.60
-Maximum:		  2.19 (Palmas).
+Minimum:		  0.01 (Agua_Comprida).
+Mean:			  0.31
+Median:			  0.13
+Maximum:		 17.81 (Belo_Horizonte).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.19 (Parana).
-Mean:			  0.60
-Median:			  0.46
-Maximum:		  1.66 (Palmas).
+Minimum:		  0.01 (Agua_Comprida).
+Mean:			  0.23
+Median:			  0.10
+Maximum:		 13.49 (Belo_Horizonte).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.12 (Goiatins).
-Mean:			  0.37
-Median:			  0.28
-Maximum:		  1.03 (Palmas).
+Minimum:		  0.01 (Agua_Comprida).
+Mean:			  0.14
+Median:			  0.06
+Maximum:		  8.36 (Belo_Horizonte).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.01 (Goiatins).
-Mean:			  0.04
-Median:			  0.03
-Maximum:		  0.10 (Palmas).
+Minimum:		  0.00 (Abadia_Dos_Dourados).
+Mean:			  0.01
+Median:			  0.01
+Maximum:		  0.81 (Belo_Horizonte).
 ==============================================================================
 
 
@@ -108,65 +108,65 @@ Maximum:		  0.10 (Palmas).
 ==============================================================================
 Demand meet statistics - Nivel_3
 ==============================================================================
-Municipalities (hub):	       7 mun.
+Municipalities (hub):	     367 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 75.86 (Araguatins).
-Mean:			241.42
-Median:			160.01
-Maximum:		626.41 (Palmas).
+Minimum:		  8.30 (Santa_Fe_De_Minas).
+Mean:			107.14
+Median:			 44.20
+Maximum:		5369.16 (Belo_Horizonte).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		342.34 (Araguatins).
-Mean:			1089.44
-Median:			722.04
-Maximum:		2826.72 (Palmas).
+Minimum:		 37.45 (Santa_Fe_De_Minas).
+Mean:			483.48
+Median:			199.46
+Maximum:		24228.66 (Belo_Horizonte).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 95.69 (Araguatins).
-Mean:			304.51
-Median:			201.82
-Maximum:		790.10 (Palmas).
+Minimum:		 10.47 (Santa_Fe_De_Minas).
+Mean:			135.14
+Median:			 55.75
+Maximum:		6772.15 (Belo_Horizonte).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 69.38 (Araguatins).
-Mean:			220.80
-Median:			146.34
-Maximum:		572.90 (Palmas).
+Minimum:		  7.59 (Santa_Fe_De_Minas).
+Mean:			 97.99
+Median:			 40.43
+Maximum:		4910.49 (Belo_Horizonte).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.76 (Araguatins).
-Mean:			  2.41
-Median:			  1.60
-Maximum:		  6.26 (Palmas).
+Minimum:		  0.08 (Minduri).
+Mean:			  1.07
+Median:			  0.44
+Maximum:		 53.69 (Belo_Horizonte).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.64 (Araguatins).
-Mean:			  2.04
-Median:			  1.35
-Maximum:		  5.29 (Palmas).
+Minimum:		  0.07 (Carrancas).
+Mean:			  0.90
+Median:			  0.37
+Maximum:		 45.33 (Belo_Horizonte).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.59 (Araguatins).
-Mean:			  1.89
-Median:			  1.25
-Maximum:		  4.91 (Palmas).
+Minimum:		  0.07 (Carrancas).
+Mean:			  0.84
+Median:			  0.35
+Maximum:		 42.09 (Belo_Horizonte).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.39 (Araguatins).
-Mean:			  1.24
-Median:			  0.82
-Maximum:		  3.21 (Palmas).
+Minimum:		  0.04 (Carrancas).
+Mean:			  0.55
+Median:			  0.23
+Maximum:		 27.52 (Belo_Horizonte).
 ==============================================================================
 
 

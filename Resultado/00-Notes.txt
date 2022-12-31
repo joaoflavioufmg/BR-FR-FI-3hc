@@ -1,196 +1,439 @@
 Optimization settings:
 
 ----------------------------------------
-Objective Function: 	   2267484915.15
-Primary   Care Cost:	    434886280.00
-Secondary Care Cost:	   1208612053.00
-Tertiary  Care Cost:	    522274605.00
-Add Infrastruc Cost:	     14489327.50
-Populat ExtLog Cost:	     87222649.65
-HC Cost per capita (now):	     1291.16
-HC Cost per capita (fut):	     1351.80
+Objective Function: 	  36876484719.76
+Primary   Care Cost:	   5968349998.00
+Secondary Care Cost:	  18638958910.00
+Tertiary  Care Cost:	  12151764705.00
+Add Infrastruc Cost:	    111098430.38
+Populat ExtLog Cost:	      6312676.38
+HC Cost per capita (now):	     1619.82
+HC Cost per capita (fut):	     1624.99
 ----------------------------------------
 
 -----------------------------------
-State population:	1677386
-Max municipa pop:	314780
-Min municipa pop:	1193
+State population:	22693346
+Max municipa pop:	2698069
+Min municipa pop:	848
 -----------------------------------
 Care Level	Pop. Min	Dur. Max(h).
 -----------------------------------
 [1]			0      		0.51
-[2]			10000  		3.00
-[3]			30000  		6.30
+[2]			2000   		0.75
+[3]			4000   		1.67
 -----------------------------------
 
 
-Demand met by level: (Estate has 139 municipalities).
+Demand met by level: (Estate has 853 municipalities).
 ----------------------------------------------------------------
-Care Level [1]: 133 mun >  90 mun (95.68% coverage)
-Care Level [2]:  90 mun >  11 mun
-Care Level [3]:  11 mun >   7 mun
+Care Level [1]: 853 mun > 549 mun (100.00% coverage)
+Care Level [2]: 549 mun > 438 mun
+Care Level [3]: 438 mun > 367 mun
 ----------------------------------------------------------------
 
 Municipalities requiring additional infrastructure:
 ----------------------------------------------------------------
 LEVEL	CODE	DESCRIPTION		COST($)
-    1	170025	Abreulandia              :	267208.00
-    1	170030	Aguiarnopolis            :	835866.60
-    1	170110	Aparecida_Do_Rio_Negro   :	134471.90
-    1	170215	Araguana                 :	488575.10
-    1	170300	Babaculandia             :	302423.70
-    1	170305	Bandeirantes_Do_Tocantins:	99624.40
-    1	170307	Barra_Do_Ouro            :	129027.80
-    1	170310	Barrolandia              :	159246.50
-    1	170320	Bernardo_Sayao           :	126766.00
-    1	170360	Brasilandia_Do_Tocantins :	166873.50
-    1	170384	Campos_Lindos            :	281304.80
-    1	170386	Cariri_Do_Tocantins      :	272441.70
-    1	170388	Carmolandia              :	72509.10
-    1	170389	Carrasco_Bonito          :	115141.40
-    1	170390	Caseara                  :	150199.30
-    1	170460	Chapada_De_Areia         :	39739.30
-    1	170510	Chapada_Da_Natividade    :	356654.30
-    1	170560	Conceicao_Do_Tocantins   :	116982.40
-    1	170600	Couto_Magalhaes          :	157037.30
-    1	170625	Crixas_Do_Tocantins      :	269075.30
-    1	170720	Dois_Irmaos_Do_Tocantins :	204535.10
-    1	170740	Esperantina              :	307788.90
-    1	170825	Fortaleza_Do_Tabocao     :	801413.60
-    1	170830	Goianorte                :	145123.40
-    1	170980	Ipueiras                 :	56071.60
-    1	171150	Jau_Do_Tocantins         :	108329.70
-    1	171180	Juarina                  :	62462.50
-    1	171195	Lagoa_Do_Tocantins       :	200590.10
-    1	171200	Lajeado                  :	826530.10
-    1	171215	Lavandeira               :	363018.90
-    1	171245	Luzinopolis              :	397077.40
-    1	171250	Marianopolis_Do_Tocantins:	144492.20
-    1	171280	Maurilandia_Do_Tocantins :	96521.00
-    1	171380	Palmeiras_Do_Tocantins   :	541096.20
-    1	171395	Muricilandia             :	474425.70
-    1	171488	Nova_Olinda              :	332432.00
-    1	171510	Novo_Acordo              :	121611.20
-    1	171525	Novo_Jardim              :	76533.00
-    1	171550	Oliveira_De_Fatima       :	259896.60
-    1	171570	Palmeirante              :	167899.20
-    1	171630	Pau_Darco                :	137023.00
-    1	171720	Piraque                  :	85738.00
-    1	171780	Ponte_Alta_Do_Bom_Jesus  :	130500.60
-    1	171800	Porto_Alegre_Do_Tocantins:	290430.90
-    1	171855	Riachinho                :	403126.40
-    1	171870	Rio_Dos_Bois             :	459145.40
-    1	171875	Rio_Sono                 :	183468.80
-    1	171880	Sampaio                  :	884153.40
-    1	171884	Sandolandia              :	95810.90
-    1	171888	Santa_Maria_Do_Tocantins :	95916.10
-    1	171890	Santa_Rosa_Do_Tocantins  :	136470.70
-    1	172025	Sao_Salvador_Do_Tocantins:	87079.30
-    1	172030	Sao_Sebastiao_Do_Tocantins:	452544.10
-    1	172049	Sao_Valerio              :	113957.90
-    1	172085	Sucupira                 :	55203.70
-    1	172093	Taipas_Do_Tocantins      :	60437.40
-    1	172097	Talisma                  :	78663.30
-    1	172130	Tupiratins               :	180707.30
-    1	172208	Wanderlandia             :	329933.50
+    1	310040	Acaiaca                  :	370409.20
+    1	310070	Agua_Comprida            :	56860.60
+    1	310220	Alvarenga                :	112695.50
+    1	310285	Angelandia               :	240566.10
+    1	310320	Aracai                   :	66407.50
+    1	310380	Arapua                   :	80372.80
+    1	310480	Augusto_De_Lima          :	138653.60
+    1	310520	Bandeira                 :	136865.20
+    1	310665	Berizal                  :	133472.50
+    1	310680	Bias_Fortes              :	97283.70
+    1	310700	Biquinhas                :	199748.50
+    1	310770	Bom_Jesus_Do_Amparo      :	333273.60
+    1	310820	Bonfinopolis_De_Minas    :	157247.70
+    1	310825	Bonito_De_Minas          :	314521.70
+    1	310850	Botumirim                :	180128.70
+    1	310855	Brasilandia_De_Minas     :	462958.90
+    1	310880	Braunas                  :	137154.50
+    1	310945	Cabeceira_Grande         :	195987.60
+    1	311115	Campo_Azul               :	108066.70
+    1	311170	Canaa                    :	368883.80
+    1	311210	Caparao                  :	153855.00
+    1	311220	Capela_Nova              :	132552.00
+    1	311270	Capitao_Eneas            :	429820.90
+    1	311290	Caputira                 :	263420.80
+    1	311310	Caranaiba                :	198249.40
+    1	311380	Carmesia                 :	74244.90
+    1	311455	Carneirinho              :	283251.00
+    1	311500	Cascalho_Rico            :	86711.10
+    1	311520	Conceicao_Da_Barra_De_Minas:	112379.90
+    1	311540	Catas_Altas_Da_Noruega   :	258108.20
+    1	311547	Catuti                   :	142046.30
+    1	311560	Cedro_Do_Abaete          :	33216.90
+    1	311590	Chacara                  :	88525.80
+    1	311610	Chapada_Do_Norte         :	435922.50
+    1	311620	Chiador                  :	76638.20
+    1	311650	Claro_Dos_Pocoes         :	215291.80
+    1	311690	Comendador_Gomes         :	88026.10
+    1	311700	Comercinho               :	201116.10
+    1	311720	Conceicao_Das_Pedras     :	213950.50
+    1	311783	Conego_Marinho           :	215449.60
+    1	311810	Congonhas_Do_Norte       :	143072.00
+    1	311910	Corinto                  :	675015.80
+    1	311950	Coronel_Murta            :	261763.90
+    1	311960	Coronel_Pacheco          :	277491.30
+    1	312000	Corrego_Novo             :	218631.90
+    1	312070	Cruzeiro_Da_Fortaleza    :	117271.70
+    1	312125	Delta                    :	291903.70
+    1	312130	Descoberto               :	394237.00
+    1	312240	Divisa_Nova              :	170082.10
+    1	312245	Divisopolis              :	306921.00
+    1	312247	Dom_Bosco                :	104937.00
+    1	312310	Dores_De_Guanhaes        :	147069.60
+    1	312340	Doresopolis              :	43132.00
+    1	312350	Douradoquara             :	54046.50
+    1	312385	Entre_Folhas             :	336219.20
+    1	312480	Estrela_Do_Sul           :	225101.70
+    1	312550	Sao_Goncalo_Do_Rio_Preto :	470007.30
+    1	312570	Felixlandia              :	432161.60
+    1	312580	Fernandes_Tourinho       :	254952.20
+    1	312620	Formoso                  :	267523.60
+    1	312640	Fortuna_De_Minas         :	185599.10
+    1	312660	Francisco_Dumont         :	147122.20
+    1	312680	Frei_Gaspar              :	336008.80
+    1	312700	Fronteira                :	502093.30
+    1	312707	Fruta_De_Leite           :	154328.40
+    1	312733	Gameleiras               :	145281.20
+    1	312735	Glaucilandia             :	211373.10
+    1	312737	Goiabeira                :	235095.70
+    1	312790	Grupiara                 :	39397.40
+    1	312860	Guarda_Mor               :	186966.70
+    1	312960	Ibiai                    :	236884.10
+    1	313005	Icarai_De_Minas          :	336955.60
+    1	313065	Indaiabira               :	208848.30
+    1	313070	Indianopolis             :	193699.50
+    1	313080	Ingai                    :	232912.80
+    1	313140	Ipiacu                   :	119612.40
+    1	313200	Itacambira               :	151829.90
+    1	313280	Itambe_Do_Mato_Dentro    :	59779.90
+    1	313340	Itapagipe                :	428374.40
+    1	313400	Itinga                   :	424245.30
+    1	313500	Jaguaracu                :	468902.70
+    1	313535	Japonvar                 :	498227.20
+    1	313545	Jenipapo_De_Minas        :	216843.50
+    1	313560	Jequitai                 :	215502.20
+    1	313570	Jequitiba                :	370645.90
+    1	313610	Joanesia                 :	293297.60
+    1	313640	Joaquim_Felicio          :	426586.00
+    1	313652	Jose_Goncalves_De_Minas  :	128107.30
+    1	313655	Jose_Raydan              :	290167.90
+    1	313740	Lagoa_Dourada            :	367411.00
+    1	313753	Lagoa_Grande             :	268181.10
+    1	313810	Lassance                 :	184994.20
+    1	313835	Leme_Do_Prado            :	139416.30
+    1	313850	Liberdade                :	289326.30
+    1	313862	Limeira_Do_Oeste         :	212214.70
+    1	313867	Luisburgo                :	177998.40
+    1	313910	Madre_De_Deus_De_Minas   :	144308.10
+    1	314010	Marilac                  :	117271.70
+    1	314040	Marmelopolis             :	306894.70
+    1	314055	Mata_Verde               :	241854.80
+    1	314130	Medeiros                 :	106962.10
+    1	314225	Miravania                :	137890.90
+    1	314250	Monjolos                 :	151724.70
+    1	314315	Monte_Formoso            :	138679.90
+    1	314345	Montezuma                :	232044.90
+    1	314360	Morro_Da_Garca           :	70562.90
+    1	314370	Morro_Do_Pilar           :	91076.90
+    1	314420	Nacip_Raydan             :	212004.30
+    1	314437	Natalandia               :	93996.20
+    1	314490	Nova_Modica              :	332984.30
+    1	314540	Olaria                   :	50338.20
+    1	314545	Olhos_Dagua              :	170713.30
+    1	314625	Padre_Carvalho           :	316993.90
+    1	314660	Paiva                    :	102149.20
+    1	314675	Palmopolis               :	160850.80
+    1	314780	Passa_Vinte              :	58096.70
+    1	314795	Patis                    :	168556.70
+    1	314830	Paula_Candido            :	271100.40
+    1	314850	Pavao                    :	544962.30
+    1	314875	Pedra_Bonita             :	200406.00
+    1	314900	Pedra_Dourada            :	173132.90
+    1	314940	Pedro_Teixeira           :	51285.00
+    1	314960	Pequi                    :	789315.60
+    1	314995	Periquito                :	194225.50
+    1	315020	Piedade_De_Ponte_Nova    :	470875.20
+    1	315040	Piedade_Dos_Gerais       :	140547.20
+    1	315057	Pintopolis               :	212451.40
+    1	315070	Pirajuba                 :	399207.70
+    1	315160	Planura                  :	339480.40
+    1	315213	Ponto_Chique             :	120191.00
+    1	315300	Pratinha                 :	101360.20
+    1	315320	Presidente_Juscelino     :	104279.50
+    1	315330	Presidente_Kubitschek    :	85212.00
+    1	315380	Queluzito                :	118981.20
+    1	315445	Riachinho                :	230835.10
+    1	315450	Riacho_Dos_Machados      :	269101.60
+    1	315500	Rio_Doce                 :	209663.60
+    1	315530	Rio_Manso                :	359073.90
+    1	315645	Rosario_Da_Limeira       :	129527.50
+    1	315650	Rubelita                 :	175815.50
+    1	315737	Santa_Cruz_De_Salinas    :	335640.60
+    1	315750	Santa_Efigenia_De_Minas  :	590987.30
+    1	315760	Santa_Fe_De_Minas        :	109671.00
+    1	315810	Santa_Maria_Do_Salto     :	148858.00
+    1	315830	Santana_Da_Vargem        :	462906.30
+    1	315850	Santana_De_Pirapama      :	218316.30
+    1	315870	Santana_Do_Garambeu      :	69142.70
+    1	315890	Santana_Do_Manhuacu      :	800177.50
+    1	315900	Santana_Do_Riacho        :	121243.00
+    1	315950	Santa_Rita_Do_Itueto     :	156642.80
+    1	315970	Santa_Rosa_Da_Serra      :	94837.80
+    1	316020	Santo_Antonio_Do_Itambe  :	231755.60
+    1	316030	Santo_Antonio_Do_Jacinto :	331222.20
+    1	316045	Santo_Antonio_Do_Retiro  :	205823.80
+    1	316080	Sao_Bento_Abade          :	348212.00
+    1	316130	Sao_Francisco_De_Sales   :	175868.10
+    1	316165	Sao_Geraldo_Do_Baixio    :	112406.20
+    1	316170	Sao_Goncalo_Do_Abaete    :	196382.10
+    1	316225	Sao_Joao_Da_Lagoa        :	255872.70
+    1	316340	Sao_Jose_Do_Goiabal      :	154696.60
+    1	316360	Sao_Jose_Do_Mantimento   :	78715.90
+    1	316480	Sao_Sebastiao_Do_Rio_Preto:	93312.40
+    1	316555	Setubinha                :	344188.10
+    1	316620	Senhora_Dos_Remedios     :	296453.60
+    1	316640	Seritinga                :	235805.80
+    1	316660	Serra_Da_Saudade         :	121821.60
+    1	316750	Simao_Pereira            :	284118.90
+    1	316810	Tapira                   :	133630.30
+    1	316820	Tapirai                  :	145254.90
+    1	316830	Taquaracu_De_Minas       :	115036.20
+    1	316890	Tiros                    :	185493.90
+    1	316905	Tocos_Do_Moji            :	116088.20
+    1	316910	Toledo                   :	348369.80
+    1	316950	Tumiritinga              :	189991.20
+    1	316980	Turvolandia              :	318677.10
+    1	317000	Ubai                     :	353603.50
+    1	317047	Uruana_De_Minas          :	92681.20
+    1	317065	Vargem_Grande_Do_Rio_Pardo:	141467.70
+    1	317075	Varjao_De_Minas          :	200563.80
+    1	317103	Verdelandia              :	262815.90
+    1	317110	Verissimo                :	112064.30
+    1	317115	Vermelho_Novo            :	137075.60
+    1	317190	Virgolandia              :	438552.50
+    2	310070	Agua_Comprida            :	236868.72
+    2	310220	Alvarenga                :	469464.60
+    2	310480	Augusto_De_Lima          :	3389567.28
+    2	310520	Bandeira                 :	570150.24
+    2	310665	Berizal                  :	556017.00
+    2	310680	Bias_Fortes              :	405262.44
+    2	310820	Bonfinopolis_De_Minas    :	655059.24
+    2	310825	Bonito_De_Minas          :	1310228.04
+    2	310850	Botumirim                :	750376.44
+    2	310855	Brasilandia_De_Minas     :	1928584.68
+    2	310945	Cabeceira_Grande         :	816441.12
+    2	311115	Campo_Azul               :	450182.04
+    2	311270	Capitao_Eneas            :	1790539.08
+    2	311380	Carmesia                 :	921947.40
+    2	311650	Claro_Dos_Pocoes         :	896858.16
+    2	311690	Comendador_Gomes         :	366697.32
+    2	311810	Congonhas_Do_Norte       :	596006.40
+    2	312245	Divisopolis              :	1278565.20
+    2	312247	Dom_Bosco                :	437144.40
+    2	312350	Douradoquara             :	389266.68
+    2	312550	Sao_Goncalo_Do_Rio_Preto :	373490.04
+    2	312570	Felixlandia              :	1800289.92
+    2	312620	Formoso                  :	1114444.32
+    2	312660	Francisco_Dumont         :	612878.64
+    2	312700	Fronteira                :	2091609.96
+    2	312707	Fruta_De_Leite           :	1391083.32
+    2	312733	Gameleiras               :	605209.44
+    2	312737	Goiabeira                :	393210.84
+    2	313005	Icarai_De_Minas          :	1403682.72
+    2	313070	Indianopolis             :	806909.40
+    2	313200	Itacambira               :	632489.88
+    2	313280	Itambe_Do_Mato_Dentro    :	249029.88
+    2	313560	Jequitai                 :	897734.64
+    2	313570	Jequitiba                :	1525732.56
+    2	313610	Joanesia                 :	1123647.36
+    2	313640	Joaquim_Felicio          :	550867.68
+    2	313652	Jose_Goncalves_De_Minas  :	533666.76
+    2	313753	Lagoa_Grande             :	1117183.32
+    2	313835	Leme_Do_Prado            :	580777.56
+    2	313862	Limeira_Do_Oeste         :	2064000.84
+    2	314055	Mata_Verde               :	1007513.76
+    2	314225	Miravania                :	574423.08
+    2	314250	Monjolos                 :	264696.96
+    2	314315	Monte_Formoso            :	577709.88
+    2	314370	Morro_Do_Pilar           :	379406.28
+    2	314420	Nacip_Raydan             :	1020880.08
+    2	314437	Natalandia               :	391567.44
+    2	314490	Nova_Modica              :	428598.72
+    2	314545	Olhos_Dagua              :	711153.96
+    2	314675	Palmopolis               :	670068.96
+    2	314850	Pavao                    :	1002145.32
+    2	315040	Piedade_Dos_Gerais       :	585488.64
+    2	315057	Pintopolis               :	885025.68
+    2	315213	Ponto_Chique             :	1487496.12
+    2	315330	Presidente_Kubitschek    :	354974.40
+    2	315450	Riacho_Dos_Machados      :	1121017.92
+    2	315650	Rubelita                 :	1822859.28
+    2	315737	Santa_Cruz_De_Salinas    :	493567.80
+    2	315760	Santa_Fe_De_Minas        :	456865.20
+    2	315810	Santa_Maria_Do_Salto     :	620109.60
+    2	315900	Santana_Do_Riacho        :	505071.60
+    2	315950	Santa_Rita_Do_Itueto     :	652539.36
+    2	316030	Santo_Antonio_Do_Jacinto :	1379798.64
+    2	316045	Santo_Antonio_Do_Retiro  :	2413387.68
+    2	316130	Sao_Francisco_De_Sales   :	2517141.00
+    2	316165	Sao_Geraldo_Do_Baixio    :	468259.44
+    2	316555	Setubinha                :	1433811.72
+    2	316810	Tapira                   :	556674.36
+    2	316890	Tiros                    :	772726.68
+    2	316905	Tocos_Do_Moji            :	483597.84
+    2	316950	Tumiritinga              :	791461.44
+    2	317047	Uruana_De_Minas          :	386089.44
+    2	317075	Varjao_De_Minas          :	1653589.08
+    2	317110	Verissimo                :	466835.16
+    3	310480	Augusto_De_Lima          :	992905.20
+    3	312620	Formoso                  :	1313713.80
+    3	315760	Santa_Fe_De_Minas        :	538555.50
 ----------------------------------------------------------------
 
 Municipalities (origin) for logistics investiment:
 ----------------------------------------------------------------
 LEVEL	CODE	DESCRIPTION		COST($)
-    1	171320	Miracema_Do_Tocantins    :	8757.00
-    1	171900	Santa_Tereza_Do_Tocantins:	1336.90
-    1	172120	Tocantinopolis           :	10799.30
-    2	170025	Abreulandia              :	89671.13
-    2	170030	Aguiarnopolis            :	996755.05
-    2	170070	Alvorada                 :	385577.92
-    2	170110	Aparecida_Do_Rio_Negro   :	171057.27
-    2	170200	Araguacu                 :	5483353.68
-    2	170215	Araguana                 :	425739.76
-    2	170230	Arapoema                 :	750626.28
-    2	170240	Arraias                  :	6247155.94
-    2	170300	Babaculandia             :	1125990.96
-    2	170305	Bandeirantes_Do_Tocantins:	10113.76
-    2	170307	Barra_Do_Ouro            :	63848.72
-    2	170310	Barrolandia              :	9735.30
-    2	170320	Bernardo_Sayao           :	100842.41
-    2	170360	Brasilandia_Do_Tocantins :	1369.44
-    2	170370	Brejinho_De_Nazare       :	10405.77
-    2	170384	Campos_Lindos            :	595499.49
-    2	170388	Carmolandia              :	451.93
-    2	170389	Carrasco_Bonito          :	37541.35
-    2	170390	Caseara                  :	3549413.82
-    2	170460	Chapada_De_Areia         :	4684.51
-    2	170510	Chapada_Da_Natividade    :	544928.37
-    2	170560	Conceicao_Do_Tocantins   :	1085003.87
-    2	170600	Couto_Magalhaes          :	349986.66
-    2	170610	Cristalandia             :	170788.72
-    2	170625	Crixas_Do_Tocantins      :	38537.70
-    2	170720	Dois_Irmaos_Do_Tocantins :	1244929.52
-    2	170730	Duere                    :	31553.57
-    2	170740	Esperantina              :	403763.57
-    2	170770	Filadelfia               :	1498243.98
-    2	170820	Formoso_Do_Araguaia      :	359107.14
-    2	170825	Fortaleza_Do_Tabocao     :	21514.68
-    2	170830	Goianorte                :	1000037.65
-    2	170980	Ipueiras                 :	28958.53
-    2	171050	Itacaja                  :	3144697.26
-    2	171150	Jau_Do_Tocantins         :	1036638.79
-    2	171180	Juarina                  :	109610.73
-    2	171190	Lagoa_Da_Confusao        :	2503774.25
-    2	171195	Lagoa_Do_Tocantins       :	618642.43
-    2	171200	Lajeado                  :	24584.29
-    2	171215	Lavandeira               :	1101837.91
-    2	171245	Luzinopolis              :	103708.87
-    2	171250	Marianopolis_Do_Tocantins:	504168.14
-    2	171280	Maurilandia_Do_Tocantins :	1027775.06
-    2	171360	Monte_Do_Carmo           :	12342.23
-    2	171380	Palmeiras_Do_Tocantins   :	664589.30
-    2	171395	Muricilandia             :	47229.47
-    2	171488	Nova_Olinda              :	39187.46
-    2	171510	Novo_Acordo              :	753686.69
-    2	171525	Novo_Jardim              :	86.24
-    2	171550	Oliveira_De_Fatima       :	9239.39
-    2	171570	Palmeirante              :	337292.51
-    2	171575	Palmeiropolis            :	547241.96
-    2	171630	Pau_Darco                :	1437285.89
-    2	171660	Peixe                    :	234613.47
-    2	171670	Colmeia                  :	496620.74
-    2	171700	Pindorama_Do_Tocantins   :	1328317.00
-    2	171720	Piraque                  :	42426.99
-    2	171780	Ponte_Alta_Do_Bom_Jesus  :	132540.94
-    2	171790	Ponte_Alta_Do_Tocantins  :	1842054.72
-    2	171855	Riachinho                :	725106.39
-    2	171870	Rio_Dos_Bois             :	147821.36
-    2	171875	Rio_Sono                 :	1648766.70
-    2	171880	Sampaio                  :	12323.30
-    2	171884	Sandolandia              :	1739606.50
-    2	171888	Santa_Maria_Do_Tocantins :	39732.38
-    2	171890	Santa_Rosa_Do_Tocantins  :	361683.63
-    2	172025	Sao_Salvador_Do_Tocantins:	29834.24
-    2	172030	Sao_Sebastiao_Do_Tocantins:	25343.04
-    2	172049	Sao_Valerio              :	899446.81
-    2	172065	Silvanopolis             :	42627.47
-    2	172080	Sitio_Novo_Do_Tocantins  :	190268.25
-    2	172085	Sucupira                 :	4783.32
-    2	172090	Taguatinga               :	2323204.95
-    2	172093	Taipas_Do_Tocantins      :	799300.31
-    2	172097	Talisma                  :	436728.39
-    2	172130	Tupiratins               :	565772.01
-    2	172208	Wanderlandia             :	47958.79
-    3	170700	Dianopolis               :	19393430.72
-    3	170900	Goiatins                 :	6091746.45
-    3	171620	Parana                   :	5599567.60
-    3	171650	Pedro_Afonso             :	1139322.67
+    1	312440	Espirito_Santo_Do_Dourado:	2204.12
+    1	313055	Imbe_De_Minas            :	3237.95
+    1	314100	Mato_Verde               :	5899.51
+    1	314340	Monte_Siao               :	11116.80
+    1	315860	Santana_Do_Deserto       :	1873.06
+    1	316160	Sao_Geraldo_Da_Piedade   :	1893.62
+    1	316450	Sao_Sebastiao_Do_Maranhao:	4777.78
+    1	316510	Sao_Tomas_De_Aquino      :	3321.48
+    2	310040	Acaiaca                  :	15732.48
+    2	310130	Alagoa                   :	19220.53
+    2	310285	Angelandia               :	14993.73
+    2	310320	Aracai                   :	3214.87
+    2	310380	Arapua                   :	2113.19
+    2	310700	Biquinhas                :	47.77
+    2	310770	Bom_Jesus_Do_Amparo      :	23755.75
+    2	310880	Braunas                  :	10732.47
+    2	311170	Canaa                    :	42197.76
+    2	311210	Caparao                  :	7448.31
+    2	311220	Capela_Nova              :	10372.32
+    2	311290	Caputira                 :	50244.01
+    2	311455	Carneirinho              :	115666.28
+    2	311500	Cascalho_Rico            :	43670.85
+    2	311520	Conceicao_Da_Barra_De_Minas:	8793.83
+    2	311540	Catas_Altas_Da_Noruega   :	68.47
+    2	311547	Catuti                   :	58004.97
+    2	311560	Cedro_Do_Abaete          :	3197.52
+    2	311590	Chacara                  :	240.14
+    2	311610	Chapada_Do_Norte         :	96057.56
+    2	311620	Chiador                  :	27986.06
+    2	311700	Comercinho               :	122949.42
+    2	311783	Conego_Marinho           :	10430.19
+    2	311910	Corinto                  :	93730.20
+    2	311950	Coronel_Murta            :	85036.31
+    2	311960	Coronel_Pacheco          :	6836.68
+    2	312000	Corrego_Novo             :	1431.38
+    2	312070	Cruzeiro_Da_Fortaleza    :	2102.98
+    2	312125	Delta                    :	1815.92
+    2	312240	Divisa_Nova              :	1916.51
+    2	312310	Dores_De_Guanhaes        :	1657.20
+    2	312340	Doresopolis              :	268.32
+    2	312480	Estrela_Do_Sul           :	10897.46
+    2	312580	Fernandes_Tourinho       :	3507.23
+    2	312640	Fortuna_De_Minas         :	9667.69
+    2	312680	Frei_Gaspar              :	19457.88
+    2	312735	Glaucilandia             :	2338.61
+    2	312790	Grupiara                 :	5470.58
+    2	312860	Guarda_Mor               :	47214.49
+    2	312960	Ibiai                    :	2669.24
+    2	313065	Indaiabira               :	76265.36
+    2	313080	Ingai                    :	4874.97
+    2	313140	Ipiacu                   :	11514.09
+    2	313340	Itapagipe                :	261880.50
+    2	313400	Itinga                   :	154922.12
+    2	313535	Japonvar                 :	11749.24
+    2	313545	Jenipapo_De_Minas        :	62307.27
+    2	313740	Lagoa_Dourada            :	13383.25
+    2	313810	Lassance                 :	35285.18
+    2	313850	Liberdade                :	3810.10
+    2	313867	Luisburgo                :	1107.32
+    2	313910	Madre_De_Deus_De_Minas   :	897.73
+    2	314010	Marilac                  :	71692.36
+    2	314040	Marmelopolis             :	32251.24
+    2	314130	Medeiros                 :	48612.30
+    2	314345	Montezuma                :	4161.15
+    2	314360	Morro_Da_Garca           :	17819.17
+    2	314540	Olaria                   :	6989.78
+    2	314625	Padre_Carvalho           :	99840.20
+    2	314780	Passa_Vinte              :	12801.88
+    2	314795	Patis                    :	16225.56
+    2	314830	Paula_Candido            :	3054.80
+    2	314875	Pedra_Bonita             :	73182.48
+    2	314940	Pedro_Teixeira           :	577.89
+    2	314960	Pequi                    :	20321.14
+    2	314995	Periquito                :	18696.48
+    2	315070	Pirajuba                 :	19963.16
+    2	315160	Planura                  :	920.91
+    2	315300	Pratinha                 :	56345.60
+    2	315320	Presidente_Juscelino     :	63749.77
+    2	315445	Riachinho                :	22220.58
+    2	315530	Rio_Manso                :	53287.60
+    2	315645	Rosario_Da_Limeira       :	3405.58
+    2	315750	Santa_Efigenia_De_Minas  :	36175.24
+    2	315850	Santana_De_Pirapama      :	70921.98
+    2	315870	Santana_Do_Garambeu      :	2518.58
+    2	315890	Santana_Do_Manhuacu      :	23704.15
+    2	315970	Santa_Rosa_Da_Serra      :	15515.15
+    2	316080	Sao_Bento_Abade          :	32627.70
+    2	316170	Sao_Goncalo_Do_Abaete    :	3521.62
+    2	316340	Sao_Jose_Do_Goiabal      :	5634.95
+    2	316360	Sao_Jose_Do_Mantimento   :	9165.48
+    2	316480	Sao_Sebastiao_Do_Rio_Preto:	10885.43
+    2	316620	Senhora_Dos_Remedios     :	181232.62
+    2	316640	Seritinga                :	34.86
+    2	316660	Serra_Da_Saudade         :	9107.24
+    2	316830	Taquaracu_De_Minas       :	3024.57
+    2	316980	Turvolandia              :	58004.97
+    2	317000	Ubai                     :	17118.39
+    2	317065	Vargem_Grande_Do_Rio_Pardo:	45957.03
+    2	317103	Verdelandia              :	4712.95
+    2	317115	Vermelho_Novo            :	8543.49
+    3	310665	Berizal                  :	7144.77
+    3	310820	Bonfinopolis_De_Minas    :	45184.87
+    3	310850	Botumirim                :	11773.21
+    3	310855	Brasilandia_De_Minas     :	925968.66
+    3	310945	Cabeceira_Grande         :	884.12
+    3	311115	Campo_Azul               :	5784.80
+    3	311650	Claro_Dos_Pocoes         :	2750.18
+    3	312245	Divisopolis              :	7830.87
+    3	312247	Dom_Bosco                :	369256.53
+    3	312660	Francisco_Dumont         :	38203.73
+    3	312707	Fruta_De_Leite           :	19432.55
+    3	312733	Gameleiras               :	76700.59
+    3	313070	Indianopolis             :	2474.35
+    3	313200	Itacambira               :	442635.69
+    3	313560	Jequitai                 :	31142.48
+    3	313610	Joanesia                 :	65.16
+    3	313640	Joaquim_Felicio          :	252738.79
+    3	313652	Jose_Goncalves_De_Minas  :	109880.69
+    3	313753	Lagoa_Grande             :	69639.51
+    3	313835	Leme_Do_Prado            :	20147.22
+    3	314055	Mata_Verde               :	12946.46
+    3	314225	Miravania                :	177423.90
+    3	314250	Monjolos                 :	57993.63
+    3	314420	Nacip_Raydan             :	111307.89
+    3	314437	Natalandia               :	330757.60
+    3	314490	Nova_Modica              :	3460.68
+    3	315213	Ponto_Chique             :	199443.42
+    3	315450	Riacho_Dos_Machados      :	132.26
+    3	315900	Santana_Do_Riacho        :	117572.71
+    3	316045	Santo_Antonio_Do_Retiro  :	928.49
+    3	316950	Tumiritinga              :	2426.98
+    3	317075	Varjao_De_Minas          :	18638.94
 ----------------------------------------------------------------
 
 Municipalities requiring a custom solution:
 ----------------------------------------------------------------
 LEVEL	CODE	DESCRIPTION					CLOSEST(h)
-    2	170190	Araguacema               :	3.59
-    2	170410	Centenario               :	3.21
-    2	171240	Lizarda                  :	7.34
-    2	171270	Mateiros                 :	5.64
-    2	171850	Recursolandia            :	3.86
-    2	172015	Sao_Felix_Do_Tocantins   :	6.88
 ----------------------------------------------------------------

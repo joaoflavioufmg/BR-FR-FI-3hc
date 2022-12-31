@@ -22,8 +22,10 @@ param Distmax:=
 # Minimal population on destination municipality (j) 
 param POPmin:=
 1	0
-2	10000
-3	30000
+# 2	10000
+# 3	30000
+2	2000
+3	4000
 ;
 
 # param DurUpper:=
@@ -34,8 +36,10 @@ param POPmin:=
 
 param DurUpper:=
 1 0.51 
-2 1.6 
-3 5.3;
+# 2 1.6 
+# 3 5.3;
+2 0.51 
+3 1.6;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
