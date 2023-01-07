@@ -242,8 +242,8 @@ def make_br_flow_map():
     # color='b'
     geoplotlib.dot(pontos_1, color=[0,0,0], point_size= 1,\
                     f_tooltip=lambda r:r['name'])   
-    # color='b' 
-    geoplotlib.dot(pontos_2, color=[153,51,255], point_size= 1,\
+    # color='b' [153,51,255]
+    geoplotlib.dot(pontos_2, color='b', point_size= 1,\
                     f_tooltip=lambda r:r['name'])
     # color='r'
     geoplotlib.dot(pontos_3, color='g', point_size= 2,\

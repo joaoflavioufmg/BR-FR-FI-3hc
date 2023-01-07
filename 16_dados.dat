@@ -21,8 +21,10 @@ param POPmin:=
 1	0
 # 2	10000
 # 3	30000
-2	2000
-3	4000
+# 2	2000
+# 3	4000
+2	7722	# Q1
+3	17007	# Q2 
 ;
 
 # param DurUpper:=
@@ -34,13 +36,12 @@ param DurUpper:=
 1 0.51 
 # 2 3.6 
 # 3 11.2;
-2 0.51 
-3 1.1;
+2 3.6 
+3 2.2;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	160030	#	MACAPA	529
+160030 # 'Macapa' : HU-Unifap - Hospital Universitário da Unifap
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

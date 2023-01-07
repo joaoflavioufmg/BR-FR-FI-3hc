@@ -33,6 +33,21 @@ def run_Glpk():
     return call_Glpk
 # print(run_Glpk())
 
+def run_Glpk2():
+    # GLPK - Gnu Linear Programming Kit
+
+    # global state
+    cod = states_codes(config.state)
+
+    solver = 'glpsol'
+    model = '-m hc_glpk2.mod'
+    data = '-d hc.dat -d pop_res.dat -d ' + str(cod) + '_dados.dat -d '\
+            + str(cod) + '_dist_dur.txt'
+    options = '--cuts --mipgap 0.01 --tmlim 7200 --log hc_log.log'
+    call_Glpk = solver + ' ' + model + ' ' + data + ' ' + options
+    # print(call_Glpk)
+    return call_Glpk
+
 def run_Ampl():
     # AMPL - Algebraic Mathematical Programming Language
 
@@ -65,7 +80,9 @@ def run_solver(solver):
         solver = "GLPK"
         try:
             call_solver = run_Glpk()
+            call_solver2 = run_Glpk2()
             run(call_solver, solver)
+            run(call_solver2, solver)
         except Exception as e:
             raise
 

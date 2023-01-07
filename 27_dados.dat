@@ -21,8 +21,10 @@ param POPmin:=
 1	0
 # 2	10000
 # 3	30000
-2	2000
-3	4000
+# 2	2000
+# 3	4000
+2	9789	# Q1
+3	19004	# Q2 
 ;
 
 # param DurUpper:=
@@ -34,15 +36,15 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 1.5;
-2 0.51 
+2 0.55 
 3 1.1;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	270030	#	ARAPIRACA	279
-	270430	#	MACEIO	1149
+270430 # 'Maceio':  Hospital Universitário Professor Alberto Antunes, vinculado à UFAL 
+270230 # 'Coruripe': hospital geral + 200 leitos
+270030 # 'Arapiraca' : HG + 400 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

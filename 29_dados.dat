@@ -21,8 +21,10 @@ param POPmin:=
 1	0
 # 2	10000
 # 3	30000
-2	2000
-3	4000
+# 2	2000
+# 3	4000
+2	12204	# Q1
+3	18625	# Q2 
 ;
 
 # param DurUpper:=
@@ -39,17 +41,14 @@ param DurUpper:=
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	292740	#	SALVADOR	3605
-	293330	#	VITORIA DA CONQUISTA	1044
-	293135	#	TEIXEIRA DE FREITAS	307
-	291480	#	ITABUNA	250
-	291840	#	JUAZEIRO	234
-	291080	#	FEIRA DE SANTANA	181
-	291360	#	ILHEUS	2
-	290320	#	BARREIRAS	1
-	/* 292180	#	MORTUGABA	1 */
-	/* 292870	#	SANTO ANTONIO DE JESUS	1 */
+292740 # 'Salvador': Hupes-UFBA - Hospital Universitário Professor Edgard Santos 
+	   # MCO-UFBA - Maternidade Climério de Oliveira
+291480 # 'Itabuna': Hospital de base + 200 leitos
+290320 # 'Barreiras': Hospital geral + 252 leitos
+291080 # 'Feira_De_Santana' : Hospital geral + 236 leitos 
+293330 # 'Vitoria_Da_Conquista': Hospital geral + 256 leitos
+291800 # 'Jequie' : Hospital geral + 216 leitos
+291360 # 'Ilheus': Hospital geral + 243 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

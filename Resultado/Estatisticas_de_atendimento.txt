@@ -1,38 +1,38 @@
 ==============================================================================
 Demand meet statistics - Nivel_1
 ==============================================================================
-Pop served:		22693346 (107.85%).
-Municipalities (hub):	     549 mun.
+Pop served:		3583821 (107.85%).
+Municipalities (hub):	      42 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.52 (Cedro_Do_Abaete).
-Mean:			 16.95
-Median:			  6.76
-Maximum:		1106.21 (Belo_Horizonte).
+Minimum:		  2.09 (Feliz_Deserto).
+Mean:			 34.98
+Median:			 19.80
+Maximum:		447.68 (Maceio).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  3.20 (Cedro_Do_Abaete).
-Mean:			104.58
-Median:			 41.69
-Maximum:		6826.11 (Belo_Horizonte).
+Minimum:		 12.90 (Feliz_Deserto).
+Mean:			215.88
+Median:			122.16
+Maximum:		2762.51 (Maceio).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  1.58 (Cedro_Do_Abaete).
-Mean:			 51.67
-Median:			 20.60
-Maximum:		3372.59 (Belo_Horizonte).
+Minimum:		  6.38 (Feliz_Deserto).
+Mean:			106.66
+Median:			 60.36
+Maximum:		1364.88 (Maceio).
 ==============================================================================
 Resource:		CommunityBased		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  6.16 (Cedro_Do_Abaete).
-Mean:			201.72
-Median:			 80.42
-Maximum:		13166.58 (Belo_Horizonte).
+Minimum:		 24.89 (Feliz_Deserto).
+Mean:			416.41
+Median:			235.63
+Maximum:		5328.48 (Maceio).
 ==============================================================================
 
 
@@ -41,65 +41,65 @@ Maximum:		13166.58 (Belo_Horizonte).
 ==============================================================================
 Demand meet statistics - Nivel_2
 ==============================================================================
-Municipalities (hub):	     438 mun.
+Municipalities (hub):	      21 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  3.61 (Agua_Comprida).
-Mean:			 77.84
-Median:			 31.91
-Maximum:		4505.78 (Belo_Horizonte).
+Minimum:		 19.37 (Santana_Do_Mundau).
+Mean:			285.00
+Median:			154.82
+Maximum:		2006.57 (Maceio).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  2.59 (Agua_Comprida).
-Mean:			 55.93
-Median:			 22.94
-Maximum:		3237.68 (Belo_Horizonte).
+Minimum:		 13.92 (Santana_Do_Mundau).
+Mean:			204.79
+Median:			111.25
+Maximum:		1441.85 (Maceio).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  5.43 (Agua_Comprida).
-Mean:			116.99
-Median:			 47.97
-Maximum:		6772.15 (Belo_Horizonte).
+Minimum:		 29.12 (Santana_Do_Mundau).
+Mean:			428.35
+Median:			232.70
+Maximum:		3015.86 (Maceio).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  5.77 (Agua_Comprida).
-Mean:			124.45
-Median:			 51.02
-Maximum:		7203.84 (Belo_Horizonte).
+Minimum:		 30.97 (Santana_Do_Mundau).
+Mean:			455.66
+Median:			247.53
+Maximum:		3208.11 (Maceio).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.01 (Agua_Comprida).
-Mean:			  0.31
-Median:			  0.13
-Maximum:		 17.81 (Belo_Horizonte).
+Minimum:		  0.08 (Santana_Do_Mundau).
+Mean:			  1.13
+Median:			  0.61
+Maximum:		  7.93 (Maceio).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.01 (Agua_Comprida).
-Mean:			  0.23
-Median:			  0.10
-Maximum:		 13.49 (Belo_Horizonte).
+Minimum:		  0.06 (Santana_Do_Mundau).
+Mean:			  0.85
+Median:			  0.46
+Maximum:		  6.01 (Maceio).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.01 (Agua_Comprida).
-Mean:			  0.14
-Median:			  0.06
-Maximum:		  8.36 (Belo_Horizonte).
+Minimum:		  0.04 (Santana_Do_Mundau).
+Mean:			  0.53
+Median:			  0.29
+Maximum:		  3.72 (Maceio).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.00 (Abadia_Dos_Dourados).
-Mean:			  0.01
-Median:			  0.01
-Maximum:		  0.81 (Belo_Horizonte).
+Minimum:		  0.00 (Santana_Do_Mundau).
+Mean:			  0.05
+Median:			  0.03
+Maximum:		  0.36 (Maceio).
 ==============================================================================
 
 
@@ -108,65 +108,65 @@ Maximum:		  0.81 (Belo_Horizonte).
 ==============================================================================
 Demand meet statistics - Nivel_3
 ==============================================================================
-Municipalities (hub):	     367 mun.
+Municipalities (hub):	       9 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  8.30 (Santa_Fe_De_Minas).
-Mean:			107.14
-Median:			 44.20
-Maximum:		5369.16 (Belo_Horizonte).
+Minimum:		194.71 (Coruripe).
+Mean:			792.42
+Median:			562.01
+Maximum:		2569.55 (Maceio).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 37.45 (Santa_Fe_De_Minas).
-Mean:			483.48
-Median:			199.46
-Maximum:		24228.66 (Belo_Horizonte).
+Minimum:		878.66 (Coruripe).
+Mean:			3575.86
+Median:			2536.10
+Maximum:		11595.24 (Maceio).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 10.47 (Santa_Fe_De_Minas).
-Mean:			135.14
-Median:			 55.75
-Maximum:		6772.15 (Belo_Horizonte).
+Minimum:		245.59 (Coruripe).
+Mean:			999.49
+Median:			708.87
+Maximum:		3240.98 (Maceio).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  7.59 (Santa_Fe_De_Minas).
-Mean:			 97.99
-Median:			 40.43
-Maximum:		4910.49 (Belo_Horizonte).
+Minimum:		178.08 (Coruripe).
+Mean:			724.73
+Median:			514.00
+Maximum:		2350.04 (Maceio).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.08 (Minduri).
-Mean:			  1.07
-Median:			  0.44
-Maximum:		 53.69 (Belo_Horizonte).
+Minimum:		  1.95 (Coruripe).
+Mean:			  7.92
+Median:			  5.62
+Maximum:		 25.70 (Maceio).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.07 (Carrancas).
-Mean:			  0.90
-Median:			  0.37
-Maximum:		 45.33 (Belo_Horizonte).
+Minimum:		  1.64 (Coruripe).
+Mean:			  6.69
+Median:			  4.74
+Maximum:		 21.69 (Maceio).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.07 (Carrancas).
-Mean:			  0.84
-Median:			  0.35
-Maximum:		 42.09 (Belo_Horizonte).
+Minimum:		  1.53 (Coruripe).
+Mean:			  6.21
+Median:			  4.41
+Maximum:		 20.14 (Maceio).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.04 (Carrancas).
-Mean:			  0.55
-Median:			  0.23
-Maximum:		 27.52 (Belo_Horizonte).
+Minimum:		  1.00 (Coruripe).
+Mean:			  4.06
+Median:			  2.88
+Maximum:		 13.17 (Maceio).
 ==============================================================================
 
 

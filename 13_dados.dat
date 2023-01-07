@@ -21,8 +21,10 @@ param POPmin:=
 1	0
 # 2	10000
 # 3	30000
-2	2000
-3	4000
+# 2	2000
+# 3	4000
+2	18897	# Q1
+3	26787	# Q2 
 ;
 
 # param DurUpper:=
@@ -34,17 +36,14 @@ param DurUpper:=
 # 1 0.71 
 # 2 12.2 
 # 3 23;
-1 0.51
-2 0.51 
-3 6.7;
+1 0.80
+2 23.0 
+3 21.1;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	130260	#	MANAUS	1012
-  130190	#	'Itacoatiara'
-  130340	#	'Parintins'
+130260 # 'Manaus': Hospital Universitário Getúlio Vargas, vinculado à UFAM
 ;
 
 

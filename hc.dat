@@ -55,6 +55,11 @@ param DurLower:=
 2 0.5 
 3 1.0;
 
+param CR:= # Cost reduction (Efficiency)
+1 1
+2 0.98 
+3 0.95;
+
 # Resources
 param: E: Res:=
 1	'Physicians'      # https://apps.who.int/iris/bitstream/handle/10665/250330/9789241511407-eng.pdf

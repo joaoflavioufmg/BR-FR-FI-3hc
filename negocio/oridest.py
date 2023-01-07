@@ -349,7 +349,7 @@ class OriDestAssignment:
             os.chdir(self.maps_folder)
             # # RETIRAR COMENTARIO PARA GERAR O MAPA DO ESTADO
             # # ################################################################
-            # make_all_flow_maps()  # Gera o mapa após as estatísticas
+            make_all_flow_maps()  # Gera o mapa após as estatísticas
             # # ################################################################
             # Muda para Diretorio um nivel superior
             os.chdir("..")
