@@ -36,20 +36,18 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 2.1;
-2 0.51 
-3 1.1;
+2 0.96 
+3 1.95;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	261160	#	RECIFE	5584
-	260290	#	CABO DE SANTO AGOSTINHO	764
-	261110	#	PETROLINA	218
-	260410	#	CARUARU	5
-	/* 261070	#	PAULISTA	1 */
-	261390	#	SERRA TALHADA	1
-  260960	#	'Olinda'
+261160 # 'Recife': Hospital das Clínicas da Universidade Federal de Pernambuco, vinculado à UFPE
+	   #  Hospital Universitário Oswaldo Cruz, vinculado à UPE
+261110 # 'Petrolina': HU-Univasf - Hospital de Ensino Dr. Washington Antônio de Barros
+260410 # 'Caruaru': Hospital Geral: +197 leitos
+260960 # 'Olinda': Hospital Geral: +216 leitos
+260110 # 'Araripina': Hospital Geral: +207 leitos
 ;
 
 

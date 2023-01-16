@@ -36,14 +36,12 @@ param DurUpper:=
 1 0.51 
 # 2 2.3 
 # 3 8.6;
-2 0.51 
-3 1.1;
+2 1.21 
+3 1.92;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	221100	#	TERESINA	1339
-	220770	#	PARNAIBA	1
+221100 # 'Teresina': HU-UFPI - Hospital Universitário do Piauí     
 ;
 
 

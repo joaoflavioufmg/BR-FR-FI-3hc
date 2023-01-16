@@ -40,16 +40,14 @@ param DurUpper:=
 1 0.51 
 # 2 1.6 
 # 3 5.3;
-2 0.51 
-3 1.6;
+2 1.52 
+3 2.25;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	110020	#	PORTO VELHO	325
-	110002	#	ARIQUEMES	1
-	110004	#	CACOAL	1
+110020 # 'Porto_Velho': Hospotal de base: +432 leitos
+110030 # 'Vilhena': Hospital geral : +200 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

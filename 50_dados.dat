@@ -36,15 +36,13 @@ param DurUpper:=
 1 0.51 
 # 2 2.0 
 # 3 5.1; 
-2 0.51 
-3 1.1;
+2 1.95 
+3 1.9;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	500270	#	CAMPO GRANDE	1534
-	500370	#	DOURADOS	353
-	500830	#	TRES LAGOAS	1
+500270 # 'Campo_Grande': Hospital Universitário Maria Aparecida Pedrossian, vinculado à UFMS
+500370 # 'Dourados': HU-UFGD - Hospital Universitário da Grande Dourados
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

@@ -36,14 +36,13 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 6.3;
-2 0.51 
-3 1.1;
+2 4.4 
+3 4.2;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	140010	#	BOA VISTA	2
+140010 # 'Boa_Vista': Hospital Geral : +230 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

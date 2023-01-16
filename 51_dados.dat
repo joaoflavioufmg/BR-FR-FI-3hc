@@ -36,19 +36,16 @@ param DurUpper:=
 1 0.51 
 # 2 4.3 
 # 3 6.1;
-2 1.53 
-3 3.5;
+2 7.93 
+3 4.3;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	510340	#	CUIABA	1169
-	510760	#	RONDONOPOLIS	423
-	/* 510325	#	COLNIZA	1 */
-	510790	#	SINOP	1
-	/* 510792	#	SORRISO	1 */
-	510795	#	'Tangara_Da_Serra'
+510340 # 'Cuiaba': Hospital Universitário Júlio Müller, vinculado à UFMT
+	   # Hospital Geral e Maternidade de Cuiabá, vinculado à UNIC
+510760 # 'Rondonopolis': Hospital Geral: + 205 leitos  
+
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

@@ -36,14 +36,13 @@ param DurUpper:=
 1 0.51 
 # 2 3.0 
 # 3 6.3;
-2 2.63 
-3 5.1;
+2 5.2 
+3 5.9;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	172100	#	PALMAS	487
-	170210	#	ARAGUAINA	413
+170210 # 'Araguaina': Hospital de Doenças Tropicais, vinculado à UFT [2]
+172100 # 'Palmas': +404 leitos Hospital Geral de Palmas
 ;
 
 

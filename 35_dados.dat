@@ -24,7 +24,7 @@ param POPmin:=
 # 2	2000
 # 3	4000
 2	6135	# Q1
-3	14920	# Q2 
+3	25259	# Q2 14920
 ;
 
 # param DurUpper:=
@@ -36,90 +36,56 @@ param DurUpper:=
 1 0.51 
 # 2 1.6 
 # 3 2.6; 
-2 0.51 
-3 1.1; 
+2 1.07 
+3 2.55; 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	355030	#	SAO PAULO	14941
-	354980	#	SAO JOSE DO RIO PRETO	2325
-	354340	#	RIBEIRAO PRETO	1890
-	350950	#	CAMPINAS	1809
-	354990	#	SAO JOSE DOS CAMPOS	1337
-	355410	#	TAUBATE	1333
-	354780	#	SANTO ANDRE	1120
-	355220	#	SOROCABA	1111
-	353870	#	PIRACICABA	1094
-	354140	#	PRESIDENTE PRUDENTE	994
-	352900	#	MARILIA	978
-	350750	#	BOTUCATU	890
-	351620	#	FRANCA	735
-	350280	#	ARACATUBA	719
-	354870	#	SAO BERNARDO DO CAMPO	709
-	350600	#	BAURU	693
-	351880	#	GUARULHOS	693
-	353060	#	MOGI DAS CRUZES	693
-	355280	#	TABOAO DA SERRA	638
-	354890	#	SAO CARLOS	635
-	350320	#	ARARAQUARA	630
-	352590	#	JUNDIAI	601
-	350760	#	BRAGANCA PAULISTA	505
-	354850	#	SANTOS	497
-	355710	#	VOTUPORANGA	484
-	352930	#	MATAO	472
-	351110	#	CATANDUVA	408
-	350330	#	ARARAS	360
-	353470	#	OURINHOS	354
-	352690	#	LIMEIRA	323
-	350550	#	BARRETOS	269
-	352050	#	INDAIATUBA	32
-	354910	#	SAO JOAO DA BOA VISTA	17
-	/* 352480	#	JALES	12 */
-	353080	#	MOGI MIRIM	12
-	/* 351960	#	IBITINGA	10  */
-	353800	#	PINDAMONHANGABA	9
-	/* 352210	#	ITANHAEM	8 */
-	350190	#	AMPARO	7
-	350400	#	ASSIS	7
-	350570	#	BARUERI	7
-	352530	#	JAU	7
-	351870	#	GUARUJA	6
-	354520	#	SALTO	6
-	# 354640	#	SANTA CRUZ DO RIO PARDO	6
-	351840	#	GUARATINGUETA	5
-	353070	#	MOGI GUACU	5
-	/* 354260	#	REGISTRO	5 */
-	/* 355170	#	SERTAOZINHO	5 */
-	/* 352250	#	ITAPEVI	4 */
-	/* 353930	#	PIRASSUNUNGA	4 */
-	350450	#	AVARE	3
-	/* 351440	#	DRACENA	3 */
-	/* 352340	#	ITATIBA	3 */
-	353440	#	OSASCO	3
-	/* 354680	#	SANTA ISABEL	3 */
-	/* 350010	#	ADAMANTINA	2 */
-	/* 350590	#	BATATAIS	2 */
-	/* 351350	#	CUBATAO	2 */
-	/* 352390	#	ITU	2 */
-	/* 354070	#	PORTO FERREIRA	2 */
-	/* 354390	#	RIO CLARO	2 */
-	/* 350160	#	AMERICANA	1 */
-	/* 350250	#	APARECIDA	1 */
-	351050	#	CARAGUATATUBA	1
-	/* 351550	#	FERNANDOPOLIS	1 */
-	351640	#	FRANCO DA ROCHA	1
-	352240	#	ITAPEVA	1
-	/* 352270	#	ITAPOLIS	1 */
-	352430	#	JABOTICABAL	1
-	352440	#	JACAREI	1
-	/* 353050	#	MOCOCA	1 */
-	/* 353650	#	PAULINIA	1 */
-	/* 354220	#	RANCHARIA	1 */
-	/* 354880	#	SAO CAETANO DO SUL	1 */
-	/* 355100	#	SAO VICENTE	1 */
-	/* 355500	#	TUPA	1 */
-	/* 355620	#	VALINHOS	1 */
+355030 # 'Sao_Paulo': Hospital Universitário da Universidade de São Paulo
+	   # 	Hospital São Paulo, São Paulo, vinculado à UNIFESP
+	   # 	Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo 
+	   # 	Irmandade da Santa Casa de Misericórdia de São Paulo, vinculado à FCMSCSP
+	   # 	Hospital Santa Marcelina - vinculado à Faculdade Santa Marcelina, em Itaquera, São Paulo
+354890 # 'Sao_Carlos': HU-UFSCar - Hospital Universitário da UFSCar
+350950 # 'Campinas': Hospital e Maternidade Celso Pierro, pertencente à Pontifícia Universidade Católica de Campinas
+	   # 	Hospital de Clínicas da Unicamp
+354140 # 'Presidente_Prudente': Hospital Universitário da Faculdade de Medicina de Presidente Prudente
+354980 # 'Sao_Jose_Do_Rio_Preto': + 877 leitos Hospital de Base, Faculdade de Medicina de São José do Rio Preto - FAMERP
+350750 # 'Botucatu': Hospital das Clínicas- Faculdade de Medicina de Botucatu - Universidade Estadual Paulista 
+354340 # 'Ribeirao_Preto': Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo
+350600 # 'Bauru': Hospital de Reabilitação de Anomalias Craniofaciais da Universidade de São Paulo
+354850 # 'Santos': +442 leitos
+354780 # 'Santo_Andre': +236 leitos
+352710 # 'Lins': +261 leitos
+354100 # 'Praia_Grande': +200 leitos
+355220 # 'Sorocaba': +309 leitos
+352900 # 'Marilia': +282 leitos
+353060 # 'Mogi_Das_Cruzes': +285 leitos
+354870 # 'Sao_Bernardo_Do_Campo': +227 leitos
+351570 # 'Ferraz_De_Vasconcelos: +200 leitos
+351380 # 'Diadema': +224 leitos
+351880 # 'Guarulhos': +255 leitos
+352250 # 'Itapevi': +224 leitos
+352310 # 'Itaquaquecetuba': +229 leitos
+355280 # 'Taboao_Da_Serra': +219 leitos
+353440 # 'Osasco': +200 leitos
+350570 # 'Barueri': +250 leitos
+354990 # 'Sao_Jose_Dos_Campos': +286 leitos
+#352450 # 'Jaci': +216 leitos
+355410 # 'Taubate': +210 leitos
+351620 # 'Franca': +226 leitos
+352530 # 'Jau': +228 leitos
+354750 # 'Santa_Rita_Do_Passa_Quatro': +252 leitos
+355500 # 'Tupa': +210 leitos
+351080 # 'Casa_Branca': +366 leitos
+350190 # 'Amparo': +273 leitos
+350550 # 'Barretos': +205 leitos
+352390 # 'Itu': +251 leitos
+350330 # 'Araras': +215 leitos
+352220 # 'Itapecerica_Da_Serra': +267 leitos
+352260 # 'Itapira': +793 leitos
+351518 # 'Espirito_Santo_Do_Pinhal': +248 leitos
+353890 # 'Pirajui': +236 leitos
 ;
 
 

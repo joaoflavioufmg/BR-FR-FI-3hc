@@ -21,7 +21,7 @@ param POPmin:=
 # 2	2000
 # 3	4000
 2	5224	# Q1
-3	8823	# Q2 
+3	75984	# Q2	8823 
 ;
 
 # param DurUpper:=
@@ -33,56 +33,27 @@ param DurUpper:=
 1 0.51 
 # 2 2.0 
 # 3 4.5;
-2 0.75 
-3 1.67;
+2 1.67 
+3 6.20;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	310620	#	BELO HORIZONTE	6762
-	314330	#	MONTES CLAROS	1577
-	313670	#	JUIZ DE FORA	1418
-	317020	#	UBERLANDIA	1228
-	310560	#	BARBACENA	1056
-	317010	#	UBERABA	877
-	317070	#	VARGINHA	793
-	315180	#	POCOS DE CALDAS	729
-	312230	#	DIVINOPOLIS	721
-	314390	#	MURIAE	646
-	315250	#	POUSO ALEGRE	611
-	316470	#	SAO SEBASTIAO DO PARAISO	601
-	312770	#	GOVERNADOR VALADARES	581
-	315210	#	PONTE NOVA	567
-	313130	#	IPATINGA	513
-	314790	#	PASSOS	466
-	316860	#	TEOFILO OTONI	414
-	316720	#	SETE LAGOAS	405
-	313240	#	ITAJUBA	308
-	312160	#	DIAMANTINA	131 <<<
-	311860	#	CONTAGEM	19
-	313820	#	LAVRAS	12
-	/* 312610	#	FORMIGA	8 */
-	/* 317130	#	VICOSA	7 */
-	/* 313380	#	ITAUNA	6 */
-	/* 311940	#	CORONEL FABRICIANO	5 */
-	/* 310160	#	ALFENAS	4 */
-	/* 312090	#	CURVELO	4 */
-	/* 313620	#	JOAO MONLEVADE	4 */
-	/* 315150	#	PIUMHI	4  */
-	/* 314800	#	PATOS DE MINAS	3 */
-	/* 314810	#	PATROCINIO	3 */
-	/* 316370	#	SAO LOURENCO	3  <<< */
-	/* 316870	#	TIMOTEO	2 */
-	/* 310670	#	BETIM	1 */
-	/* 311120	#	CAMPO BELO	1 */
-	/* 311330	#	CARANGOLA	1   <<< */
-	/* 311510	#	CASSIA	1    <<< */
-	/* 313170	#	ITABIRA	1 */
-	/* 313940	#	MANHUACU	1 */
-	/* 314480	#	NOVA LIMA	1 */
-	/* 314560	#	OLIVEIRA	1    <<< */
-	/* 314610	#	OURO PRETO	1 */
-	/* 316990	#	UBA	1 */
+310620 # 'Belo_Horizonte': Hospital das Clínicas da Universidade Federal de Minas Gerais
+317010 # 'Uberaba': Hospital de Clínicas da Universidade Federal do Triângulo Mineiro (HC-UFTM), vinculado à UFTM
+317020 # 'Uberlandia': +374 leitos Hospital de Clínicas de Uberlândia (HCU), vinculado à UFU
+313670 # 'Juiz_De_Fora': Hospital Universitário da Universidade Federal de Juiz de Fora, vinculado à UFJF
+310350 # 'Araguari': Hospital Universitário Sagrada Família (HUSF), vinculado ao IMEPA
+314330 # 'Montes_Claros': Hospital Universitário Clemente Faria, vinculado à Unimontes.
+313130 # 'Ipatinga': + 455 leitos
+314790 # 'Passos' : + 290 leitos
+314390 # 'Muriae': +203 leitos
+313940 # 'Manhuacu': +200 leitos
+315250 # 'Pouso_Alegre': +305 leitos
+312770 # 'Governador_Valadares': +285 leitos
+311860 # 'Contagem': +243 leitos
+310670 # 'Betim': +329 leitos
+312230 # 'Divinopolis': +303 leitos
+316470 # 'Sao_Sebastiao_Do_Paraiso': +200 leitos
 ;
 
 

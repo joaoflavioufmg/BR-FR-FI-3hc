@@ -24,7 +24,7 @@ param POPmin:=
 # 2	2000
 # 3	4000
 2	12183	# Q1
-3	19982	# Q2 
+3	27628	# Q2 19982
 ;
 
 # param DurUpper:=
@@ -36,14 +36,15 @@ param DurUpper:=
 1 0.51 
 # 2 2.0  
 # 3 3.7;
-2 0.51 
-3 1.1;
+2 3.67 
+3 2.81;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	211130	#	SAO LUIS	1349
+211130 # 'Sao_Luis': HU-UFMA - Hospital Universitário da UFMA
+210530 # 'Imperatriz': +310 leitos
+210467 # 'Governador_Nunes_Freire': +204 leitos
 ;
 
 

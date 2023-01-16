@@ -24,7 +24,7 @@ param POPmin:=
 # 2	2000
 # 3	4000
 2	20160	# Q1
-3	39737	# Q2 
+3	36530	# Q2 39737 39585
 ;
 
 # param DurUpper:=
@@ -36,29 +36,26 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 1.7;
-2 0.51 
-3 1.1;
+2 1.0 
+3 1.2;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	330455	#	RIO DE JANEIRO	4080
-	330040	#	BARRA MANSA	1204
-	# 330620	#	VASSOURAS	917
-	330340	#	NOVA FRIBURGO	767
-	330170	#	DUQUE DE CAXIAS	697
-	330100	#	CAMPOS DOS GOYTACAZES	656
-	330220	#	ITAPERUNA	641
-	330390	#	PETROPOLIS	631
-	330240	#	MACAE	575
-	330630	#	VOLTA REDONDA	346
-	330070	#	CABO FRIO	268
-	330330	#	NITEROI	203
-	/* 330580	#	TERESOPOLIS	7 */
-	330490	#	SAO GONCALO	4
-	330350	#	NOVA IGUACU	2
-	/* 330600	#	TRES RIOS	2 */
+330455 # 'Rio_De_Janeiro': Hospital Universitário Gaffrée e Guinle, vinculado à UNIRIO
+	   # Hospital Universitário Pedro Ernesto, vinculado à UERJ
+	   # Hospital Universitário Clementino Fraga Filho, Rio de Janeiro, vinculado à UFRJ
+330330 # 'Niteroi': Huap-UFF - Hospital Universitário Antônio Pedro
+330100 # 'Campos_Dos_Goytacazes': + 425 leitos
+330350 # 'Nova_Iguacu': +480 leitos
+330390 # 'Petropolis': +234 leitos
+330610 # 'Valenca': +200 leitos
+330170 # 'Duque_De_Caxias': +356 leitos    
+330220 # 'Itaperuna': +207 leitos
+330620 # 'Vassouras': +203 leitos
+330040 # 'Barra_Mansa': +203 leitos
+330575 # 'Tangua': +200 leitos Hospital Especializado
+330340 # 'Nova_Friburgo': +207 leitos Hospital Especializado
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

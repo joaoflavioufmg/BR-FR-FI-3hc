@@ -36,20 +36,14 @@ param DurUpper:=
 1 0.51 
 # 2 1.7 
 # 3 3.2;
-2 0.51 
-3 1.7;
+2 9.98 
+3 8.96;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	150140	#	BELEM	1800
-	150680	#	SANTAREM	5
-	150060	#	ALTAMIRA	3
-	/* 150080	#	ANANINDEUA	1 */
-	150180	#	BREVES	1
-	150420	#	MARABA	1
-	150613	#	REDENCAO	1
-	150810	#	TUCURUI	1
+150140 # 'Belem': Hospital Universitário João de Barros Barreto, vinculado à UFPA
+	   # Hospital Universitário Bettina Ferro de Souza, vinculado à UFPA
+150420 # 'Maraba': Hospital Regional Público do Sudeste do Pará Dr. Geraldo Veloso, vinculado à UEPA
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

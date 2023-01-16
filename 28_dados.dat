@@ -42,8 +42,8 @@ param DurUpper:=
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	280030	#	ARACAJU	1369
+280030 # 'Aracaju': + 587 leitos: HU-UFS - Hospital Universitário da UFS
+280350 # 'Lagarto': HUL-UFS - Hospital Universitário de Lagarto
 ;
 
 

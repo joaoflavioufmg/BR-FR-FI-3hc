@@ -24,7 +24,7 @@ param POPmin:=
 # 2	2000
 # 3	4000
 2	5375	# Q1
-3	10596	# Q2 
+3	22781	# Q2 10596 
 ;
 
 # param DurUpper:=
@@ -36,31 +36,26 @@ param DurUpper:=
 1 0.51 
 # 2 1.6 
 # 3 1.9;
-2 0.51 
-3 1.1;
+2 0.72 
+3 3.60;
 
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	# 410400	#	CAMPINA GRANDE DO SUL	3694
-	410150	#	ARAPONGAS	3447
-	410690	#	CURITIBA	3311
-	410420	#	CAMPO LARGO	2622
-	411370	#	LONDRINA	1486
-	411990	#	PONTA GROSSA	1271
-	411520	#	MARINGA	1244
-	410480	#	CASCAVEL	1072
-	410830	#	FOZ DO IGUACU	722
-	411850	#	PATO BRANCO	667
-	410940	#	GUARAPUAVA	533
-	412810	#	UMUARAMA	480
-	410430	#	CAMPO MOURAO	428
-	/* 412820	#	UNIAO DA VITORIA	4 */
-	/* 411150	#	IVAIPORA	2 */
-	/* 410490	#	CASTRO	1 */
-	/* 412770	#	TOLEDO	1 */
+410690 # 'Curitiba': Hospital de Clínicas da Universidade Federal do Paraná, vinculado à UFPR, Curitiba
+	   # Hospital Universitário Cajuru, vinculado à PUCPR
+       # Hospital Evangélico de Curitiba, vinculado à FEPAR
+411520 # 'Maringa': Hospital Universitário Regional de Maringá, vinculado à UEM, Maringá 
+411370 # 'Londrina': Hospital Universitário da Universidade Estadual de Londrina, vinculado à UEL, Londrina
+410480 # 'Cascavel': Hospital Universitário do Oeste do Paraná, vinculado à UNIOESTE, Cascavel (Paraná)
+410400 # 'Campina_Grande_Do_Sul' : +356 leitos 
+410420 # 'Campo_Largo' : +505 leitos
+410150 # 'Arapongas': +268 leitos
+411990 # 'Ponta_Grossa': +200 leitos
+412810 # 'Umuarama': +220 leitos
+411950 # 'Piraquara': +400 leitos
+411210 # 'Jandaia_Do_Sul': +286 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

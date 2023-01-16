@@ -36,33 +36,20 @@ param DurUpper:=
 1 0.51 
 # 2 1.2 
 # 3 1.9;
-2 0.62 
+2 0.9 
 3 1.1;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	421660	#	SAO JOSE	1643
-	420910	#	JOINVILLE	1293
-	420820	#	ITAJAI	1206
-	421950	#	XANXERE	1140
-	420240	#	BLUMENAU	1070
-	420540	#	FLORIANOPOLIS	699
-	421870	#	TUBARAO	606
-	420460	#	CRICIUMA	605
-	421480	#	RIO DO SUL	449
-	421010	#	MAFRA	333
-	420930	#	LAGES	288
-	420890	#	JARAGUA DO SUL	20
-	420420	#	CHAPECO	12
-	/* 420430	#	CONCORDIA	5 */
-	/* 420480	#	CURITIBANOS	4 */
-	/* 420850	#	ITUPORANGA	4 */
-	420300	#	CACADOR	2
-	/* 420900	#	JOACABA	2 */
-	/* 421050	#	MARAVILHA	2 */
-	/* 420290	#	BRUSQUE	1 */
-	421580	#	SAO BENTO DO SUL	1
+420540 # 'Florianopolis': Hospital Universitário Polydoro Ernani de São Thiago, vinculado à UFSC, Florianópolis
+420820 # 'Itajai': +303 leitos
+420930 # 'Lages': +231 leitos
+420910 # 'Joinville': +236 leitos
+421870 # 'Tubarao': +344 leitos
+421660 # 'Sao_Jose': +308 leitos
+420420 # 'Chapeco': +265 leitos
+420240 # 'Blumenau': +255 leitos
+420460 # 'Criciuma': +269 leitos
 ;
 
 

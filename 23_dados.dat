@@ -37,18 +37,16 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 2.7;
-2 0.51 
-3 1.1;
+2 0.9 
+3 1.3;
 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	230440	#	FORTALEZA	5609
-	231290	#	SOBRAL	1001
-	/* 230190	#	BARBALHA	683 */
-  231130	# 'Quixada'
-	/* 230410	#	'Crateus' */
+230440 # 'Fortaleza': Hospital universitário Walter Cândido da universidade federal de fortaleza UFC
+230190 # 'Barbalha': Hospital Geral: + 206 leitos
+230730 # 'Juazeiro_Do_Norte': Hospital Regional Geral: + 234 leitos
+231290 # 'Sobral': Hospital Regional Geral: + 340 leitos
 ;
 
 

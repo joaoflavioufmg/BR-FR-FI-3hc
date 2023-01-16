@@ -36,19 +36,19 @@ param DurUpper:=
 1 0.51 
 # 2 2.3 
 # 3 4.1;
-2 0.51 
-3 1.15; 
+2 1.15 
+3 1.52; 
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	520870	#	GOIANIA	4841
-	530010	#	BRASILIA	2276
-	520110	#	ANAPOLIS	610
-	520510	#	CATALAO	394
-	521880	#	RIO VERDE	122
-	/* 520140	#	APARECIDA DE GOIANIA	41 */
-	521190	#	JATAI	5
+530010 # 'Brasilia': Hospital Universitário de Brasília, vinculado à UnB
+520870 # 'Goiania': Hospital das Clínicas da UFG
+	   # Santa Casa de Misericórdia de Goiânia, vinculado à PUC-GO
+521190 # 'Jatai': Hospital das Clínicas Doutor Serafim de Carvalho, vinculado à UF
+522160 # 'Uruacu': +255 leitos
+522140 # 'Trindade': Hospital Especializado: +363 leitos
+520110 # 'Anapolis': Hospital Especializado: +200 leitos
+520140 # 'Aparecida_De_Goiania': Hospital Especializado: +200 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

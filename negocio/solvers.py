@@ -24,10 +24,12 @@ def run_Glpk():
     cod = states_codes(config.state)
 
     solver = 'glpsol'
-    model = '-m hc_glpk.mod'
+    # model = '-m hc_glpk.mod'
+    model = '-m hc_glpk3.mod'
     data = '-d hc.dat -d ' + str(cod) + '_dados.dat -d '\
             + str(cod) + '_dist_dur.txt'
     options = '--cuts --mipgap 0.01 --tmlim 7200 --log hc_log.log'
+    # --pcost (para instancias dificeis)
     call_Glpk = solver + ' ' + model + ' ' + data + ' ' + options
     # print(call_Glpk)
     return call_Glpk
@@ -80,9 +82,9 @@ def run_solver(solver):
         solver = "GLPK"
         try:
             call_solver = run_Glpk()
-            call_solver2 = run_Glpk2()
+            # call_solver2 = run_Glpk2()
             run(call_solver, solver)
-            run(call_solver2, solver)
+            # run(call_solver2, solver)
         except Exception as e:
             raise
 

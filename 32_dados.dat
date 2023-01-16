@@ -36,17 +36,15 @@ param DurUpper:=
 1 0.51 
 # 2 1.0 
 # 3 1.5;
-2 0.51 
+2 0.83 
 3 1.1;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	320520	#	VILA VELHA	1331
-	320530	#	VITORIA	1229
-	320120	#	CACHOEIRO DE ITAPEMIRIM	926
-	320320	#	LINHARES	738
-	320150	#	COLATINA	546
+320530 # 'Vitoria': Hopistal Universitário Cassiano Antonio Moraes, vinculado à UFES
+320520 # 'Vila_Velha': Hospital Geral: + 321 leitos
+320490 # 'Sao_Mateus': Hospital Geral: + 202 leitos
+320500 # 'Serra': Hospital Geral: + 251 leitos
 ;
 
 # CODIGO	REGIAO	ESTADO	LAT	LONG	POPULACAO 2030	CAP	MUNICIPIO

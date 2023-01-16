@@ -36,14 +36,15 @@ param DurUpper:=
 1 0.51 
 # 2 1.2 
 # 3 1.5;
-2 0.51 
-3 1.1;
+2 0.70 
+3 1.20;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	240810	#	NATAL	2191
-	240800	#	MOSSORO	894
+240810 # 'Natal': Hospital Universitário Onofre Lopes, vinculado à UFRN
+	   # MEJC-UFRN - Maternidade Escola Januário Cicco
+241120 # 'Santa_Cruz': Huab-UFRN - Hospital Universitário Ana Bezerra   
+240800 # 'Mossoro': + 200 leitos
 ;
 
 

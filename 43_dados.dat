@@ -23,8 +23,8 @@ param POPmin:=
 # 3	30000
 # 2	2000
 # 3	4000
-2	3196	# Q1
-3	6018	# Q2 
+2	13196	# Q1	3196
+3	25969	# Q2	6018 
 ;
 
 # param DurUpper:=
@@ -36,34 +36,24 @@ param DurUpper:=
 1 0.51 
 # 2 2.2 
 # 3 2.6;
-2 0.55 
-3 1.7;
+2 2.30 
+3 2.35;
 
 # Municipios selecionados que já possuem infraestrutura de nível 3
 set S3:=
-#	co_municipio	#	no_municipio	qtd_realizado
-	431490	#	PORTO ALEGRE	7661
-	431410	#	PASSO FUNDO	3172
-	431340	#	NOVO HAMBURGO	1232
-	431440	#	PELOTAS	1148
-	430510	#	CAXIAS DO SUL	1112
-	431020	#	IJUI	1082
-	430460	#	CANOAS	964
-	431690	#	SANTA MARIA	606
-	431680	#	SANTA CRUZ DO SUL	572
-	431560	#	RIO GRANDE	483
-	431140	#	LAJEADO	434
-	430210	#	BENTO GONCALVES	8
-	/* 432000	#	SAPUCAIA DO SUL	6 */
-	/* 432150	#	TORRES	3 */
-	432160	#	TRAMANDAI	3
-	432240	#	URUGUAIANA	3
-	/* 430790	#	FARROUPILHA	2 */
-	430300	#	CACHOEIRA DO SUL	1
-	/* 430450	#	CANGUCU	1 */
-	430920	#	GRAVATAI	1
-	/* 431750	#	SANTO ANGELO	1 */
-	/* 431870	#	SAO LEOPOLDO	1 */
+431440 # 'Pelotas': Hospital Escola/FAU da UFPEL, vinculado à UFPel, Pelotas 
+431560 # 'Rio_Grande': Hospital Universitário Dr. Miguel Riet Corrêa Jr., vinculado à FURG, Rio Grande
+	   # 	Hospital Universitário Dr. Miguel Riet Corrêa Jr., vinculado à FURG, Rio Grande
+431690 # 'Santa_Maria': Hospital Universitário de Santa Maria, vinculado à UFSM, Santa Maria 
+431490 # 'Porto_Alegre': Hospital de Clínicas de Porto Alegre, vinculado à UFRGS
+	   # 	Hospital São Lucas, da PUCRS
+	   # 	Instituto de Cardiologia do Rio Grande do Sul, vinculado à Fundação Universitária de Cardiologia (IC/FUC)   
+	   # 	Santa Casa de Misericórdia de Porto Alegre, UFCSPA
+431410 # 'Passo_Fundo': +481 leitos
+430210 # 'Bento_Goncalves': +236 leitos
+430460 # 'Canoas': +436 leitos
+431840 # 'Sao_Jeronimo': +244 leitos
+430510 # 'Caxias_Do_Sul': +400 leitos Hospital Especializado
 ;
 
 
