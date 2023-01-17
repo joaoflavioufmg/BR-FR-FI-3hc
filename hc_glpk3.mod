@@ -98,6 +98,7 @@ param Pop_Min := min{i in I}POP[i];
 param Distmax{n in NA};
 param DurLower{n in NA}, >=0;
 param DurUpper{n in NA}, > DurLower[n];
+param DurUB := max{n in NA}DurUpper[n];
 
 
 /* # Distancia maxima e Populacao minima de abrangencia estao relacionados
@@ -218,9 +219,9 @@ param DEM{NA,E} default 0;
 # ==================================================
 # For linearization
 # ==================================================
-var pop{n in NA,j in J},>=0; # Population flow to each destination
-var pop2{n in NA,j in J1, k in J2: n=2}, >=0; # Aux varriable
-var pop3{n in NA,k in J2, l in J3: n=3}, >=0; # Aux varriable
+var pop{n in NA,j in J}, >= 0, <= Pop_Total; # Population flow to each destination
+var pop2{n in NA,j in J1, k in J2: n=2}, >= 0, <= Pop_Total; # Aux varriable
+var pop3{n in NA,k in J2, l in J3: n=3}, >= 0, <= Pop_Total; # Aux varriable
 
 # param POPN{n in NA,j in J}, default 0;
 # check{n in NA}: sum{j in J}POPN[n,j] = Pop_Total;
@@ -286,7 +287,9 @@ var x{n in NA, i in I, j in J} binary;
 # var x{n in NA, (i,j) in K} binary;
 
 # Extra travel duration
-var ex{n in NA, i in I, j in J}, >=0;
+var ex{n in NA, i in I, j in J}, >=0, <= DurUB;
+# Linearization: pop[n,i]*ex[n,i,j] = ext[n,i,j]
+var ext{n in NA, i in I, j in J}, >=0;
 
 # Se a cidade possui ou nao a unidade de saúde de cada nivel
 var z{n in NA, j in J}, binary;
@@ -305,11 +308,42 @@ minimize of:
 	+ sum{n in NA, k in J2: n=2} CI[n]*HC[n]*INFR[k]*pop[n,k]
 	+ sum{n in NA, l in J3: n=3} CI[n]*HC[n]*INFR[l]*pop[n,l]
 # Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+	# + sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
+	# + sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
+	# + sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*ext[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*ext[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*ext[n,k,l]
 ;
 
+# Linearization: product of two linear variables
+# ========================================================
+# x1x2 = z when l1 <= x1 <= u1, l2 <= x2 <= u2, 
+# y1 = 1/2 (x1+x2)
+# y2 = 1/2 (x1-x2)
+# The bounds on y1 and y2 are:
+# 1/2(l1+l2) <= y1 <= 1/2(u1+u2) and 
+# 1/2(l1-u2) <= y2 <= 1/2(u1-l2)
+# x1x2 = z when l1 >= 0, l2 >= 0 and one variable 
+# is not rerefenced in any other term, except on x1x2.
+# Assuming x1 is that variable, use z, and the following 
+# constraint: l1x2 <= z <= u1x2. After solving, 
+# x1 = z/x2, x2 > 0.
+# ========================================================
+# x1 = ex[n,i,j] => x1 = z/x2 => ex[n,i,j] = ext[n,i,j]/pop[n,j]
+# x2 = pop[n,j]
+# x1x2 = ext[n,i,j]
+# s.t. L1{n in NA, i in I, j in J}: y1[n,i,j] = 1/2*(ex[n,i,j]+pop[n,j]);
+# s.t. L2{n in NA, i in I, j in J}: y2[n,i,j] = 1/2*(ex[n,i,j]-pop[n,j]);
+# s.t. Ly1{n in NA, i in I, j in J}: y1[n,i,j] >= 1/2*(0+Pop_Min);
+# s.t. Uy1{n in NA, i in I, j in J}: y1[n,i,j] <= 1/2*(DurUB+Pop_Max);
+# s.t. Ly2{n in NA, i in I, j in J}: y2[n,i,j] >= 1/2*(0-Pop_Max);
+# s.t. Uy2{n in NA, i in I, j in J}: y2[n,i,j] <= 1/2*(DurUB-Pop_Min);
+# s.t. Rz{n in NA, i in I, j in J}: ext[n,i,j] >= 0;
+s.t. Rz1{n in NA, i in I,  j in J1: n=1}: ext[n,i,j] <= DurUB*pop[n,j];
+s.t. Rz2{n in NA, j in J1, k in J2: n=2}: ext[n,j,k] <= DurUB*pop[n,k];
+s.t. Rz3{n in NA, k in J2, l in J3: n=3}: ext[n,k,l] <= DurUB*pop[n,l];
+# ========================================================
 # Cada Municipio segue uma unica trajetoria.
 # Em Dmax e Pop de destino limitados, apenas os municipios selecionados tem um destino
 # s.t. R1{n in NA,i in I}: sum{j in N[i]} x[n,i,j] = 1 ;
@@ -377,13 +411,13 @@ s.t. R29{n in NA,l in J3: n=3}: pop[n,l] = sum{k in J2: l in N3[k]}pop3[n,k,l];
 # pop[n,k] = sum{j in J1: k in N2[j]}pop[n-1,j]*x[n,j,k];
 # pop[1,j]*x[n,j,k] = pop2[n,j,k]
 
-s.t. R30{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] <= Pop_Total*x[n,j,k];
+s.t. R30{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] <= Pop_Max*x[n,j,k];
 s.t. R31{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] <= pop[n-1,j];
-s.t. R32{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] >= pop[n-1,j] - Pop_Total*(1-x[n,j,k]);
+s.t. R32{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] >= pop[n-1,j] - Pop_Max*(1-x[n,j,k]);
 
-s.t. R33{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] <= Pop_Total*x[n,k,l];
+s.t. R33{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] <= Pop_Max*x[n,k,l];
 s.t. R34{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] <= pop[n-1,k];
-s.t. R35{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] >= pop[n-1,k] - Pop_Total*(1-x[n,k,l]);
+s.t. R35{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] >= pop[n-1,k] - Pop_Max*(1-x[n,k,l]);
 
 s.t. R36{n in NA: n=1}: sum{j in J1}pop[n,j] = Pop_Total;
 s.t. R37{n in NA: n=2}: sum{j in J2}pop[n,j] = Pop_Total;
