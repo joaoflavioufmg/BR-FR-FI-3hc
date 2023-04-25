@@ -3,7 +3,8 @@
 # Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
 # Fabricio Oliveira <fabricio.oliveira@aalto.fi >
 # Data   : 05/01/2023
-# Versao: 2.0:
+# Versao: 2.0: Solve hc_glpk2.mod after hc_glpk1.mod
+# hc_glpk2.mod uses pop_res.dat produced by hc_glpk1.mod
 # =========================================================
 
 # =========================================================
@@ -314,9 +315,9 @@ minimize of: # Total cost of new health care services
 	+ sum{n in NA, k in J2: n=2} HC[n]*CR[n]*POPN[n,k]*z[n,k]
 	+ sum{n in NA, l in J3: n=3} HC[n]*CR[n]*POPN[n,l]*z[n,l]
 # Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POPN[n,j]*ex[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POPN[n,k]*ex[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POPN[n,l]*ex[n,k,l]
 ;
 
 # Cada Municipio segue uma unica trajetoria.

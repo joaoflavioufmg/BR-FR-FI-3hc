@@ -1,149 +1,103 @@
 CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
-230020	                        Acarau	230020	                        Acarau	    0.00
-230230	                     Bela_Cruz	230020	                        Acarau	    0.50
-230655	                       Itarema	230020	                        Acarau	    0.38
-230030	                      Acopiara	230030	                      Acopiara	    0.00
-230426	     Deputado_Irapuan_Pinheiro	230030	                      Acopiara	    0.60
-231135	                       Quixelo	230030	                      Acopiara	    0.79
-230040	                        Aiuaba	230040	                        Aiuaba	    0.00
-230150	                      Arneiroz	230040	                        Aiuaba	    0.60
-230070	                    Alto_Santo	230070	                    Alto_Santo	    0.00
-231123	                    Potiretama	230070	                    Alto_Santo	    0.59
-230090	                      Apuiares	230090	                      Apuiares	    0.00
-230460	               General_Sampaio	230090	                      Apuiares	    0.25
-230100	                       Aquiraz	230100	                       Aquiraz	    0.00
-230625	                     Itaitinga	230100	                       Aquiraz	    0.45
-230960	                       Pacajus	230100	                       Aquiraz	    0.65
-231085	                   Pindoretama	230100	                       Aquiraz	    0.33
-230110	                       Aracati	230110	                       Aracati	    0.00
-230445	                        Fortim	230110	                       Aracati	    0.26
-230120	                     Aracoiaba	230120	                     Aracoiaba	    0.00
-230195	                      Barreira	230120	                     Aracoiaba	    0.55
-230210	                      Baturite	230120	                     Aracoiaba	    0.23
-230970	                      Pacatuba	230120	                     Aracoiaba	    0.87
-230060	                     Altaneira	230160	                        Assare	    0.69
-230160	                        Assare	230160	                        Assare	    0.00
-231120	                       Potengi	230160	                        Assare	    0.69
-230170	                        Aurora	230170	                        Aurora	    0.00
-230200	                         Barro	230170	                        Aurora	    0.73
-230185	                      Banabuiu	230185	                      Banabuiu	    0.00
-231300	                    Solonopole	230185	                      Banabuiu	    0.85
-230190	                      Barbalha	230190	                      Barbalha	    0.00
-230220	                      Beberibe	230220	                      Beberibe	    0.00
-230130	                       Araripe	230270	                  Campos_Sales	    0.59
-230270	                  Campos_Sales	230270	                  Campos_Sales	    0.00
-230280	                       Caninde	230280	                       Caninde	    0.00
-230290	                    Capistrano	230290	                    Capistrano	    0.00
-230910	                       Mulungu	230290	                    Capistrano	    0.78
-230300	                      Caridade	230300	                      Caridade	    0.00
-231040	                      Paramoti	230300	                      Caridade	    0.37
-230330	                        Carius	230330	                        Carius	    0.00
-231325	                      Tarrafas	230330	                        Carius	    0.65
-230350	                      Cascavel	230350	                      Cascavel	    0.00
-230360	                      Catarina	230360	                      Catarina	    0.00
-230400	                        Coreau	230400	                        Coreau	    0.00
-230900	                       Mucambo	230400	                        Coreau	    0.90
-230410	                       Crateus	230410	                       Crateus	    0.00
-230560	                 Independencia	230410	                       Crateus	    0.85
-230565	                    Ipaporanga	230410	                       Crateus	    0.66
-230420	                         Crato	230420	                         Crato	    0.00
-230423	                        Croata	230423	                        Croata	    0.00
-230370	                       Caucaia	230428	                       Eusebio	    0.53
-230428	                       Eusebio	230428	                       Eusebio	    0.00
-230430	                  Farias_Brito	230430	                  Farias_Brito	    0.00
-230440	                     Fortaleza	230440	                     Fortaleza	    0.00
-230205	                   Barroquinha	230470	                        Granja	    0.82
-230260	                       Camocim	230470	                        Granja	    0.44
-230470	                        Granja	230470	                        Granja	    0.00
-230725	        Jijoca_De_Jericoacoara	230470	                        Granja	    0.72
-231390	                        Uruoca	230470	                        Granja	    0.73
-230500	           Guaraciaba_Do_Norte	230500	           Guaraciaba_Do_Norte	    0.00
-230530	                      Ibiapina	230500	           Guaraciaba_Do_Norte	    0.60
-230580	                           Ipu	230500	           Guaraciaba_Do_Norte	    0.57
-230520	                   Hidrolandia	230520	                   Hidrolandia	    0.00
-230523	                     Horizonte	230523	                     Horizonte	    0.00
-230535	                        Icapui	230535	                        Icapui	    0.00
-230540	                           Ico	230540	                           Ico	    0.00
-230125	                      Ararenda	230590	                      Ipueiras	    0.63
-230590	                      Ipueiras	230590	                      Ipueiras	    0.00
-231100	                       Poranga	230590	                      Ipueiras	    0.85
-230610	                      Iraucuba	230610	                      Iraucuba	    0.00
-230640	                     Itapipoca	230640	                     Itapipoca	    0.00
-230650	                      Itapiuna	230650	                      Itapiuna	    0.00
-230660	                       Itatira	230660	                       Itatira	    0.00
-230670	                   Jaguaretama	230670	                   Jaguaretama	    0.00
-230690	                     Jaguaribe	230690	                     Jaguaribe	    0.00
-230710	                        Jardim	230710	                        Jardim	    0.00
-230320	                     Caririacu	230730	             Juazeiro_Do_Norte	    0.45
-230730	             Juazeiro_Do_Norte	230730	             Juazeiro_Do_Norte	    0.00
-230180	                        Baixio	230750	          Lavras_Da_Mangabeira	    0.72
-230480	                     Granjeiro	230750	          Lavras_Da_Mangabeira	    0.73
-230570	                     Ipaumirim	230750	          Lavras_Da_Mangabeira	    0.55
-230750	          Lavras_Da_Mangabeira	230750	          Lavras_Da_Mangabeira	    0.00
-231370	                         Umari	230750	          Lavras_Da_Mangabeira	    0.75
-230760	             Limoeiro_Do_Norte	230760	             Limoeiro_Do_Norte	    0.00
-230240	                    Boa_Viagem	230763	                      Madalena	    0.55
-230763	                      Madalena	230763	                      Madalena	    0.00
-230810	                       Mauriti	230810	                       Mauriti	    0.00
-230830	                      Milagres	230810	                       Mauriti	    0.38
-230840	                  Missao_Velha	230840	                  Missao_Velha	    0.00
-230850	                       Mombaca	230850	                       Mombaca	    0.00
-230860	              Monsenhor_Tabosa	230860	              Monsenhor_Tabosa	    0.00
-230930	                   Nova_Russas	230930	                   Nova_Russas	    0.00
-230940	                  Novo_Oriente	230940	                  Novo_Oriente	    0.00
-231126	               Quiterianopolis	230940	                  Novo_Oriente	    0.72
-230526	                     Ibaretama	230945	                         Ocara	    0.81
-230945	                         Ocara	230945	                         Ocara	    0.00
-230950	                          Oros	230950	                          Oros	    0.00
-231020	                      Paracuru	231020	                      Paracuru	    0.00
-231070	                    Pentecoste	231020	                      Paracuru	    0.87
-231260	              Sao_Luis_Do_Curu	231020	                      Paracuru	    0.73
-231030	                       Parambu	231030	                       Parambu	    0.00
-230600	                       Iracema	231080	                       Pereiro	    0.81
-231080	                       Pereiro	231080	                       Pereiro	    0.00
-230250	                   Brejo_Santo	231110	                     Porteiras	    0.32
-230720	                          Jati	231110	                     Porteiras	    0.50
-231060	                     Penaforte	231110	                     Porteiras	    0.72
-231110	                     Porteiras	231110	                     Porteiras	    0.00
-230393	                         Choro	231130	                       Quixada	    0.53
-230533	                   Ibicuitinga	231130	                       Quixada	    0.78
-231130	                       Quixada	231130	                       Quixada	    0.00
-231140	                  Quixeramobim	231140	                  Quixeramobim	    0.00
-231150	                       Quixere	231150	                       Quixere	    0.00
-231010	                      Palmacia	231160	                      Redencao	    0.88
-231160	                      Redencao	231160	                      Redencao	    0.00
-231170	                     Reriutaba	231170	                     Reriutaba	    0.00
-230700	                    Jaguaruana	231180	                        Russas	    0.69
-230870	                   Morada_Nova	231180	                        Russas	    0.87
-231000	                       Palhano	231180	                        Russas	    0.50
-231180	                        Russas	231180	                        Russas	    0.00
-230080	             Antonina_Do_Norte	231190	                      Saboeiro	    0.65
-231190	                      Saboeiro	231190	                      Saboeiro	    0.00
-231195	                       Salitre	231195	                       Salitre	    0.00
-230780	                         Marco	231200	             Santana_Do_Acarau	    0.84
-230800	                       Massape	231200	             Santana_Do_Acarau	    0.40
-230820	                       Meruoca	231200	             Santana_Do_Acarau	    0.68
-231200	             Santana_Do_Acarau	231200	             Santana_Do_Acarau	    0.00
-231210	             Santana_Do_Cariri	231210	             Santana_Do_Cariri	    0.00
-231220	                Santa_Quiteria	231220	                Santa_Quiteria	    0.00
-231240	       Sao_Goncalo_Do_Amarante	231240	       Sao_Goncalo_Do_Amarante	    0.00
-231050	                  Pedra_Branca	231270	                Senador_Pompeu	    0.87
-231090	               Piquet_Carneiro	231270	                Senador_Pompeu	    0.56
-231270	                Senador_Pompeu	231270	                Senador_Pompeu	    0.00
-230490	                      Groairas	231290	                        Sobral	    0.49
-230837	                       Miraima	231290	                        Sobral	    0.89
-231290	                        Sobral	231290	                        Sobral	    0.00
-230680	                   Jaguaribara	231310	            Tabuleiro_Do_Norte	    0.81
-231310	            Tabuleiro_Do_Norte	231310	            Tabuleiro_Do_Norte	    0.00
-231320	                      Tamboril	231320	                      Tamboril	    0.00
-231330	                          Taua	231330	                          Taua	    0.00
-231335	                     Tejucuoca	231335	                     Tejucuoca	    0.00
-230450	                  Frecheirinha	231340	                       Tiangua	    0.57
-231340	                       Tiangua	231340	                       Tiangua	    0.00
-231350	                        Trairi	231350	                        Trairi	    0.00
-231360	                       Ubajara	231360	                       Ubajara	    0.00
-231410	               Vicosa_Do_Ceara	231360	                       Ubajara	    0.81
-231025	                     Paraipaba	231375	                        Umirim	    0.84
-231375	                        Umirim	231375	                        Umirim	    0.00
-230380	                         Cedro	231400	                 Varzea_Alegre	    0.73
-231400	                 Varzea_Alegre	231400	                 Varzea_Alegre	    0.00
+170070,Alvorada,170070,Alvorada,0.00
+172097,Talisma,170070,Alvorada,0.60
+170100,Ananas,170100,Ananas,0.00
+171245,Luzinopolis,170100,Ananas,0.90
+170130,Aragominas,170130,Aragominas,0.00
+171395,Muricilandia,170130,Aragominas,0.40
+170190,Araguacema,170190,Araguacema,0.00
+170390,Caseara,170190,Araguacema,2.05
+170200,Araguacu,170200,Araguacu,0.00
+171884,Sandolandia,170200,Araguacu,0.81
+170210,Araguaina,170210,Araguaina,0.00
+170388,Carmolandia,170210,Araguaina,0.59
+170220,Araguatins,170220,Araguatins,0.00
+170230,Arapoema,170230,Arapoema,0.00
+170305,Bandeirantes_Do_Tocantins,170230,Arapoema,1.03
+170320,Bernardo_Sayao,170230,Arapoema,0.91
+171630,Pau_Darco,170230,Arapoema,0.62
+170240,Arraias,170240,Arraias,0.00
+171515,Novo_Alegre,170240,Arraias,0.89
+170255,Augustinopolis,170255,Augustinopolis,0.00
+170380,Buriti_Do_Tocantins,170255,Augustinopolis,0.72
+170389,Carrasco_Bonito,170255,Augustinopolis,0.53
+170740,Esperantina,170255,Augustinopolis,1.33
+170370,Brejinho_De_Nazare,170370,Brejinho_De_Nazare,0.00
+170550,Colinas_Do_Tocantins,170550,Colinas_Do_Tocantins,0.00
+171488,Nova_Olinda,170550,Colinas_Do_Tocantins,0.83
+170560,Conceicao_Do_Tocantins,170560,Conceicao_Do_Tocantins,0.00
+172093,Taipas_Do_Tocantins,170560,Conceicao_Do_Tocantins,1.35
+170610,Cristalandia,170610,Cristalandia,0.00
+171500,Nova_Rosalandia,170610,Cristalandia,0.58
+171550,Oliveira_De_Fatima,170610,Cristalandia,0.79
+170040,Almas,170700,Dianopolis,0.73
+170700,Dianopolis,170700,Dianopolis,0.00
+171525,Novo_Jardim,170700,Dianopolis,0.54
+170710,Divinopolis_Do_Tocantins,170710,Divinopolis_Do_Tocantins,0.00
+170720,Dois_Irmaos_Do_Tocantins,170710,Divinopolis_Do_Tocantins,1.04
+171250,Marianopolis_Do_Tocantins,170710,Divinopolis_Do_Tocantins,0.85
+170035,Alianca_Do_Tocantins,170730,Duere,0.90
+170730,Duere,170730,Duere,0.00
+170765,Figueiropolis,170765,Figueiropolis,0.00
+170300,Babaculandia,170770,Filadelfia,1.59
+170770,Filadelfia,170770,Filadelfia,0.00
+170820,Formoso_Do_Araguaia,170820,Formoso_Do_Araguaia,0.00
+170307,Barra_Do_Ouro,170900,Goiatins,1.09
+170384,Campos_Lindos,170900,Goiatins,1.53
+170900,Goiatins,170900,Goiatins,0.00
+170930,Guarai,170930,Guarai,0.00
+171840,Presidente_Kennedy,170930,Guarai,0.61
+170950,Gurupi,170950,Gurupi,0.00
+171050,Itacaja,171050,Itacaja,0.00
+171090,Itapiratins,171050,Itacaja,1.32
+171190,Lagoa_Da_Confusao,171190,Lagoa_Da_Confusao,0.00
+171240,Lizarda,171240,Lizarda,0.00
+172015,Sao_Felix_Do_Tocantins,171240,Lizarda,4.13
+171200,Lajeado,171320,Miracema_Do_Tocantins,0.52
+171320,Miracema_Do_Tocantins,171320,Miracema_Do_Tocantins,0.00
+170310,Barrolandia,171330,Miranorte,0.68
+171330,Miranorte,171330,Miranorte,0.00
+171360,Monte_Do_Carmo,171360,Monte_Do_Carmo,0.00
+171420,Natividade,171420,Natividade,0.00
+172049,Sao_Valerio,171420,Natividade,1.06
+170110,Aparecida_Do_Rio_Negro,171510,Novo_Acordo,0.76
+171510,Novo_Acordo,171510,Novo_Acordo,0.00
+171570,Palmeirante,171570,Palmeirante,0.00
+171150,Jau_Do_Tocantins,171575,Palmeiropolis,0.96
+171575,Palmeiropolis,171575,Palmeiropolis,0.00
+172025,Sao_Salvador_Do_Tocantins,171575,Palmeiropolis,0.70
+170460,Chapada_De_Areia,171610,Paraiso_Do_Tocantins,0.83
+171610,Paraiso_Do_Tocantins,171610,Paraiso_Do_Tocantins,0.00
+171620,Parana,171620,Parana,0.00
+171650,Pedro_Afonso,171650,Pedro_Afonso,0.00
+171660,Peixe,171660,Peixe,0.00
+172085,Sucupira,171660,Peixe,0.89
+170600,Couto_Magalhaes,171670,Colmeia,1.15
+170830,Goianorte,171670,Colmeia,0.61
+171180,Juarina,171670,Colmeia,1.73
+171670,Colmeia,171670,Colmeia,0.00
+171700,Pindorama_Do_Tocantins,171700,Pindorama_Do_Tocantins,0.00
+171750,Pium,171750,Pium,0.00
+171195,Lagoa_Do_Tocantins,171790,Ponte_Alta_Do_Tocantins,1.61
+171270,Mateiros,171790,Ponte_Alta_Do_Tocantins,5.10
+171790,Ponte_Alta_Do_Tocantins,171790,Ponte_Alta_Do_Tocantins,0.00
+171900,Santa_Tereza_Do_Tocantins,171790,Ponte_Alta_Do_Tocantins,1.16
+171820,Porto_Nacional,171820,Porto_Nacional,0.00
+171875,Rio_Sono,171875,Rio_Sono,0.00
+170410,Centenario,171888,Santa_Maria_Do_Tocantins,2.19
+171850,Recursolandia,171888,Santa_Maria_Do_Tocantins,2.83
+171888,Santa_Maria_Do_Tocantins,171888,Santa_Maria_Do_Tocantins,0.00
+170980,Ipueiras,172065,Silvanopolis,1.16
+171890,Santa_Rosa_Do_Tocantins,172065,Silvanopolis,0.67
+172065,Silvanopolis,172065,Silvanopolis,0.00
+171280,Maurilandia_Do_Tocantins,172080,Sitio_Novo_Do_Tocantins,1.18
+172080,Sitio_Novo_Do_Tocantins,172080,Sitio_Novo_Do_Tocantins,0.00
+170270,Aurora_Do_Tocantins,172090,Taguatinga,0.80
+171780,Ponte_Alta_Do_Bom_Jesus,172090,Taguatinga,0.71
+172090,Taguatinga,172090,Taguatinga,0.00
+172100,Palmas,172100,Palmas,0.00
+171380,Palmeiras_Do_Tocantins,172120,Tocantinopolis,0.66
+172120,Tocantinopolis,172120,Tocantinopolis,0.00
+171720,Piraque,172210,Xambioa,0.89
+172208,Wanderlandia,172210,Xambioa,1.48
+172210,Xambioa,172210,Xambioa,0.00

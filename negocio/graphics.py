@@ -309,6 +309,7 @@ def make_br_flow_map():
     # W/S: pan up/down
 
     geoplotlib.show()
+    # geoplotlib.savefig('brazil')
 
 def demand_meet_graphics(file_name, level, state):
     # global maps_folder

@@ -2,8 +2,9 @@
 # Model: Hierarchical health care design : 3 levels (brown field)
 # Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
 # Fabricio Oliveira <fabricio.oliveira@aalto.fi >
-# Data   : 15/01/2023
-# Versao: 3.0: Linearizacao de produto de variaveis 
+# Data   : 24/08/2022
+# Versao: 1.0:Solve hc_glpk1.mod then solve hc_glpk2.mod
+# hc_glpk2.mod uses pop_res.dat produced by hc_glpk1.mod
 # =========================================================
 
 # =========================================================
@@ -98,7 +99,6 @@ param Pop_Min := min{i in I}POP[i];
 param Distmax{n in NA};
 param DurLower{n in NA}, >=0;
 param DurUpper{n in NA}, > DurLower[n];
-param DurUB := max{n in NA}DurUpper[n];
 
 
 /* # Distancia maxima e Populacao minima de abrangencia estao relacionados
@@ -213,26 +213,20 @@ param INFR{i in I} default 0;
 
 param NINFR{i in I: i in J3}:= if (INFR[i] == 1) then 0 else 1;
 
+
+# Numero de internacoes - Fator de atratividade
+# param NInter{i in I};
+
+# Numero de medicos
+# param Nmed{i in I, e in E};
+
 # Fator para o calculo da demanda (base Portaria 1631): Numero de medicos por 100 mil.
 param DEM{NA,E} default 0;
 
-# ==================================================
-# For linearization
-# ==================================================
-var pop{n in NA,j in J}, >= 0, <= Pop_Total; # Population flow to each destination
-var pop2{n in NA,j in J1, k in J2: n=2}, >= 0, <= Pop_Total; # Aux varriable
-var pop3{n in NA,k in J2, l in J3: n=3}, >= 0, <= Pop_Total; # Aux varriable
-
-# param POPN{n in NA,j in J}, default 0;
-# check{n in NA}: sum{j in J}POPN[n,j] = Pop_Total;
-# ==================================================
-
 # Demanda por Cidade i no nivel n e na especialidade k
 param Q{i in I,n in NA,e in E} := round((DEM[n,e]*POP[i])/1000,4);
-# Demanda no Destino j no nivel n e na especialidade k
-var q{j in J,n in NA,e in E}, >=0;
 # display{n in NA, e in E}: sum{i in I}Q[i,n,e];
-
+/* display Q; */
 
 # Quantidade minima de demanda medica (FTE) no destino
 # Numero minimo de medicos a serem alocados em cada cidade destino
@@ -287,63 +281,30 @@ var x{n in NA, i in I, j in J} binary;
 # var x{n in NA, (i,j) in K} binary;
 
 # Extra travel duration
-var ex{n in NA, i in I, j in J}, >=0, <= DurUB;
-# Linearization: pop[n,i]*ex[n,i,j] = ext[n,i,j]
-var ext{n in NA, i in I, j in J}, >=0;
+var ex{n in NA, i in I, j in J}, >=0;
 
 # Se a cidade possui ou nao a unidade de saúde de cada nivel
-var z{n in NA, j in J}, binary;
+var z{n in NA, j in J} binary;
 
 # ==================================================
 # Formulacao
 # ==================================================
 
-minimize of: 
+minimize of: # sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+	  sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
 # Total cost of the health care system (assigning origin population)
-	  sum{n in NA, j in J1: n=1} HC[n]*CR[n]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} HC[n]*CR[n]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} HC[n]*CR[n]*pop[n,l]
-# Total cost of new health care services
-	+ sum{n in NA, j in J1: n=1} CI[n]*HC[n]*INFR[j]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} CI[n]*HC[n]*INFR[k]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} CI[n]*HC[n]*INFR[l]*pop[n,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l]
 # Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
-	# + sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
-	# + sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
-	# + sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*ext[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*ext[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*ext[n,k,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
 ;
 
-# Linearization: product of two linear variables
-# ========================================================
-# x1x2 = z when l1 <= x1 <= u1, l2 <= x2 <= u2, 
-# y1 = 1/2 (x1+x2)
-# y2 = 1/2 (x1-x2)
-# The bounds on y1 and y2 are:
-# 1/2(l1+l2) <= y1 <= 1/2(u1+u2) and 
-# 1/2(l1-u2) <= y2 <= 1/2(u1-l2)
-# x1x2 = z when l1 >= 0, l2 >= 0 and one variable 
-# is not rerefenced in any other term, except on x1x2.
-# Assuming x1 is that variable, use z, and the following 
-# constraint: l1x2 <= z <= u1x2. After solving, 
-# x1 = z/x2, x2 > 0.
-# ========================================================
-# x1 = ex[n,i,j] => x1 = z/x2 => ex[n,i,j] = ext[n,i,j]/pop[n,j]
-# x2 = pop[n,j]
-# x1x2 = ext[n,i,j]
-# s.t. L1{n in NA, i in I, j in J}: y1[n,i,j] = 1/2*(ex[n,i,j]+pop[n,j]);
-# s.t. L2{n in NA, i in I, j in J}: y2[n,i,j] = 1/2*(ex[n,i,j]-pop[n,j]);
-# s.t. Ly1{n in NA, i in I, j in J}: y1[n,i,j] >= 1/2*(0+Pop_Min);
-# s.t. Uy1{n in NA, i in I, j in J}: y1[n,i,j] <= 1/2*(DurUB+Pop_Max);
-# s.t. Ly2{n in NA, i in I, j in J}: y2[n,i,j] >= 1/2*(0-Pop_Max);
-# s.t. Uy2{n in NA, i in I, j in J}: y2[n,i,j] <= 1/2*(DurUB-Pop_Min);
-# s.t. Rz{n in NA, i in I, j in J}: ext[n,i,j] >= 0;
-s.t. Rz1{n in NA, i in I,  j in J1: n=1}: ext[n,i,j] <= DurUB*pop[n,j];
-s.t. Rz2{n in NA, j in J1, k in J2: n=2}: ext[n,j,k] <= DurUB*pop[n,k];
-s.t. Rz3{n in NA, k in J2, l in J3: n=3}: ext[n,k,l] <= DurUB*pop[n,l];
-# ========================================================
+
 # Cada Municipio segue uma unica trajetoria.
 # Em Dmax e Pop de destino limitados, apenas os municipios selecionados tem um destino
 # s.t. R1{n in NA,i in I}: sum{j in N[i]} x[n,i,j] = 1 ;
@@ -375,20 +336,62 @@ s.t. R6{n in NA, k in J2 diff (EX3 union EX2): n=3}: sum{l in N3[k]} x[n,k,l] = 
 s.t. R7a{n in NA, i in J1, j in N1[i]: n=1 and i in NAE[n,j] and i=j}: x[n,i,j] = z[n,j];
 s.t. R7b{n in NA, j in J2, k in N2[j]: n=2 and j in NAE[n,k] and j=k}: x[n,j,k] = z[n,k];
 s.t. R7c{n in NA, k in J3, l in N3[k]: n=3 and k in NAE[n,l] and k=l}: x[n,k,l] = z[n,l];
+
 # Garante que sempre que a unidade de saúde possa atender niveis superiores, o mesmo vale para os niveis inferiores.
 s.t. R8{n in NA, j in J: n > 1}: z[n,j] <= z[n-1,j];
 
-s.t. R9{j in J1,n in NA,e in E: n=1}: q[j,n,e] = (DEM[n,e]*pop[n,j])/1000;
-s.t. R10{j in J2,n in NA,e in E: n=2}: q[j,n,e] = (DEM[n,e]*pop[n,j])/1000;
-s.t. R11{j in J3,n in NA,e in E: n=3}: q[j,n,e] = (DEM[n,e]*pop[n,j])/1000;
+# Nao eh necessario: R22 eh mais flexivel
+# s.t. R9{j in J}: z[3,j] >= POLO[j];
 
-# s.t. R10b{n in NA, e in E: n=1}: sum{i in I, j in J1} Q[i,n,e]*x[n,i,j] >= sum{i in I} Q[i,n,e];
-s.t. R9b{n in NA, e in E: n=1}: sum{j in J1} q[j,n,e] >= sum{i in I} Q[i,n,e]-1;
+# Restringe as cidades que podem ser escolhidas para receber unidade de saúde como aqueles que atenderem uma demanda minima
+# s.t. R13{n in NA,j in J, e in E}: sum{i in I: i in NAE[n,e,j]} Q[i,n,e]*x[n,i,j] >= Qmin[n,e]*z[n,j];
 
+/* HIERARQUIA */
+# s.t. R10{n in NA,j in J1, e in E: n=1}: sum{i in I: i in NAE[n,j] and j in N1[i]} Q[i,n,e]*x[n,i,j] >= Qmin[n,e]*z[n,j];
+
+# var xd1{n in NA, j in J1, e in E: n=1}, >= 0;
+
+/* s.t. R10a{n in NA, j in J1, e in E: n=1 and DEM[n,e] > 0}: sum{i in I: i in NAE[n,j] and j in N1[i] and i <> j} ((Q[i,n,e]*x[n,i,j]/DEM[n,e])*DEM[2,e]) = xd1[n,j,e]; */
+# s.t. R10a{n in NA, j in J1, e in E: n=1 and e<=3 and DEM[n,e]>0}: sum{i in I: i in NAE[n,j] and j in N1[i]} ((Q[i,n,e]*x[n,i,j]/DEM[n,e])*DEM[2,e]) = xd1[n,j,e];
+
+s.t. R10b{n in NA, e in E: n=1}: sum{i in I, j in J1} Q[i,n,e]*x[n,i,j] >= sum{i in I} Q[i,n,e];
+
+# s.t. R11{n in NA, e in E: n=2}: sum{j in J1, k in J2} Q[j,n,e]*x[n,j,k] >= sum{j in J1}xd1[n-1,j,e];
+# s.t. R11{n in NA, j in J1, e in E: n=2 and e<=3 and DEM[n,e]>0}: sum{k in J2: j in J1} Q[j,n,e]*x[n,j,k] >= xd1[n-1,j,e];
+
+# var xd2{n in NA, k in J2, e in E: n=2}, >= 0;
+
+/* s.t. R11a{n in NA, k in J2, e in E: n=2 and DEM[n,e] > 0}: sum{j in J1: j in NAE[n,k] and k in N2[j] and j <> k} ((Q[j,n,e]/DEM[n,e])*DEM[3,e])*x[n,j,k] = xd2[n,k,e]; */
+# s.t. R11a{n in NA, k in J2, e in E: n=2 and e<=3 and DEM[n,e]>0}: sum{j in J1: j in NAE[n,k] and k in N2[j]} ((Q[j,n,e]*x[n,j,k]/DEM[n,e])*DEM[3,e]) = xd2[n,k,e];
+
+
+s.t. R11b{n in NA, e in E: n=2}: sum{j in J1, k in J2} Q[j,n,e]*x[n,j,k] >= sum{j in J1} Q[j,n,e];
+
+# s.t. R12{n in NA, e in E: n=3}: sum{k in J2, l in J3} Q[k,n,e]*x[n,k,l] >= sum{k in J2}xd2[n-1,k,e];
+# s.t. R12{n in NA, k in J2, e in E: n=3 and e<=3 and DEM[n,e]>0}: sum{l in J3: k in J2} Q[k,n,e]*x[n,k,l] >= xd2[n-1,k,e];
+
+# s.t. R12c{n in NA, k in J2, e in E: n=3 and DEM[n,e]>0}: sum{l in J3: k in J2} Q[k,n,e]*x[n,k,l] >= sum{j in J1: j in NAE[n,k] and k in N2[j]} ((Q[j,n-1,e]*x[n-1,j,k]/DEM[n-1,e])*DEM[n,e]);
+
+s.t. R12b{n in NA, e in E: n=3}: sum{k in J2, l in J3} Q[k,n,e]*x[n,k,l] >= sum{k in J2}Q[k,n,e];
+
+
+/* s.t. R11b{n in NA, e in E: n = 2}: sum{j in J1, k in J2: j in NAE[n,k] and k in N2[j]} Q[j,n,e]*x[n,j,k] >= 0.8*QE[n,e];
+s.t. R12b{n in NA, e in E: n = 3}: sum{k in J2, l in J3: k in NAE[n,l] and l in N3[k]} Q[k,n,e]*x[n,k,l] >= 0.96*QE[n,e]; */
+
+# Fluxo da populacao para cidades mais populosas
+# s.t. R16{n in NA, i in I, j in N[i]}: x[n,i,j]*POP[i] <= POP[j];
+
+# s.t. R13{n in NA, i in I, j in N1[i]: n=1}: x[n,i,j]*POP[i] <= 1.2*POP[j];
+# s.t. R14{n in NA, j in J1, k in N2[j]: n=2}: x[n,j,k]*POP[j] <= 1.2*POP[k];
+# s.t. R15{n in NA, k in J2, l in N3[k]: n=3}: x[n,k,l]*POP[k] <= 1.2*POP[l];
 
 s.t. R16{n in NA, i in I , j in N1[i]: n=1 and i <> j}: D[i,j]*x[n,i,j] <= DurLower[n] + ex[n,i,j];
 s.t. R17{n in NA, j in J1, k in N2[j]: n=2 and j <> k}: D[j,k]*x[n,j,k] <= DurLower[n] + ex[n,j,k];
 s.t. R18{n in NA, k in J2, l in N3[k]: n=3 and k <> l}: D[k,l]*x[n,k,l] <= DurLower[n] + ex[n,k,l];
+
+# s.t. R16u{n in NA, i in I, j in N1[i]: n=1}: D[i,j]*x[n,i,j] <= DurUpper[n];
+# s.t. R17u{n in NA, j in J1, k in N2[j]: n=2}: D[j,k]*x[n,j,k] <= DurUpper[n];
+# s.t. R18u{n in NA, k in J2, l in N3[k]: n=3}: D[k,l]*x[n,k,l] <= DurUpper[n];
 
 # For tree design
 s.t. R19{n in NA: n=1}: sum{j in J1} z[n,j] <= card(I) - 1;
@@ -399,123 +402,112 @@ s.t. R21{n in NA: n=3}: sum{l in J3} z[n,l] <= sum{k in J2}z[n-1,k] - 1;
 s.t. R22{n in NA, j in S3: n=3}: z[n,j] >= 1;
 # s.t. R23{n in NA, j in J3: n=3}: z[n,j] >= NINFR[j];
 
-s.t. R3b{n in NA, j in J1, k in N2[j]: (j,k) in K and n=2}: x[n,j,k]*POPmin[n] <= pop[n,k];
-s.t. R4b{n in NA, k in J2, l in N3[k]: (k,l) in K and n=3}: x[n,k,l]*POPmin[n] <= pop[n,l];
 
-
-s.t. R27{n in NA,j in J1: n=1}: pop[n,j] = sum{i in I: j in N1[i]}POP[i]*x[n,i,j];
-s.t. R28{n in NA,k in J2: n=2}: pop[n,k] = sum{j in J1: k in N2[j]}pop2[n,j,k];
-s.t. R29{n in NA,l in J3: n=3}: pop[n,l] = sum{k in J2: l in N3[k]}pop3[n,k,l]; 
-
-# linear x binario
-# pop[n,k] = sum{j in J1: k in N2[j]}pop[n-1,j]*x[n,j,k];
-# pop[1,j]*x[n,j,k] = pop2[n,j,k]
-
-s.t. R30{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] <= Pop_Max*x[n,j,k];
-s.t. R31{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] <= pop[n-1,j];
-s.t. R32{n in NA,j in J1, k in J2: n=2}: pop2[n,j,k] >= pop[n-1,j] - Pop_Max*(1-x[n,j,k]);
-
-s.t. R33{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] <= Pop_Max*x[n,k,l];
-s.t. R34{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] <= pop[n-1,k];
-s.t. R35{n in NA,k in J2, l in J3: n=3}: pop3[n,k,l] >= pop[n-1,k] - Pop_Max*(1-x[n,k,l]);
-
-s.t. R36{n in NA: n=1}: sum{j in J1}pop[n,j] = Pop_Total;
-s.t. R37{n in NA: n=2}: sum{j in J2}pop[n,j] = Pop_Total;
-s.t. R38{n in NA: n=3}: sum{j in J3}pop[n,j] = Pop_Total;
-
-# glpsol -m hc_glpk2.mod -d hc.dat -d pop_res.dat -d 12_dados.dat -d 12_dist_dur.txt
-
+# glpsol -m hc_glpk.mod -d hc.dat -d 12_dados.dat -d 12_dist_dur.txt
 solve;
+
 
 check{n in NA, i in I, j in N1[i]: n=1 and x[n,i,j] > 0}: POP[j]*x[n,i,j] >= POPmin[n];
 check{n in NA, j in J1, k in N2[j]: n=2 and x[n,j,k] > 0}: POP[k]*x[n,j,k] >= POPmin[n];
 check{n in NA, k in J2, l in N3[k]: n=3 and x[n,k,l] > 0}: POP[l]*x[n,k,l] >= POPmin[n];
 
-check{n in NA, j in J1: n=1 and z[n,j] > 0}: pop[n,j] >= POPmin[n];
-check{n in NA, k in J2: n=2 and z[n,k] > 0}: pop[n,k] >= POPmin[n];
-check{n in NA, l in J3: n=3 and z[n,l] > 0}: pop[n,l] >= POPmin[n];
 
-# printf{n in NA, e in E: sum{j in J1} QD[j,n,e]>0 and n=1} "QD[%s]: %d\tQ[%s]: %d\n", e, sum{j in J1} QD[j,n,e]*z[n,j], e, sum{i in I} Q[i,n,e];
+printf "%s\n\n", "Optimization settings:" > "Resultado/00-Notes.txt";
 
-
-printf "%s\n\n", "Optimization settings:" > "Resultado/00-Notes3.txt";
-
-printf "%s\n", "----------------------------------------" >> "Resultado/00-Notes3.txt";
-printf "%-20s\t%16.2f\n", "Objective Function:", of >> "Resultado/00-Notes3.txt";
+printf "%s\n", "----------------------------------------" >> "Resultado/00-Notes.txt";
+printf "%-20s\t%16.2f\n", "Objective Function:", of >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Primary   Care Cost:", 
-sum{n in NA, j in J1: n=1} HC[n]*CR[n]*pop[n,j] >> "Resultado/00-Notes3.txt";
+sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j] >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Secondary Care Cost:", 
-sum{n in NA, k in J2: n=2} HC[n]*CR[n]*pop[n,k] >> "Resultado/00-Notes3.txt";
+sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k] >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Tertiary  Care Cost:", 
-sum{n in NA, l in J3: n=3} HC[n]*CR[n]*pop[n,l] >> "Resultado/00-Notes3.txt";
+sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l] >> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Add Infrastruc Cost:", 
-sum{n in NA, j in J1: n=1} CI[n]*HC[n]*INFR[j]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} CI[n]*HC[n]*INFR[k]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} CI[n]*HC[n]*INFR[l]*pop[n,l]
->> "Resultado/00-Notes3.txt";
+sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
++ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
++ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
+>> "Resultado/00-Notes.txt";
 printf "%-20s\t%16.2f\n", "Populat ExtLog Cost:", 
 sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
 + sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
 + sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
->> "Resultado/00-Notes3.txt";
+>> "Resultado/00-Notes.txt";
 printf "%-25s\t%12.2f\n", "HC Cost per capita (now):", 
-(sum{n in NA, j in J1: n=1} HC[n]*CR[n]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} HC[n]*CR[n]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} HC[n]*CR[n]*pop[n,l])/Pop_Total >> "Resultado/00-Notes3.txt";
+(sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]+
+sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]+
+sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l])/Pop_Total >> "Resultado/00-Notes.txt";
 printf "%-25s\t%12.2f\n", "HC Cost per capita (fut):", 
-of/Pop_Total >> "Resultado/00-Notes3.txt";
+of/Pop_Total >> "Resultado/00-Notes.txt";
 
-printf "%s\n\n", "----------------------------------------" >> "Resultado/00-Notes3.txt";
+printf "%s\n\n", "----------------------------------------" >> "Resultado/00-Notes.txt";
 
-printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes3.txt";
-printf "%s\t%d\n", "State population:", Pop_Total >> "Resultado/00-Notes3.txt";
-printf "%s\t%d\n", "Max municipa pop:", Pop_Max >> "Resultado/00-Notes3.txt";
-printf "%s\t%d\n", "Min municipa pop:", Pop_Min >> "Resultado/00-Notes3.txt";
-printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes3.txt";
+printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes.txt";
+printf "%s\t%d\n", "State population:", Pop_Total >> "Resultado/00-Notes.txt";
+printf "%s\t%d\n", "Max municipa pop:", Pop_Max >> "Resultado/00-Notes.txt";
+printf "%s\t%d\n", "Min municipa pop:", Pop_Min >> "Resultado/00-Notes.txt";
+printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes.txt";
 
 printf "%s\t%s\t%s\n%s\n", "Care Level", "Pop. Min", "Dur. Max(h).",
-"-----------------------------------" >> "Resultado/00-Notes3.txt";
-printf{n in NA}: "[%d]\t\t\t%-7d\t\t%.2f\n", n, POPmin[n], DurUpper[n] >> "Resultado/00-Notes3.txt";
-printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes3.txt";
+"-----------------------------------" >> "Resultado/00-Notes.txt";
+printf{n in NA}: "[%d]\t\t\t%-7d\t\t%.2f\n", n, POPmin[n], DurUpper[n] >> "Resultado/00-Notes.txt";
+printf "%s\n", "-----------------------------------" >> "Resultado/00-Notes.txt";
 
 printf "\n\nDemand met by level: (Estate has %d municipalities).\n%s\n", card(I),
-"----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
+"----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
 printf{n in NA: n = 1} "Care Level [%d]: %3d mun > %3d mun (%.2f%% coverage)\n", n, sum{i in I, j in N1[i]}x[n,i,j], sum{j in J1}z[n,j],
-100*(sum{i in I, j in N1[i]}x[n,i,j])/card(I)>> "Resultado/00-Notes3.txt";
-printf{n in NA: n = 2}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J1, j in N2[i]}x[n,i,j], sum{j in J2}z[n,j] >> "Resultado/00-Notes3.txt";
-printf{n in NA: n = 3}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J2, j in N3[i]}x[n,i,j], sum{j in J3}z[n,j] >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
+100*(sum{i in I, j in N1[i]}x[n,i,j])/card(I)>> "Resultado/00-Notes.txt";
+printf{n in NA: n = 2}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J1, j in N2[i]}x[n,i,j], sum{j in J2}z[n,j] >> "Resultado/00-Notes.txt";
+printf{n in NA: n = 3}"Care Level [%d]: %3d mun > %3d mun\n", n, sum{i in J2, j in N3[i]}x[n,i,j], sum{j in J3}z[n,j] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
-# CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
-printf "\nMunicipalities requiring additional infrastructure:\n" >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
-printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes3.txt";
-printf{n in NA, j in J1: n=1 and INFR[j] = 1 and z[n,j] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",1, j, Mun[j], CI[n]*HC[n]*INFR[j]*pop[n,j] >> "Resultado/00-Notes3.txt";
-printf{n in NA, k in J2: n=2 and INFR[k] = 1 and z[n,k] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",2, k, Mun[k], CI[n]*HC[n]*INFR[k]*pop[n,k] >> "Resultado/00-Notes3.txt";
-printf{n in NA, l in J3: n=3 and INFR[l] = 1 and z[n,l] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",3, l, Mun[l], CI[n]*HC[n]*INFR[l]*pop[n,l] >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
+printf "\nMunicipalities requiring additional infrastructure:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=1 and INFR[j] = 1 and z[n,j] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",1, j, Mun[j], sum{i in I : j in N1[i]} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=2 and INFR[k] = 1 and z[n,k] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",2, k, Mun[k], sum{j in J1: k in N2[j]} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, l in J3: n=3 and INFR[l] = 1 and z[n,l] = 1}: "%5d\t%d\t%-25s:\t%.2f\n",3, l, Mun[l], sum{k in J2: l in N3[k]} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
-printf "\nMunicipalities (origin) for logistics investiment:\n" >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
-printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes3.txt";
-printf{n in NA, i in I : n=1 and sum{j in J1: i <> j} ex[n,i,j] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], sum{j in N1[i]} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j] >> "Resultado/00-Notes3.txt";
-printf{n in NA, j in J1: n=2 and sum{k in J2: j <> k} ex[n,j,k] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",2, j, Mun[j], sum{k in N2[j]} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k] >> "Resultado/00-Notes3.txt";
-printf{n in NA, k in J2: n=3 and sum{l in J3: k <> l} ex[n,k,l] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",3, k, Mun[k], sum{l in N3[k]} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l] >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
+printf "\nMunicipalities (origin) for logistics investiment:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCOST($)\n" >> "Resultado/00-Notes.txt";
+printf{n in NA, i in I : n=1 and sum{j in J1: i <> j} ex[n,i,j] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], sum{j in N1[i]} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j] >> "Resultado/00-Notes.txt";
+printf{n in NA, j in J1: n=2 and sum{k in J2: j <> k} ex[n,j,k] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",2, j, Mun[j], sum{k in N2[j]} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k] >> "Resultado/00-Notes.txt";
+printf{n in NA, k in J2: n=3 and sum{l in J3: k <> l} ex[n,k,l] > 0}: "%5d\t%d\t%-25s:\t%.2f\n",3, k, Mun[k], sum{l in N3[k]} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
-printf "\nMunicipalities requiring a custom solution:\n" >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
-printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCLOSEST(h)\n" >> "Resultado/00-Notes3.txt";
-printf{i in EX1}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], EXT1[i] >> "Resultado/00-Notes3.txt";
-printf{i in EX2}: "%5d\t%d\t%-25s:\t%.2f\n",2, i, Mun[i], EXT2[i] >> "Resultado/00-Notes3.txt";
-printf{i in EX3}: "%5d\t%d\t%-25s:\t%.2f\n",3, i, Mun[i], EXT3[i] >> "Resultado/00-Notes3.txt";
-printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes3.txt";
+printf "\nMunicipalities requiring a custom solution:\n" >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
+printf "LEVEL\tCODE\tDESCRIPTION\t\t\t\t\tCLOSEST(h)\n" >> "Resultado/00-Notes.txt";
+printf{i in EX1}: "%5d\t%d\t%-25s:\t%.2f\n",1, i, Mun[i], EXT1[i] >> "Resultado/00-Notes.txt";
+printf{i in EX2}: "%5d\t%d\t%-25s:\t%.2f\n",2, i, Mun[i], EXT2[i] >> "Resultado/00-Notes.txt";
+printf{i in EX3}: "%5d\t%d\t%-25s:\t%.2f\n",3, i, Mun[i], EXT3[i] >> "Resultado/00-Notes.txt";
+printf "%s\n", "----------------------------------------------------------------" >> "Resultado/00-Notes.txt";
 
 
-# param POPN1{n in NA,j in J1: n=1} := sum{i in I: j in N1[i]}POP[i]*x[n,i,j];
-# param POPN2{n in NA,k in J2: n=2} := sum{j in J1: k in N2[j]}POPN1[n-1,j]*x[n,j,k];
-# param POPN3{n in NA,l in J3: n=3} := sum{k in J2: l in N3[k]}POPN2[n-1,k]*x[n,k,l];
+param POPN1{n in NA,j in J1: n=1} := sum{i in I: j in N1[i]}POP[i]*x[n,i,j];
+param POPN2{n in NA,k in J2: n=2} := sum{j in J1: k in N2[j]}POPN1[n-1,j]*x[n,j,k];
+param POPN3{n in NA,l in J3: n=3} := sum{k in J2: l in N3[k]}POPN2[n-1,k]*x[n,k,l];
+
+check{n in NA: n=1}: sum{j in J1}POPN1[n,j] = Pop_Total;
+check{n in NA: n=2}: sum{k in J2}POPN2[n,k] = Pop_Total;
+check{n in NA: n=3}: sum{l in J3}POPN3[n,l] = Pop_Total;
+
+# Exportando os resultados de POP para um novo arquivo de dados
+param POPN{n in NA,j in J};
+printf "\n\n";
+param pop_results symbolic := "pop_res.dat";
+printf "data;\n\n" > pop_results;
+
+printf "param POPN:=\n" >> pop_results;
+printf{n in NA,j in J1: n=1 and z[n,j] > 0.9}: 
+"[%d,%s]\t%d\n", n, j, sum{i in I: j in N1[i]}POP[i]*x[n,i,j] >> pop_results;
+printf{n in NA,k in J2: n=2 and z[n,k] > 0.9}: 
+"[%d,%s]\t%d\n", n, k, sum{j in J1: k in N2[j] and n=2}POPN1[n-1,j]*x[n,j,k] >> pop_results;
+printf{n in NA,l in J3: n=3 and z[n,l] > 0.9}: 
+"[%d,%s]\t%d\n", n, l, sum{k in J2: l in N3[k] and n=3}POPN2[n-1,k]*x[n,k,l] >> pop_results;
+printf ";\n\nend;\n\n" >> pop_results;
 
 
 # check: sum{n in NA, j in J1:n=1}POPN1[n,j] = sum{n in NA, k in J2:n=2}POPN2[n,k];
@@ -527,7 +519,7 @@ printf "%s\n", "----------------------------------------------------------------
 # display POPN3; 
 
 
-# printf "\nNivel 1: Atribuicao municipio x CEM (Tipo 1)\n";
+
 printf "-------------------------------------------------------------------------------\n"; 
 printf "%s\t%30s\t%s\t%30s\t%15s\n", "CODIGO_O", "ORIGEM", "CODIGO_D", "DESTINO", "DISTANCIA" > "Resultado/01-Atribuicao-Nivel-1.txt";
 # printf "-------------------------------------------------------------------------------\n";
@@ -546,7 +538,7 @@ x[n,i,j]*D[i,j] ~ DISTANCIA,
 1 ~ NIVEL
 ;
 
-# printf "Nivel 2 : Atribuicao municipio (CEM Tipo 1) x CEM (Tipo 2) \n";
+
 printf "-------------------------------------------------------------------------------\n"; 
 printf "%s\t%30s\t%s\t%30s\t%15s\n", "CODIGO_O", "ORIGEM", "CODIGO_D", "DESTINO", "DISTANCIA" > "Resultado/02-Atribuicao-Nivel-2.txt";
 # printf "-------------------------------------------------------------------------------\n";
@@ -564,7 +556,7 @@ x[n,i,j]*D[i,j] ~ DISTANCIA,
 2 ~ NIVEL
 ;
 
-# printf "Nivel 3 : Atribuicao municipio (CEM Tipo 2) x CEM (Tipo 3)\n";
+
 printf "-------------------------------------------------------------------------------\n"; 
 printf "%s\t%30s\t%s\t%30s\t%15s\n", "CODIGO_O", "ORIGEM", "CODIGO_D", "DESTINO", "DISTANCIA" > "Resultado/03-Atribuicao-Nivel-3.txt";
 # printf "-------------------------------------------------------------------------------\n";
@@ -582,7 +574,7 @@ x[n,i,j]*D[i,j] ~ DISTANCIA,
 3 ~ NIVEL
 ;
 
-# printf "-------------------------------------------------------------------------------\n"; 
+
 printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s", "NIVEL", "CODIGO", "DESTINO",
 "POP ATENDIDA", "Physicians", "Nurses", "OtherCadres", "CommunityBased", "Beds", "CTScanner"
 > "Resultado/04-Atend-Demanda-Nivel-1.txt";
@@ -599,15 +591,15 @@ else "",
 j,
 Mun[j],
 sum{i in I: i in NAE[n,j] and j in N1[i] and n=1}POP[i]*x[n,i,j],
-q[j,n,1],
-q[j,n,2],
-q[j,n,3],
-q[j,n,4],
-q[j,n,5],
-q[j,n,6],
-q[j,n,7],
-q[j,n,8],
-q[j,n,9]
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,1]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,2]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,3]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,4]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,5]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,6]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,7]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,8]*x[n,i,j],
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,9]*x[n,i,j]
 >> "Resultado/04-Atend-Demanda-Nivel-1.txt";
 # printf "-------------------------------------------------------------------------------\n";
 
@@ -618,15 +610,15 @@ OUT "CSV" "Resultado/04-Atend-Demanda-Nivel-1.csv":
 j ~ CODIGO,
 Mun[j] ~ DESTINO,
 sum{i in I: i in NAE[n,j] and j in N1[i] and n=1}POP[i]*x[n,i,j] ~ POP_ATENDIDA,
-q[j,n,1] ~ Physicians,
-q[j,n,2] ~ Nurses,
-q[j,n,3] ~ OtherCadres,
-q[j,n,4] ~ CommunityBased,
-q[j,n,5] ~ Beds,
-q[j,n,6] ~ CTScanner,
-q[j,n,7] ~ MRIUnit,
-q[j,n,8] ~ Mammography,
-q[j,n,9] ~ Radiotherapy
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,1]*x[n,i,j] ~ Physicians,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,2]*x[n,i,j] ~ Nurses,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,3]*x[n,i,j] ~ OtherCadres,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,4]*x[n,i,j] ~ CommunityBased,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,5]*x[n,i,j] ~ Beds,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,6]*x[n,i,j] ~ CTScanner,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,7]*x[n,i,j] ~ MRIUnit,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,8]*x[n,i,j] ~ Mammography,
+sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,9]*x[n,i,j] ~ Radiotherapy
 ;
 
 # printf "-------------------------------------------------------------------------------\n";
@@ -636,6 +628,7 @@ printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s", "NIVEL", "CODIGO", "DESTINO",
 printf "\t%s\t%s\t%s\n",
 "MRIUnit", "Mammography", "Radiotherapy"
 >> "Resultado/05-Atend-Demanda-Nivel-2.txt";
+
 # printf "-------------------------------------------------------------------------------\n";
 printf{n in NA, k in J2: n=2} if (z[n,k] > 0.9) then
 "%d\t%s\t%s\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f\n"
@@ -643,37 +636,34 @@ else "",
 2,
 k,
 Mun[k],
-pop[n,k],
-q[k,n,1],
-q[k,n,2],
-q[k,n,3],
-q[k,n,4],
-q[k,n,5],
-q[k,n,6],
-q[k,n,7],
-q[k,n,8],
-q[k,n,9]
+sum{j in J1: k in N2[j] and n=2}POPN1[n-1,j]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,1]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,2]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,3]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,4]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,5]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,6]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,7]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,8]*x[n,j,k],
+sum{j in J1: k in N2[j]}Q[j,n,9]*x[n,j,k]
 >> "Resultado/05-Atend-Demanda-Nivel-2.txt";
-# printf "-------------------------------------------------------------------------------\n";
 
-# printf{n in NA,j in J1, e in E: n=1 and DEM[n,e] > 0}: "%s,%d,%d,%.2f\n", n,j,e,xd1[n,j,e] >  
-# param XD1{n in NA, j in J1, e in E: n=1 and DEM[n,e] > 0} := xd1[n,j,e]; 
 
 table ATEND_DEMANDA_NIVEL_2 {n in NA, k in J2: n=2 and z[n,k] > 0.9}
 OUT "CSV" "Resultado/05-Atend-Demanda-Nivel-2.csv":
 2 ~ NIVEL,
 k ~ CODIGO,
 Mun[k] ~ DESTINO,
-pop[n,k] ~ POP_ATENDIDA,
-q[k,n,1] ~ Physicians,
-q[k,n,2] ~ Nurses,
-q[k,n,3] ~ OtherCadres,
-q[k,n,4] ~ CommunityBased,
-q[k,n,5] ~ Beds,
-q[k,n,6] ~ CTScanner,
-q[k,n,7] ~ MRIUnit,
-q[k,n,8] ~ Mammography,
-q[k,n,9] ~ Radiotherapy
+sum{j in J1: k in N2[j] and n=2}POPN1[n-1,j]*x[n,j,k] ~ POP_ATENDIDA,
+sum{j in J1: k in N2[j]}Q[j,n,1]*x[n,j,k] ~ Physicians,
+sum{j in J1: k in N2[j]}Q[j,n,2]*x[n,j,k] ~ Nurses,
+sum{j in J1: k in N2[j]}Q[j,n,3]*x[n,j,k] ~ OtherCadres,
+sum{j in J1: k in N2[j]}Q[j,n,4]*x[n,j,k] ~ CommunityBased,
+sum{j in J1: k in N2[j]}Q[j,n,5]*x[n,j,k] ~ Beds,
+sum{j in J1: k in N2[j]}Q[j,n,6]*x[n,j,k] ~ CTScanner,
+sum{j in J1: k in N2[j]}Q[j,n,7]*x[n,j,k] ~ MRIUnit,
+sum{j in J1: k in N2[j]}Q[j,n,8]*x[n,j,k] ~ Mammography,
+sum{j in J1: k in N2[j]}Q[j,n,9]*x[n,j,k] ~ Radiotherapy
 ;
 
 # printf "-------------------------------------------------------------------------------\n";
@@ -690,16 +680,16 @@ else "",
 3,
 l,
 Mun[l],
-pop[n,l],
-q[l,n,1],
-q[l,n,2],
-q[l,n,3],
-q[l,n,4],
-q[l,n,5],
-q[l,n,6],
-q[l,n,7],
-q[l,n,8],
-q[l,n,9]
+sum{k in J2: l in N3[k] and n=3}POPN2[n-1,k]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,1]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,2]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,3]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,4]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,5]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,6]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,7]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,8]*x[n,k,l],
+sum{k in J2: l in N3[k]}Q[k,n,9]*x[n,k,l]
 >> "Resultado/06-Atend-Demanda-Nivel-3.txt";
 # printf "-------------------------------------------------------------------------------\n";
 
@@ -708,16 +698,16 @@ OUT "CSV" "Resultado/06-Atend-Demanda-Nivel-3.csv":
 3 ~ NIVEL,
 l ~ CODIGO,
 Mun[l] ~ DESTINO,
-pop[n,l] ~ POP_ATENDIDA,
-q[l,n,1] ~ Physicians,
-q[l,n,2] ~ Nurses,
-q[l,n,3] ~ OtherCadres,
-q[l,n,4] ~ CommunityBased,
-q[l,n,5] ~ Beds,
-q[l,n,6] ~ CTScanner,
-q[l,n,7] ~ MRIUnit,
-q[l,n,8] ~ Mammography,
-q[l,n,9] ~ Radiotherapy
+sum{k in J2: l in N3[k] and n=3}POPN2[n-1,k]*x[n,k,l] ~ POP_ATENDIDA,
+sum{k in J2: l in N3[k]}Q[k,n,1]*x[n,k,l] ~ Physicians,
+sum{k in J2: l in N3[k]}Q[k,n,2]*x[n,k,l] ~ Nurses,
+sum{k in J2: l in N3[k]}Q[k,n,3]*x[n,k,l] ~ OtherCadres,
+sum{k in J2: l in N3[k]}Q[k,n,4]*x[n,k,l] ~ CommunityBased,
+sum{k in J2: l in N3[k]}Q[k,n,5]*x[n,k,l] ~ Beds,
+sum{k in J2: l in N3[k]}Q[k,n,6]*x[n,k,l] ~ CTScanner,
+sum{k in J2: l in N3[k]}Q[k,n,7]*x[n,k,l] ~ MRIUnit,
+sum{k in J2: l in N3[k]}Q[k,n,8]*x[n,k,l] ~ Mammography,
+sum{k in J2: l in N3[k]}Q[k,n,9]*x[n,k,l] ~ Radiotherapy
 ;
 
 
@@ -729,11 +719,11 @@ Mun[j] ~ DESTINO,
 e ~ COD_ESP,
 Res[e] ~ RECURSO,
 if n=1 then sum{i in I: i in NAE[n,j] and j in J}POP[i]*x[n,i,j]
-else if n=2 then pop[n,j]
-else if n=3 then pop[n,j] ~ POP_ATENDIDA,
+else if n=2 then sum{i in J1: j in N2[i]}POPN1[n-1,i]*x[n,i,j]
+else if n=3 then sum{i in J2: j in N3[i]}POPN2[n-1,i]*x[n,i,j] ~ POP_ATENDIDA,
 if n=1 then sum{i in I: i in NAE[n,j] and j in N1[i]}Q[i,n,e]*x[n,i,j]
-else if n=2 then q[j,n,e]
-else if n=3 then q[j,n,e] ~ ATEND_FTE
+else if n=2 then sum{i in J1: j in N2[i]}Q[i,n,e]*x[n,i,j]
+else if n=3 then sum{i in J2: j in N3[i]}Q[i,n,e]*x[n,i,j] ~ ATEND_FTE
 ;
 printf "-------------------------------------------------------------------------------\n\n";
 
@@ -757,4 +747,3 @@ printf "Exporting to file...\n\n";
 
 
 end;
-

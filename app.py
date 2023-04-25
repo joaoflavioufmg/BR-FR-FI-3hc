@@ -24,12 +24,7 @@ from negocio.oridest import OriDestAssignment
 # from negocio.demand import SatisfyDemand
 ###############################################################
 
-if __name__ == '__main__':
-    # global optimizer
-    # global state
-
-    run_optimizer(config.optimizer)
-
+def run_post_optimization():
 
     assin_n1 = OriDestAssignment
     assin_n2 = OriDestAssignment
@@ -51,10 +46,9 @@ if __name__ == '__main__':
 
     # file_info()
 
-    # demand_n1 = SatisfyDemand
-    # demand_n2 = SatisfyDemand
-    # demand_n3 = SatisfyDemand
+if __name__ == '__main__':
+    # global optimizer
+    # global state
 
-    # demand_n1("04-Atend-Demanda-Nivel-1.csv", "Nivel_1", config.state)
-    # demand_n2("05-Atend-Demanda-Nivel-2.csv", "Nivel_2", config.state)
-    # demand_n3("06-Atend-Demanda-Nivel-3.csv", "Nivel_3", config.state)
+    run_optimizer(config.optimizer)
+    # run_post_optimization()

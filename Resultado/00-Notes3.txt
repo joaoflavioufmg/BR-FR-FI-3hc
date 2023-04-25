@@ -1,123 +1,166 @@
 Optimization settings:
 
 ----------------------------------------
-Objective Function: 	  17057053072.82
-Primary   Care Cost:	   2574381286.00
-Secondary Care Cost:	   8758182174.28
-Tertiary  Care Cost:	   5718943978.50
-Add Infrastruc Cost:	      5545634.04
-Populat ExtLog Cost:	     21188723.31
+Objective Function: 	   2983572370.13
+Primary   Care Cost:	    441152518.00
+Secondary Care Cost:	   1500824349.64
+Tertiary  Care Cost:	    980012770.50
+Add Infrastruc Cost:	     17981764.03
+Populat ExtLog Cost:	     43600967.96
 HC Cost per capita (now):	     1741.99
-HC Cost per capita (fut):	     1742.56
+HC Cost per capita (fut):	     1778.70
 ----------------------------------------
 
------------------------------------
-State population:	9788522
-Max municipa pop:	2850868
-Min municipa pop:	3877
------------------------------------
-Care Level	Pop. Min	Dur. Max(h).
------------------------------------
-[1]			0      		0.51
-[2]			15219  		0.90
-[3]			23337  		1.30
------------------------------------
+----------------------------------------
+State population:	1677386
+Max municipa pop:	314780
+Min municipa pop:	1193
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	3620   		5.10
+Care Level [3]	5494   		5.83
+----------------------------------------
 
 
-Demand met by level: (Estate has 184 municipalities).
+Demand met by level: (Estate has 139 municipalities).
 ----------------------------------------------------------------
-Care Level [1]: 184 mun > 148 mun (100.00% coverage)
-Care Level [2]: 148 mun >  80 mun
-Care Level [3]:  80 mun >  38 mun
+Care Level [1]: 139 mun > 102 mun (100.00% coverage)
+Care Level [2]: 102 mun >  50 mun
+Care Level [3]:  50 mun >  34 mun
 ----------------------------------------------------------------
 
 Municipalities requiring additional infrastructure:
 ----------------------------------------------------------------
-LEVEL	CODE	DESCRIPTION					COST($)
-    1	230533	Ibicuitinga              :	352262.20
-    1	230560	Independencia            :	742264.90
-    1	230660	Itatira                  :	589619.70
-    1	231010	Palmacia                 :	374827.60
-    1	231123	Potiretama               :	181548.90
-    1	231126	Quiterianopolis          :	595695.00
-    1	231325	Tarrafas                 :	253190.10
-    2	230660	Itatira                  :	2456225.64
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	170035	Alianca_Do_Tocantins     :	202588.90
+    1	170040	Almas                    :	202273.30
+    1	170110	Aparecida_Do_Rio_Negro   :	134471.90
+    1	170130	Aragominas               :	164112.00
+    1	170270	Aurora_Do_Tocantins      :	105831.20
+    1	170300	Babaculandia             :	302423.70
+    1	170305	Bandeirantes_Do_Tocantins:	99624.40
+    1	170307	Barra_Do_Ouro            :	129027.80
+    1	170310	Barrolandia              :	159246.50
+    1	170320	Bernardo_Sayao           :	126766.00
+    1	170380	Buriti_Do_Tocantins      :	452544.10
+    1	170384	Campos_Lindos            :	281304.80
+    1	170388	Carmolandia              :	72509.10
+    1	170389	Carrasco_Bonito          :	115141.40
+    1	170390	Caseara                  :	150199.30
+    1	170410	Centenario               :	81530.00
+    1	170460	Chapada_De_Areia         :	39739.30
+    1	170560	Conceicao_Do_Tocantins   :	116982.40
+    1	170600	Couto_Magalhaes          :	157037.30
+    1	170720	Dois_Irmaos_Do_Tocantins :	204535.10
+    1	170740	Esperantina              :	307788.90
+    1	170830	Goianorte                :	145123.40
+    1	170980	Ipueiras                 :	56071.60
+    1	171090	Itapiratins              :	180707.30
+    1	171150	Jau_Do_Tocantins         :	108329.70
+    1	171180	Juarina                  :	62462.50
+    1	171195	Lagoa_Do_Tocantins       :	120191.00
+    1	171200	Lajeado                  :	87973.50
+    1	171240	Lizarda                  :	106304.60
+    1	171245	Luzinopolis              :	300161.90
+    1	171250	Marianopolis_Do_Tocantins:	144492.20
+    1	171270	Mateiros                 :	74823.50
+    1	171280	Maurilandia_Do_Tocantins :	96521.00
+    1	171380	Palmeiras_Do_Tocantins   :	541096.20
+    1	171395	Muricilandia             :	310313.70
+    1	171488	Nova_Olinda              :	332432.00
+    1	171500	Nova_Rosalandia          :	119559.80
+    1	171510	Novo_Acordo              :	121611.20
+    1	171515	Novo_Alegre              :	257187.70
+    1	171525	Novo_Jardim              :	76533.00
+    1	171550	Oliveira_De_Fatima       :	206823.20
+    1	171570	Palmeirante              :	167899.20
+    1	171630	Pau_Darco                :	137023.00
+    1	171720	Piraque                  :	85738.00
+    1	171780	Ponte_Alta_Do_Bom_Jesus  :	130500.60
+    1	171840	Presidente_Kennedy       :	166873.50
+    1	171850	Recursolandia            :	120375.10
+    1	171875	Rio_Sono                 :	183468.80
+    1	171884	Sandolandia              :	95810.90
+    1	171888	Santa_Maria_Do_Tocantins :	95916.10
+    1	171890	Santa_Rosa_Do_Tocantins  :	136470.70
+    1	171900	Santa_Tereza_Do_Tocantins:	80399.10
+    1	172015	Sao_Felix_Do_Tocantins   :	44578.50
+    1	172025	Sao_Salvador_Do_Tocantins:	87079.30
+    1	172049	Sao_Valerio              :	113957.90
+    1	172085	Sucupira                 :	55203.70
+    1	172093	Taipas_Do_Tocantins      :	60437.40
+    1	172097	Talisma                  :	78663.30
+    1	172208	Wanderlandia             :	329933.50
+    2	170130	Aragominas               :	1976352.84
+    2	170560	Conceicao_Do_Tocantins   :	739091.76
+    2	171240	Lizarda                  :	628545.72
+    2	171510	Novo_Acordo              :	1066785.72
+    2	171570	Palmeirante              :	699431.04
+    2	171875	Rio_Sono                 :	764290.56
+    2	171888	Santa_Maria_Do_Tocantins :	1240657.44
+    3	171875	Rio_Sono                 :	1641883.95
 ----------------------------------------------------------------
 
 Municipalities (origin) for logistics investiment:
 ----------------------------------------------------------------
-LEVEL	CODE	DESCRIPTION					COST($)
-    1	230075	Amontada                 :	20343.92
-    1	230765	Maracanau                :	106659.19
-    1	230890	Morrinhos                :	10543.91
-    2	230060	Altaneira                :	43317.00
-    2	230080	Antonina_Do_Norte        :	24780.89
-    2	230125	Ararenda                 :	26834.77
-    2	230130	Araripe                  :	23812.41
-    2	230150	Arneiroz                 :	10871.38
-    2	230180	Baixio                   :	50538.20
-    2	230195	Barreira                 :	6709.46
-    2	230200	Barro                    :	201730.96
-    2	230205	Barroquinha              :	290998.35
-    2	230240	Boa_Viagem               :	17307.46
-    2	230370	Caucaia                  :	40143.19
-    2	230380	Cedro                    :	225440.64
-    2	230393	Choro                    :	1486.30
-    2	230426	Deputado_Irapuan_Pinheiro:	13297.25
-    2	230450	Frecheirinha             :	8884.84
-    2	230480	Granjeiro                :	39902.46
-    2	230526	Ibaretama                :	239677.74
-    2	230530	Ibiapina                 :	34674.73
-    2	230533	Ibicuitinga              :	175588.11
-    2	230560	Independencia            :	629988.07
-    2	230565	Ipaporanga               :	45265.13
-    2	230570	Ipaumirim                :	3954.58
-    2	230580	Ipu                      :	27040.72
-    2	230600	Iracema                  :	256047.85
-    2	230680	Jaguaribara              :	204434.45
-    2	230700	Jaguaruana               :	195626.02
-    2	230725	Jijoca_De_Jericoacoara   :	157822.63
-    2	230780	Marco                    :	609054.13
-    2	230820	Meruoca                  :	76566.34
-    2	230837	Miraima                  :	427837.87
-    2	230870	Morada_Nova              :	1709261.45
-    2	230900	Mucambo                  :	482282.01
-    2	230910	Mulungu                  :	182287.04
-    2	230960	Pacajus                  :	240738.97
-    2	230970	Pacatuba                 :	2290002.83
-    2	231010	Palmacia                 :	388239.59
-    2	231025	Paraipaba                :	734183.13
-    2	231050	Pedra_Branca             :	1188547.45
-    2	231060	Penaforte                :	72598.71
-    2	231070	Pentecoste               :	1027895.66
-    2	231090	Piquet_Carneiro          :	7843.63
-    2	231100	Poranga                  :	296946.86
-    2	231120	Potengi                  :	63272.08
-    2	231123	Potiretama               :	7072.11
-    2	231126	Quiterianopolis          :	169207.73
-    2	231135	Quixelo                  :	230207.36
-    2	231260	Sao_Luis_Do_Curu         :	115518.46
-    2	231300	Solonopole               :	440364.41
-    2	231325	Tarrafas                 :	30182.90
-    2	231370	Umari                    :	83767.03
-    2	231390	Uruoca                   :	122886.34
-    2	231410	Vicosa_Do_Ceara          :	1086267.65
-    3	230040	Aiuaba                   :	4944.82
-    3	230070	Alto_Santo               :	528903.29
-    3	230100	Aquiraz                  :	634667.58
-    3	230185	Banabuiu                 :	298595.30
-    3	230330	Carius                   :	417249.13
-    3	230360	Catarina                 :	121054.47
-    3	230523	Horizonte                :	2384684.35
-    3	230660	Itatira                  :	341942.49
-    3	230763	Madalena                 :	2503.83
-    3	230860	Monsenhor_Tabosa         :	413453.45
-    3	230950	Oros                     :	353213.98
-    3	231320	Tamboril                 :	13199.59
-    3	231335	Tejucuoca                :	457556.64
-----------------------------------------------------------------
-
-Municipalities requiring a custom solution:
-----------------------------------------------------------------
-LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	170030	Aguiarnopolis            :	10799.30
+    2	170035	Alianca_Do_Tocantins     :	13280.67
+    2	170040	Almas                    :	16603.54
+    2	170110	Aparecida_Do_Rio_Negro   :	4334.25
+    2	170270	Aurora_Do_Tocantins      :	23430.99
+    2	170300	Babaculandia             :	328492.05
+    2	170305	Bandeirantes_Do_Tocantins:	37974.82
+    2	170307	Barra_Do_Ouro            :	96632.03
+    2	170310	Barrolandia              :	5798.77
+    2	170320	Bernardo_Sayao           :	20077.79
+    2	170380	Buriti_Do_Tocantins      :	12465.31
+    2	170384	Campos_Lindos            :	413386.66
+    2	170388	Carmolandia              :	16693.74
+    2	170389	Carrasco_Bonito          :	170.63
+    2	170390	Caseara                  :	679950.44
+    2	170410	Centenario               :	416188.00
+    2	170460	Chapada_De_Areia         :	90001.95
+    2	170600	Couto_Magalhaes          :	79072.54
+    2	170720	Dois_Irmaos_Do_Tocantins :	40916.20
+    2	170740	Esperantina              :	327742.75
+    2	170830	Goianorte                :	1201.20
+    2	170980	Ipueiras                 :	53469.99
+    2	171090	Itapiratins              :	129482.39
+    2	171150	Jau_Do_Tocantins         :	30542.39
+    2	171180	Juarina                  :	425948.85
+    2	171195	Lagoa_Do_Tocantins       :	310741.31
+    2	171200	Lajeado                  :	75.99
+    2	171245	Luzinopolis              :	27223.40
+    2	171250	Marianopolis_Do_Tocantins:	14048.48
+    2	171270	Mateiros                 :	16904915.12
+    2	171280	Maurilandia_Do_Tocantins :	97468.25
+    2	171380	Palmeiras_Do_Tocantins   :	7612.22
+    2	171488	Nova_Olinda              :	62233.06
+    2	171500	Nova_Rosalandia          :	533.19
+    2	171515	Novo_Alegre              :	28239.28
+    2	171525	Novo_Jardim              :	371.48
+    2	171550	Oliveira_De_Fatima       :	9543.32
+    2	171630	Pau_Darco                :	1171.82
+    2	171720	Piraque                  :	30795.49
+    2	171780	Ponte_Alta_Do_Bom_Jesus  :	10189.55
+    2	171840	Presidente_Kennedy       :	3729.38
+    2	171850	Recursolandia            :	1022281.05
+    2	171884	Sandolandia              :	13122.50
+    2	171890	Santa_Rosa_Do_Tocantins  :	2048.98
+    2	171900	Santa_Tereza_Do_Tocantins:	79154.03
+    2	172015	Sao_Felix_Do_Tocantins   :	4013246.93
+    2	172025	Sao_Salvador_Do_Tocantins:	4209.92
+    2	172049	Sao_Valerio              :	60435.97
+    2	172085	Sucupira                 :	30960.96
+    2	172093	Taipas_Do_Tocantins      :	79153.96
+    2	172097	Talisma                  :	994.96
+    2	172208	Wanderlandia             :	323356.62
+    3	170560	Conceicao_Do_Tocantins   :	46109.28
+    3	171240	Lizarda                  :	16603794.01
+    3	171510	Novo_Acordo              :	278508.61
+    3	171570	Palmeirante              :	259378.65
+    3	171888	Santa_Maria_Do_Tocantins :	662.92
 ----------------------------------------------------------------

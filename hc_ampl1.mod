@@ -2,9 +2,8 @@
 # Model: Hierarchical health care design : 3 levels (brown field)
 # Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
 # Fabricio Oliveira <fabricio.oliveira@aalto.fi >
-# Data   : 15/01/2023
-# Versao: 3.0: Linearizacao de produto de variaveis 
-# Solve only hc_glpk.mod (hc_glpk1.mod + hc_glpk2.mod)
+# Data   : 24/08/2022
+# Versao: 1.0:
 # =========================================================
 
 # =========================================================
@@ -99,7 +98,6 @@ param Pop_Min := min{i in I}POP[i];
 param Distmax{n in NA};
 param DurLower{n in NA}, >=0;
 param DurUpper{n in NA}, > DurLower[n];
-param DurUB := max{n in NA}DurUpper[n];
 
 
 /* # Distancia maxima e Populacao minima de abrangencia estao relacionados
@@ -210,38 +208,30 @@ check{i in I, j in N1[i]}: D[i,j] <= DurUpper[1];
 
 # If municipality REQUIRES (because it does not have) health care infrastructure
 # 0 - No / 1 - Yes
-param INFR{i in I} default 0;
+param INFR{i in I}, binary, default 0;
 
 param NINFR{i in I: i in J3}:= if (INFR[i] == 1) then 0 else 1;
+
+# Numero de internacoes - Fator de atratividade
+# param NInter{i in I};
+
+# Numero de medicos
+# param Nmed{i in I, e in E};
 
 # Fator para o calculo da demanda (base Portaria 1631): Numero de medicos por 100 mil.
 param DEM{NA,E} default 0;
 
-# ==================================================
-# For linearization
-# ==================================================
-var pop{n in NA,j in J}, >= 0, <= Pop_Total; # \tau Population flow to each destination
-var pop2{n in NA,j in J1, k in N2[j]: n=2}, >= 0, <= Pop_Total; # \pi Aux varriable
-var pop3{n in NA,k in J2, l in N3[k]: n=3}, >= 0, <= Pop_Total; # \pi Aux varriable
-
-param PMAX1:= max{j in J1}POP[j];
-param PMAX2:= max{k in J2}POP[k];
-param PMAX3:= max{l in J3}POP[l];
-# ==================================================
-
 # Demanda por Cidade i no nivel n e na especialidade k
 param Q{i in I,n in NA,e in E} := round((DEM[n,e]*POP[i])/1000,4);
-# Demanda no Destino j no nivel n e na especialidade k
-var q{j in J,n in NA,e in E}, >=0;
 # display{n in NA, e in E}: sum{i in I}Q[i,n,e];
-
+/* display Q; */
 
 # Quantidade minima de demanda medica (FTE) no destino
 # Numero minimo de medicos a serem alocados em cada cidade destino
-# param Qmin{n in NA, e in E} default 0;
+param Qmin{n in NA, e in E} default 0;
 
 # Numero estimado de FTE por nível e especialidade
-# param QE{n in NA, e in E} default 0;
+param QE{n in NA, e in E} default 0;
 
 # Infrastructure fixed Cost per level
 param CI{n in NA};
@@ -274,12 +264,8 @@ check{k in J2, l in N3[k]}: f3[k,l] <=1;
 # Brazil	85.75		#	https://databank.worldbank.org/source/icp-2017
 # Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
 # France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
-param P;  # L
 
-
-# Cost reduction (Efficiency)
-param CR{n in NA}, >= 0, <= 1; # E_{n} Efficiency gain
-
+param P; 
 # ==================================================
 # Variaveis
 # ==================================================
@@ -290,86 +276,29 @@ var x{n in NA, i in I, j in J} binary;
 
 # Extra travel duration
 var ex{n in NA, i in I, j in J}, >=0;
-# Linearization: pop[n,i]*ex[n,i,j] = ext[n,i,j]
-var ext{n in NA, i in I, j in J}, >=0; # \eta
-# Auxiliary variable for linearization
-# var ex1{n in NA, i in I, j in N1[i]: n=1}, >=0, <= DurUpper[n];
-# var ex2{n in NA, j in J1, k in N2[j]: n=2}, >=0, <= DurUpper[n];
-# var ex3{n in NA, k in J2, l in N3[k]: n=3}, >=0, <= DurUpper[n];
 
 # Se a cidade possui ou nao a unidade de saúde de cada nivel
-var z{n in NA, j in J}, binary;
+var z{n in NA, j in J} binary;
 
 # ==================================================
 # Formulacao
 # ==================================================
 
-minimize of: 
+minimize of: # sum{n in NA, j in J} CI[n]*HC[n]*POP[j]*INFR[j]*z[n,j]
+	  sum{n in NA, i in I, j in N1[i]: n=1} CI[n]*HC[n]*POP[i]*INFR[j]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} CI[n]*HC[n]*POP[j]*INFR[k]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} CI[n]*HC[n]*POP[k]*INFR[l]*x[n,k,l]
 # Total cost of the health care system (assigning origin population)
-	  sum{n in NA, j in J1: n=1} HC[n]*CR[n]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} HC[n]*CR[n]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} HC[n]*CR[n]*pop[n,l]
-# Total cost of new health care services
-	+ sum{n in NA, j in J1: n=1} CI[n]*HC[n]*INFR[j]*pop[n,j]
-	+ sum{n in NA, k in J2: n=2} CI[n]*HC[n]*INFR[k]*pop[n,k]
-	+ sum{n in NA, l in J3: n=3} CI[n]*HC[n]*INFR[l]*pop[n,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1} HC[n]*POP[i]*x[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2} HC[n]*POP[j]*x[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3} HC[n]*POP[k]*x[n,k,l]
 # Accessibility: Penalties on logistic Cost (h.pop) on all three leves of care
-	# + sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
-	# + sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
-	# + sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
-	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*ext[n,i,j]
-	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*ext[n,j,k]
-	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*ext[n,k,l]
+	+ sum{n in NA, i in I, j in N1[i]: n=1 and i <> j} f1[i,j]*P*D[i,j]*POP[i]*ex[n,i,j]
+	+ sum{n in NA, j in J1, k in N2[j]: n=2 and j <> k} f2[j,k]*P*D[j,k]*POP[j]*ex[n,j,k]
+	+ sum{n in NA, k in J2, l in N3[k]: n=3 and k <> l} f3[k,l]*P*D[k,l]*POP[k]*ex[n,k,l]
 ;
 
-# Linearization: product of two linear variables
-# ========================================================
-# x1x2 = z when l1 <= x1 <= u1, l2 <= x2 <= u2, 
-# y1 = 1/2 (x1+x2)
-# y2 = 1/2 (x1-x2)
-# The bounds on y1 and y2 are:
-# 1/2(l1+l2) <= y1 <= 1/2(u1+u2) and 
-# 1/2(l1-u2) <= y2 <= 1/2(u1-l2)
-# x1x2 = z when l1 >= 0, l2 >= 0 and one variable 
-# is not rerefenced in any other term, except on x1x2.
-# Assuming x1 is that variable, use z, and the following 
-# constraint: l1x2 <= z <= u1x2. After solving, 
-# x1 = z/x2, x2 > 0.
-# ========================================================
-# x1 = ex[n,i,j] => x1 = z/x2 => ex[n,i,j] = ext[n,i,j]/pop[n,j]
-# x2 = pop[n,j]
-# x1x2 = ext[n,i,j]
 
-# ext[n,i,j] = sum{b in I: j in N1[b]}POP[b]*x[n,b,j]*ex[n,b,j];
-# x[n,b,j]*ex[n,b,j] = ex1[n,b,j]
-# s.t. Rz1{n in NA,i in I, j in N1[i]: n=1}: ext[n,i,j] = sum{b in I: j in N1[b]}POP[b]*ex1[n,b,j];
-# s.t. Rz1b{n in NA,i in I, j in N1[i]: n=1}: ex1[n,i,j] <= DurUpper[n]*x[n,i,j];
-# s.t. Rz1c{n in NA,i in I, j in N1[i]: n=1}: ex1[n,i,j] <= ex[n,i,j];
-# s.t. Rz1d{n in NA,i in I, j in N1[i]: n=1}: ex1[n,i,j] >= ex[n,i,j] - DurUpper[n]*(1-x[n,i,j]);
-
-# s.t. Rz2{n in NA,j in J1, k in N2[j]: n=2}: ext[n,j,k] >= sum{b in J1: k in N2[b]}POP[b]*ex2[n,b,k];
-# s.t. Rz2b{n in NA,j in J1, k in N2[j]: n=2}: ex2[n,j,k] <= DurUpper[n]*x[n,j,k];
-# s.t. Rz2c{n in NA,j in J1, k in N2[j]: n=2}: ex2[n,j,k] <= ex[n,j,k];
-# s.t. Rz2d{n in NA,j in J1, k in N2[j]: n=2}: ex2[n,j,k] >= ex[n,j,k] - DurUpper[n]*(1-x[n,j,k]);
-
-# s.t. Rz3{n in NA,k in J2, l in N3[k]: n=3}: ext[n,k,l] >= sum{b in J2: l in N3[b]}POP[b]*ex3[n,b,l];
-# s.t. Rz3b{n in NA,k in J2, l in N3[k]: n=3}: ex3[n,k,l] <= DurUpper[n]*x[n,k,l];
-# s.t. Rz3c{n in NA,k in J2, l in N3[k]: n=3}: ex3[n,k,l] <= ex[n,k,l];
-# s.t. Rz3d{n in NA,k in J2, l in N3[k]: n=3}: ex3[n,k,l] >= ex[n,k,l] - DurUpper[n]*(1-x[n,k,l]);
-
-s.t. Rz1e{n in NA, i in I, j in N1[i]: n=1}: ext[n,i,j] <= DurUpper[n]*pop[n,j];
-s.t. Rz2e{n in NA, j in J1, k in N2[j]: n=2}: ext[n,j,k] <= DurUpper[n]*pop[n,k];
-s.t. Rz3e{n in NA, k in J2, l in N3[k]: n=3}: ext[n,k,l] <= DurUpper[n]*pop[n,l];
-
-s.t. R16b{n in NA, i in I, j in N1[i]: n=1}: ex[n,i,j]*POP[j] <= ext[n,i,j];
-s.t. R17b{n in NA, j in J1, k in N2[j]: n=2}: ex[n,j,k]*POP[k] <= ext[n,j,k];
-s.t. R18b{n in NA, k in J2, l in N3[k]: n=3}: ex[n,k,l]*POP[l] <= ext[n,k,l];
-
-s.t. R16c{n in NA, i in I, j in N1[i]: n=1}: ex[n,i,j]*PMAX1 >= ext[n,i,j];
-s.t. R17c{n in NA, j in J1, k in N2[j]: n=2}: ex[n,j,k]*PMAX2 >= ext[n,j,k];
-s.t. R18c{n in NA, k in J2, l in N3[k]: n=3}: ex[n,k,l]*PMAX3 >= ext[n,k,l];
-
-# ========================================================
 # Cada Municipio segue uma unica trajetoria.
 # Em Dmax e Pop de destino limitados, apenas os municipios selecionados tem um destino
 # s.t. R1{n in NA,i in I}: sum{j in N[i]} x[n,i,j] = 1 ;
@@ -390,64 +319,80 @@ s.t. R1a{n in NA, i in I diff (EX3 union EX2 union EX1): n=1}: sum{j in N1[i]} x
 s.t. R2{n in NA, i in I, j in N1[i]: (i,j) in K and n=1}: x[n,i,j] <= z[n,j];
 s.t. R3{n in NA, j in J1, k in N2[j]: (j,k) in K and n=2}: x[n,j,k] <= z[n,k];
 s.t. R4{n in NA, k in J2, l in N3[k]: (k,l) in K and n=3}: x[n,k,l] <= z[n,l];
-
 s.t. R5{n in NA, j in J1 diff (EX2 union EX1): n=2}: sum{k in N2[j]} x[n,j,k] = z[n-1,j];
 s.t. R6{n in NA, k in J2 diff (EX3 union EX2): n=3}: sum{l in N3[k]} x[n,k,l] = z[n-1,k];
 # s.t. R5{n in NA, j in J1: n=2}: sum{k in N2[j]} x[n,j,k] = z[n-1,j];
 # s.t. R6{n in NA, k in J2: n=3}: sum{l in N3[k]} x[n,k,l] = z[n-1,k];
 
 # Garante que a damanda da cidade com a unidade de saúde seja atendida por ela mesma
+
 /* s.t. R7{n in NA, i in J}: x[n,i,i] = z[n,i] ; */
 s.t. R7a{n in NA, i in J1, j in N1[i]: n=1 and i in NAE[n,j] and i=j}: x[n,i,j] = z[n,j];
 s.t. R7b{n in NA, j in J2, k in N2[j]: n=2 and j in NAE[n,k] and j=k}: x[n,j,k] = z[n,k];
 s.t. R7c{n in NA, k in J3, l in N3[k]: n=3 and k in NAE[n,l] and k=l}: x[n,k,l] = z[n,l];
+
 # Garante que sempre que a unidade de saúde possa atender niveis superiores, o mesmo vale para os niveis inferiores.
+
 s.t. R8{n in NA, j in J: n > 1}: z[n,j] <= z[n-1,j];
 
-s.t. R9{j in J1,n in NA,e in E: n=1}: q[j,n,e] = (DEM[n,e]*pop[n,j])/1000;
-s.t. R10{k in J2,n in NA,e in E: n=2}: q[k,n,e] = (DEM[n,e]*pop[n,k])/1000;
-s.t. R11{l in J3,n in NA,e in E: n=3}: q[l,n,e] = (DEM[n,e]*pop[n,l])/1000;
+# Nao eh necessario: R22 eh mais flexivel
+# s.t. R9{j in J}: z[3,j] >= POLO[j];
 
-# s.t. R10b{n in NA, e in E: n=1}: sum{i in I, j in J1} Q[i,n,e]*x[n,i,j] >= sum{i in I} Q[i,n,e];
-s.t. R9b{n in NA, e in E: n=1}: sum{j in J1} q[j,n,e] >= sum{i in I} Q[i,n,e]-1;
+# Restringe as cidades que podem ser escolhidas para receber unidade de saúde como aqueles que atenderem uma demanda minima
+# s.t. R13{n in NA,j in J, e in E}: sum{i in I: i in NAE[n,e,j]} Q[i,n,e]*x[n,i,j] >= Qmin[n,e]*z[n,j];
 
+/* HIERARQUIA */
+# s.t. R10{n in NA,j in J1, e in E: n=1}: sum{i in I: i in NAE[n,j] and j in N1[i]} Q[i,n,e]*x[n,i,j] >= Qmin[n,e]*z[n,j];
+
+# var xd1{n in NA, j in J1, e in E: n=1}, >= 0;
+
+/* s.t. R10a{n in NA, j in J1, e in E: n=1 and DEM[n,e] > 0}: sum{i in I: i in NAE[n,j] and j in N1[i] and i <> j} ((Q[i,n,e]*x[n,i,j]/DEM[n,e])*DEM[2,e]) = xd1[n,j,e]; */
+# s.t. R10a{n in NA, j in J1, e in E: n=1 and e<=3 and DEM[n,e]>0}: sum{i in I: i in NAE[n,j] and j in N1[i]} ((Q[i,n,e]*x[n,i,j]/DEM[n,e])*DEM[2,e]) = xd1[n,j,e];
+
+s.t. R10b{n in NA, e in E: n=1}: sum{i in I, j in J1} Q[i,n,e]*x[n,i,j] >= sum{i in I} Q[i,n,e];
+
+# s.t. R11{n in NA, e in E: n=2}: sum{j in J1, k in J2} Q[j,n,e]*x[n,j,k] >= sum{j in J1}xd1[n-1,j,e];
+# s.t. R11{n in NA, j in J1, e in E: n=2 and e<=3 and DEM[n,e]>0}: sum{k in J2: j in J1} Q[j,n,e]*x[n,j,k] >= xd1[n-1,j,e];
+
+# var xd2{n in NA, k in J2, e in E: n=2}, >= 0;
+
+/* s.t. R11a{n in NA, k in J2, e in E: n=2 and DEM[n,e] > 0}: sum{j in J1: j in NAE[n,k] and k in N2[j] and j <> k} ((Q[j,n,e]/DEM[n,e])*DEM[3,e])*x[n,j,k] = xd2[n,k,e]; */
+# s.t. R11a{n in NA, k in J2, e in E: n=2 and e<=3 and DEM[n,e]>0}: sum{j in J1: j in NAE[n,k] and k in N2[j]} ((Q[j,n,e]*x[n,j,k]/DEM[n,e])*DEM[3,e]) = xd2[n,k,e];
+
+
+s.t. R11b{n in NA, e in E: n=2}: sum{j in J1, k in J2} Q[j,n,e]*x[n,j,k] >= sum{j in J1} Q[j,n,e];
+
+# s.t. R12{n in NA, e in E: n=3}: sum{k in J2, l in J3} Q[k,n,e]*x[n,k,l] >= sum{k in J2}xd2[n-1,k,e];
+# s.t. R12{n in NA, k in J2, e in E: n=3 and e<=3 and DEM[n,e]>0}: sum{l in J3: k in J2} Q[k,n,e]*x[n,k,l] >= xd2[n-1,k,e];
+
+# s.t. R12c{n in NA, k in J2, e in E: n=3 and DEM[n,e]>0}: sum{l in J3: k in J2} Q[k,n,e]*x[n,k,l] >= sum{j in J1: j in NAE[n,k] and k in N2[j]} ((Q[j,n-1,e]*x[n-1,j,k]/DEM[n-1,e])*DEM[n,e]);
+
+s.t. R12b{n in NA, e in E: n=3}: sum{k in J2, l in J3} Q[k,n,e]*x[n,k,l] >= sum{k in J2}Q[k,n,e];
+
+
+/* s.t. R11b{n in NA, e in E: n = 2}: sum{j in J1, k in J2: j in NAE[n,k] and k in N2[j]} Q[j,n,e]*x[n,j,k] >= 0.8*QE[n,e];
+s.t. R12b{n in NA, e in E: n = 3}: sum{k in J2, l in J3: k in NAE[n,l] and l in N3[k]} Q[k,n,e]*x[n,k,l] >= 0.96*QE[n,e]; */
+
+# Fluxo da populacao para cidades mais populosas
+# s.t. R16{n in NA, i in I, j in N[i]}: x[n,i,j]*POP[i] <= POP[j];
+
+# s.t. R13{n in NA, i in I, j in N1[i]: n=1}: x[n,i,j]*POP[i] <= 1.2*POP[j];
+# s.t. R14{n in NA, j in J1, k in N2[j]: n=2}: x[n,j,k]*POP[j] <= 1.2*POP[k];
+# s.t. R15{n in NA, k in J2, l in N3[k]: n=3}: x[n,k,l]*POP[k] <= 1.2*POP[l];
 
 s.t. R16{n in NA, i in I , j in N1[i]: n=1 and i <> j}: D[i,j]*x[n,i,j] <= DurLower[n] + ex[n,i,j];
 s.t. R17{n in NA, j in J1, k in N2[j]: n=2 and j <> k}: D[j,k]*x[n,j,k] <= DurLower[n] + ex[n,j,k];
 s.t. R18{n in NA, k in J2, l in N3[k]: n=3 and k <> l}: D[k,l]*x[n,k,l] <= DurLower[n] + ex[n,k,l];
 
-# For tree design
+# s.t. R16u{n in NA, i in I, j in N1[i]: n=1}: D[i,j]*x[n,i,j] <= DurUpper[n];
+# s.t. R17u{n in NA, j in J1, k in N2[j]: n=2}: D[j,k]*x[n,j,k] <= DurUpper[n];
+# s.t. R18u{n in NA, k in J2, l in N3[k]: n=3}: D[k,l]*x[n,k,l] <= DurUpper[n];
+
 s.t. R19{n in NA: n=1}: sum{j in J1} z[n,j] <= card(I) - 1;
 s.t. R20{n in NA: n=2}: sum{k in J2} z[n,k] <= sum{j in J1}z[n-1,j] - 1;
 s.t. R21{n in NA: n=3}: sum{l in J3} z[n,l] <= sum{k in J2}z[n-1,k] - 1;
-
-# Municipalities with reference centres for health care 
 s.t. R22{n in NA, j in S3: n=3}: z[n,j] >= 1;
-# s.t. R23{n in NA, j in J3: n=3}: z[n,j] >= NINFR[j];
-
-s.t. R3b{n in NA, j in J1, k in N2[j]: (j,k) in K and n=2}: x[n,j,k]*POPmin[n] <= pop[n,k];
-s.t. R4b{n in NA, k in J2, l in N3[k]: (k,l) in K and n=3}: x[n,k,l]*POPmin[n] <= pop[n,l];
-
-
-s.t. R27{n in NA,j in J1: n=1}: pop[n,j] = sum{i in I: j in N1[i]}POP[i]*x[n,i,j];
-s.t. R28{n in NA,k in J2: n=2}: pop[n,k] = sum{j in J1: k in N2[j]}pop2[n,j,k];
-s.t. R29{n in NA,l in J3: n=3}: pop[n,l] = sum{k in J2: l in N3[k]}pop3[n,k,l]; 
-
-# linear x binario
-# pop[n,k] = sum{j in J1: k in N2[j]}pop[n-1,j]*x[n,j,k];
-# pop[1,j]*x[n,j,k] = pop2[n,j,k]
-
-s.t. R30{n in NA,j in J1, k in N2[j]: n=2}: pop2[n,j,k] <= Pop_Max*x[n,j,k];
-s.t. R31{n in NA,j in J1, k in N2[j]: n=2}: pop2[n,j,k] <= pop[n-1,j];
-s.t. R32{n in NA,j in J1, k in N2[j]: n=2}: pop2[n,j,k] >= pop[n-1,j] - Pop_Max*(1-x[n,j,k]);
-
-s.t. R33{n in NA,k in J2, l in N3[k]: n=3}: pop3[n,k,l] <= Pop_Max*x[n,k,l];
-s.t. R34{n in NA,k in J2, l in N3[k]: n=3}: pop3[n,k,l] <= pop[n-1,k];
-s.t. R35{n in NA,k in J2, l in N3[k]: n=3}: pop3[n,k,l] >= pop[n-1,k] - Pop_Max*(1-x[n,k,l]);
-
-s.t. R36{n in NA: n=1}: sum{j in J1}pop[n,j] = Pop_Total;
-s.t. R37{n in NA: n=2}: sum{j in J2}pop[n,j] = Pop_Total;
-s.t. R38{n in NA: n=3}: sum{j in J3}pop[n,j] = Pop_Total;
+s.t. R23{n in NA, j in J3: n=3}: z[n,j] >= NINFR[j];
 
 
 end;
