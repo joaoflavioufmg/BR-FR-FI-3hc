@@ -1,0 +1,107 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   7540585681.93
+Primary   Care Cost:	   1133638619.00
+Secondary Care Cost:	   3856698927.62
+Tertiary  Care Cost:	   2518358795.25
+Add Infrastruc Cost:	     30328956.54
+Populat ExtLog Cost:	      1560383.52
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1749.39
+----------------------------------------
+
+----------------------------------------
+State population:	4310413
+Max municipa pop:	863187
+Min municipa pop:	1926
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	4862   		0.90
+Care Level [3]	7886   		1.00
+----------------------------------------
+
+
+Demand met by level: (Estate has 223 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 223 mun >  96 mun (100.00% coverage)
+Care Level [2]:  96 mun >  51 mun
+Care Level [3]:  51 mun >  18 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	250057	Algodao_De_Jandaira      :	70562.90
+    1	250140	Baia_Da_Traicao          :	253400.50
+    1	250160	Barra_De_Santa_Rosa      :	433082.10
+    1	250310	Cabaceiras               :	229309.70
+    1	250340	Cacimba_De_Areia         :	173921.90
+    1	250470	Congo                    :	423193.30
+    1	250530	Curral_Velho             :	71509.70
+    1	250540	Desterro                 :	1074118.30
+    1	250550	Vista_Serrana            :	107014.70
+    1	250590	Emas                     :	239224.80
+    1	250650	Gurjao                   :	96521.00
+    1	250670	Imaculada                :	518977.90
+    1	250720	Itatuba                  :	306368.70
+    1	250860	Lucena                   :	367174.30
+    1	250930	Mataraca                 :	236200.30
+    1	251020	Nova_Olinda              :	169582.40
+    1	251060	Ouro_Velho               :	149199.90
+    1	251065	Parari                   :	122479.10
+    1	251110	Pedra_Lavrada            :	220288.80
+    1	251278	Riacho_De_Santo_Antonio  :	379035.60
+    1	251300	Salgadinho               :	171870.50
+    1	251315	Santa_Cecilia            :	186467.00
+    1	251350	Santana_De_Mangueira     :	147437.80
+    1	251396	Sao_Domingos             :	87552.70
+    1	251420	Sao_Jose_Da_Lagoa_Tapada :	217842.90
+    1	251455	Sao_Jose_De_Princesa     :	425481.40
+    1	251460	Sao_Jose_Do_Bonfim       :	214055.70
+    1	251465	Sao_Jose_Do_Brejo_Do_Cruz:	50811.60
+    1	251520	Sao_Sebastiao_Do_Umbuzeiro:	223970.80
+    1	251570	Serra_Grande             :	87631.60
+    1	251615	Sossego                  :	99729.60
+    1	251680	Triunfo                  :	268523.00
+    2	250160	Barra_De_Santa_Rosa      :	1804124.52
+    2	251315	Santa_Cecilia            :	2355759.12
+    3	250160	Barra_De_Santa_Rosa      :	18346532.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	250057	Algodao_De_Jandaira      :	405579.70
+    2	250140	Baia_Da_Traicao          :	39475.96
+    2	250340	Cacimba_De_Areia         :	10573.57
+    2	250470	Congo                    :	11579.26
+    2	250530	Curral_Velho             :	33657.46
+    2	250540	Desterro                 :	5662.60
+    2	250550	Vista_Serrana            :	471.69
+    2	250590	Emas                     :	14177.41
+    2	250650	Gurjao                   :	7041.77
+    2	250670	Imaculada                :	57258.57
+    2	250720	Itatuba                  :	27062.56
+    2	250840	Lastro                   :	12967.97
+    2	250860	Lucena                   :	10656.52
+    2	250930	Mataraca                 :	318987.91
+    2	251020	Nova_Olinda              :	6270.02
+    2	251060	Ouro_Velho               :	87343.58
+    2	251110	Pedra_Lavrada            :	298.68
+    2	251200	Pocinhos                 :	35951.72
+    2	251278	Riacho_De_Santo_Antonio  :	175094.64
+    2	251300	Salgadinho               :	2883.21
+    2	251350	Santana_De_Mangueira     :	16710.79
+    2	251396	Sao_Domingos             :	88591.69
+    2	251420	Sao_Jose_Da_Lagoa_Tapada :	13633.20
+    2	251455	Sao_Jose_De_Princesa     :	5449.62
+    2	251465	Sao_Jose_Do_Brejo_Do_Cruz:	1234.61
+    2	251520	Sao_Sebastiao_Do_Umbuzeiro:	65004.19
+    2	251570	Serra_Grande             :	33657.46
+    2	251590	Serraria                 :	28337.03
+    2	251615	Sossego                  :	40207.15
+    2	251680	Triunfo                  :	4562.97
+----------------------------------------------------------------

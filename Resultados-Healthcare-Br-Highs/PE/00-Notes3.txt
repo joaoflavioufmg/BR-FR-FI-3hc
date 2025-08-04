@@ -1,0 +1,73 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  17859144327.79
+Primary   Care Cost:	   2692841220.00
+Secondary Care Cost:	   9161189175.60
+Tertiary  Care Cost:	   5982100695.00
+Add Infrastruc Cost:	     14925025.66
+Populat ExtLog Cost:	      8088211.53
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1744.24
+----------------------------------------
+
+----------------------------------------
+State population:	10238940
+Max municipa pop:	1766482
+Min municipa pop:	4912
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	15653  		0.96
+Care Level [3]	24698  		1.92
+----------------------------------------
+
+
+Demand met by level: (Estate has 184 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 184 mun >  99 mun (100.00% coverage)
+Care Level [2]:  99 mun >  62 mun
+Care Level [3]:  62 mun >  27 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	260160	Belem_Do_Sao_Francisco   :	587962.80
+    1	260180	Betania                  :	359415.80
+    1	260392	Carnaubeira_Da_Penha     :	364097.20
+    1	260430	Cedro                    :	332510.90
+    1	260740	Itacuruba                :	138101.30
+    1	260800	Jatauba                  :	1909564.10
+    1	260930	Mirandiba                :	434213.00
+    1	261040	Parnamirim               :	621600.50
+    1	261153	Quixaba                  :	193515.40
+    1	261280	Santa_Terezinha          :	333694.40
+    1	261350	Sao_Jose_Do_Belmonte     :	961449.10
+    1	261520	Terra_Nova               :	283172.10
+    1	261570	Triunfo                  :	1074959.90
+    2	260930	Mirandiba                :	3325584.24
+    2	261350	Sao_Jose_Do_Belmonte     :	4005184.92
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	260020	Afranio                  :	783.47
+    2	260160	Belem_Do_Sao_Francisco   :	336282.70
+    2	260180	Betania                  :	1424945.15
+    2	260430	Cedro                    :	571157.91
+    2	260740	Itacuruba                :	5655.33
+    2	260795	Jaqueira                 :	2634.38
+    2	260800	Jatauba                  :	190157.43
+    2	261040	Parnamirim               :	553942.02
+    2	261153	Quixaba                  :	15042.12
+    2	261255	Santa_Filomena           :	59315.17
+    2	261280	Santa_Terezinha          :	114782.14
+    2	261430	Moreilandia              :	1333.40
+    2	261520	Terra_Nova               :	781427.54
+    2	261570	Triunfo                  :	14899.90
+    3	260515	Dormentes                :	4010383.61
+    3	260930	Mirandiba                :	5469.26
+----------------------------------------------------------------

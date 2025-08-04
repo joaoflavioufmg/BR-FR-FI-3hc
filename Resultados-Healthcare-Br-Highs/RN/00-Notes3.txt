@@ -1,0 +1,92 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   6554203346.67
+Primary   Care Cost:	    986849640.00
+Secondary Care Cost:	   3357315007.20
+Tertiary  Care Cost:	   2192269590.00
+Add Infrastruc Cost:	     15656118.06
+Populat ExtLog Cost:	      2112991.41
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1746.73
+----------------------------------------
+
+----------------------------------------
+State population:	3752280
+Max municipa pop:	946577
+Min municipa pop:	1846
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	4875   		0.70
+Care Level [3]	8757   		1.19
+----------------------------------------
+
+
+Demand met by level: (Estate has 167 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 167 mun >  79 mun (100.00% coverage)
+Care Level [2]:  79 mun >  44 mun
+Care Level [3]:  44 mun >  15 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	240130	Augusto_Severo           :	685141.30
+    1	240140	Baia_Formosa             :	261474.60
+    1	240185	Caicara_Do_Norte         :	185415.00
+    1	240370	Felipe_Guerra            :	169398.30
+    1	240410	Galinhos                 :	77322.00
+    1	240430	Governador_Dix_Sept_Rosado:	368673.40
+    1	240460	Ielmo_Marinho            :	386557.40
+    1	240500	Jacana                   :	256030.50
+    1	240510	Jandaira                 :	194672.60
+    1	240540	Japi                     :	145149.70
+    1	240750	Maxaranguape             :	345897.60
+    1	240950	Pedra_Grande             :	319229.40
+    1	241025	Porto_Do_Mangue          :	191884.80
+    1	241040	Pureza                   :	269916.90
+    1	241105	Tibau                    :	115483.30
+    1	241142	Santana_Do_Serido        :	246957.00
+    1	241210	Sao_Joao_Do_Sabugi       :	238462.10
+    1	241255	Sao_Miguel_Do_Gostoso    :	270364.00
+    1	241335	Serra_Do_Mel             :	334430.80
+    1	241355	Serrinha_Dos_Pintos      :	382270.50
+    1	241415	Tenente_Laurentino_Cruz  :	166873.50
+    1	241420	Tibau_Do_Sul             :	483972.60
+    2	240185	Caicara_Do_Norte         :	2102237.28
+    2	240510	Jandaira                 :	1133069.52
+    2	241255	Sao_Miguel_Do_Gostoso    :	1126276.80
+    2	241335	Serra_Do_Mel             :	1393164.96
+    3	241255	Sao_Miguel_Do_Gostoso    :	3805792.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	240170	Bom_Jesus                :	37613.01
+    1	241240	Sao_Jose_Do_Serido       :	31863.50
+    2	240010	Acari                    :	8553.46
+    2	240140	Baia_Formosa             :	33555.11
+    2	240370	Felipe_Guerra            :	14308.99
+    2	240410	Galinhos                 :	69920.92
+    2	240430	Governador_Dix_Sept_Rosado:	118584.81
+    2	240460	Ielmo_Marinho            :	48378.43
+    2	240500	Jacana                   :	86971.69
+    2	240540	Japi                     :	8680.79
+    2	240750	Maxaranguape             :	62369.40
+    2	240940	Pau_Dos_Ferros           :	3787.74
+    2	241025	Porto_Do_Mangue          :	23538.87
+    2	241040	Pureza                   :	155815.40
+    2	241105	Tibau                    :	990.88
+    2	241110	Ruy_Barbosa              :	29930.13
+    2	241210	Sao_Joao_Do_Sabugi       :	775.69
+    2	241355	Serrinha_Dos_Pintos      :	1574.35
+    2	241415	Tenente_Laurentino_Cruz  :	236606.54
+    3	240180	Brejinho                 :	165584.71
+    3	240185	Caicara_Do_Norte         :	189343.94
+    3	240670	Lajes                    :	2444.12
+    3	241150	Santo_Antonio            :	781798.92
+----------------------------------------------------------------

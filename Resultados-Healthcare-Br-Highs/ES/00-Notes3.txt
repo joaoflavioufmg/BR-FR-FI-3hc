@@ -1,0 +1,78 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   7481731288.97
+Primary   Care Cost:	   1126799567.00
+Secondary Care Cost:	   3833432108.66
+Tertiary  Care Cost:	   2503165958.25
+Add Infrastruc Cost:	     10785071.84
+Populat ExtLog Cost:	      7548583.22
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1746.27
+----------------------------------------
+
+----------------------------------------
+State population:	4284409
+Max municipa pop:	547469
+Min municipa pop:	4679
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.49
+Care Level [2]	13271  		0.80
+Care Level [3]	21609  		1.06
+----------------------------------------
+
+
+Demand met by level: (Estate has 78 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  78 mun >  57 mun (100.00% coverage)
+Care Level [2]:  57 mun >  35 mun
+Care Level [3]:  35 mun >  16 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	320013	Aguia_Branca             :	273809.30
+    1	320016	Agua_Doce_Do_Norte       :	315731.50
+    1	320030	Alfredo_Chaves           :	413173.00
+    1	320035	Alto_Rio_Novo            :	221209.30
+    1	320115	Brejetuba                :	351210.20
+    1	320200	Dores_Do_Rio_Preto       :	190806.50
+    1	320225	Governador_Lindenberg    :	355576.00
+    1	320255	Ibitirama                :	376063.70
+    1	320305	Jaguare                  :	848253.90
+    1	320330	Mantenopolis             :	430978.10
+    1	320335	Marilandia               :	360257.40
+    1	320430	Presidente_Kennedy       :	325857.00
+    1	320435	Rio_Bananal              :	539202.60
+    1	320515	Vila_Pavao               :	260133.30
+    2	320225	Governador_Lindenberg    :	3727450.32
+    2	320330	Mantenopolis             :	1795359.72
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	320013	Aguia_Branca             :	209843.56
+    2	320016	Agua_Doce_Do_Norte       :	25038.15
+    2	320030	Alfredo_Chaves           :	74591.19
+    2	320035	Alto_Rio_Novo            :	30883.96
+    2	320050	Apiaca                   :	205525.60
+    2	320115	Brejetuba                :	88227.55
+    2	320200	Dores_Do_Rio_Preto       :	1784.19
+    2	320255	Ibitirama                :	60050.75
+    2	320290	Itarana                  :	67008.17
+    2	320305	Jaguare                  :	216150.80
+    2	320316	Laranja_Da_Terra         :	269573.93
+    2	320335	Marilandia               :	16253.27
+    2	320420	Piuma                    :	85152.93
+    2	320430	Presidente_Kennedy       :	4183521.11
+    2	320450	Santa_Leopoldina         :	13216.33
+    2	320480	Sao_Jose_Do_Calcado      :	51467.15
+    2	320503	Vargem_Alta              :	215683.75
+    2	320515	Vila_Pavao               :	6654.75
+    3	320240	Guarapari                :	1715948.90
+    3	320320	Linhares                 :	12007.18
+----------------------------------------------------------------

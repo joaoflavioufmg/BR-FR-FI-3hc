@@ -1,0 +1,40 @@
+==============================================================================
+Statistics of travel duration by patients to services - Nivel_1
+==============================================================================
+Coverage (qty):   645 mun (100.00%).
+Maximum:		  0.51 h.
+Minimum:		  0.00 h.
+Mean:			  0.19 h. [Between  0.18 and  0.21] (95% conf. interval)
+Median:			  0.20 h.
+Std Deviation:	  0.19 h.
+Co. Variation:	  1.00 h.
+Conf. Int(95%):	  0.02 h.
+==============================================================================
+
+
+==============================================================================
+Statistics of travel duration by patients to services - Nivel_2
+==============================================================================
+Coverage (qty):   302 mun.
+Maximum:		  1.07 h.
+Minimum:		  0.00 h.
+Mean:			  0.24 h. [Between  0.21 and  0.28] (95% conf. interval)
+Median:			  0.00 h.
+Std Deviation:	  0.32 h.
+Co. Variation:	  1.32 h.
+Conf. Int(95%):	  0.04 h.
+==============================================================================
+
+
+==============================================================================
+Statistics of travel duration by patients to services - Nivel_3
+==============================================================================
+Coverage (qty):   176 mun.
+Maximum:		  2.54 h.
+Minimum:		  0.00 h.
+Mean:			  0.78 h. [Between  0.66 and  0.89] (95% conf. interval)
+Median:			  0.73 h.
+Std Deviation:	  0.77 h.
+Co. Variation:	  0.99 h.
+Conf. Int(95%):	  0.11 h.
+==============================================================================

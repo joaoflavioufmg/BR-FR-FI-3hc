@@ -1,0 +1,31 @@
+Health care staff:
+- Physicians;
+- Dentists;
+- Nursing and caring professionals;
+- Pharmacists;
+- Physiotherapists;
+- Graduates;
+- Health personnel employed in hospital;
+- Health workforce migration.
+
+Health care facilities:
+- Hospital beds by type of care;
+- Hospital beds by hospital ownership;
+- Beds in nursing and residential care facilities;
+- Medical technology;
+- Technical resources in hospital.
+
+Ref: https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm
+
+NUTs Regions: 
+https://ec.europa.eu/eurostat/web/nuts/background
+https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_Finland
+
+ISCO Occupation: 
+SCL - International Standard Classification of Occupations 2008 (ISCO-08) 
+https://www.ilo.org/public/english/bureau/stat/isco/isco08/
+https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL_LINEAR&StrNom=CL_ISCO08&StrLanguageCode=EN&IntCurrentPage=3
+https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=CL_ISCO08&StrLanguageCode=EN&IntPcKey=48095657&StrLayoutCode=HIERARCHIC
+
+OECD: 
+Gamma Camera: https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_REAC&lang=en#

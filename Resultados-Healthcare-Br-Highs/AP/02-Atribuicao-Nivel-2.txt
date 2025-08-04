@@ -1,0 +1,16 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+160005	                Serra_Do_Navio	160005	                Serra_Do_Navio	    0.00
+160010	                         Amapa	160010	                         Amapa	    0.00
+160015	       Pedra_Branca_Do_Amapari	160015	       Pedra_Branca_Do_Amapari	    0.00
+160020	                      Calcoene	160020	                      Calcoene	    0.00
+160021	                        Cutias	160021	                        Cutias	    0.00
+160023	                Ferreira_Gomes	160023	                Ferreira_Gomes	    0.00
+160025	                       Itaubal	160025	                       Itaubal	    0.00
+160027	              Laranjal_Do_Jari	160027	              Laranjal_Do_Jari	    0.00
+160030	                        Macapa	160030	                        Macapa	    0.00
+160050	                      Oiapoque	160050	                      Oiapoque	    0.00
+160053	                  Porto_Grande	160053	                  Porto_Grande	    0.00
+160060	                       Santana	160060	                       Santana	    0.00
+160055	                      Pracuuba	160070	               Tartarugalzinho	    1.01
+160070	               Tartarugalzinho	160070	               Tartarugalzinho	    0.00
+160080	               Vitoria_Do_Jari	160080	               Vitoria_Do_Jari	    0.00

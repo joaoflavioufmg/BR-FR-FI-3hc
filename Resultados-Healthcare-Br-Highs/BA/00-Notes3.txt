@@ -1,0 +1,154 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  27896985075.11
+Primary   Care Cost:	   4201719034.00
+Secondary Care Cost:	  14294471819.32
+Tertiary  Care Cost:	   9334046941.50
+Add Infrastruc Cost:	     15289110.50
+Populat ExtLog Cost:	     51458169.79
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1746.17
+----------------------------------------
+
+----------------------------------------
+State population:	15976118
+Max municipa pop:	3081766
+Min municipa pop:	3834
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	12204  		2.50
+Care Level [3]	18625  		1.58
+----------------------------------------
+
+
+Demand met by level: (Estate has 417 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 417 mun > 309 mun (100.00% coverage)
+Care Level [2]: 309 mun > 195 mun
+Care Level [3]: 195 mun > 105 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	290035	Adustina                 :	476082.60
+    1	290135	Andorinha                :	416697.20
+    1	290265	Banzae                   :	374906.50
+    1	290370	Boa_Nova                 :	367411.00
+    1	290515	Caetanos                 :	440340.90
+    1	290540	Cairu                    :	508116.00
+    1	290689	Caraibas                 :	258318.60
+    1	290880	Contendas_Do_Sincora     :	115904.10
+    1	290920	Coronel_Joao_Sa          :	448204.60
+    1	291000	Dario_Meira              :	309366.90
+    1	291110	Formosa_Do_Rio_Preto     :	717963.70
+    1	291220	Ibicoara                 :	548775.80
+    1	291260	Ibiquera                 :	114694.30
+    1	291570	Itamari                  :	437658.30
+    1	291590	Itanagra                 :	182811.30
+    1	291890	Lajedao                  :	111590.90
+    1	291900	Lajedinho                :	108014.10
+    1	291990	Macurure                 :	223024.00
+    1	291995	Maetinga                 :	456173.50
+    1	292030	Malhada_De_Pedras        :	878157.00
+    1	292040	Manoel_Vitorino          :	380008.70
+    1	292045	Mansidao                 :	384243.00
+    1	292070	Marau                    :	582019.00
+    1	292090	Mascote                  :	395157.50
+    1	292140	Mirangaba                :	516111.20
+    1	292145	Mirante                  :	250875.70
+    1	292160	Morpara                  :	242301.90
+    1	292225	Muquem_De_Sao_Francisco  :	319965.80
+    1	292285	Nova_Redencao            :	258555.30
+    1	292350	Palmeiras                :	254189.50
+    1	292420	Pedro_Alexandre          :	495991.70
+    1	292465	Pintadas                 :	297321.50
+    1	292665	Ribeirao_Do_Largo        :	178813.70
+    1	292710	Rodelas                  :	261343.10
+    1	292760	Santa_Brigida            :	399628.50
+    1	292780	Santa_Cruz_Da_Vitoria    :	372276.50
+    1	293245	Umburanas                :	539912.70
+    1	293345	Wanderley                :	348869.50
+    1	293360	Xique_Xique              :	1317314.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	291870	Lafaiete_Coutinho        :	73487.22
+    1	292280	Nova_Itarana             :	5192.80
+    2	290035	Adustina                 :	62452.72
+    2	290135	Andorinha                :	169502.23
+    2	290150	Anguera                  :	11370.09
+    2	290250	Baianopolis              :	551.49
+    2	290265	Banzae                   :	68226.62
+    2	290370	Boa_Nova                 :	8004.00
+    2	290395	Bom_Jesus_Da_Serra       :	1863.00
+    2	290440	Brejolandia              :	7224.50
+    2	290450	Brotas_De_Macaubas       :	706507.61
+    2	290480	Caatiba                  :	21546.08
+    2	290515	Caetanos                 :	404442.50
+    2	290540	Cairu                    :	174917.18
+    2	290689	Caraibas                 :	1687.70
+    2	290770	Chorrocho                :	597576.38
+    2	290880	Contendas_Do_Sincora     :	143702.56
+    2	290920	Coronel_Joao_Sa          :	1317798.32
+    2	290940	Cotegipe                 :	2369.39
+    2	291000	Dario_Meira              :	66016.93
+    2	291077	Feira_Da_Mata            :	453014.11
+    2	291110	Formosa_Do_Rio_Preto     :	2460365.90
+    2	291130	Gentio_Do_Ouro           :	249847.63
+    2	291150	Gongogi                  :	256.45
+    2	291220	Ibicoara                 :	18543.36
+    2	291260	Ibiquera                 :	720113.70
+    2	291280	Ibirapua                 :	94238.31
+    2	291410	Ipupiara                 :	2868567.09
+    2	291420	Irajuba                  :	14469.18
+    2	291430	Iramaia                  :	1448367.11
+    2	291500	Itaete                   :	229629.96
+    2	291570	Itamari                  :	308.19
+    2	291590	Itanagra                 :	258705.96
+    2	291733	Iuiu                     :	29904.81
+    2	291845	Jucurucu                 :	3025082.76
+    2	291855	Jussari                  :	4108.31
+    2	291860	Jussiape                 :	25590.51
+    2	291890	Lajedao                  :	11100.66
+    2	291900	Lajedinho                :	336507.04
+    2	291990	Macurure                 :	1156217.16
+    2	291995	Maetinga                 :	2908.96
+    2	292030	Malhada_De_Pedras        :	45118.67
+    2	292040	Manoel_Vitorino          :	10304.72
+    2	292045	Mansidao                 :	3539778.05
+    2	292070	Marau                    :	208272.14
+    2	292080	Marcionilio_Souza        :	117361.57
+    2	292090	Mascote                  :	10856.95
+    2	292140	Mirangaba                :	769.42
+    2	292145	Mirante                  :	1679183.90
+    2	292160	Morpara                  :	24492930.35
+    2	292190	Mucuge                   :	37009.11
+    2	292225	Muquem_De_Sao_Francisco  :	278913.92
+    2	292285	Nova_Redencao            :	122937.65
+    2	292350	Palmeiras                :	7505.01
+    2	292420	Pedro_Alexandre          :	864395.58
+    2	292465	Pintadas                 :	48493.84
+    2	292470	Piripa                   :	165.75
+    2	292490	Planaltino               :	203.81
+    2	292665	Ribeirao_Do_Largo        :	63012.73
+    2	292710	Rodelas                  :	576590.41
+    2	292760	Santa_Brigida            :	266569.36
+    2	292780	Santa_Cruz_Da_Vitoria    :	642.50
+    2	293245	Umburanas                :	30898.24
+    2	293260	Urandi                   :	645.38
+    2	293345	Wanderley                :	151724.28
+    2	293360	Xique_Xique              :	59518.32
+    3	290130	Andarai                  :	920390.41
+    3	290682	Canudos                  :	11640.34
+    3	290970	Cristopolis              :	266368.05
+    3	291300	Ibitiara                 :	171156.41
+    3	291535	Itaguacu_Da_Bahia        :	73223.25
+    3	291930	Lencois                  :	89022.53
+    3	293315	Varzea_Nova              :	60280.67
+----------------------------------------------------------------

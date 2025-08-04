@@ -1,0 +1,1602 @@
+[
+  {
+    "2022": 2138551,
+    "city": "Paris"
+  },
+  {
+    "2022": 794811,
+    "city": "Marseille"
+  },
+  {
+    "2022": 472317,
+    "city": "Lyon"
+  },
+  {
+    "2022": 433055,
+    "city": "Toulouse"
+  },
+  {
+    "2022": 338620,
+    "city": "Nice"
+  },
+  {
+    "2022": 277269,
+    "city": "Nantes"
+  },
+  {
+    "2022": 274845,
+    "city": "Strasbourg"
+  },
+  {
+    "2022": 248252,
+    "city": "Montpellier"
+  },
+  {
+    "2022": 231844,
+    "city": "Bordeaux"
+  },
+  {
+    "2022": 228328,
+    "city": "Lille"
+  },
+  {
+    "2022": 209375,
+    "city": "Rennes"
+  },
+  {
+    "2022": 196565,
+    "city": "Reims"
+  },
+  {
+    "2022": 185972,
+    "city": "Le Havre"
+  },
+  {
+    "2022": 183430,
+    "city": "Cergy-Pontoise"
+  },
+  {
+    "2022": 176280,
+    "city": "Saint-Etienne"
+  },
+  {
+    "2022": 168701,
+    "city": "Toulon"
+  },
+  {
+    "2022": 168279,
+    "city": "Angers"
+  },
+  {
+    "2022": 158552,
+    "city": "Grenoble"
+  },
+  {
+    "2022": 149782,
+    "city": "Dijon"
+  },
+  {
+    "2022": 148236,
+    "city": "Nimes"
+  },
+  {
+    "2022": 146821,
+    "city": "Aix-en-Provence"
+  },
+  {
+    "2022": 146598,
+    "city": "Saint-Quentin-en-Yvelines"
+  },
+  {
+    "2022": 144899,
+    "city": "Brest"
+  },
+  {
+    "2022": 144515,
+    "city": "Le Mans"
+  },
+  {
+    "2022": 143086,
+    "city": "Amiens"
+  },
+  {
+    "2022": 141621,
+    "city": "Tours"
+  },
+  {
+    "2022": 141176,
+    "city": "Limoges"
+  },
+  {
+    "2022": 138681,
+    "city": "Clermont-Ferrand"
+  },
+  {
+    "2022": 131445,
+    "city": "Villeurbanne"
+  },
+  {
+    "2022": 128426,
+    "city": "Besancon"
+  },
+  {
+    "2022": 124149,
+    "city": "Orleans"
+  },
+  {
+    "2022": 123914,
+    "city": "Metz"
+  },
+  {
+    "2022": 112787,
+    "city": "Rouen"
+  },
+  {
+    "2022": 111430,
+    "city": "Mulhouse"
+  },
+  {
+    "2022": 110706,
+    "city": "Perpignan"
+  },
+  {
+    "2022": 110624,
+    "city": "Caen"
+  },
+  {
+    "2022": 108782,
+    "city": "Boulogne-Billancourt"
+  },
+  {
+    "2022": 105334,
+    "city": "Nancy"
+  },
+  {
+    "2022": 101475,
+    "city": "Argenteuil"
+  },
+  {
+    "2022": 96128,
+    "city": "Saint-Denis"
+  },
+  {
+    "2022": 95721,
+    "city": "Roubaix"
+  },
+  {
+    "2022": 91574,
+    "city": "Tourcoing"
+  },
+  {
+    "2022": 90652,
+    "city": "Montreuil"
+  },
+  {
+    "2022": 89769,
+    "city": "Avignon"
+  },
+  {
+    "2022": 89316,
+    "city": "Marseille 13"
+  },
+  {
+    "2022": 86742,
+    "city": "Asnieres-sur-Seine"
+  },
+  {
+    "2022": 86719,
+    "city": "Nanterre"
+  },
+  {
+    "2022": 85960,
+    "city": "Poitiers"
+  },
+  {
+    "2022": 85416,
+    "city": "Versailles"
+  },
+  {
+    "2022": 85158,
+    "city": "Courbevoie"
+  },
+  {
+    "2022": 84833,
+    "city": "Creteil"
+  },
+  {
+    "2022": 82697,
+    "city": "Pau"
+  },
+  {
+    "2022": 82300,
+    "city": "Colombes"
+  },
+  {
+    "2022": 81001,
+    "city": "Vitry-sur-Seine"
+  },
+  {
+    "2022": 80615,
+    "city": "Aulnay-sous-Bois"
+  },
+  {
+    "2022": 78837,
+    "city": "Marseille 08"
+  },
+  {
+    "2022": 77770,
+    "city": "Marseille 15"
+  },
+  {
+    "2022": 76868,
+    "city": "Marseille 09"
+  },
+  {
+    "2022": 76810,
+    "city": "La Rochelle"
+  },
+  {
+    "2022": 76726,
+    "city": "Champigny-sur-Marne"
+  },
+  {
+    "2022": 76616,
+    "city": "Rueil-Malmaison"
+  },
+  {
+    "2022": 76393,
+    "city": "Antibes"
+  },
+  {
+    "2022": 75402,
+    "city": "Saint-Maur-des-Fosses"
+  },
+  {
+    "2022": 74433,
+    "city": "Calais"
+  },
+  {
+    "2022": 74081,
+    "city": "Beziers"
+  },
+  {
+    "2022": 71287,
+    "city": "Dunkerque"
+  },
+  {
+    "2022": 70914,
+    "city": "Aubervilliers"
+  },
+  {
+    "2022": 70011,
+    "city": "Cannes"
+  },
+  {
+    "2022": 69791,
+    "city": "Merignac"
+  },
+  {
+    "2022": 67987,
+    "city": "Bourges"
+  },
+  {
+    "2022": 67054,
+    "city": "Saint-Nazaire"
+  },
+  {
+    "2022": 65405,
+    "city": "Colmar"
+  },
+  {
+    "2022": 63864,
+    "city": "Valence"
+  },
+  {
+    "2022": 63849,
+    "city": "Quimper"
+  },
+  {
+    "2022": 62488,
+    "city": "Drancy"
+  },
+  {
+    "2022": 62420,
+    "city": "Noisy-le-Grand"
+  },
+  {
+    "2022": 62400,
+    "city": "Villeneuve-d'Ascq"
+  },
+  {
+    "2022": 62330,
+    "city": "La Seyne-sur-Mer"
+  },
+  {
+    "2022": 62178,
+    "city": "Levallois-Perret"
+  },
+  {
+    "2022": 61920,
+    "city": "Marseille 14"
+  },
+  {
+    "2022": 61640,
+    "city": "Chambery"
+  },
+  {
+    "2022": 61447,
+    "city": "Issy-les-Moulineaux"
+  },
+  {
+    "2022": 61300,
+    "city": "Neuilly-sur-Seine"
+  },
+  {
+    "2022": 60785,
+    "city": "Troyes"
+  },
+  {
+    "2022": 59845,
+    "city": "Antony"
+  },
+  {
+    "2022": 59410,
+    "city": "La Roche-sur-Yon"
+  },
+  {
+    "2022": 58734,
+    "city": "Marseille 12"
+  },
+  {
+    "2022": 58112,
+    "city": "Lorient"
+  },
+  {
+    "2022": 57979,
+    "city": "Sarcelles"
+  },
+  {
+    "2022": 57944,
+    "city": "Pessac"
+  },
+  {
+    "2022": 57897,
+    "city": "Ivry-sur-Seine"
+  },
+  {
+    "2022": 57795,
+    "city": "Evreux"
+  },
+  {
+    "2022": 57584,
+    "city": "Venissieux"
+  },
+  {
+    "2022": 57576,
+    "city": "Cergy"
+  },
+  {
+    "2022": 57467,
+    "city": "Clichy"
+  },
+  {
+    "2022": 56792,
+    "city": "Marseille 11"
+  },
+  {
+    "2022": 55407,
+    "city": "Saint-Quentin"
+  },
+  {
+    "2022": 54660,
+    "city": "Niort"
+  },
+  {
+    "2022": 54562,
+    "city": "Belfort"
+  },
+  {
+    "2022": 54364,
+    "city": "Ajaccio"
+  },
+  {
+    "2022": 54020,
+    "city": "Vannes"
+  },
+  {
+    "2022": 53980,
+    "city": "Sartrouville"
+  },
+  {
+    "2022": 53964,
+    "city": "Maisons-Alfort"
+  },
+  {
+    "2022": 53811,
+    "city": "Meaux"
+  },
+  {
+    "2022": 53660,
+    "city": "Blois"
+  },
+  {
+    "2022": 53466,
+    "city": "Brive-la-Gaillarde"
+  },
+  {
+    "2022": 53431,
+    "city": "Arles"
+  },
+  {
+    "2022": 53393,
+    "city": "Beauvais"
+  },
+  {
+    "2022": 53301,
+    "city": "Chateauroux"
+  },
+  {
+    "2022": 53160,
+    "city": "Cholet"
+  },
+  {
+    "2022": 53098,
+    "city": "Frejus"
+  },
+  {
+    "2022": 52922,
+    "city": "Pantin"
+  },
+  {
+    "2022": 52774,
+    "city": "Saint-Brieuc"
+  },
+  {
+    "2022": 52434,
+    "city": "Montauban"
+  },
+  {
+    "2022": 52415,
+    "city": "Charleville-Mezieres"
+  },
+  {
+    "2022": 52409,
+    "city": "Albi"
+  },
+  {
+    "2022": 52106,
+    "city": "Tarbes"
+  },
+  {
+    "2022": 52075,
+    "city": "Fontenay-sous-Bois"
+  },
+  {
+    "2022": 51900,
+    "city": "Evry"
+  },
+  {
+    "2022": 51400,
+    "city": "Clamart"
+  },
+  {
+    "2022": 51299,
+    "city": "Marseille 10"
+  },
+  {
+    "2022": 51257,
+    "city": "Chalons-en-Champagne"
+  },
+  {
+    "2022": 50776,
+    "city": "Narbonne"
+  },
+  {
+    "2022": 50676,
+    "city": "Saint-Malo"
+  },
+  {
+    "2022": 50489,
+    "city": "Laval"
+  },
+  {
+    "2022": 50487,
+    "city": "Hyeres"
+  },
+  {
+    "2022": 49600,
+    "city": "Carcassonne"
+  },
+  {
+    "2022": 49468,
+    "city": "Angouleme"
+  },
+  {
+    "2022": 49232,
+    "city": "Annecy"
+  },
+  {
+    "2022": 48268,
+    "city": "Bondy"
+  },
+  {
+    "2022": 48077,
+    "city": "Le Blanc-Mesnil"
+  },
+  {
+    "2022": 48048,
+    "city": "Villejuif"
+  },
+  {
+    "2022": 47581,
+    "city": "Grasse"
+  },
+  {
+    "2022": 47334,
+    "city": "Sevran"
+  },
+  {
+    "2022": 47275,
+    "city": "Castres"
+  },
+  {
+    "2022": 47251,
+    "city": "Chalon-sur-Saone"
+  },
+  {
+    "2022": 47193,
+    "city": "Marseille 04"
+  },
+  {
+    "2022": 47052,
+    "city": "Arras"
+  },
+  {
+    "2022": 47013,
+    "city": "Boulogne-sur-Mer"
+  },
+  {
+    "2022": 46947,
+    "city": "Chelles"
+  },
+  {
+    "2022": 46923,
+    "city": "Cagnes-sur-Mer"
+  },
+  {
+    "2022": 46898,
+    "city": "Saint-Herblain"
+  },
+  {
+    "2022": 46531,
+    "city": "Douai"
+  },
+  {
+    "2022": 46145,
+    "city": "Epinay-sur-Seine"
+  },
+  {
+    "2022": 45923,
+    "city": "Vincennes"
+  },
+  {
+    "2022": 45749,
+    "city": "Martigues"
+  },
+  {
+    "2022": 45414,
+    "city": "Marseille 03"
+  },
+  {
+    "2022": 45340,
+    "city": "Bourg-en-Bresse"
+  },
+  {
+    "2022": 44962,
+    "city": "Bobigny"
+  },
+  {
+    "2022": 44960,
+    "city": "Montlucon"
+  },
+  {
+    "2022": 44844,
+    "city": "Aubagne"
+  },
+  {
+    "2022": 44821,
+    "city": "Valenciennes"
+  },
+  {
+    "2022": 44697,
+    "city": "Suresnes"
+  },
+  {
+    "2022": 44652,
+    "city": "Meudon"
+  },
+  {
+    "2022": 44583,
+    "city": "Marseille 05"
+  },
+  {
+    "2022": 44396,
+    "city": "Bayonne"
+  },
+  {
+    "2022": 44373,
+    "city": "Istres"
+  },
+  {
+    "2022": 44311,
+    "city": "Thionville"
+  },
+  {
+    "2022": 44263,
+    "city": "Mantes-la-Jolie"
+  },
+  {
+    "2022": 44243,
+    "city": "Compiegne"
+  },
+  {
+    "2022": 43988,
+    "city": "Nevers"
+  },
+  {
+    "2022": 43838,
+    "city": "Chartres"
+  },
+  {
+    "2022": 43360,
+    "city": "Marseille 06"
+  },
+  {
+    "2022": 43353,
+    "city": "Le Cannet"
+  },
+  {
+    "2022": 42826,
+    "city": "Wattrelos"
+  },
+  {
+    "2022": 42763,
+    "city": "Caluire-et-Cuire"
+  },
+  {
+    "2022": 42715,
+    "city": "Gap"
+  },
+  {
+    "2022": 42579,
+    "city": "Talence"
+  },
+  {
+    "2022": 42410,
+    "city": "Ales"
+  },
+  {
+    "2022": 42294,
+    "city": "Gennevilliers"
+  },
+  {
+    "2022": 41641,
+    "city": "Saint-Priest"
+  },
+  {
+    "2022": 41627,
+    "city": "Rosny-sous-Bois"
+  },
+  {
+    "2022": 41516,
+    "city": "Auxerre"
+  },
+  {
+    "2022": 41397,
+    "city": "Salon-de-Provence"
+  },
+  {
+    "2022": 41142,
+    "city": "Saint-Germain-en-Laye"
+  },
+  {
+    "2022": 41001,
+    "city": "Bastia"
+  },
+  {
+    "2022": 40919,
+    "city": "Marseille 01"
+  },
+  {
+    "2022": 40736,
+    "city": "Sete"
+  },
+  {
+    "2022": 40658,
+    "city": "Anglet"
+  },
+  {
+    "2022": 40646,
+    "city": "Puteaux"
+  },
+  {
+    "2022": 40527,
+    "city": "Corbeil-Essonnes"
+  },
+  {
+    "2022": 39847,
+    "city": "Garges-les-Gonesse"
+  },
+  {
+    "2022": 39840,
+    "city": "Roanne"
+  },
+  {
+    "2022": 39698,
+    "city": "Savigny-sur-Orge"
+  },
+  {
+    "2022": 39518,
+    "city": "Livry-Gargan"
+  },
+  {
+    "2022": 39518,
+    "city": "Epinal"
+  },
+  {
+    "2022": 39353,
+    "city": "Saint-Ouen"
+  },
+  {
+    "2022": 39248,
+    "city": "Reze"
+  },
+  {
+    "2022": 39063,
+    "city": "Montigny-le-Bretonneux"
+  },
+  {
+    "2022": 38955,
+    "city": "Noisy-le-Sec"
+  },
+  {
+    "2022": 38953,
+    "city": "Melun"
+  },
+  {
+    "2022": 38900,
+    "city": "Bagneux"
+  },
+  {
+    "2022": 38768,
+    "city": "Massy"
+  },
+  {
+    "2022": 38721,
+    "city": "Haguenau"
+  },
+  {
+    "2022": 38708,
+    "city": "Montrouge"
+  },
+  {
+    "2022": 38629,
+    "city": "Marcq-en-Baroeul"
+  },
+  {
+    "2022": 38591,
+    "city": "Vitrolles"
+  },
+  {
+    "2022": 38573,
+    "city": "Draguignan"
+  },
+  {
+    "2022": 38265,
+    "city": "Lens"
+  },
+  {
+    "2022": 38134,
+    "city": "Gagny"
+  },
+  {
+    "2022": 38014,
+    "city": "Saint-Chamond"
+  },
+  {
+    "2022": 37825,
+    "city": "Bron"
+  },
+  {
+    "2022": 37489,
+    "city": "Vaulx-en-Velin"
+  },
+  {
+    "2022": 37466,
+    "city": "Joue-les-Tours"
+  },
+  {
+    "2022": 37290,
+    "city": "Alfortville"
+  },
+  {
+    "2022": 37287,
+    "city": "La Courneuve"
+  },
+  {
+    "2022": 37210,
+    "city": "Chatellerault"
+  },
+  {
+    "2022": 37114,
+    "city": "Villepinte"
+  },
+  {
+    "2022": 36492,
+    "city": "Cambrai"
+  },
+  {
+    "2022": 36431,
+    "city": "Poissy"
+  },
+  {
+    "2022": 36358,
+    "city": "Conflans-Sainte-Honorine"
+  },
+  {
+    "2022": 36205,
+    "city": "Mont-de-Marsan"
+  },
+  {
+    "2022": 36121,
+    "city": "Plaisir"
+  },
+  {
+    "2022": 35981,
+    "city": "Marseille 07"
+  },
+  {
+    "2022": 35873,
+    "city": "Marignane"
+  },
+  {
+    "2022": 35707,
+    "city": "Dieppe"
+  },
+  {
+    "2022": 35637,
+    "city": "Montelimar"
+  },
+  {
+    "2022": 35591,
+    "city": "Tremblay-en-France"
+  },
+  {
+    "2022": 35590,
+    "city": "Choisy-le-Roi"
+  },
+  {
+    "2022": 35528,
+    "city": "Saint-Martin-d'Heres"
+  },
+  {
+    "2022": 35484,
+    "city": "Macon"
+  },
+  {
+    "2022": 35002,
+    "city": "Romans-sur-Isere"
+  },
+  {
+    "2022": 34918,
+    "city": "Saint-Raphael"
+  },
+  {
+    "2022": 34798,
+    "city": "Pontault-Combault"
+  },
+  {
+    "2022": 34779,
+    "city": "Six-Fours-les-Plages"
+  },
+  {
+    "2022": 34770,
+    "city": "Perigueux"
+  },
+  {
+    "2022": 34724,
+    "city": "Aurillac"
+  },
+  {
+    "2022": 34465,
+    "city": "Neuilly-sur-Marne"
+  },
+  {
+    "2022": 34370,
+    "city": "Lievin"
+  },
+  {
+    "2022": 34367,
+    "city": "Agen"
+  },
+  {
+    "2022": 34284,
+    "city": "Franconville"
+  },
+  {
+    "2022": 33689,
+    "city": "Sainte-Genevieve-des-Bois"
+  },
+  {
+    "2022": 33684,
+    "city": "Maubeuge"
+  },
+  {
+    "2022": 33504,
+    "city": "Bagnolet"
+  },
+  {
+    "2022": 33229,
+    "city": "Saumur"
+  },
+  {
+    "2022": 33188,
+    "city": "Biarritz"
+  },
+  {
+    "2022": 33113,
+    "city": "La Ciotat"
+  },
+  {
+    "2022": 33088,
+    "city": "Echirolles"
+  },
+  {
+    "2022": 32994,
+    "city": "Villefranche-sur-Saone"
+  },
+  {
+    "2022": 32715,
+    "city": "Chatenay-Malabry"
+  },
+  {
+    "2022": 32601,
+    "city": "Stains"
+  },
+  {
+    "2022": 32383,
+    "city": "Chatillon"
+  },
+  {
+    "2022": 32293,
+    "city": "Vienne"
+  },
+  {
+    "2022": 32289,
+    "city": "Schiltigheim"
+  },
+  {
+    "2022": 32134,
+    "city": "Les Mureaux"
+  },
+  {
+    "2022": 32015,
+    "city": "Le Perreux-sur-Marne"
+  },
+  {
+    "2022": 31989,
+    "city": "Guyancourt"
+  },
+  {
+    "2022": 31987,
+    "city": "Palaiseau"
+  },
+  {
+    "2022": 31918,
+    "city": "Saint-Dizier"
+  },
+  {
+    "2022": 31863,
+    "city": "Creil"
+  },
+  {
+    "2022": 31785,
+    "city": "Vandoeuvre-les-Nancy"
+  },
+  {
+    "2022": 31684,
+    "city": "Thonon-les-Bains"
+  },
+  {
+    "2022": 31568,
+    "city": "Bethune"
+  },
+  {
+    "2022": 31363,
+    "city": "Colomiers"
+  },
+  {
+    "2022": 31236,
+    "city": "Nogent-sur-Marne"
+  },
+  {
+    "2022": 31225,
+    "city": "Athis-Mons"
+  },
+  {
+    "2022": 31131,
+    "city": "Viry-Chatillon"
+  },
+  {
+    "2022": 31121,
+    "city": "Houilles"
+  },
+  {
+    "2022": 31100,
+    "city": "Soissons"
+  },
+  {
+    "2022": 31058,
+    "city": "Dreux"
+  },
+  {
+    "2022": 30910,
+    "city": "Charenton-le-Pont"
+  },
+  {
+    "2022": 30881,
+    "city": "Villeneuve-Saint-Georges"
+  },
+  {
+    "2022": 30831,
+    "city": "Elancourt"
+  },
+  {
+    "2022": 30786,
+    "city": "Alencon"
+  },
+  {
+    "2022": 30619,
+    "city": "Sotteville-les-Rouen"
+  },
+  {
+    "2022": 30530,
+    "city": "Orange"
+  },
+  {
+    "2022": 30347,
+    "city": "Villenave-d'Ornon"
+  },
+  {
+    "2022": 30290,
+    "city": "Pontoise"
+  },
+  {
+    "2022": 30252,
+    "city": "Villiers-sur-Marne"
+  },
+  {
+    "2022": 30091,
+    "city": "Chatou"
+  },
+  {
+    "2022": 30047,
+    "city": "Goussainville"
+  },
+  {
+    "2022": 29892,
+    "city": "Lomme"
+  },
+  {
+    "2022": 29876,
+    "city": "Vierzon"
+  },
+  {
+    "2022": 29742,
+    "city": "Saint-Medard-en-Jalles"
+  },
+  {
+    "2022": 29724,
+    "city": "Thiais"
+  },
+  {
+    "2022": 29709,
+    "city": "Carpentras"
+  },
+  {
+    "2022": 29703,
+    "city": "L'Hay-les-Roses"
+  },
+  {
+    "2022": 29649,
+    "city": "Menton"
+  },
+  {
+    "2022": 29516,
+    "city": "Saint-Laurent-du-Var"
+  },
+  {
+    "2022": 29512,
+    "city": "Saintes"
+  },
+  {
+    "2022": 29427,
+    "city": "Rochefort"
+  },
+  {
+    "2022": 29420,
+    "city": "Malakoff"
+  },
+  {
+    "2022": 29316,
+    "city": "Draveil"
+  },
+  {
+    "2022": 29278,
+    "city": "Saint-Leu"
+  },
+  {
+    "2022": 29238,
+    "city": "Saint-Sebastien-sur-Loire"
+  },
+  {
+    "2022": 29154,
+    "city": "Le Chesnay"
+  },
+  {
+    "2022": 29124,
+    "city": "Tournefeuille"
+  },
+  {
+    "2022": 29062,
+    "city": "Clichy-sous-Bois"
+  },
+  {
+    "2022": 28981,
+    "city": "Chaumont"
+  },
+  {
+    "2022": 28953,
+    "city": "Saint-Etienne-du-Rouvray"
+  },
+  {
+    "2022": 28929,
+    "city": "Meyzieu"
+  },
+  {
+    "2022": 28897,
+    "city": "Yerres"
+  },
+  {
+    "2022": 28865,
+    "city": "Montbeliard"
+  },
+  {
+    "2022": 28839,
+    "city": "Saint-Cloud"
+  },
+  {
+    "2022": 28700,
+    "city": "Sens"
+  },
+  {
+    "2022": 28688,
+    "city": "Laon"
+  },
+  {
+    "2022": 28613,
+    "city": "Lambersart"
+  },
+  {
+    "2022": 28367,
+    "city": "Trappes"
+  },
+  {
+    "2022": 28337,
+    "city": "Rodez"
+  },
+  {
+    "2022": 28317,
+    "city": "Bergerac"
+  },
+  {
+    "2022": 28275,
+    "city": "Annemasse"
+  },
+  {
+    "2022": 28257,
+    "city": "La Garde"
+  },
+  {
+    "2022": 28117,
+    "city": "Ermont"
+  },
+  {
+    "2022": 28076,
+    "city": "Rillieux-la-Pape"
+  },
+  {
+    "2022": 28001,
+    "city": "Villemomble"
+  },
+  {
+    "2022": 27914,
+    "city": "Pierrefitte-sur-Seine"
+  },
+  {
+    "2022": 27867,
+    "city": "Le Kremlin-Bicetre"
+  },
+  {
+    "2022": 27776,
+    "city": "Champs-sur-Marne"
+  },
+  {
+    "2022": 27651,
+    "city": "Aix-les-Bains"
+  },
+  {
+    "2022": 27570,
+    "city": "Bezons"
+  },
+  {
+    "2022": 27286,
+    "city": "Vallauris"
+  },
+  {
+    "2022": 27271,
+    "city": "Taverny"
+  },
+  {
+    "2022": 27261,
+    "city": "Illkirch-Graffenstaden"
+  },
+  {
+    "2022": 27253,
+    "city": "La Teste-de-Buch"
+  },
+  {
+    "2022": 27082,
+    "city": "Epernay"
+  },
+  {
+    "2022": 27028,
+    "city": "Villiers-le-Bel"
+  },
+  {
+    "2022": 27019,
+    "city": "Vichy"
+  },
+  {
+    "2022": 26869,
+    "city": "Sannois"
+  },
+  {
+    "2022": 26758,
+    "city": "Gonesse"
+  },
+  {
+    "2022": 26692,
+    "city": "Vigneux-sur-Seine"
+  },
+  {
+    "2022": 26689,
+    "city": "Cavaillon"
+  },
+  {
+    "2022": 26674,
+    "city": "Rambouillet"
+  },
+  {
+    "2022": 26655,
+    "city": "Cherbourg-Octeville"
+  },
+  {
+    "2022": 26646,
+    "city": "Armentieres"
+  },
+  {
+    "2022": 26588,
+    "city": "Lunel"
+  },
+  {
+    "2022": 26540,
+    "city": "Cachan"
+  },
+  {
+    "2022": 26522,
+    "city": "Le Grand-Quevilly"
+  },
+  {
+    "2022": 26461,
+    "city": "Abbeville"
+  },
+  {
+    "2022": 26385,
+    "city": "La Garenne-Colombes"
+  },
+  {
+    "2022": 26369,
+    "city": "Montigny-les-Metz"
+  },
+  {
+    "2022": 26068,
+    "city": "Vanves"
+  },
+  {
+    "2022": 26037,
+    "city": "Vernon"
+  },
+  {
+    "2022": 25925,
+    "city": "Savigny-le-Temple"
+  },
+  {
+    "2022": 25878,
+    "city": "Dole"
+  },
+  {
+    "2022": 25869,
+    "city": "Villeneuve-sur-Lot"
+  },
+  {
+    "2022": 25785,
+    "city": "Les Ulis"
+  },
+  {
+    "2022": 25779,
+    "city": "Marseille 02"
+  },
+  {
+    "2022": 25697,
+    "city": "Oyonnax"
+  },
+  {
+    "2022": 25592,
+    "city": "Oullins"
+  },
+  {
+    "2022": 25590,
+    "city": "Le Creusot"
+  },
+  {
+    "2022": 25371,
+    "city": "Henin-Beaumont"
+  },
+  {
+    "2022": 25338,
+    "city": "Orvault"
+  },
+  {
+    "2022": 25201,
+    "city": "Coudekerque-Branche"
+  },
+  {
+    "2022": 25153,
+    "city": "Herblay"
+  },
+  {
+    "2022": 25082,
+    "city": "Ris-Orangis"
+  },
+  {
+    "2022": 25014,
+    "city": "Sucy-en-Brie"
+  },
+  {
+    "2022": 24940,
+    "city": "Grigny"
+  },
+  {
+    "2022": 24803,
+    "city": "Fresnes"
+  },
+  {
+    "2022": 24772,
+    "city": "Romainville"
+  },
+  {
+    "2022": 24680,
+    "city": "Fontenay-aux-Roses"
+  },
+  {
+    "2022": 24674,
+    "city": "Decines-Charpieu"
+  },
+  {
+    "2022": 24628,
+    "city": "Saint-Die-des-Vosges"
+  },
+  {
+    "2022": 24588,
+    "city": "Fontaine"
+  },
+  {
+    "2022": 24494,
+    "city": "Auch"
+  },
+  {
+    "2022": 24474,
+    "city": "Bruay-la-Buissiere"
+  },
+  {
+    "2022": 24473,
+    "city": "Lisieux"
+  },
+  {
+    "2022": 24446,
+    "city": "Sarreguemines"
+  },
+  {
+    "2022": 24386,
+    "city": "Torcy"
+  },
+  {
+    "2022": 24385,
+    "city": "Gradignan"
+  },
+  {
+    "2022": 24352,
+    "city": "Lanester"
+  },
+  {
+    "2022": 24317,
+    "city": "Bretigny-sur-Orge"
+  },
+  {
+    "2022": 24313,
+    "city": "Muret"
+  },
+  {
+    "2022": 24300,
+    "city": "Bois-Colombes"
+  },
+  {
+    "2022": 24263,
+    "city": "Blagnac"
+  },
+  {
+    "2022": 24258,
+    "city": "Herouville-Saint-Clair"
+  },
+  {
+    "2022": 24240,
+    "city": "Libourne"
+  },
+  {
+    "2022": 24232,
+    "city": "Le Bouscat"
+  },
+  {
+    "2022": 24173,
+    "city": "Miramas"
+  },
+  {
+    "2022": 24162,
+    "city": "Beaune"
+  },
+  {
+    "2022": 24096,
+    "city": "Eaubonne"
+  },
+  {
+    "2022": 24096,
+    "city": "Brunoy"
+  },
+  {
+    "2022": 23931,
+    "city": "Villeparisis"
+  },
+  {
+    "2022": 23829,
+    "city": "Montfermeil"
+  },
+  {
+    "2022": 23724,
+    "city": "Sevres"
+  },
+  {
+    "2022": 23719,
+    "city": "Fougeres"
+  },
+  {
+    "2022": 23635,
+    "city": "Saint-Pol-sur-Mer"
+  },
+  {
+    "2022": 23572,
+    "city": "La Madeleine"
+  },
+  {
+    "2022": 23541,
+    "city": "Gif-sur-Yvette"
+  },
+  {
+    "2022": 23517,
+    "city": "Bourgoin-Jallieu"
+  },
+  {
+    "2022": 23504,
+    "city": "Begles"
+  },
+  {
+    "2022": 23331,
+    "city": "Cahors"
+  },
+  {
+    "2022": 23307,
+    "city": "Millau"
+  },
+  {
+    "2022": 23307,
+    "city": "Hazebrouck"
+  },
+  {
+    "2022": 23213,
+    "city": "Grande-Synthe"
+  },
+  {
+    "2022": 23134,
+    "city": "La Valette-du-Var"
+  },
+  {
+    "2022": 23095,
+    "city": "Moulins"
+  },
+  {
+    "2022": 23078,
+    "city": "Mont-Saint-Aignan"
+  },
+  {
+    "2022": 23012,
+    "city": "Etampes"
+  },
+  {
+    "2022": 23006,
+    "city": "Mons-en-Baroeul"
+  },
+  {
+    "2022": 23001,
+    "city": "Agde"
+  },
+  {
+    "2022": 22977,
+    "city": "Saint-Ouen-l'Aumone"
+  },
+  {
+    "2022": 22921,
+    "city": "Vertou"
+  },
+  {
+    "2022": 22843,
+    "city": "Montgeron"
+  },
+  {
+    "2022": 22772,
+    "city": "Maisons-Laffitte"
+  },
+  {
+    "2022": 22718,
+    "city": "Le Puy-en-Velay"
+  },
+  {
+    "2022": 22691,
+    "city": "Le Petit-Quevilly"
+  },
+  {
+    "2022": 22636,
+    "city": "Lormont"
+  },
+  {
+    "2022": 22604,
+    "city": "Olivet"
+  },
+  {
+    "2022": 22555,
+    "city": "Acheres"
+  },
+  {
+    "2022": 22530,
+    "city": "Ozoir-la-Ferriere"
+  }
+]

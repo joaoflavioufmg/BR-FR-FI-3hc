@@ -1,0 +1,117 @@
+# ===========================================================================
+# Projeto: “AVALIAÇÃO ECONÔMICA COMPARATIVA ENTRE MODELO
+# CENTRALIZADO E DISTRIBUÍDO DE ALOCAÇÃO DE EQUIPAMENTOS DE
+# ESPECTROMETRIA DE MASSA PARA A AMPLIAÇÃO DO ESCOPO DO PNTN”
+# (Subprojeto do TED 65/2015 – Aperfeiçoamento da Atenção Hematológica e 
+# hemoterápica na hemorrede pública e triagem neonatal no âmbito do 
+# Sistema Único de Saúde)
+# Joao Flavio F. Almeida, 	<joao.flavio@dep.ufmg.br> 
+# Luiz Ricardo Pinto, 		<luizricardopinto@gmail.com> 
+# Lasara Fabrícia Rodrigues	<lasara@dep.ufmg.br> 
+# Data   : 27/09/2021
+# Versao: 1.0:  
+# ===========================================================================
+# Municipios do Brasil com mais de 300 k habitantes
+# ===========================================================================
+
+data;
+
+param: J :	ST	INF	ESP	CAP :=			
+110020	11	0	0	.		#	'Porto_Velho'
+120040	12	0	0	.		#	'Rio_Branco'
+130260	13	0	0	.		#	'Manaus'
+140010	14	1	0	.		#	'Boa_Vista'
+150080	15	1	0	.		#	'Ananindeua'
+150140	15	0	0	.		#	'Belem'
+150680	15	1	0	.		#	'Santarem'
+160030	16	0	0	.		#	'Macapa'
+172100	17	1	0	.		#	'Palmas'
+170210	17	0	0	.		#   'Araguaina' (TO)	
+211130	21	0	0	.		#	'Sao_Luis'
+221100	22	0	0	.		#	'Teresina'
+230370	23	1	0	.		#	'Caucaia'
+230440	23	0	0	.		#	'Fortaleza'
+240810	24	0	0	.		#	'Natal'
+250400	25	1	0	.		#	'Campina_Grande'
+250750	25	0	0	.		#	'Joao_Pessoa'
+260410	26	1	0	.		#	'Caruaru'
+260790	26	1	0	.		#	'Jaboatao_Dos_Guararapes'
+260960	26	1	0	.		#	'Olinda'
+261070	26	1	0	.		#	'Paulista'
+261110	26	1	0	.		#	'Petrolina'
+261160	26	0	0	.		#	'Recife'
+270430	27	0	0	.		#	'Maceio'
+280030	28	0	0	.		#	'Aracaju'
+291080	29	1	0	.		#	'Feira_De_Santana'
+292740	29	0	0	.		#	'Salvador'
+293330	29	1	0	.		#	'Vitoria_Da_Conquista'
+310620	31	0	5	.	    #	'Belo_Horizonte'        # 728640
+310670	31	1	0	.		#	'Betim'
+311860	31	1	0	.		#	'Contagem'
+313670	31	1	0	.		#	'Juiz_De_Fora'
+314330	31	1	0	.		#	'Montes_Claros'
+315460	31	1	0	.		#	'Ribeirao_Das_Neves'
+317010	31	1	0	.		#	'Uberaba'
+317020	31	1	0	.		#	'Uberlandia'
+320130	32	1	0	.		#	'Cariacica'
+320500	32	1	0	.		#	'Serra'
+320520	32	1	0	.		#	'Vila_Velha'
+320530	32	0	0	.		#	'Vitoria'
+330045	33	1	0	.		#	'Belford_Roxo'
+330100	33	1	0	.		#	'Campos_Dos_Goytacazes'
+330170	33	1	0	.		#	'Duque_De_Caxias'
+330330	33	1	0	.		#	'Niteroi'
+330350	33	1	0	.		#	'Nova_Iguacu'
+330390	33	1	0	.		#	'Petropolis'
+330455	33	0	0	.		#	'Rio_De_Janeiro'
+330490	33	1	0	.		#	'Sao_Goncalo'
+330510	33	1	0	.		#	'Sao_Joao_De_Meriti'
+350600	35	1	0	.		#	'Bauru'
+350950	35	0	0	.		#	'Campinas'
+351060	35	1	0	.		#	'Carapicuiba'
+351380	35	1	0	.		#	'Diadema'
+351620	35	1	0	.		#	'Franca'
+351870	35	1	0	.		#	'Guaruja'
+351880	35	1	0	.		#	'Guarulhos'
+352310	35	1	0	.		#	'Itaquaquecetuba'
+352590	35	1	0	.		#	'Jundiai'
+352690	35	1	0	.		#	'Limeira'
+352940	35	1	0	.		#	'Maua'
+353060	35	1	0	.		#	'Mogi_Das_Cruzes'
+353440	35	1	0	.		#	'Osasco'
+353870	35	1	0	.		#	'Piracicaba'
+354100	35	1	0	.		#	'Praia_Grande'
+354340	35	0	0	.		#	'Ribeirao_Preto'
+354780	35	1	0	.		#	'Santo_Andre'
+354850	35	1	0	.		#	'Santos'
+354870	35	1	0	.		#	'Sao_Bernardo_Do_Campo'
+354980	35	1	0	.		#	'Sao_Jose_Do_Rio_Preto'
+354990	35	1	0	.		#	'Sao_Jose_Dos_Campos'
+355030	35	0	4	.	    #	'Sao_Paulo'	            # 582912
+355100	35	1	0	.		#	'Sao_Vicente'
+355220	35	1	0	.		#	'Sorocaba'
+355410	35	1	0	.		#	'Taubate'
+410480	41	1	0	.		#	'Cascavel'
+410690	41	0	3	.	    #	'Curitiba'	            # 437184
+411370	41	1	0	.		#	'Londrina'
+411520	41	1	0	.		#	'Maringa'
+411990	41	1	0	.		#	'Ponta_Grossa'
+412550	41	1	0	.		#	'Sao_Jose_Dos_Pinhais'
+420240	42	1	0	.		#	'Blumenau'
+420540	42	0	0	.	    #	'Florianopolis'	
+420910	42	1	0	.		#	'Joinville'
+430460	43	1	0	.		#	'Canoas'
+430510	43	1	0	.		#	'Caxias_Do_Sul'
+431440	43	1	0	.		#	'Pelotas'
+431490	43	0	0	.		#	'Porto_Alegre'
+500270	50	0	0	.		#	'Campo_Grande'
+510340	51	0	0	.		#	'Cuiaba'
+520110	52	0	0	.		#	'Anapolis'
+520140	52	1	0	.		#	'Aparecida_De_Goiania'
+520870	52	1	0	.		#	'Goiania'
+530010	53	0	2	.	    #	'Brasilia'	            # 291456
+;
+
+end;
+
+

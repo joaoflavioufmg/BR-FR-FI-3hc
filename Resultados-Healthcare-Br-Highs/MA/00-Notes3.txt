@@ -1,0 +1,113 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  13376874995.07
+Primary   Care Cost:	   1995549057.00
+Secondary Care Cost:	   6788964118.86
+Tertiary  Care Cost:	   4433078085.75
+Add Infrastruc Cost:	     10968997.50
+Populat ExtLog Cost:	    148314735.96
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1762.98
+----------------------------------------
+
+----------------------------------------
+State population:	7587639
+Max municipa pop:	1180651
+Min municipa pop:	3781
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	12183  		3.66
+Care Level [3]	27628  		1.92
+----------------------------------------
+
+
+Demand met by level: (Estate has 217 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 217 mun > 173 mun (100.00% coverage)
+Care Level [2]: 173 mun > 110 mun
+Care Level [3]: 110 mun >  46 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	210015	Agua_Doce_Do_Maranhao    :	354234.70
+    1	210040	Altamira_Do_Maranhao     :	228810.00
+    1	210083	Apicum_Acu               :	483998.90
+    1	210215	Brejo_De_Areia           :	265708.90
+    1	210235	Buritirana               :	436632.60
+    1	210315	Centro_Do_Guilherme      :	375642.90
+    1	210407	Feira_Nova_Do_Maranhao   :	240566.10
+    1	210409	Formosa_Da_Serra_Negra   :	536598.90
+    1	210542	Itinga_Do_Maranhao       :	735584.70
+    1	210592	Lagoa_Do_Mato            :	318677.10
+    1	210598	Lajeado_Novo             :	212635.50
+    1	210610	Loreto                   :	343162.40
+    1	210635	Maraja_Do_Sena           :	221524.90
+    1	210930	Presidente_Vargas        :	315547.40
+    1	211080	Sao_Felix_De_Balsas      :	130737.30
+    1	211125	Sao_Jose_Dos_Basilios    :	216764.60
+    1	211160	Sao_Raimundo_Das_Mangabeiras:	692636.80
+    2	211160	Sao_Raimundo_Das_Mangabeiras:	4859533.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	210207	Bom_Lugar                :	23541.64
+    2	210010	Afonso_Cunha             :	638020.25
+    2	210015	Agua_Doce_Do_Maranhao    :	4992.85
+    2	210020	Alcantara                :	301372.40
+    2	210040	Altamira_Do_Maranhao     :	1153167.84
+    2	210050	Alto_Parnaiba            :	100044556.54
+    2	210083	Apicum_Acu               :	742.47
+    2	210180	Benedito_Leite           :	2186565.43
+    2	210215	Brejo_De_Areia           :	561768.75
+    2	210235	Buritirana               :	8115.94
+    2	210260	Candido_Mendes           :	118688.14
+    2	210310	Cedral                   :	375.91
+    2	210315	Centro_Do_Guilherme      :	45365.89
+    2	210407	Feira_Nova_Do_Maranhao   :	233874.82
+    2	210408	Fernando_Falcao          :	7003853.57
+    2	210409	Formosa_Da_Serra_Negra   :	133716.52
+    2	210462	Governador_Luiz_Rocha    :	134957.27
+    2	210490	Guimaraes                :	207.53
+    2	210542	Itinga_Do_Maranhao       :	529144.70
+    2	210547	Jenipapo_Dos_Vieiras     :	398638.30
+    2	210592	Lagoa_Do_Mato            :	36630.66
+    2	210596	Lagoa_Grande_Do_Maranhao :	3438615.82
+    2	210598	Lajeado_Novo             :	26674.07
+    2	210610	Loreto                   :	310008.04
+    2	210635	Maraja_Do_Sena           :	309810.13
+    2	210700	Montes_Altos             :	3890.77
+    2	210930	Presidente_Vargas        :	9775.01
+    2	210940	Primeira_Cruz            :	221908.92
+    2	211065	Sao_Domingos_Do_Azeitao  :	263723.82
+    2	211080	Sao_Felix_De_Balsas      :	2159519.83
+    2	211105	Sao_Joao_Do_Paraiso      :	118776.52
+    2	211125	Sao_Jose_Dos_Basilios    :	224.55
+    2	211153	Sao_Pedro_Da_Agua_Branca :	469530.33
+    2	211157	Sao_Pedro_Dos_Crentes    :	41021.24
+    2	211163	Sao_Raimundo_Do_Doca_Bezerra:	39468.04
+    2	211174	Senador_Alexandre_Costa  :	4368.61
+    2	211200	Tasso_Fragoso            :	15592816.99
+    2	211227	Tufilandia               :	179006.71
+    2	211285	Vila_Nova_Dos_Martirios  :	21909.33
+    3	210150	Barao_De_Grajau          :	349375.61
+    3	210230	Buriti_Bravo             :	10995.26
+    3	210280	Carolina                 :	948916.21
+    3	210290	Carutapera               :	2127070.50
+    3	210400	Esperantinopolis         :	255925.78
+    3	210410	Fortaleza_Dos_Nogueiras  :	1715131.13
+    3	210790	Passagem_Franca          :	149785.58
+    3	210950	Riachao                  :	124050.71
+    3	211027	Santo_Amaro_Do_Maranhao  :	240809.02
+    3	211090	Sao_Francisco_Do_Maranhao:	1065427.25
+    3	211102	Sao_Joao_Do_Caru         :	1268386.04
+    3	211107	Sao_Joao_Do_Soter        :	58000.83
+    3	211160	Sao_Raimundo_Das_Mangabeiras:	3220495.50
+    3	211180	Sitio_Novo               :	11020.35
+----------------------------------------------------------------

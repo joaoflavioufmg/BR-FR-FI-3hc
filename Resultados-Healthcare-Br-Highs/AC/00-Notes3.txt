@@ -1,0 +1,63 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1668167244.44
+Primary   Care Cost:	    246574335.00
+Secondary Care Cost:	    838859013.30
+Tertiary  Care Cost:	    547760666.25
+Add Infrastruc Cost:	      7819459.24
+Populat ExtLog Cost:	     27153770.65
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1779.29
+----------------------------------------
+
+----------------------------------------
+State population:	937545
+Max municipa pop:	432665
+Min municipa pop:	6862
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.26
+Care Level [2]	12427  		2.33
+Care Level [3]	19918  		1.27
+----------------------------------------
+
+
+Demand met by level: (Estate has 22 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  22 mun >  20 mun (100.00% coverage)
+Care Level [2]:  20 mun >  11 mun
+Care Level [3]:  11 mun >   8 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	120001	Acrelandia               :	426060.00
+    1	120005	Assis_Brasil             :	207059.90
+    1	120013	Bujari                   :	286801.50
+    1	120017	Capixaba                 :	324962.80
+    1	120032	Jordao                   :	231440.00
+    1	120034	Manoel_Urbano            :	264814.70
+    1	120035	Marechal_Thaumaturgo     :	522791.40
+    1	120039	Porto_Walter             :	332458.30
+    1	120043	Santa_Rosa_Do_Purus      :	180470.60
+    1	120080	Porto_Acre               :	515690.40
+    2	120039	Porto_Walter             :	4526909.64
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	120001	Acrelandia               :	2659.96
+    2	120005	Assis_Brasil             :	1426774.03
+    2	120013	Bujari                   :	180192.77
+    2	120017	Capixaba                 :	213599.18
+    2	120032	Jordao                   :	3510241.66
+    2	120034	Manoel_Urbano            :	3854584.92
+    2	120035	Marechal_Thaumaturgo     :	373949.36
+    2	120043	Santa_Rosa_Do_Purus      :	13170389.48
+    2	120080	Porto_Acre               :	4298618.06
+    3	120039	Porto_Walter             :	122761.25
+----------------------------------------------------------------

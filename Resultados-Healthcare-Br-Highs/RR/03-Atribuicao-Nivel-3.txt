@@ -1,0 +1,8 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+140002	                       Amajari	140002	                       Amajari	    0.00
+140005	                   Alto_Alegre	140005	                   Alto_Alegre	    0.00
+140010	                     Boa_Vista	140010	                     Boa_Vista	    0.00
+140015	                        Bonfim	140030	                       Mucajai	    2.49
+140030	                       Mucajai	140030	                       Mucajai	    0.00
+140045	                     Pacaraima	140045	                     Pacaraima	    0.00
+140047	                  Rorainopolis	140047	                  Rorainopolis	    0.00

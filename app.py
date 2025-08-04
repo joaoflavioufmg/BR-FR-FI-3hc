@@ -51,4 +51,4 @@ if __name__ == '__main__':
     # global state
 
     run_optimizer(config.optimizer)
-    # run_post_optimization()
+    run_post_optimization()

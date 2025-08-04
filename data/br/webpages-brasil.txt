@@ -1,0 +1,39 @@
+E-Gestor
+
+https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relHistoricoCoberturaACS.xhtml
+
+Saude da Familia (Agente comunitario)
+
+https://aps.saude.gov.br/ape/esf/
+
+Enfermagem em numeros
+
+http://www.cofen.gov.br/enfermagem-em-numeros
+
+http://www.cofen.gov.br/perfilenfermagem/index.html
+
+Dados de populacao latitude e longitude
+
+https://www.geonames.org/
+
+Recursos Brasil
+
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def
+
+Equipamentos
+
+http://cnes2.datasus.gov.br/Mod_Ind_Equipamento.asp?VEstado=00
+
+Hospitais
+
+http://cnes2.datasus.gov.br/Mod_Ind_Unidade.asp?VEstado=53&VMun=&VComp=00&VUni=05
+
+Equipamentos no mundo
+
+https://data.oecd.org/healtheqt/radiotherapy-equipment.htm#indicator-chart
+
+
+
+Aplicativo de resultados - shinyapps
+
+https://athammad.shinyapps.io/OptimalGIS/

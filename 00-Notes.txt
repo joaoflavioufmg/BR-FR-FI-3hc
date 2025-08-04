@@ -1,0 +1,21 @@
+Optimization settings:
+
+CareLevel	Pop. Min	Dur. Max.
+-----------------------------------
+[1]	1000		1
+[2]	10000		2
+[3]	50000		6
+-----------------------------------
+
+
+Demand met by level: (Country has 52 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 52 mun > 47 mun (100.00% coverage)
+Care Level [2]: 47 mun > 18 mun
+Care Level [3]: 18 mun > 5 mun
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION			CLOSEST(h)
+----------------------------------------------------------------

@@ -1,0 +1,46 @@
+# Results - France
+#
+# "Resources"		"Supply 2030"	"Requirement 2030"
+# Physicians	3.630743502	4.175455076
+# Nurses	12.13608123	13.03932824
+# OtherCadres	5.945693881	6.432465929
+# CHW-LTC	1.77745928	5.006445917
+# Beds	6.270495723	4.606338744
+
+# "Resources"		"Supply 2030"	"Requirement 2030"
+# CTScanner	20.79164371	27.18765774
+# MRIUnit	17.93141759	22.36275934
+# Mammography	7.700608782	19.18489354
+# Radiotherapy	12.43098275	10.76336175
+
+
+# Results - Finland
+#
+# "Resources"		"Supply 2030"	"Requirement 2030"
+# Physicians	4.110079907	4.069996165
+# Nurses	14.63423997	12.70997769
+# OtherCadres	7.068511886	6.26999863
+# CHW-LTC	6.183196632	4.879998843
+# Beds	3.080243513	4.490006021
+
+# "Resources"		"Supply 2030"	"Requirement 2030"
+# CTScanner	18.70147847	26.49664992
+# MRIUnit	33.99268734	21.79923237
+# Mammography	33.99268734	18.70751003
+# Radiotherapy	11.33089578	10.50399718
+
+
+# Results - Brazil
+#
+"Resources"		"Supply 2030"	"Requirement 2030"
+Physicians	2.696172262	3.993912652
+Nurses	3.648043049	12.46329897
+OtherCadres	2.984840025	6.171396243
+CHW-LTC	1.586291077	4.902154419
+Beds	2.809594319	4.401835661
+# 
+# "Resources"		"Supply 2030"	"Requirement 2030"
+# CTScanner	38.60123746	25.86866296
+# MRIUnit	19.45229961	21.27564647
+# Mammography	39.77134714	18.23709404
+# Radiotherapy	0.693398331	10.22221395

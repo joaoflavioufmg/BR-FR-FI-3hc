@@ -3,10 +3,11 @@
 
 # Escolha do otimizador (AMPL ou GLPK)
 ############################################################
+optimizer = "Highs"
 # optimizer = "GLPK"
-optimizer = "AMPL"
+# optimizer = "AMPL"
 ############################################################
-state = "TO"
+state = "SP"
 ############################################################
 # "AC", "AL", "AM", "AP", "BA", "CE", "ES", "GO", "MA",
 # "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ",

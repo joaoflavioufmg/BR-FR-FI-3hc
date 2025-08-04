@@ -1,0 +1,77 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   3341496555.41
+Primary   Care Cost:	    498553846.00
+Secondary Care Cost:	   1696106723.08
+Tertiary  Care Cost:	   1107528838.50
+Add Infrastruc Cost:	      7096912.44
+Populat ExtLog Cost:	     32210235.39
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1762.73
+----------------------------------------
+
+----------------------------------------
+State population:	1895642
+Max municipa pop:	560339
+Min municipa pop:	2363
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.46
+Care Level [2]	8588   		1.52
+Care Level [3]	16403  		2.24
+----------------------------------------
+
+
+Demand met by level: (Estate has 52 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  52 mun >  49 mun (100.00% coverage)
+Care Level [2]:  49 mun >  35 mun
+Care Level [3]:  35 mun >  18 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	110003	Cabixi                   :	154249.50
+    1	110007	Corumbiara               :	214634.30
+    1	110008	Costa_Marques            :	506459.10
+    1	110034	Alvorada_Doeste          :	417591.40
+    1	110070	Campo_Novo_De_Rondonia   :	397366.70
+    1	110080	Candeias_Do_Jamari       :	737031.20
+    1	110090	Castanheiras             :	88473.20
+    1	110100	Governador_Jorge_Teixeira:	229625.30
+    1	110145	Parecis                  :	168688.20
+    1	110146	Pimenteiras_Do_Oeste     :	62146.90
+    1	110155	Teixeiropolis            :	124346.40
+    1	110180	Vale_Do_Paraiso          :	198512.40
+    2	110008	Costa_Marques            :	2109796.92
+    2	110100	Governador_Jorge_Teixeira:	1687990.92
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	110003	Cabixi                   :	89977.16
+    2	110007	Corumbiara               :	32850.62
+    2	110026	Rio_Crespo               :	198252.57
+    2	110034	Alvorada_Doeste          :	913.82
+    2	110060	Cacaulandia              :	987627.71
+    2	110070	Campo_Novo_De_Rondonia   :	1000626.84
+    2	110080	Candeias_Do_Jamari       :	1472917.60
+    2	110090	Castanheiras             :	5856.38
+    2	110130	Mirante_Da_Serra         :	251406.48
+    2	110145	Parecis                  :	814369.13
+    2	110146	Pimenteiras_Do_Oeste     :	2296726.77
+    2	110148	Sao_Felipe_Doeste        :	552817.85
+    2	110155	Teixeiropolis            :	219.99
+    2	110180	Vale_Do_Paraiso          :	113325.16
+    3	110001	Alta_Floresta_Doeste     :	3708363.58
+    3	110008	Costa_Marques            :	1309036.10
+    3	110025	Presidente_Medici        :	9094682.59
+    3	110092	Chupinguaia              :	9284613.92
+    3	110110	Itapua_Do_Oeste          :	894904.01
+    3	110170	Urupa                    :	36112.04
+    3	110175	Vale_Do_Anari            :	64635.04
+----------------------------------------------------------------

@@ -1,0 +1,70 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   6272807103.71
+Primary   Care Cost:	    942544923.00
+Secondary Care Cost:	   3206588001.54
+Tertiary  Care Cost:	   2093847419.25
+Add Infrastruc Cost:	     27117970.14
+Populat ExtLog Cost:	      2708789.78
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1750.31
+----------------------------------------
+
+----------------------------------------
+State population:	3583821
+Max municipa pop:	1091902
+Min municipa pop:	3140
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	9789   		0.55
+Care Level [3]	19004  		1.05
+----------------------------------------
+
+
+Demand met by level: (Estate has 102 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 102 mun >  40 mun (100.00% coverage)
+Care Level [2]:  40 mun >  23 mun
+Care Level [3]:  23 mun >  12 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	270070	Batalha                  :	1436427.10
+    1	270080	Belem                    :	300477.50
+    1	270120	Cacimbinhas              :	455752.70
+    1	270150	Campo_Grande             :	613237.10
+    1	270320	Igreja_Nova              :	1260164.50
+    1	270330	Inhapi                   :	521318.60
+    1	270390	Jundia                   :	926654.20
+    1	270410	Lagoa_Da_Canoa           :	508720.90
+    1	270470	Marechal_Deodoro         :	1456993.70
+    1	270500	Mata_Grande              :	1218347.50
+    1	270610	Ouro_Branco              :	324962.80
+    1	270644	Paripueira               :	369199.40
+    1	270740	Porto_De_Pedras          :	447073.70
+    1	270780	Roteiro                  :	189491.50
+    1	270830	Sao_Jose_Da_Laje         :	1119354.30
+    1	270920	Traipu                   :	783792.60
+    2	270410	Lagoa_Da_Canoa           :	4673829.60
+    2	270500	Mata_Grande              :	7247065.32
+    2	270920	Traipu                   :	3265107.12
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	270060	Barra_De_Sao_Miguel      :	28666.22
+    1	270090	Belo_Monte               :	8704.95
+    1	270820	Sao_Bras                 :	4504.01
+    2	270070	Batalha                  :	28331.70
+    2	270470	Marechal_Deodoro         :	23382.64
+    2	270610	Ouro_Branco              :	120773.73
+    2	270644	Paripueira               :	13240.73
+    2	270780	Roteiro                  :	23382.64
+    3	270380	Joaquim_Gomes            :	2457803.16
+----------------------------------------------------------------

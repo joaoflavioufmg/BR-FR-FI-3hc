@@ -332,10 +332,10 @@ class OriDestAssignment:
                 print('{0:s}'.format(linha), file = file_out)
 
 
-        # # COMENTAR PARA GERAR RELATORIOS APENAS
-        # # ################################################################
-        # make_flow_maps(self.level)  # Gera o mapa após as estatísticas        
-        # # ################################################################
+        # COMENTAR PARA GERAR RELATORIOS APENAS
+        # ################################################################
+        make_flow_maps(self.level)  # Gera o mapa após as estatísticas        
+        # ################################################################
 
         # Muda para Diretorio um nivel superior
         os.chdir("..")
@@ -347,10 +347,10 @@ class OriDestAssignment:
         if os.path.isfile(self.maps_folder + 'kernel_Nivel_3.csv') == True:
             # raise ValueError("Arquivo não encontrado.")
             os.chdir(self.maps_folder)
-            # # RETIRAR COMENTARIO PARA GERAR O MAPA DO ESTADO
-            # # ################################################################
-            # make_all_flow_maps()  # Gera o mapa após as estatísticas
-            # # ################################################################
+            # RETIRAR COMENTARIO PARA GERAR O MAPA DO ESTADO
+            # ################################################################
+            make_all_flow_maps()  # Gera o mapa após as estatísticas
+            # ################################################################
             # Muda para Diretorio um nivel superior
             os.chdir("..")
         
@@ -361,7 +361,7 @@ class OriDestAssignment:
                 os.chdir(self.map_br_folder)
                 # # RETIRAR COMENTARIO PARA GERAR UM MAPA GERAL
                 # # ################################################################
-                make_br_flow_map()  # Gera o mapa após as estatísticas
+                # make_br_flow_map()  # Gera o mapa após as estatísticas
                 # # ################################################################
                 # Muda para Diretorio um nivel superior
                 os.chdir("..")

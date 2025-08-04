@@ -1,0 +1,87 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  17115446224.07
+Primary   Care Cost:	   2574381286.00
+Secondary Care Cost:	   8758182174.28
+Tertiary  Care Cost:	   5718943978.50
+Add Infrastruc Cost:	      5545634.04
+Populat ExtLog Cost:	     58393151.25
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1748.52
+----------------------------------------
+
+----------------------------------------
+State population:	9788522
+Max municipa pop:	2850868
+Min municipa pop:	3877
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	15219  		0.90
+Care Level [3]	23337  		1.25
+----------------------------------------
+
+
+Demand met by level: (Estate has 184 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 184 mun > 135 mun (100.00% coverage)
+Care Level [2]: 135 mun >  82 mun
+Care Level [3]:  82 mun >  29 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	230533	Ibicuitinga              :	352262.20
+    1	230560	Independencia            :	742264.90
+    1	230660	Itatira                  :	589619.70
+    1	231010	Palmacia                 :	374827.60
+    1	231123	Potiretama               :	181548.90
+    1	231126	Quiterianopolis          :	595695.00
+    1	231325	Tarrafas                 :	253190.10
+    2	230660	Itatira                  :	2456225.64
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	230075	Amontada                 :	60438.32
+    2	230125	Ararenda                 :	27689.26
+    2	230130	Araripe                  :	30286.21
+    2	230150	Arneiroz                 :	24004.00
+    2	230250	Brejo_Santo              :	1448238.18
+    2	230393	Choro                    :	9607.95
+    2	230426	Deputado_Irapuan_Pinheiro:	74817.30
+    2	230450	Frecheirinha             :	48523.85
+    2	230533	Ibicuitinga              :	316183.88
+    2	230560	Independencia            :	1805208.36
+    2	230570	Ipaumirim                :	10041.19
+    2	230680	Jaguaribara              :	152647.62
+    2	230740	Jucas                    :	407382.13
+    2	230760	Limoeiro_Do_Norte        :	411591.61
+    2	230780	Marco                    :	129135.45
+    2	230810	Mauriti                  :	500989.23
+    2	230830	Milagres                 :	484688.64
+    2	230837	Miraima                  :	751262.75
+    2	230910	Mulungu                  :	3923.49
+    2	231010	Palmacia                 :	637309.62
+    2	231025	Paraipaba                :	282900.12
+    2	231040	Paramoti                 :	505290.45
+    2	231070	Pentecoste               :	525825.03
+    2	231123	Potiretama               :	18890.72
+    2	231126	Quiterianopolis          :	230092.63
+    2	231150	Quixere                  :	1823625.52
+    2	231260	Sao_Luis_Do_Curu         :	1246856.08
+    2	231325	Tarrafas                 :	39962.62
+    2	231335	Tejucuoca                :	510529.85
+    2	231370	Umari                    :	265538.31
+    2	231390	Uruoca                   :	168377.94
+    3	230040	Aiuaba                   :	6692.02
+    3	230185	Banabuiu                 :	2712.52
+    3	230350	Cascavel                 :	39113908.96
+    3	230660	Itatira                  :	1283943.03
+    3	231170	Reriutaba                :	4976961.26
+    3	231350	Trairi                   :	57075.15
+----------------------------------------------------------------

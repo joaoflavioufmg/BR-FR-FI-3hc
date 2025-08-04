@@ -1,0 +1,12 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+120010,"Brasileia",120010,"Brasileia",0,3
+120070,"Xapuri",120010,"Brasileia",0.9,3
+120020,"Cruzeiro_Do_Sul",120020,"Cruzeiro_Do_Sul",0,3
+120030,"Feijo",120030,"Feijo",0,3
+120033,"Mancio_Lima",120033,"Mancio_Lima",0,3
+120039,"Porto_Walter",120033,"Mancio_Lima",1.27,3
+120038,"Placido_De_Castro",120038,"Placido_De_Castro",0,3
+120040,"Rio_Branco",120040,"Rio_Branco",0,3
+120045,"Senador_Guiomard",120040,"Rio_Branco",0.63,3
+120050,"Sena_Madureira",120050,"Sena_Madureira",0,3
+120060,"Tarauaca",120060,"Tarauaca",0,3

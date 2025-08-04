@@ -1,0 +1,78 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   5190226424.31
+Primary   Care Cost:	    779498862.00
+Secondary Care Cost:	   2651896622.76
+Tertiary  Care Cost:	   1731643384.50
+Add Infrastruc Cost:	      6862630.40
+Populat ExtLog Cost:	     20324924.65
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1751.16
+----------------------------------------
+
+----------------------------------------
+State population:	2963874
+Max municipa pop:	955282
+Min municipa pop:	3283
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.39
+Care Level [2]	8422   		1.93
+Care Level [3]	16455  		1.31
+----------------------------------------
+
+
+Demand met by level: (Estate has 79 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  79 mun >  74 mun (100.00% coverage)
+Care Level [2]:  74 mun >  49 mun
+Care Level [3]:  49 mun >  30 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	500025	Alcinopolis              :	149436.60
+    1	500150	Bandeirantes             :	395315.30
+    1	500310	Corguinho                :	318887.50
+    1	500348	Dois_Irmaos_Do_Buriti    :	318808.60
+    1	500350	Douradina                :	167057.60
+    1	500580	Nioaque                  :	399523.30
+    1	500627	Paraiso_Das_Aguas        :	154722.90
+    1	500755	Santa_Rita_Do_Pardo      :	221288.20
+    1	500780	Selviria                 :	184810.10
+    1	500797	Taquarussu               :	101623.20
+    1	500800	Terenos                  :	604505.50
+    2	500800	Terenos                  :	3846651.60
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	500025	Alcinopolis              :	2920117.71
+    2	500150	Bandeirantes             :	392675.75
+    2	500280	Caracol                  :	519630.34
+    2	500310	Corguinho                :	2966130.53
+    2	500348	Dois_Irmaos_Do_Buriti    :	809866.30
+    2	500350	Douradina                :	8719.99
+    2	500380	Fatima_Do_Sul            :	176792.76
+    2	500390	Figueirao                :	3455444.50
+    2	500440	Inocencia                :	4237445.45
+    2	500515	Juti                     :	23797.04
+    2	500525	Laguna_Carapa            :	256806.59
+    2	500580	Nioaque                  :	29802.75
+    2	500625	Novo_Horizonte_Do_Sul    :	90258.18
+    2	500627	Paraiso_Das_Aguas        :	239620.74
+    2	500635	Paranhos                 :	646926.13
+    2	500640	Pedro_Gomes              :	411254.86
+    2	500730	Rio_Negro                :	360306.03
+    2	500755	Santa_Rita_Do_Pardo      :	704002.97
+    2	500770	Sete_Quedas              :	34166.02
+    2	500780	Selviria                 :	62640.42
+    2	500797	Taquarussu               :	9533.91
+    3	500080	Anaurilandia             :	6127.80
+    3	500260	Camapua                  :	341054.88
+    3	500400	Gloria_De_Dourados       :	1621803.00
+----------------------------------------------------------------

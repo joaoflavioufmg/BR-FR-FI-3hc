@@ -1,0 +1,8 @@
+mip_rel_gap=0.01
+simplex_scale_strategy=0
+primal_feasibility_tolerance=1e-9
+dual_feasibility_tolerance=1e-9
+time_limit=300
+write_solution_style=2
+solution_file=hc_highs.sol
+log_file=log_highs_17.log

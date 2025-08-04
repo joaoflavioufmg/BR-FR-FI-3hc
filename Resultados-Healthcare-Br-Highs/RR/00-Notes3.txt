@@ -1,0 +1,58 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1122163548.54
+Primary   Care Cost:	    163548391.00
+Secondary Care Cost:	    556400332.18
+Tertiary  Care Cost:	    363319952.25
+Add Infrastruc Cost:	      6329980.28
+Populat ExtLog Cost:	     32564892.83
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1804.54
+----------------------------------------
+
+----------------------------------------
+State population:	621857
+Max municipa pop:	404859
+Min municipa pop:	8477
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.47
+Care Level [2]	11524  		4.39
+Care Level [3]	13368  		2.49
+----------------------------------------
+
+
+Demand met by level: (Estate has 15 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  15 mun >  13 mun (100.00% coverage)
+Care Level [2]:  13 mun >   7 mun
+Care Level [3]:   7 mun >   6 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	140002	Amajari                  :	351578.40
+    1	140017	Canta                    :	506827.30
+    1	140020	Caracarai                :	611685.40
+    1	140028	Iracema                  :	329039.30
+    1	140040	Normandia                :	313311.90
+    1	140050	Sao_Joao_Da_Baliza       :	733585.90
+    1	140070	Uiramuta                 :	292876.80
+    2	140002	Amajari                  :	1464598.08
+    3	140002	Amajari                  :	1726477.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	140017	Canta                    :	368933.29
+    2	140020	Caracarai                :	405431.81
+    2	140028	Iracema                  :	8048.57
+    2	140040	Normandia                :	3114934.22
+    2	140050	Sao_Joao_Da_Baliza       :	1323030.89
+    2	140070	Uiramuta                 :	24544032.51
+    3	140015	Bonfim                   :	2800481.55
+----------------------------------------------------------------

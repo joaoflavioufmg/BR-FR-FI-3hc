@@ -1,0 +1,64 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   4324727465.68
+Primary   Care Cost:	    646259906.00
+Secondary Care Cost:	   2198610601.88
+Tertiary  Care Cost:	   1435655323.50
+Add Infrastruc Cost:	     44037233.73
+Populat ExtLog Cost:	       164400.57
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1759.98
+----------------------------------------
+
+----------------------------------------
+State population:	2457262
+Max municipa pop:	699912
+Min municipa pop:	2554
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	8264   		0.49
+Care Level [3]	15474  		1.07
+----------------------------------------
+
+
+Demand met by level: (Estate has 75 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  75 mun >  29 mun (100.00% coverage)
+Care Level [2]:  29 mun >  18 mun
+Care Level [3]:  18 mun >   9 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	280040	Araua                    :	1074959.90
+    1	280067	Boquim                   :	1324731.00
+    1	280140	Carira                   :	616209.00
+    1	280220	Feira_Nova               :	270705.90
+    1	280240	Gararu                   :	652345.20
+    1	280270	Ilha_Das_Flores          :	883022.50
+    1	280330	Japaratuba               :	881681.20
+    1	280340	Japoata                  :	371171.90
+    1	280440	Neopolis                 :	750260.10
+    1	280520	Pinhao                   :	276807.50
+    1	280550	Poco_Verde               :	669045.70
+    1	280560	Porto_Da_Folha           :	808330.50
+    1	280630	Santa_Luzia_Do_Itanhy    :	899433.70
+    1	280740	Tobias_Barreto           :	1470564.50
+    2	280140	Carira                   :	2566990.80
+    2	280240	Gararu                   :	2717526.24
+    2	280440	Neopolis                 :	8350115.40
+    2	280550	Poco_Verde               :	2787096.84
+    2	280560	Porto_Da_Folha           :	3367326.60
+    2	280740	Tobias_Barreto           :	6126047.40
+    3	280560	Porto_Da_Folha           :	7172861.85
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    3	280440	Neopolis                 :	164400.57
+----------------------------------------------------------------

@@ -1,0 +1,74 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  13418521541.88
+Primary   Care Cost:	   1157497979.00
+Secondary Care Cost:	   3937869740.42
+Tertiary  Care Cost:	   2571361955.25
+Add Infrastruc Cost:	       785712.50
+Populat ExtLog Cost:	   5751006154.61
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     3048.88
+----------------------------------------
+
+----------------------------------------
+State population:	4401133
+Max municipa pop:	2313964
+Min municipa pop:	3521
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.76
+Care Level [2]	18897  		22.38
+Care Level [3]	26787  		15.27
+----------------------------------------
+
+
+Demand met by level: (Estate has 62 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  62 mun >  61 mun (100.00% coverage)
+Care Level [2]:  61 mun >  40 mun
+Care Level [3]:  40 mun >  29 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	130220	Jurua                    :	405966.80
+    1	130426	Uarini                   :	379745.70
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	130200	Itapiranga               :	144294.55
+    2	130002	Alvaraes                 :	156379.77
+    2	130006	Amatura                  :	15956769.57
+    2	130008	Anama                    :	7391973.18
+    2	130063	Beruri                   :	23317552.85
+    2	130068	Boa_Vista_Do_Ramos       :	6153847.00
+    2	130083	Caapiranga               :	6345441.69
+    2	130090	Canutama                 :	1209721836.92
+    2	130160	Fonte_Boa                :	14827538.60
+    2	130165	Guajara                  :	44258362.44
+    2	130195	Itamarati                :	231391660.89
+    2	130210	Japura                   :	81065390.05
+    2	130220	Jurua                    :	131914303.34
+    2	130230	Jutai                    :	90654436.95
+    2	130350	Pauini                   :	866180535.28
+    2	130360	Santa_Isabel_Do_Rio_Negro:	104296021.76
+    2	130395	Sao_Sebastiao_Do_Uatuma  :	7574978.22
+    2	130400	Silves                   :	569977.92
+    2	130410	Tapaua                   :	1956001031.47
+    2	130423	Tonantins                :	3152557.26
+    2	130426	Uarini                   :	15587132.62
+    2	130430	Urucara                  :	11243710.90
+    3	130010	Anori                    :	597047.00
+    3	130014	Apui                     :	7415420.99
+    3	130150	Envira                   :	21931268.23
+    3	130280	Maraa                    :	481191185.26
+    3	130300	Nhamunda                 :	8774052.52
+    3	130320	Novo_Airao               :	381704.53
+    3	130370	Santo_Antonio_Do_Ica     :	401693928.74
+    3	130440	Urucurituba              :	1115814.11
+----------------------------------------------------------------

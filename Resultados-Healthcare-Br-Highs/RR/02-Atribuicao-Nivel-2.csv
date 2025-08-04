@@ -1,0 +1,14 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+140002,"Amajari",140002,"Amajari",0,2
+140005,"Alto_Alegre",140005,"Alto_Alegre",0,2
+140010,"Boa_Vista",140010,"Boa_Vista",0,2
+140015,"Bonfim",140015,"Bonfim",0,2
+140040,"Normandia",140015,"Bonfim",2.55,2
+140017,"Canta",140030,"Mucajai",1.32,2
+140020,"Caracarai",140030,"Mucajai",1.35,2
+140028,"Iracema",140030,"Mucajai",0.67,2
+140030,"Mucajai",140030,"Mucajai",0,2
+140045,"Pacaraima",140045,"Pacaraima",0,2
+140070,"Uiramuta",140045,"Pacaraima",4.39,2
+140047,"Rorainopolis",140047,"Rorainopolis",0,2
+140050,"Sao_Joao_Da_Baliza",140047,"Rorainopolis",1.59,2

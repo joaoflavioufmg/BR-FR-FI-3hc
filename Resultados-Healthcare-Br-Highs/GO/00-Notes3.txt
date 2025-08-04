@@ -1,0 +1,110 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  18710848875.71
+Primary   Care Cost:	   2807042132.00
+Secondary Care Cost:	   9549706757.36
+Tertiary  Care Cost:	   6235796067.00
+Add Infrastruc Cost:	      3789418.46
+Populat ExtLog Cost:	    114514500.89
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1753.07
+----------------------------------------
+
+----------------------------------------
+State population:	10673164
+Max municipa pop:	3208359
+Min municipa pop:	1226
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	3855   		1.13
+Care Level [3]	8152   		1.52
+----------------------------------------
+
+
+Demand met by level: (Estate has 247 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 247 mun > 177 mun (100.00% coverage)
+Care Level [2]: 177 mun > 117 mun
+Care Level [3]: 117 mun >  57 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	520017	Agua_Fria_De_Goias       :	161008.60
+    1	520145	Aparecida_Do_Rio_Doce    :	70168.40
+    1	520310	Baliza                   :	141599.20
+    1	520357	Bonopolis                :	122426.50
+    1	520690	Davinopolis              :	59385.40
+    1	520940	Guarani_De_Goias         :	111748.70
+    1	521340	Moipora                  :	151014.60
+    1	521490	Nova_Roma                :	93417.60
+    1	521525	Novo_Planalto            :	126082.20
+    1	521645	Perolandia               :	88394.30
+    1	521690	Pilar_De_Goias           :	118165.90
+    1	521940	Santa_Rita_Do_Araguaia   :	243169.80
+    1	521971	Santo_Antonio_Da_Barra   :	135786.90
+    1	522000	Sao_Joao_Dalianca        :	379745.70
+    1	522157	Uirapuru                 :	81345.90
+    2	520017	Agua_Fria_De_Goias       :	670726.32
+    2	520357	Bonopolis                :	510001.80
+    2	521525	Novo_Planalto            :	525230.64
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	522070	Sitio_Dabadia            :	1563.44
+    1	522230	Vila_Propicio            :	32579.40
+    2	520050	Aloandia                 :	248442.64
+    2	520055	Alto_Horizonte           :	727143.52
+    2	520145	Aparecida_Do_Rio_Doce    :	3080.07
+    2	520150	Apore                    :	47178.86
+    2	520235	Arenopolis               :	7140.59
+    2	520310	Baliza                   :	76680.26
+    2	520549	Cidade_Ocidental         :	2889731.64
+    2	520552	Colinas_Do_Sul           :	482330.23
+    2	520650	Crominia                 :	12087.82
+    2	520690	Davinopolis              :	295954.30
+    2	520710	Diorama                  :	2142.17
+    2	520880	Goianira                 :	3774723.25
+    2	520940	Guarani_De_Goias         :	24734.22
+    2	521000	Inhumas                  :	223688.45
+    2	521030	Israelandia              :	934.11
+    2	521140	Itaucu                   :	36595348.20
+    2	521210	Joviania                 :	881312.12
+    2	521295	Matrincha                :	102399.46
+    2	521340	Moipora                  :	139989.73
+    2	521385	Morro_Agudo_De_Goias     :	103010.29
+    2	521450	Neropolis                :	1497343.08
+    2	521490	Nova_Roma                :	778033.23
+    2	521565	Palestina_De_Goias       :	124821.91
+    2	521645	Perolandia               :	4174771.71
+    2	521805	Porteirao                :	580618.24
+    2	521860	Rialma                   :	132499.54
+    2	521910	Santa_Barbara_De_Goias   :	20665368.04
+    2	521940	Santa_Rita_Do_Araguaia   :	180765.52
+    2	521950	Santa_Rosa_De_Goias      :	2143122.83
+    2	521971	Santo_Antonio_Da_Barra   :	1505.47
+    2	521973	Santo_Antonio_De_Goias   :	3913109.70
+    2	521990	Sao_Francisco_De_Goias   :	18893961.03
+    2	522000	Sao_Joao_Dalianca        :	444188.79
+    2	522100	Taquaral_De_Goias        :	2093.96
+    2	522157	Uirapuru                 :	6697.15
+    2	522170	Uruana                   :	46148.61
+    2	522185	Valparaiso_De_Goias      :	1349768.47
+    2	522205	Vicentinopolis           :	236443.83
+    3	520017	Agua_Fria_De_Goias       :	199828.88
+    3	520170	Aragarcas                :	350292.92
+    3	520357	Bonopolis                :	459191.25
+    3	520465	Campinacu                :	4839.58
+    3	520725	Doverlandia              :	142992.65
+    3	521080	Itaja                    :	218755.26
+    3	521300	Maurilandia              :	1158397.49
+    3	521590	Palminopolis             :	9161525.61
+    3	522150	Turvania                 :	852205.91
+    3	522220	Vila_Boa                 :	123015.47
+----------------------------------------------------------------

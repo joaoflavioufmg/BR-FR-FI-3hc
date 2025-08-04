@@ -1,0 +1,106 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  13324911301.34
+Primary   Care Cost:	   2007019013.00
+Secondary Care Cost:	   6827985519.74
+Tertiary  Care Cost:	   4458558396.75
+Add Infrastruc Cost:	     23183101.04
+Populat ExtLog Cost:	      8165270.81
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1746.10
+----------------------------------------
+
+----------------------------------------
+State population:	7631251
+Max municipa pop:	628949
+Min municipa pop:	1387
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	4004   		0.87
+Care Level [3]	8509   		1.10
+----------------------------------------
+
+
+Demand met by level: (Estate has 295 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 295 mun > 144 mun (100.00% coverage)
+Care Level [2]: 144 mun >  80 mun
+Care Level [3]:  80 mun >  32 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	420165	Arvoredo                 :	63698.60
+    1	420205	Balneario_Barra_Do_Sul   :	299267.70
+    1	420210	Barra_Velha              :	807383.70
+    1	420243	Bocaina_Do_Sul           :	168556.70
+    1	420287	Brunopolis               :	70142.10
+    1	420315	Calmon                   :	167846.60
+    1	420415	Celso_Ramos              :	77663.90
+    1	420555	Frei_Rogerio             :	58912.00
+    1	420570	Garopaba                 :	640168.30
+    1	420580	Garuva                   :	504907.40
+    1	420768	Ipuacu                   :	569973.60
+    1	420785	Irati                    :	100597.50
+    1	420845	Itapoa                   :	566265.30
+    1	420917	Jupia                    :	132026.00
+    1	420980	Leoberto_Leal            :	87447.50
+    1	421187	Paial                    :	43605.40
+    1	421189	Painel                   :	137154.50
+    1	421390	Presidente_Castello_Branco:	45104.50
+    1	421410	Presidente_Nereu         :	64961.00
+    1	421520	Romelandia               :	138706.20
+    1	421567	Santa_Terezinha          :	249639.60
+    1	421680	Sao_Jose_Do_Cerrito      :	238856.60
+    1	421825	Timbo_Grande             :	221603.80
+    1	421915	Vargem                   :	71536.00
+    2	420580	Garuva                   :	4462269.24
+    2	421567	Santa_Terezinha          :	1039943.52
+    2	421680	Sao_Jose_Do_Cerrito      :	995023.92
+    2	421825	Timbo_Grande             :	923152.56
+    3	421567	Santa_Terezinha          :	10236687.30
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	420110	Anitapolis               :	94359.35
+    2	420165	Arvoredo                 :	2554.77
+    2	420205	Balneario_Barra_Do_Sul   :	71690.43
+    2	420210	Barra_Velha              :	10787.07
+    2	420243	Bocaina_Do_Sul           :	221593.45
+    2	420287	Brunopolis               :	4366.88
+    2	420315	Calmon                   :	24754.12
+    2	420350	Campo_Ere                :	93199.74
+    2	420415	Celso_Ramos              :	806.50
+    2	420555	Frei_Rogerio             :	12587.97
+    2	420570	Garopaba                 :	61611.37
+    2	420690	Ibirama                  :	138080.87
+    2	420768	Ipuacu                   :	858.31
+    2	420785	Irati                    :	3161.95
+    2	420845	Itapoa                   :	128862.65
+    2	420980	Leoberto_Leal            :	21463.81
+    2	421003	Luzerna                  :	11861.64
+    2	421150	Nova_Trento              :	6333.92
+    2	421187	Paial                    :	369739.64
+    2	421200	Palma_Sola               :	141578.85
+    2	421390	Presidente_Castello_Branco:	11861.64
+    2	421400	Presidente_Getulio       :	22448.30
+    2	421410	Presidente_Nereu         :	28417.36
+    2	421520	Romelandia               :	21802.23
+    2	421590	Sao_Bonifacio            :	351855.63
+    2	421750	Seara                    :	1438737.15
+    2	421915	Vargem                   :	49844.76
+    3	420250	Bom_Jardim_Da_Serra      :	113888.01
+    3	420660	Guaruja_Do_Sul           :	29322.36
+    3	421010	Mafra                    :	682445.57
+    3	421030	Major_Vieira             :	113482.41
+    3	421130	Navegantes               :	3727805.88
+    3	421825	Timbo_Grande             :	136699.58
+    3	421830	Tres_Barras              :	1041.97
+    3	421920	Vidal_Ramos              :	15364.64
+----------------------------------------------------------------

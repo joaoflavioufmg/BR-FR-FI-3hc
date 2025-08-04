@@ -1,0 +1,50 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1563005379.92
+Primary   Care Cost:	    235292687.00
+Secondary Care Cost:	    800478246.26
+Tertiary  Care Cost:	    522698678.25
+Add Infrastruc Cost:	      3357521.85
+Populat ExtLog Cost:	      1178246.56
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1747.06
+----------------------------------------
+
+----------------------------------------
+State population:	894649
+Max municipa pop:	532408
+Min municipa pop:	5385
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.46
+Care Level [2]	5722   		1.01
+Care Level [3]	6007   		2.06
+----------------------------------------
+
+
+Demand met by level: (Estate has 16 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  16 mun >  15 mun (100.00% coverage)
+Care Level [2]:  15 mun >  14 mun
+Care Level [3]:  14 mun >  10 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	160021	Cutias                   :	166347.50
+    1	160025	Itaubal                  :	152803.00
+    1	160055	Pracuuba                 :	141625.50
+    2	160021	Cutias                   :	692967.00
+    2	160025	Itaubal                  :	636543.60
+    3	160021	Cutias                   :	1567235.25
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	160055	Pracuuba                 :	132100.41
+    3	160025	Itaubal                  :	1046146.16
+----------------------------------------------------------------

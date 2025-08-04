@@ -1,0 +1,145 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  21484814458.76
+Primary   Care Cost:	   3219215206.00
+Secondary Care Cost:	  10951941495.88
+Tertiary  Care Cost:	   7151431498.50
+Add Infrastruc Cost:	     24166649.28
+Populat ExtLog Cost:	    138059609.10
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1755.24
+----------------------------------------
+
+----------------------------------------
+State population:	12240362
+Max municipa pop:	2067776
+Min municipa pop:	1448
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	5375   		0.72
+Care Level [3]	22781  		3.58
+----------------------------------------
+
+
+Demand met by level: (Estate has 399 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 399 mun > 223 mun (100.00% coverage)
+Care Level [2]: 223 mun > 139 mun
+Care Level [3]: 139 mun >  49 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	410020	Adrianopolis             :	169713.90
+    1	410070	Alto_Piquiri             :	280699.90
+    1	410130	Antonio_Olinto           :	211057.50
+    1	410185	Ariranha_Do_Ivai         :	61016.00
+    1	410300	Boa_Esperanca            :	118139.60
+    1	410395	Campina_Do_Simao         :	111117.50
+    1	410645	Coronel_Domingos_Soares  :	212030.60
+    1	410810	Florida                  :	413120.40
+    1	410850	General_Carneiro         :	389608.20
+    1	410865	Goioxim                  :	203377.90
+    1	410895	Guamiranga               :	1158567.60
+    1	410965	Honorio_Serpa            :	150488.60
+    1	411005	Iguatu                   :	64040.50
+    1	411007	Imbau                    :	1000267.90
+    1	411020	Inacio_Martins           :	315678.90
+    1	411155	Ivate                    :	458172.30
+    1	411325	Laranjal                 :	167951.80
+    1	411373	Luiziana                 :	206639.10
+    1	411435	Manfrinopolis            :	310971.20
+    1	411510	Mariluz                  :	293692.10
+    1	411545	Marquinho                :	126844.90
+    1	411573	Mato_Rico                :	94732.60
+    1	411590	Mirador                  :	63277.80
+    1	411725	Nova_Prata_Do_Iguacu     :	299320.30
+    1	411729	Novo_Itacolomi           :	172265.00
+    1	411780	Palmital                 :	379798.30
+    1	411995	Pontal_Do_Parana         :	755546.40
+    1	412170	Reserva                  :	754599.60
+    1	412175	Reserva_Do_Iguacu        :	225496.20
+    1	412217	Rio_Branco_Do_Ivai       :	254426.20
+    1	412360	Santa_Ines               :	84160.00
+    1	412385	Santa_Maria_Do_Oeste     :	278674.80
+    1	412530	Sao_Jorge_Do_Ivai        :	157694.80
+    1	412630	Senges                   :	546514.00
+    1	412788	Tunas_Do_Parana          :	241355.10
+    1	412795	Tupassi                  :	230545.80
+    1	412853	Ventania                 :	331958.60
+    1	412862	Alto_Paraiso             :	79399.70
+    1	412863	Doutor_Ulysses           :	159115.00
+    1	412880	Xambre                   :	162481.40
+    2	410020	Adrianopolis             :	706990.68
+    2	410645	Coronel_Domingos_Soares  :	883272.72
+    2	410865	Goioxim                  :	847227.48
+    2	411020	Inacio_Martins           :	1315048.68
+    2	411780	Palmital                 :	2281806.12
+    2	412170	Reserva                  :	3143495.52
+    2	412385	Santa_Maria_Do_Oeste     :	1623788.76
+    2	412863	Doutor_Ulysses           :	662838.00
+    2	412880	Xambre                   :	1007623.32
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	410322	Bom_Sucesso_Do_Sul       :	38627.17
+    1	410712	Diamante_Do_Sul          :	6005.78
+    1	411360	Lobato                   :	2117.53
+    1	412665	Sulina                   :	9123.47
+    2	410045	Altamira_Do_Parana       :	36234.83
+    2	410070	Alto_Piquiri             :	52817.78
+    2	410130	Antonio_Olinto           :	26477.46
+    2	410185	Ariranha_Do_Ivai         :	41870.58
+    2	410300	Boa_Esperanca            :	20679.63
+    2	410395	Campina_Do_Simao         :	30483.76
+    2	410460	Capitao_Leonidas_Marques :	668.28
+    2	410810	Florida                  :	43413.77
+    2	410850	General_Carneiro         :	751740.50
+    2	410855	Godoy_Moreira            :	32227.17
+    2	410965	Honorio_Serpa            :	4189.37
+    2	411005	Iguatu                   :	138573.58
+    2	411155	Ivate                    :	14590.75
+    2	411325	Laranjal                 :	26899.60
+    2	411373	Luiziana                 :	94848.64
+    2	411510	Mariluz                  :	73051.98
+    2	411545	Marquinho                :	227334.91
+    2	411573	Mato_Rico                :	132390.88
+    2	411590	Mirador                  :	7927.22
+    2	411680	Nova_Cantu               :	8303.82
+    2	411725	Nova_Prata_Do_Iguacu     :	15710.82
+    2	411729	Novo_Itacolomi           :	1353.32
+    2	411980	Planalto                 :	54502.05
+    2	411995	Pontal_Do_Parana         :	402647.70
+    2	412175	Reserva_Do_Iguacu        :	129449.05
+    2	412217	Rio_Branco_Do_Ivai       :	53182.22
+    2	412310	Santa_Amelia             :	1146.53
+    2	412360	Santa_Ines               :	37263.27
+    2	412440	Santo_Antonio_Do_Sudoeste:	175880.03
+    2	412470	Sao_Jeronimo_Da_Serra    :	3902.16
+    2	412530	Sao_Jorge_Do_Ivai        :	14028.17
+    2	412630	Senges                   :	69678.91
+    2	412788	Tunas_Do_Parana          :	39577.69
+    2	412795	Tupassi                  :	12116.89
+    2	412853	Ventania                 :	92238.60
+    2	412862	Alto_Paraiso             :	83914.54
+    3	410020	Adrianopolis             :	923686.80
+    3	410250	Barbosa_Ferraz           :	7876.35
+    3	410290	Bituruna                 :	106107.68
+    3	410390	Campina_Da_Lagoa         :	23019.24
+    3	410440	Candido_De_Abreu         :	52306.44
+    3	410520	Cerro_Azul               :	1064.19
+    3	410865	Goioxim                  :	164896.37
+    3	410950	Guaraquecaba             :	130256700.31
+    3	411440	Mangueirinha             :	85709.37
+    3	411780	Palmital                 :	1813.29
+    3	412170	Reserva                  :	19210.90
+    3	412250	Roncador                 :	468335.56
+    3	412620	Sapopema                 :	17865.92
+    3	412863	Doutor_Ulysses           :	2923826.25
+----------------------------------------------------------------

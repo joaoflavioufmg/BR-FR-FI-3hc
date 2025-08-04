@@ -1,0 +1,115 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  16293659837.30
+Primary   Care Cost:	   2414921756.00
+Secondary Care Cost:	   8215692364.88
+Tertiary  Care Cost:	   5364707361.00
+Add Infrastruc Cost:	     16219236.30
+Populat ExtLog Cost:	    282119119.12
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1774.48
+----------------------------------------
+
+----------------------------------------
+State population:	9182212
+Max municipa pop:	1602433
+Min municipa pop:	3570
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	19568  		9.97
+Care Level [3]	33570  		2.44
+----------------------------------------
+
+
+Demand met by level: (Estate has 144 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 144 mun > 125 mun (100.00% coverage)
+Care Level [2]: 125 mun >  79 mun
+Care Level [3]:  79 mun >  50 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	150030	Afua                     :	1102390.80
+    1	150100	Aveiro                   :	464379.10
+    1	150160	Bonito                   :	454937.40
+    1	150195	Cachoeira_Do_Piria       :	941119.20
+    1	150200	Cachoeira_Do_Arari       :	665626.70
+    1	150260	Colares                  :	341531.80
+    1	150285	Curua                    :	402705.60
+    1	150300	Faro                     :	207612.20
+    1	150309	Goianesia_Do_Para        :	1130584.40
+    1	150320	Igarape_Acu              :	1543704.80
+    1	150330	Igarape_Miri             :	1768753.90
+    1	150375	Jacareacanga             :	252427.40
+    1	150410	Magalhaes_Barata         :	241749.60
+    1	150445	Medicilandia             :	885389.50
+    1	150563	Picarra                  :	368278.90
+    1	150570	Ponta_De_Pedras          :	868215.60
+    1	150600	Prainha                  :	847727.90
+    1	150611	Quatipuru                :	383269.90
+    1	150635	Santa_Barbara_Do_Para    :	587279.00
+    1	150640	Santa_Cruz_Do_Arari      :	281936.00
+    1	150690	Santarem_Novo            :	189018.10
+    1	150746	Sao_Joao_Da_Ponta        :	171870.50
+    1	150780	Senador_Jose_Porfirio    :	335824.70
+    1	150800	Tome_Acu                 :	1782903.30
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	150013	Abel_Figueiredo          :	14178.06
+    2	150030	Afua                     :	1675787.83
+    2	150100	Aveiro                   :	705262.03
+    2	150125	Bannach                  :	360531.34
+    2	150145	Belterra                 :	375215.14
+    2	150160	Bonito                   :	2153.55
+    2	150172	Brasil_Novo              :	34577.10
+    2	150175	Brejo_Grande_Do_Araguaia :	64989.75
+    2	150195	Cachoeira_Do_Piria       :	16262.10
+    2	150200	Cachoeira_Do_Arari       :	274657.78
+    2	150250	Chaves                   :	1048476.68
+    2	150260	Colares                  :	15556.78
+    2	150276	Cumaru_Do_Norte          :	8480889.77
+    2	150277	Curionopolis             :	21073.47
+    2	150285	Curua                    :	934275.61
+    2	150300	Faro                     :	1621.68
+    2	150304	Floresta_Do_Araguaia     :	528474.96
+    2	150309	Goianesia_Do_Para        :	128295.43
+    2	150320	Igarape_Acu              :	1152.75
+    2	150330	Igarape_Miri             :	44350.85
+    2	150375	Jacareacanga             :	162407560.84
+    2	150410	Magalhaes_Barata         :	175548.73
+    2	150430	Maracana                 :	281644.87
+    2	150445	Medicilandia             :	1044131.09
+    2	150495	Nova_Esperanca_Do_Piria  :	34363.28
+    2	150497	Nova_Ipixuna             :	109711.62
+    2	150503	Novo_Progresso           :	61135172.43
+    2	150563	Picarra                  :	8982140.65
+    2	150570	Ponta_De_Pedras          :	8806.14
+    2	150600	Prainha                  :	5112875.49
+    2	150611	Quatipuru                :	34391.65
+    2	150635	Santa_Barbara_Do_Para    :	13175.13
+    2	150640	Santa_Cruz_Do_Arari      :	380640.77
+    2	150658	Santa_Maria_Das_Barreiras:	11184135.88
+    2	150690	Santarem_Novo            :	17346.20
+    2	150745	Sao_Geraldo_Do_Araguaia  :	661874.64
+    2	150746	Sao_Joao_Da_Ponta        :	16442.14
+    2	150750	Sao_Joao_Do_Araguaia     :	690.96
+    2	150780	Senador_Jose_Porfirio    :	11436605.21
+    2	150800	Tome_Acu                 :	65094.92
+    2	150835	Vitoria_Do_Xingu         :	92726.84
+    3	150034	Agua_Azul_Do_Norte       :	15322.74
+    3	150070	Anajas                   :	711322.24
+    3	150085	Anapu                    :	54784.54
+    3	150190	Bujaru                   :	27258.35
+    3	150565	Placas                   :	215.77
+    3	150630	Salvaterra               :	2338698.00
+    3	150715	Sao_Domingos_Do_Araguaia :	1304.03
+    3	150805	Trairao                  :	1047351.30
+----------------------------------------------------------------

@@ -1,0 +1,61 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  32262836953.22
+Primary   Care Cost:	   4867561131.00
+Secondary Care Cost:	  16559702077.38
+Tertiary  Care Cost:	  10813203767.25
+Add Infrastruc Cost:	     12485606.98
+Populat ExtLog Cost:	      9884370.61
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1743.20
+----------------------------------------
+
+----------------------------------------
+State population:	18507837
+Max municipa pop:	7214328
+Min municipa pop:	6012
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	20160  		0.98
+Care Level [3]	36530  		1.16
+----------------------------------------
+
+
+Demand met by level: (Estate has 92 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  92 mun >  63 mun (100.00% coverage)
+Care Level [2]:  63 mun >  40 mun
+Care Level [3]:  40 mun >  20 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	330380	Paraty                   :	1209221.40
+    1	330590	Trajano_De_Moraes        :	300977.20
+    2	330380	Paraty                   :	5037349.68
+    3	330380	Paraty                   :	5938058.70
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	330090	Cambuci                  :	520559.46
+    2	330150	Cordeiro                 :	2336000.06
+    2	330205	Italva                   :	492561.72
+    2	330230	Laje_Do_Muriae           :	1046.30
+    2	330370	Paraiba_Do_Sul           :	1167386.41
+    2	330440	Rio_Claro                :	118179.77
+    2	330460	Santa_Maria_Madalena     :	842697.06
+    2	330530	Sao_Sebastiao_Do_Alto    :	33320.93
+    2	330540	Sapucaia                 :	446748.86
+    2	330570	Sumidouro                :	112232.34
+    2	330590	Trajano_De_Moraes        :	5866.07
+    3	330260	Mangaratiba              :	351027.35
+    3	330360	Paracambi                :	1045883.28
+    3	330515	Sao_Jose_Do_Vale_Do_Rio_Preto:	2279822.11
+    3	330580	Teresopolis              :	131038.88
+----------------------------------------------------------------

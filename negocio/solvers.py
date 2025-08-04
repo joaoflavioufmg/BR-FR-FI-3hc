@@ -17,6 +17,77 @@ from utils.states_info import states_codes
 # https://docs.python.org/3/faq/programming.html#how-do-i-
 # share-global-variables-across-modules
 
+def run_Highs():
+    # Highs Solver
+
+    # global state
+    cod = states_codes(config.state)
+
+    def create_highs_options_file(cod, filename="hc_highs.opt"):
+        """Create HiGHS options file with correct syntax"""
+        options_content = f"""mip_rel_gap=0.01
+primal_feasibility_tolerance=1e-9
+dual_feasibility_tolerance=1e-9
+time_limit=300
+write_solution_style=2
+solution_file=hc_highs.sol
+log_file = Resultado/log_highs_{cod}.log"""
+        
+        with open(filename, 'w') as f:
+            f.write(options_content)
+        
+        return filename
+    
+    create_highs_options_file(cod)
+
+    solver1 = 'glpsol'
+    model1 = '-m hc_glpk.mod'
+    data1 = '-d hc.dat -d ' + str(cod) + '_dados.dat -d '\
+            + str(cod) + '_dist_dur.txt'
+    options1 = '--wmps hc_glpk.mps --check'
+    
+    solver2 = 'highs'
+    model2 = '--model_file hc_glpk.mps'    
+    options2 = '--options_file hc_highs.opt'
+    
+    solver3 = 'glpsol'
+    model3 = '-m hc_glpk.mod'
+    data3 = '-d hc.dat -d ' + str(cod) + '_dados.dat -d '\
+            + str(cod) + '_dist_dur.txt'
+    options3 = '-r hc_highs.sol'
+
+    # Create the .bat file content
+    bat_content = f"""@echo off
+    REM Batch file for running optimization solvers
+    REM State code: {cod}
+
+    echo Running GLPSOL to generate MPS file...
+    {solver1} {model1} {data1} {options1}
+
+    echo Running HiGHS solver...
+    {solver2} {model2} {options2}
+
+    echo Running GLPSOL with HiGHS solution...
+    {solver3} {model3} {data3} {options3}
+
+    echo All solver commands completed.
+    pause
+    """
+
+    # Write to .bat file
+    output_filename="hc_highs.bat"
+    try:
+        with open(output_filename, 'w', encoding='utf-8') as bat_file:
+            bat_file.write(bat_content)
+        print(f"Successfully created {output_filename}")
+        # return True
+        # print(call_Highs)    
+        return output_filename
+    except Exception as e:
+        print(f"Error creating .bat file: {e}")
+        return False    
+# print(run_Highs())
+
 def run_Glpk():
     # GLPK - Gnu Linear Programming Kit
 
@@ -79,6 +150,12 @@ def run_solver(solver):
             run(call_solver, solver)
         except Exception as e:
             raise
+    elif solver == "Highs":
+        try:
+            call_solver = run_Highs()
+            run(call_solver, solver)
+        except Exception as e:
+            raise
     else:
         solver = "GLPK"
         try:
@@ -119,9 +196,10 @@ def run_optimizer(optimizer):
     # print('run_optimizer / Erro_de_otimizacao: ', config.Erro_de_otimizacao)
     #####################################################################
     if    optimizer == "AMPL": solver = "AMPL"
+    elif  optimizer == "Highs": solver = "Highs"
     elif  optimizer == "GLPK": solver = "GLPK"
     else:
-        print("Erro! Defina um solver (AMPL ou GLPK)")
+        print("Erro! Defina um solver (AMPL, Highs ou GLPK)")
         sys.exit(1)
 
     try:
@@ -134,7 +212,8 @@ def run_optimizer(optimizer):
     finally:
         # print("Erro_de_otimizacao:", Erro_de_otimizacao)
         if config.Erro_de_otimizacao:
-            if optimizer == "AMPL": solver = "GLPK"
+            if optimizer == "AMPL": solver = "Highs"
+            elif optimizer == "Highs": solver = "GLPK"
             else: solver = "AMPL"
             try:
                 run_solver(solver)

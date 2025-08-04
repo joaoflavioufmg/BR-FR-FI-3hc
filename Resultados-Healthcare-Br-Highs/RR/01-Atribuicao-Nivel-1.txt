@@ -1,0 +1,16 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+140002	                       Amajari	140002	                       Amajari	    0.00
+140005	                   Alto_Alegre	140005	                   Alto_Alegre	    0.00
+140010	                     Boa_Vista	140010	                     Boa_Vista	    0.00
+140015	                        Bonfim	140015	                        Bonfim	    0.00
+140017	                         Canta	140017	                         Canta	    0.00
+140020	                     Caracarai	140020	                     Caracarai	    0.00
+140028	                       Iracema	140028	                       Iracema	    0.00
+140030	                       Mucajai	140030	                       Mucajai	    0.00
+140040	                     Normandia	140040	                     Normandia	    0.00
+140045	                     Pacaraima	140045	                     Pacaraima	    0.00
+140047	                  Rorainopolis	140047	                  Rorainopolis	    0.00
+140023	                       Caroebe	140050	            Sao_Joao_Da_Baliza	    0.47
+140050	            Sao_Joao_Da_Baliza	140050	            Sao_Joao_Da_Baliza	    0.00
+140060	                      Sao_Luiz	140050	            Sao_Joao_Da_Baliza	    0.35
+140070	                      Uiramuta	140070	                      Uiramuta	    0.00

@@ -1,0 +1,258 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   6220628306.53
+Primary   Care Cost:	    926010376.00
+Secondary Care Cost:	   3150336592.48
+Tertiary  Care Cost:	   2057116206.00
+Add Infrastruc Cost:	     66014486.44
+Populat ExtLog Cost:	     21150645.61
+HC Cost per capita (now):	     1741.99
+HC Cost per capita (fut):	     1766.75
+----------------------------------------
+
+----------------------------------------
+State population:	3520952
+Max municipa pop:	929106
+Min municipa pop:	1348
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	4849   		1.20
+Care Level [3]	6732   		1.91
+----------------------------------------
+
+
+Demand met by level: (Estate has 224 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 224 mun > 143 mun (100.00% coverage)
+Care Level [2]: 143 mun >  64 mun
+Care Level [3]:  64 mun >  43 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	220030	Alto_Longa               :	404730.70
+    1	220045	Alvorada_Do_Gurgueia     :	152960.80
+    1	220080	Antonio_Almeida          :	89577.80
+    1	220090	Aroazes                  :	165768.90
+    1	220095	Aroeiras_Do_Itaim        :	72351.30
+    1	220100	Arraial                  :	134314.10
+    1	220105	Assuncao_Do_Piaui        :	222050.90
+    1	220110	Avelino_Lopes            :	319176.80
+    1	220115	Baixa_Grande_Do_Ribeiro  :	326120.00
+    1	220140	Barro_Duro               :	199643.30
+    1	220160	Beneditinos              :	296769.20
+    1	220170	Bertolinia               :	277465.00
+    1	220173	Betania_Do_Piaui         :	175868.10
+    1	220177	Boa_Hora                 :	372513.20
+    1	220191	Bom_Principio_Do_Piaui   :	159062.40
+    1	220192	Bonfim_Do_Piaui          :	300950.90
+    1	220202	Buriti_Dos_Montes        :	233254.70
+    1	220208	Cajueiro_Da_Praia        :	215817.80
+    1	220210	Campinas_Do_Piaui        :	158930.90
+    1	220211	Campo_Alegre_Do_Fidalgo  :	258266.00
+    1	220225	Canavieira               :	112248.40
+    1	220250	Caracol                  :	308236.00
+    1	220265	Caxingo                  :	318834.90
+    1	220271	Cocal_De_Telha           :	138443.20
+    1	220273	Coivaras                 :	113668.60
+    1	220280	Conceicao_Do_Caninde     :	136102.50
+    1	220285	Coronel_Jose_Dias        :	132683.50
+    1	220310	Cristino_Castro          :	603848.00
+    1	220325	Curralinhos              :	125529.90
+    1	220327	Curral_Novo_Do_Piaui     :	150804.20
+    1	220342	Domingos_Mourao          :	123557.40
+    1	220345	Dom_Inocencio            :	270784.80
+    1	220360	Eliseu_Martins           :	321990.90
+    1	220375	Fartura_Do_Piaui         :	150199.30
+    1	220380	Flores_Do_Piaui          :	435685.80
+    1	220410	Francisco_Ayres          :	124030.80
+    1	220420	Francisco_Santos         :	663180.80
+    1	220440	Gilbues                  :	604084.70
+    1	220450	Guadalupe                :	297847.50
+    1	220455	Guaribas                 :	129238.20
+    1	220470	Inhuma                   :	711336.10
+    1	220490	Isaias_Coelho            :	242564.90
+    1	220525	Jardim_Do_Mulato         :	127476.10
+    1	220527	Jatoba_Do_Piaui          :	137706.80
+    1	220530	Jerumenha                :	126424.10
+    1	220535	Joao_Costa               :	85369.80
+    1	220540	Joaquim_Pires            :	406545.40
+    1	220552	Julio_Borges             :	159246.50
+    1	220555	Lagoa_Alegre             :	241223.60
+    1	220556	Lagoa_Do_Barro_Do_Piaui  :	386294.40
+    1	220590	Manoel_Emidio            :	151698.40
+    1	220610	Matias_Olimpio           :	309551.00
+    1	220620	Miguel_Alves             :	955479.00
+    1	220630	Miguel_Leao              :	35452.40
+    1	220635	Milton_Brandao           :	187703.10
+    1	220665	Morro_Cabeca_No_Tempo    :	128580.70
+    1	220669	Murici_Dos_Portelas      :	258266.00
+    1	220670	Nazare_Do_Piaui          :	208664.20
+    1	220672	Nazaria                  :	242117.80
+    1	220675	Nossa_Senhora_De_Nazare  :	137496.40
+    1	220695	Novo_Santo_Antonio       :	84501.90
+    1	220730	Paes_Landim              :	203456.80
+    1	220735	Pajeu_Do_Piaui           :	95732.00
+    1	220755	Paqueta                  :	112116.90
+    1	220760	Parnagua                 :	305264.10
+    1	220777	Patos_Do_Piaui           :	180891.40
+    1	220779	Pau_Darco_Do_Piaui       :	114115.70
+    1	220785	Pavussu                  :	104516.20
+    1	220793	Pedro_Laurentino         :	71746.40
+    1	220810	Pimenteiras              :	343662.10
+    1	220855	Porto_Alegre_Do_Piaui    :	76585.60
+    1	220870	Redencao_Do_Gurgueia     :	248429.80
+    1	220885	Riacho_Frio              :	122426.50
+    1	220890	Ribeiro_Goncalves        :	207217.70
+    1	220915	Santa_Cruz_Dos_Milagres  :	113589.70
+    1	220920	Santa_Filomena           :	177340.90
+    1	220937	Santa_Rosa_Do_Piaui      :	249665.90
+    1	220950	Santo_Inacio_Do_Piaui    :	179865.70
+    1	220955	Sao_Braz_Do_Piaui        :	539228.90
+    1	220965	Sao_Francisco_De_Assis_Do_Piaui:	162560.30
+    1	220970	Sao_Francisco_Do_Piaui   :	182259.00
+    1	220975	Sao_Goncalo_Do_Gurgueia  :	180681.00
+    1	220985	Sao_Joao_Da_Canabrava    :	205481.90
+    1	220987	Sao_Joao_Da_Fronteira    :	170739.60
+    1	220990	Sao_Joao_Da_Serra        :	174658.30
+    1	220995	Sao_Joao_Da_Varjota      :	332353.10
+    1	220997	Sao_Joao_Do_Arraial      :	225128.00
+    1	221010	Sao_Jose_Do_Peixe        :	106383.50
+    1	221035	Sao_Lourenco_Do_Piaui    :	327908.40
+    1	221038	Sao_Miguel_Da_Baixa_Grande:	242696.40
+    1	221062	Sebastiao_Barros         :	98940.60
+    1	221065	Sigefredo_Pacheco        :	284329.30
+    1	221090	Socorro_Do_Piaui         :	129790.50
+    1	221095	Tamboril_Do_Piaui        :	82476.80
+    1	221140	Varzea_Grande            :	314916.20
+    1	221150	Vera_Mendes              :	413646.40
+    2	220030	Alto_Longa               :	2038035.12
+    2	220100	Arraial                  :	1076207.88
+    2	220110	Avelino_Lopes            :	1329620.16
+    2	220115	Baixa_Grande_Do_Ribeiro  :	1358544.00
+    2	220140	Barro_Duro               :	979356.84
+    2	220160	Beneditinos              :	1236275.04
+    2	220170	Bertolinia               :	1623460.08
+    2	220210	Campinas_Do_Piaui        :	2674140.48
+    2	220211	Campo_Alegre_Do_Fidalgo  :	3362286.84
+    2	220250	Caracol                  :	1284043.20
+    2	220345	Dom_Inocencio            :	1128029.76
+    2	220360	Eliseu_Martins           :	2610486.12
+    2	220375	Fartura_Do_Piaui         :	625697.16
+    2	220450	Guadalupe                :	1240767.00
+    2	220455	Guaribas                 :	538377.84
+    2	220527	Jatoba_Do_Piaui          :	1758109.32
+    2	220665	Morro_Cabeca_No_Tempo    :	535638.84
+    2	220670	Nazare_Do_Piaui          :	1628499.84
+    2	220890	Ribeiro_Goncalves        :	863223.24
+    2	220920	Santa_Filomena           :	738763.08
+    2	220990	Sao_Joao_Da_Serra        :	1200777.60
+    2	221090	Socorro_Do_Piaui         :	983848.80
+    3	220110	Avelino_Lopes            :	2198778.75
+    3	220115	Baixa_Grande_Do_Ribeiro  :	1601460.00
+    3	220250	Caracol                  :	2148281.10
+    3	220345	Dom_Inocencio            :	1329728.40
+    3	220450	Guadalupe                :	3832526.25
+    3	220890	Ribeiro_Goncalves        :	1017572.85
+    3	220920	Santa_Filomena           :	870858.45
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	220400	Francinopolis            :	6900.55
+    1	220775	Passagem_Franca_Do_Piaui :	8183.23
+    1	220860	Prata_Do_Piaui           :	1154.98
+    1	220887	Ribeira_Do_Piaui         :	2105.72
+    1	221020	Sao_Jose_Do_Piaui        :	36791.71
+    2	220020	Agua_Branca              :	155588.21
+    2	220045	Alvorada_Do_Gurgueia     :	45957.17
+    2	220080	Antonio_Almeida          :	427548.88
+    2	220090	Aroazes                  :	94899.01
+    2	220095	Aroeiras_Do_Itaim        :	8778.80
+    2	220105	Assuncao_Do_Piaui        :	520174.28
+    2	220173	Betania_Do_Piaui         :	297475.95
+    2	220177	Boa_Hora                 :	513428.96
+    2	220191	Bom_Principio_Do_Piaui   :	2223.27
+    2	220192	Bonfim_Do_Piaui          :	9069.21
+    2	220202	Buriti_Dos_Montes        :	443188.99
+    2	220208	Cajueiro_Da_Praia        :	715352.25
+    2	220225	Canavieira               :	420908.83
+    2	220265	Caxingo                  :	7187.02
+    2	220271	Cocal_De_Telha           :	134226.79
+    2	220273	Coivaras                 :	2512.70
+    2	220280	Conceicao_Do_Caninde     :	46187.12
+    2	220285	Coronel_Jose_Dias        :	2145.84
+    2	220310	Cristino_Castro          :	9081.09
+    2	220325	Curralinhos              :	92304.36
+    2	220327	Curral_Novo_Do_Piaui     :	395.98
+    2	220342	Domingos_Mourao          :	1912935.66
+    2	220380	Flores_Do_Piaui          :	12804.53
+    2	220410	Francisco_Ayres          :	6567.03
+    2	220420	Francisco_Santos         :	119166.90
+    2	220440	Gilbues                  :	2035446.06
+    2	220470	Inhuma                   :	1298.98
+    2	220490	Isaias_Coelho            :	4607.17
+    2	220525	Jardim_Do_Mulato         :	1117.05
+    2	220530	Jerumenha                :	200015.83
+    2	220535	Joao_Costa               :	19745.34
+    2	220540	Joaquim_Pires            :	2866.16
+    2	220552	Julio_Borges             :	32566.84
+    2	220555	Lagoa_Alegre             :	21466.69
+    2	220556	Lagoa_Do_Barro_Do_Piaui  :	33587.22
+    2	220590	Manoel_Emidio            :	3829.76
+    2	220610	Matias_Olimpio           :	1409.76
+    2	220620	Miguel_Alves             :	234959.83
+    2	220630	Miguel_Leao              :	9761.17
+    2	220635	Milton_Brandao           :	24093.89
+    2	220669	Murici_Dos_Portelas      :	393628.75
+    2	220672	Nazaria                  :	39583.65
+    2	220675	Nossa_Senhora_De_Nazare  :	5263.80
+    2	220695	Novo_Santo_Antonio       :	11151.61
+    2	220730	Paes_Landim              :	77322.19
+    2	220735	Pajeu_Do_Piaui           :	40219.32
+    2	220755	Paqueta                  :	90714.29
+    2	220760	Parnagua                 :	124118.22
+    2	220777	Patos_Do_Piaui           :	116226.73
+    2	220779	Pau_Darco_Do_Piaui       :	2512.70
+    2	220785	Pavussu                  :	476750.68
+    2	220793	Pedro_Laurentino         :	224627.70
+    2	220810	Pimenteiras              :	67832.86
+    2	220855	Porto_Alegre_Do_Piaui    :	322804.96
+    2	220870	Redencao_Do_Gurgueia     :	772848.42
+    2	220885	Riacho_Frio              :	312887.52
+    2	220915	Santa_Cruz_Dos_Milagres  :	115497.28
+    2	220937	Santa_Rosa_Do_Piaui      :	467642.09
+    2	220950	Santo_Inacio_Do_Piaui    :	7770.62
+    2	220955	Sao_Braz_Do_Piaui        :	65792.23
+    2	220965	Sao_Francisco_De_Assis_Do_Piaui:	1825.93
+    2	220970	Sao_Francisco_Do_Piaui   :	74589.27
+    2	220975	Sao_Goncalo_Do_Gurgueia  :	360443.57
+    2	220985	Sao_Joao_Da_Canabrava    :	108180.44
+    2	220987	Sao_Joao_Da_Fronteira    :	571949.63
+    2	220995	Sao_Joao_Da_Varjota      :	4160.93
+    2	220997	Sao_Joao_Do_Arraial      :	4459.16
+    2	221010	Sao_Jose_Do_Peixe        :	149005.72
+    2	221038	Sao_Miguel_Da_Baixa_Grande:	889856.66
+    2	221050	Sao_Pedro_Do_Piaui       :	58332.40
+    2	221062	Sebastiao_Barros         :	1203415.94
+    2	221065	Sigefredo_Pacheco        :	1274.87
+    2	221095	Tamboril_Do_Piaui        :	34496.49
+    2	221140	Varzea_Grande            :	137210.63
+    2	221150	Vera_Mendes              :	573451.08
+    2	221170	Wall_Ferraz              :	221334.56
+    3	220100	Arraial                  :	261760.21
+    3	220140	Barro_Duro               :	7710.91
+    3	220170	Bertolinia               :	540298.94
+    3	220360	Eliseu_Martins           :	307389.38
+    3	220375	Fartura_Do_Piaui         :	13248.22
+    3	220455	Guaribas                 :	848596.08
+    3	220560	Landri_Sales             :	264406.08
+    3	220665	Morro_Cabeca_No_Tempo    :	1789114.03
+    3	220990	Sao_Joao_Da_Serra        :	168814.02
+    3	221090	Socorro_Do_Piaui         :	138108.09
+----------------------------------------------------------------
