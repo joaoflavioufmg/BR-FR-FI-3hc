@@ -19,7 +19,6 @@ This project provides a computational framework for planning health care systems
 
 - `*.dat` / `*.txt` — Input and output data files for each scenario or region.
 - `charts/` — Scripts for visualizing results with geoplotlib.
-- `ref/` — Reference documents and background information.
 - `Resultado/` — Output folders with results and notes for each scenario.
 
 ## Example Output
