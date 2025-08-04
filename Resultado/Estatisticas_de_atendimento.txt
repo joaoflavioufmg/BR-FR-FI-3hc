@@ -1,38 +1,38 @@
 ==============================================================================
 Demand meet statistics - Nivel_1
 ==============================================================================
-Pop served:		49115904 (100.00%).
-Municipalities (hub):	     302 mun.
+Pop served:		9788522 (100.00%).
+Municipalities (hub):	     135 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.76 (Trabiju).
-Mean:			 66.68
-Median:			 17.80
-Maximum:		5384.67 (Sao_Paulo).
+Minimum:		  2.83 (Potiretama).
+Mean:			 29.73
+Median:			 14.39
+Maximum:		1168.86 (Fortaleza).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  4.66 (Trabiju).
-Mean:			411.47
-Median:			109.82
-Maximum:		33227.33 (Sao_Paulo).
+Minimum:		 17.46 (Potiretama).
+Mean:			183.44
+Median:			 88.78
+Maximum:		7212.70 (Fortaleza).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  2.30 (Trabiju).
-Mean:			203.29
-Median:			 54.26
-Maximum:		16416.67 (Sao_Paulo).
+Minimum:		  8.63 (Potiretama).
+Mean:			 90.63
+Median:			 43.87
+Maximum:		3563.59 (Fortaleza).
 ==============================================================================
 Resource:		CommunityBased		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  8.99 (Trabiju).
-Mean:			793.66
-Median:			211.83
-Maximum:		64090.66 (Sao_Paulo).
+Minimum:		 33.69 (Potiretama).
+Mean:			353.84
+Median:			171.25
+Maximum:		13912.24 (Fortaleza).
 ==============================================================================
 
 
@@ -41,65 +41,65 @@ Maximum:		64090.66 (Sao_Paulo).
 ==============================================================================
 Demand meet statistics - Nivel_2
 ==============================================================================
-Municipalities (hub):	     176 mun.
+Municipalities (hub):	      82 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 11.43 (Arandu).
-Mean:			466.04
-Median:			121.20
-Maximum:		21932.66 (Sao_Paulo).
+Minimum:		 29.60 (Salitre).
+Mean:			199.35
+Median:			 96.51
+Maximum:		4760.95 (Fortaleza).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  8.22 (Arandu).
-Mean:			334.88
-Median:			 87.09
-Maximum:		15760.00 (Sao_Paulo).
+Minimum:		 21.27 (Salitre).
+Mean:			143.25
+Median:			 69.35
+Maximum:		3421.04 (Fortaleza).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 17.19 (Arandu).
-Mean:			700.46
-Median:			182.16
-Maximum:		32964.66 (Sao_Paulo).
+Minimum:		 44.49 (Salitre).
+Mean:			299.62
+Median:			145.06
+Maximum:		7155.68 (Fortaleza).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 18.28 (Arandu).
-Mean:			745.11
-Median:			193.77
-Maximum:		35066.00 (Sao_Paulo).
+Minimum:		 47.33 (Salitre).
+Mean:			318.72
+Median:			154.30
+Maximum:		7611.82 (Fortaleza).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.05 (Arandu).
-Mean:			  1.84
-Median:			  0.48
-Maximum:		 86.68 (Sao_Paulo).
+Minimum:		  0.12 (Salitre).
+Mean:			  0.79
+Median:			  0.38
+Maximum:		 18.82 (Fortaleza).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.03 (Arandu).
-Mean:			  1.40
-Median:			  0.36
-Maximum:		 65.67 (Sao_Paulo).
+Minimum:		  0.09 (Salitre).
+Mean:			  0.60
+Median:			  0.29
+Maximum:		 14.25 (Fortaleza).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.02 (Arandu).
-Mean:			  0.87
-Median:			  0.22
-Maximum:		 40.71 (Sao_Paulo).
+Minimum:		  0.05 (Salitre).
+Mean:			  0.37
+Median:			  0.18
+Maximum:		  8.84 (Fortaleza).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.00 (Arandu).
-Mean:			  0.08
+Minimum:		  0.01 (Salitre).
+Mean:			  0.04
 Median:			  0.02
-Maximum:		  3.94 (Sao_Paulo).
+Maximum:		  0.86 (Fortaleza).
 ==============================================================================
 
 
@@ -108,65 +108,65 @@ Maximum:		  3.94 (Sao_Paulo).
 ==============================================================================
 Demand meet statistics - Nivel_3
 ==============================================================================
-Municipalities (hub):	      62 mun.
+Municipalities (hub):	      29 mun.
 ==============================================================================
 
 
 Resource:		Physicians		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 73.69 (Ilhabela).
-Mean:			1576.46
-Median:			734.88
-Maximum:		26351.03 (Sao_Paulo).
+Minimum:		 67.39 (Parambu).
+Mean:			671.70
+Median:			354.15
+Maximum:		8171.94 (Fortaleza).
 ==============================================================================
 Resource:		Nurses		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		332.53 (Ilhabela).
-Mean:			7113.88
-Median:			3316.19
-Maximum:		118910.66 (Sao_Paulo).
+Minimum:		304.10 (Parambu).
+Mean:			3031.07
+Median:			1598.13
+Maximum:		36876.38 (Fortaleza).
 ==============================================================================
 Resource:		OtherCadres		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 92.95 (Ilhabela).
-Mean:			1988.40
-Median:			926.91
-Maximum:		33236.72 (Sao_Paulo).
+Minimum:		 85.00 (Parambu).
+Mean:			847.21
+Median:			446.69
+Maximum:		10307.32 (Fortaleza).
 ==============================================================================
 Resource:		Beds		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		 67.39 (Ilhabela).
-Mean:			1441.79
-Median:			672.10
-Maximum:		24099.93 (Sao_Paulo).
+Minimum:		 61.63 (Parambu).
+Mean:			614.31
+Median:			323.90
+Maximum:		7473.83 (Fortaleza).
 ==============================================================================
 Resource:		CTScanner		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.74 (Ilhabela).
-Mean:			 15.76
-Median:			  7.35
-Maximum:		263.51 (Sao_Paulo).
+Minimum:		  0.67 (Parambu).
+Mean:			  6.72
+Median:			  3.54
+Maximum:		 81.72 (Fortaleza).
 ==============================================================================
 Resource:		MRIUnit		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.62 (Ilhabela).
-Mean:			 13.31
-Median:			  6.20
-Maximum:		222.46 (Sao_Paulo).
+Minimum:		  0.57 (Parambu).
+Mean:			  5.67
+Median:			  2.99
+Maximum:		 68.99 (Fortaleza).
 ==============================================================================
 Resource:		Mammography		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.58 (Ilhabela).
-Mean:			 12.36
-Median:			  5.76
-Maximum:		206.57 (Sao_Paulo).
+Minimum:		  0.53 (Parambu).
+Mean:			  5.27
+Median:			  2.78
+Maximum:		 64.06 (Fortaleza).
 ==============================================================================
 Resource:		Radiotherapy		[FTE or unit (equipment)]
 ==============================================================================
-Minimum:		  0.38 (Ilhabela).
-Mean:			  8.08
-Median:			  3.77
-Maximum:		135.07 (Sao_Paulo).
+Minimum:		  0.35 (Parambu).
+Mean:			  3.44
+Median:			  1.82
+Maximum:		 41.89 (Fortaleza).
 ==============================================================================
 
 

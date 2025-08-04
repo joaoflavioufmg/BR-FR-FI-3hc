@@ -381,7 +381,7 @@ def demand_meet_graphics(file_name, level, state):
     
     # Ask Bokeh to show() or save() the results.
     # #################################################
-    # show(p)  # AO COMENTAR NAO GERA GRAFICOS DE BARRA
+    show(p)  # AO COMENTAR NAO GERA GRAFICOS DE BARRA
     # #################################################
 
     # Muda para Diretorio um nivel superior

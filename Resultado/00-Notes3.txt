@@ -1,224 +1,87 @@
 Optimization settings:
 
 ----------------------------------------
-Objective Function: 	  87908051807.91
-Primary   Care Cost:	  12917482752.00
-Secondary Care Cost:	  43945963944.96
-Tertiary  Care Cost:	  28695966912.00
-Add Infrastruc Cost:	     62695992.46
-Populat ExtLog Cost:	   2285942206.49
+Objective Function: 	  17115446224.07
+Primary   Care Cost:	   2574381286.00
+Secondary Care Cost:	   8758182174.28
+Tertiary  Care Cost:	   5718943978.50
+Add Infrastruc Cost:	      5545634.04
+Populat ExtLog Cost:	     58393151.25
 HC Cost per capita (now):	     1741.99
-HC Cost per capita (fut):	     1789.81
+HC Cost per capita (fut):	     1748.52
 ----------------------------------------
 
 ----------------------------------------
-State population:	49115904
-Max municipa pop:	13133332
-Min municipa pop:	902
+State population:	9788522
+Max municipa pop:	2850868
+Min municipa pop:	3877
 ----------------------------------------
 Care Level		Pop. Min	Dur. Max(h).
 ----------------------------------------
 Care Level [1]	0      		0.51
-Care Level [2]	6135   		1.07
-Care Level [3]	25259  		2.54
+Care Level [2]	15219  		0.90
+Care Level [3]	23337  		1.25
 ----------------------------------------
 
 
-Demand met by level: (Estate has 645 municipalities).
+Demand met by level: (Estate has 184 municipalities).
 ----------------------------------------------------------------
-Care Level [1]: 645 mun > 302 mun (100.00% coverage)
-Care Level [2]: 302 mun > 176 mun
-Care Level [3]: 176 mun >  62 mun
+Care Level [1]: 184 mun > 135 mun (100.00% coverage)
+Care Level [2]: 135 mun >  82 mun
+Care Level [3]:  82 mun >  29 mun
 ----------------------------------------------------------------
 
 Municipalities requiring additional infrastructure:
 ----------------------------------------------------------------
 LEVEL	CODE  	DESCRIPTION              :	COST($)
-    1	350020	Adolfo                   :	101281.30
-    1	350060	Aguas_De_Sao_Pedro       :	1580156.60
-    1	350150	Alvinlandia              :	225785.50
-    1	350180	Americo_De_Campos        :	168951.20
-    1	350230	Anhembi                  :	187992.40
-    1	350350	Areias                   :	109934.00
-    1	350490	Bananal                  :	309077.60
-    1	350535	Barra_Do_Chapeu          :	161350.50
-    1	350540	Barra_Do_Turvo           :	218053.30
-    1	350690	Bofete                   :	327172.00
-    1	350715	Bom_Sucesso_De_Itarare   :	111275.30
-    1	350800	Buri                     :	561320.90
-    1	350925	Cajati                   :	811407.60
-    1	350980	Campos_Novos_Paulista    :	139889.70
-    1	350990	Cananeia                 :	355681.20
-    1	351210	Colombia                 :	175947.00
-    1	351470	Echapora                 :	247982.70
-    1	351480	Eldorado                 :	438052.80
-    1	351512	Emilianopolis            :	178366.60
-    1	351535	Euclides_Da_Cunha_Paulista:	267181.70
-    1	351760	Guapiara                 :	490521.30
-    1	351790	Guaraci                  :	431793.40
-    1	351850	Guarei                   :	514638.40
-    1	351885	Guatapara                :	215633.70
-    1	352030	Iguape                   :	1182448.00
-    1	352120	Iporanga                 :	120217.30
-    1	352265	Itapirapua_Paulista      :	119507.20
-    1	352780	Lupercio                 :	251270.20
-    1	352990	Miracatu                 :	565029.20
-    1	353020	Mirante_Do_Paranapanema  :	515637.80
-    1	353040	Mirassolandia            :	136786.30
-    1	353220	Narandiba                :	335272.40
-    1	353320	Nova_Independencia       :	110144.40
-    1	353330	Nova_Luzitania           :	114615.40
-    1	353520	Palmeira_Doeste          :	445101.20
-    1	353680	Pedra_Bela               :	172317.60
-    1	353715	Pedrinhas_Paulista       :	164059.40
-    1	354010	Pongai                   :	130737.30
-    1	354230	Redencao_Da_Serra        :	299083.60
-    1	354460	Sabino                   :	157826.30
-    1	354480	Sales                    :	177367.20
-    1	354620	Santa_Cruz_Da_Conceicao  :	126529.30
-    1	354700	Santa_Maria_Da_Serra     :	173238.10
-    1	354805	Santo_Antonio_Do_Aracangua:	237015.60
-    1	354960	Sao_Jose_Do_Barreiro     :	188045.00
-    1	355110	Sarapui                  :	288668.80
-    1	355350	Tapirai                  :	222682.10
-    1	355460	Timburi                  :	75533.60
-    1	355475	Trabiju                  :	48470.90
-    2	350490	Bananal                  :	2070903.12
-    2	350540	Barra_Do_Turvo           :	1409160.72
-    2	350925	Cajati                   :	5204976.48
-    2	350990	Cananeia                 :	1481689.44
-    2	351535	Euclides_Da_Cunha_Paulista:	3123555.60
-    2	352030	Iguape                   :	4925817.60
-    3	350925	Cajati                   :	29792838.60
+    1	230533	Ibicuitinga              :	352262.20
+    1	230560	Independencia            :	742264.90
+    1	230660	Itatira                  :	589619.70
+    1	231010	Palmacia                 :	374827.60
+    1	231123	Potiretama               :	181548.90
+    1	231126	Quiterianopolis          :	595695.00
+    1	231325	Tarrafas                 :	253190.10
+    2	230660	Itatira                  :	2456225.64
 ----------------------------------------------------------------
 
 Municipalities (origin) for logistics investiment:
 ----------------------------------------------------------------
 LEVEL	CODE  	DESCRIPTION              :	COST($)
-    1	352300	Itapura                  :	12538.11
-    1	352870	Maraba_Paulista          :	18606.87
-    1	353720	Pedro_De_Toledo          :	31860.88
-    1	354030	Pontes_Gestal            :	5821.23
-    1	354280	Ribeira                  :	11568.12
-    1	354950	Sao_Jose_Da_Bela_Vista   :	5555.78
-    1	355310	Taiacu                   :	5358.98
-    2	350020	Adolfo                   :	2836.93
-    2	350050	Aguas_De_Lindoia         :	24303.68
-    2	350060	Aguas_De_Sao_Pedro       :	310903.19
-    2	350100	Altinopolis              :	18288518.30
-    2	350150	Alvinlandia              :	13464.47
-    2	350180	Americo_De_Campos        :	13140.74
-    2	350230	Anhembi                  :	90279.20
-    2	350350	Areias                   :	1409454.47
-    2	350535	Barra_Do_Chapeu          :	19017.56
-    2	350680	Bocaina                  :	15953187.65
-    2	350690	Bofete                   :	25951.68
-    2	350715	Bom_Sucesso_De_Itarare   :	492629.25
-    2	350800	Buri                     :	129284.11
-    2	350900	Caieiras                 :	8558461.14
-    2	350980	Campos_Novos_Paulista    :	22061.05
-    2	351150	Cerquilho                :	2910433.36
-    2	351210	Colombia                 :	513317.97
-    2	351410	Dois_Corregos            :	1229.51
-    2	351440	Dracena                  :	2033025.82
-    2	351470	Echapora                 :	62437.28
-    2	351480	Eldorado                 :	41437.81
-    2	351512	Emilianopolis            :	1020.85
-    2	351600	Florida_Paulista         :	2525307.92
-    2	351630	Francisco_Morato         :	6038053.56
-    2	351640	Franco_Da_Rocha          :	18034982.92
-    2	351760	Guapiara                 :	5457.30
-    2	351770	Guara                    :	9776478.65
-    2	351790	Guaraci                  :	17796.41
-    2	351850	Guarei                   :	13891.48
-    2	351885	Guatapara                :	109554.58
-    2	352120	Iporanga                 :	414617.96
-    2	352265	Itapirapua_Paulista      :	724187.45
-    2	352290	Itapui                   :	2588451.02
-    2	352430	Jaboticabal              :	8113805.81
-    2	352550	Joanopolis               :	942866.03
-    2	352600	Junqueiropolis           :	63411.39
-    2	352740	Lucelia                  :	497998.77
-    2	352780	Lupercio                 :	13464.47
-    2	352990	Miracatu                 :	12549.16
-    2	353020	Mirante_Do_Paranapanema  :	63105.53
-    2	353040	Mirassolandia            :	1649.10
-    2	353070	Mogi_Guacu               :	2245901.72
-    2	353130	Monte_Alto               :	35793716.26
-    2	353180	Monte_Mor                :	2012496.54
-    2	353220	Narandiba                :	153059.52
-    2	353330	Nova_Luzitania           :	3793.48
-    2	353460	Osvaldo_Cruz             :	78415.55
-    2	353490	Pacaembu                 :	303203.12
-    2	353520	Palmeira_Doeste          :	3793.26
-    2	353680	Pedra_Bela               :	75568.89
-    2	353715	Pedrinhas_Paulista       :	13597.24
-    2	353780	Piedade                  :	653420.42
-    2	354000	Pompeia                  :	52903.91
-    2	354010	Pongai                   :	17220.41
-    2	354230	Redencao_Da_Serra        :	10401.02
-    2	354290	Ribeirao_Bonito          :	1267121.26
-    2	354425	Rosana                   :	463480.10
-    2	354460	Sabino                   :	46683.47
-    2	354480	Sales                    :	1924.34
-    2	354520	Salto                    :	4238098.76
-    2	354620	Santa_Cruz_Da_Conceicao  :	1705572.54
-    2	354700	Santa_Maria_Da_Serra     :	4773240.28
-    2	354770	Santo_Anastacio          :	31832.88
-    2	354805	Santo_Antonio_Do_Aracangua:	11726.73
-    2	354940	Sao_Joaquim_Da_Barra     :	9226755.33
-    2	354960	Sao_Jose_Do_Barreiro     :	82872.86
-    2	355110	Sarapui                  :	6461.68
-    2	355350	Tapirai                  :	17444.18
-    2	355450	Tiete                    :	2012496.54
-    2	355460	Timburi                  :	19239.86
-    2	355475	Trabiju                  :	11161642.26
-    2	355700	Votorantim               :	56349.90
-    3	350210	Andradina                :	16415556.03
-    3	350310	Arandu                   :	45723059.51
-    3	350420	Auriflama                :	13886387.29
-    3	350450	Avare                    :	97161777.82
-    3	350490	Bananal                  :	2953753.84
-    3	350520	Bariri                   :	187832353.59
-    3	350540	Barra_Do_Turvo           :	766467.94
-    3	350930	Cajobi                   :	3427161.68
-    3	350990	Cananeia                 :	44163.77
-    3	351050	Caraguatatuba            :	237962612.59
-    3	351110	Catanduva                :	3848329.05
-    3	351140	Cerqueira_Cesar          :	4477017.77
-    3	351190	Clementina               :	834177.57
-    3	351220	Conchal                  :	91439136.57
-    3	351360	Cunha                    :	153122915.35
-    3	351535	Euclides_Da_Cunha_Paulista:	2629532.77
-    3	351540	Fartura                  :	41402334.12
-    3	351840	Guaratingueta            :	58290153.02
-    3	351930	Ibate                    :	8176494.86
-    3	352030	Iguape                   :	250470319.99
-    3	352044	Ilha_Solteira            :	7916430.48
-    3	352210	Itanhaem                 :	192110146.06
-    3	352400	Itupeva                  :	3791679.12
-    3	352440	Jacarei                  :	3248412.27
-    3	352450	Jaci                     :	2449256.36
-    3	352470	Jaguariuna               :	87346271.04
-    3	352680	Lencois_Paulista         :	117746.33
-    3	353010	Mirandopolis             :	5858303.96
-    3	353150	Monte_Azul_Paulista      :	10208717.30
-    3	353290	Nova_Europa              :	13420503.82
-    3	353540	Panorama                 :	6179399.82
-    3	353740	Pereira_Barreto          :	88085195.79
-    3	353760	Peruibe                  :	668447.22
-    3	353880	Piraju                   :	37250434.52
-    3	353900	Pirangi                  :	25510668.21
-    3	354190	Queluz                   :	18308330.09
-    3	354390	Rio_Claro                :	211879393.56
-    3	354400	Rio_Das_Pedras           :	1614544.81
-    3	354420	Riolandia                :	124971.28
-    3	354540	Salto_Grande             :	10028526.94
-    3	354860	Sao_Bento_Do_Sapucai     :	204684.64
-    3	355070	Sao_Sebastiao            :	93664157.97
-    3	355270	Tabatinga                :	38004424.33
-    3	355300	Taguai                   :	26798321.66
-    3	355430	Teodoro_Sampaio          :	237.73
-    3	355470	Torrinha                 :	2704724.78
-    3	355640	Vargem_Grande_Do_Sul     :	78801.48
+    1	230075	Amontada                 :	60438.32
+    2	230125	Ararenda                 :	27689.26
+    2	230130	Araripe                  :	30286.21
+    2	230150	Arneiroz                 :	24004.00
+    2	230250	Brejo_Santo              :	1448238.18
+    2	230393	Choro                    :	9607.95
+    2	230426	Deputado_Irapuan_Pinheiro:	74817.30
+    2	230450	Frecheirinha             :	48523.85
+    2	230533	Ibicuitinga              :	316183.88
+    2	230560	Independencia            :	1805208.36
+    2	230570	Ipaumirim                :	10041.19
+    2	230680	Jaguaribara              :	152647.62
+    2	230740	Jucas                    :	407382.13
+    2	230760	Limoeiro_Do_Norte        :	411591.61
+    2	230780	Marco                    :	129135.45
+    2	230810	Mauriti                  :	500989.23
+    2	230830	Milagres                 :	484688.64
+    2	230837	Miraima                  :	751262.75
+    2	230910	Mulungu                  :	3923.49
+    2	231010	Palmacia                 :	637309.62
+    2	231025	Paraipaba                :	282900.12
+    2	231040	Paramoti                 :	505290.45
+    2	231070	Pentecoste               :	525825.03
+    2	231123	Potiretama               :	18890.72
+    2	231126	Quiterianopolis          :	230092.63
+    2	231150	Quixere                  :	1823625.52
+    2	231260	Sao_Luis_Do_Curu         :	1246856.08
+    2	231325	Tarrafas                 :	39962.62
+    2	231335	Tejucuoca                :	510529.85
+    2	231370	Umari                    :	265538.31
+    2	231390	Uruoca                   :	168377.94
+    3	230040	Aiuaba                   :	6692.02
+    3	230185	Banabuiu                 :	2712.52
+    3	230350	Cascavel                 :	39113908.96
+    3	230660	Itatira                  :	1283943.03
+    3	231170	Reriutaba                :	4976961.26
+    3	231350	Trairi                   :	57075.15
 ----------------------------------------------------------------

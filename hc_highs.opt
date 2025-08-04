@@ -4,4 +4,4 @@ dual_feasibility_tolerance=1e-9
 time_limit=300
 write_solution_style=2
 solution_file=hc_highs.sol
-log_file = Resultado/log_highs_35.log
+log_file = Resultado/log_highs_23.log

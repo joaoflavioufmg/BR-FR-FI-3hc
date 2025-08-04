@@ -7,7 +7,7 @@ optimizer = "Highs"
 # optimizer = "GLPK"
 # optimizer = "AMPL"
 ############################################################
-state = "SP"
+state = "CE"
 ############################################################
 # "AC", "AL", "AM", "AP", "BA", "CE", "ES", "GO", "MA",
 # "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ",
