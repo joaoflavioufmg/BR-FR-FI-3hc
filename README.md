@@ -144,7 +144,7 @@ BR/
 Execute the full simulation across all scenarios:
 
 ```bash
-cd BR-3hc
+cd BR-FR-FI-3hc
 ./run.bat
 ```
 
