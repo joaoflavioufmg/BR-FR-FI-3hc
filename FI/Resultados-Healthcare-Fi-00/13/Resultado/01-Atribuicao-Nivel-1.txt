@@ -1,0 +1,13 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+167	                       Joensuu	167	                       Joensuu	    0.00
+276	                   Kontiolahti	276	                   Kontiolahti	    0.00
+426	                        Liperi	426	                        Liperi	    0.00
+422	                        Lieksa	422	                        Lieksa	    0.00
+541	                        Nurmes	541	                        Nurmes	    0.00
+309	                     Outokumpu	309	                     Outokumpu	    0.00
+146	                     Ilomantsi	146	                     Ilomantsi	    0.00
+176	                         Juuka	176	                         Juuka	    0.00
+260	                         Kitee	848	                   Tohmajärvi	    0.44
+848	                   Tohmajärvi	848	                   Tohmajärvi	    0.00
+607	                   Polvijärvi	607	                   Polvijärvi	    0.00
+707	                   Rääkkylä	707	                   Rääkkylä	    0.00

@@ -1,0 +1,67 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    740999103.33
+Primary   Care Cost:	    201254646.00
+Secondary Care Cost:	    357779680.00
+Tertiary  Care Cost:	    155232090.00
+Add Infrastruc Cost:	     19962432.20
+Populat ExtLog Cost:	      6770255.13
+HC Cost per capita (now):	     4677.67
+HC Cost per capita (fut):	     4852.74
+----------------------------------------
+
+-----------------------------------
+State population:	152697
+Max municipa pop:	78622
+Min municipa pop:	1743
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.40
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 12 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  12 mun >  11 mun (100.00% coverage)
+Care Level [2]:  11 mun >   3 mun
+Care Level [3]:   3 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	276	Kontiolahti              :	1951826.20
+    1	426	Liperi                   :	1491185.20
+    1	422	Lieksa                   :	1195162.40
+    1	541	Nurmes                   :	1074038.20
+    1	309	Outokumpu                :	738870.80
+    1	146	Ilomantsi                :	515074.40
+    1	176	Juuka                    :	493327.40
+    1	848	Tohmajärvi              :	1595702.60
+    1	607	Polvijärvi              :	478170.40
+    1	707	Rääkkylä              :	229727.40
+    2	276	Kontiolahti              :	6832300.80
+    2	426	Liperi                   :	3367046.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	422	Lieksa                   :	2175047.29
+    2	541	Nurmes                   :	3317985.38
+    2	309	Outokumpu                :	79465.50
+    2	146	Ilomantsi                :	309380.47
+    2	176	Juuka                    :	716387.74
+    2	848	Tohmajärvi              :	142258.86
+    2	607	Polvijärvi              :	22207.96
+    2	707	Rääkkylä              :	7521.94
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

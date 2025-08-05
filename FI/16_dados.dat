@@ -1,0 +1,52 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Päijät-Häme (16)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	20000
+2	3265	# Q1
+3	6867	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.1
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+398	16	60.9804	25.655	120897	0	'Lahti'	
+098	16	60.9886	25.5128	21939	1	'Hollola'	
+111	16	61.2028	26.0319	16672	1	'Heinola'	
+560	16	60.8042	25.7333	15024	1	'Orimattila'	
+781	16	61.5028	25.6847	3040	1	'Sysmä'	
+576	16	61.35	25.275	2480	1	'Padasjoki'	
+081	16	61.5784	26.0142	2201	1	'Hartola'	
+142	16	61.025	25.15	6116	1	'Iitti'	
+316	16	60.868	25.273	3940	1	'Kärkölä'	
+016	16	61.1722	25.5472	7618	1	'Asikkala'				
+;
+
+
+end;

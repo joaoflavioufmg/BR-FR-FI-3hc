@@ -1,0 +1,12 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+853,"Turku",853,"Turku",0,2
+734,"Salo",734,"Salo",0,2
+738,"Sauvo",734,"Salo",0.62,2
+480,"Marttila",734,"Salo",0.64,2
+202,"Kaarina",202,"Kaarina",0,2
+430,"Loimaa",430,"Loimaa",0,2
+284,"Koski Tl",430,"Loimaa",0.56,2
+895,"Uusikaupunki",895,"Uusikaupunki",0,2
+304,"Kustavi",895,"Uusikaupunki",0.66,2
+918,"Vehmaa",895,"Uusikaupunki",0.49,2
+445,"Pargas",445,"Pargas",0,2

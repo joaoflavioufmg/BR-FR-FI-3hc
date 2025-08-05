@@ -1,0 +1,5 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+905,"Vaasa",905,"Vaasa",0,3
+598,"Jakobstad",905,"Vaasa",2.07,3
+499,"Korsholm",905,"Vaasa",0.08,3
+599,"Pedersöre",905,"Vaasa",2.02,3

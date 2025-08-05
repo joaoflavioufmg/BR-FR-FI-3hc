@@ -1,0 +1,10 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+405	                  Lappeenranta	405	                  Lappeenranta	    0.00
+831	                   Taipalsaari	405	                  Lappeenranta	    0.33
+416	                          Lemi	405	                  Lappeenranta	    0.51
+153	                        Imatra	153	                        Imatra	    0.00
+700	                    Ruokolahti	700	                    Ruokolahti	    0.00
+580	                     Parikkala	580	                     Parikkala	    0.00
+689	                    Rautjärvi	580	                     Parikkala	    0.37
+739	                   Savitaipale	739	                   Savitaipale	    0.00
+441	                      Luumäki	441	                      Luumäki	    0.00

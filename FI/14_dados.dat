@@ -1,0 +1,71 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   North Ostrobothnia (14)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	14000
+2	2401	# Q1
+3	5851	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.2
+3 2.0; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+564	14	65.0142	25.4719	223389	0	'Oulu'	
+678	14	64.6847	24.4792	22491	1	'Raahe'	
+244	14	64.9125	25.5083	21632	1	'Kempele'	
+305	14	65.9667	29.1667	14178	1	'Kuusamo'	
+977	14	64.0722	24.5375	15455	0	'Ylivieska'	
+208	14	64.2597	23.9486	11844	1	'Kalajoki'	
+535	14	63.9292	24.9778	9405	1	'Nivala'	
+139	14	65.3167	25.3722	9430	1	'Ii'	
+425	14	64.8083	25.4167	10563	1	'Liminka'	
+494	14	64.8	26	8605	1	'Muhos'	
+615	14	65.3583	27	6920	1	'Pudasjärvi'	
+563	14	64.2667	24.8167	6377	0	'Oulainen'	
+069	14	63.7486	25.3181	5926	1	'Haapajärvi'	
+071	14	64.1375	25.3667	5851	1	'Haapavesi'	
+859	14	64.75	25.65	6202	1	'Tyrnävä'	
+746	14	63.9069	24.5167	4178	1	'Sievi'	
+748	14	64.6639	25.1014	4223	1	'Siikajoki'	
+832	14	65.575	28.2417	3380	1	'Taivalkoski'	
+625	14	64.4667	24.2583	2717	1	'Pyhäjoki'	
+691	14	63.6056	24.9319	2401	1	'Reisjärvi'	
+889	14	64.75	26.4167	2252	1	'Utajärvi'	
+009	14	64.1667	24.3083	2285	1	'Alavieska'	
+317	14	63.975	25.7583	2266	1	'Kärsämäki'	
+436	14	64.8367	25.1867	1982	1	'Lumijoki'	
+791	14	64.2667	25.8667	4408	1	'Siikalatva'	
+630	14	64.0972	26.3306	1595	1	'Pyhäntä'	
+483	14	64.2967	24.4467	945	1	'Merijärvi'	
+072	14	65.0167	24.7167	889	1	'Hailuoto'	
+626	14	63.6833	25.9833	4261	1	'Pyhäjärvi'				
+;
+
+
+end;

@@ -1,0 +1,3 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	609	Pori	123047.00	63.80	231.55	74.09	0.00	83.36	1.54	1.22	0.82	0.41
+3	684	Rauma	78527.00	29.66	107.62	34.44	0.00	38.74	0.72	0.57	0.38	0.19

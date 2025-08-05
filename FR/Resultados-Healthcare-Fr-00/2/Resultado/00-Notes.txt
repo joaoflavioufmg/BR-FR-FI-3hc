@@ -1,0 +1,230 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   8774610830.54
+Primary   Care Cost:	   6503982410.00
+Secondary Care Cost:	    962128475.00
+Tertiary  Care Cost:	    840271120.00
+Add Infrastruc Cost:	    460030977.50
+Populat ExtLog Cost:	      8197848.04
+HC Cost per capita (now):	     1807.13
+HC Cost per capita (fut):	     1909.00
+----------------------------------------
+
+-----------------------------------
+State population:	4596454
+Max municipa pop:	257068
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.30
+[3]			25000  		1.90
+-----------------------------------
+
+
+Demand met by level: (Estate has 1077 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 1077 mun >  88 mun (100.00% coverage)
+Care Level [2]:  88 mun >  16 mun
+Care Level [3]:  16 mun >   6 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2995642	Marmande                 :	4557998.00
+    1	3014383	Guéret                  :	3707158.50
+    1	2989187	Orthez                   :	4910050.00
+    1	2988447	Parthenay                :	4679829.50
+    1	2971298	Ussel                    :	1680595.50
+    1	2976600	Saint-Vincent-de-Tyrosse :	8092526.50
+    1	6429352	Coulounieix              :	14850849.50
+    1	2976542	Saint-Yrieix-sur-Charente:	6403299.50
+    1	3009052	Lagord                   :	24358942.00
+    1	6432268	Lanton                   :	19163911.00
+    1	2980550	Sainte-Hélène          :	5182154.50
+    1	3023919	Confolens                :	908288.50
+    1	3031501	Bort-les-Orgues          :	376531.50
+    1	2993308	Monflanquin              :	6370471.50
+    1	2967253	Ychoux                   :	4979668.00
+    1	6444135	Lezay                    :	3440289.50
+    1	3027576	Chalais                  :	1309441.00
+    1	3004334	Le Dorat                 :	1601072.50
+    1	3015555	Felletin                 :	690803.00
+    1	6440596	Saint-Jean-Pied-de-Port  :	429169.50
+    1	2979520	Saint-Hilaire-la-Palud   :	3150639.00
+    1	2990961	Nanteuil-en-Vallée      :	1393350.50
+    1	2984754	Queyrac                  :	4024401.50
+    1	3016609	Garlin                   :	1750355.00
+    1	2979272	Saint-Jean-de-Thouars    :	4576534.50
+    1	6429516	Saint-Aulaye             :	1186053.00
+    1	6427819	Saint-Amant-de-Boixe     :	12896168.50
+    1	6440402	Guéthary                :	34411385.00
+    1	2978136	Saint-Maurice-la-Clouère:	533455.00
+    1	3034241	Beaulieu-sur-Dordogne    :	581140.50
+    1	3016871	Gabarret                 :	182252.00
+    1	2989708	Ogeu-les-Bains           :	18983498.50
+    1	3004316	Lée                     :	12804618.00
+    1	2972947	Thenon                   :	1348212.00
+    1	3030832	Boussac                  :	400303.50
+    1	2979989	Saint-Genis-de-Saintonge :	1060967.00
+    1	3027631	Chaillac-sur-Vienne      :	3863657.50
+    1	2972719	Thorigné                :	5364406.50
+    1	3037123	Ardin                    :	12625620.50
+    1	3035816	Auzances                 :	363655.00
+    1	8290730	Jumilhac-le-Grand        :	1504428.00
+    1	3024855	Civaux                   :	3759796.50
+    1	6612531	Sainte-Marie-de-Gosse    :	8094932.00
+    1	6455625	La Couarde-sur-Mer       :	3327231.00
+    1	2987332	Piégut-Pluviers         :	1050920.50
+    1	2992586	Montfort-en-Chalosse     :	9313105.50
+    1	2982063	Sabres                   :	978331.00
+    1	3001899	Les Billaux              :	18234397.50
+    1	2976047	Sarbazan                 :	165130.50
+    1	2984314	Razès                   :	563170.00
+    1	6451265	Combrand                 :	7999844.00
+    1	2978270	Saint-Martin-Lacaussade  :	7896690.50
+    1	3013437	Herm                     :	1949587.00
+    1	3036370	Aubiac                   :	1732950.50
+    1	2986390	Arnac-Pompadour          :	2342391.00
+    1	3023534	Corrèze                 :	4281365.50
+    1	6427927	Corme-Écluse            :	8085451.50
+    1	3036579	Aslonnes                 :	6082660.50
+    1	6451661	Charrais                 :	22687968.50
+    1	2981907	Saint-Agnant-de-Versillat:	1376795.00
+    1	3025472	Chéraute                :	1172893.50
+    1	2970205	Vélines                 :	4623512.50
+    1	3025365	Chevanceaux              :	1990197.50
+    1	3009747	La Croix-Blanche         :	12706841.50
+    1	3024468	Cocumont                 :	962624.50
+    1	2999431	Les Trois-Moutiers       :	1489570.50
+    1	3014930	Le Grand-Village-Plage   :	6958545.50
+    1	2974480	Siorac-en-Périgord      :	2911928.50
+    1	2981078	Saint-Claud              :	1631495.00
+    1	2995048	Maurens                  :	7306352.50
+    1	2974666	Seyches                  :	1967982.00
+    1	2998253	Linards                  :	848858.50
+    1	3036567	Asnières-la-Giraud      :	1615647.00
+    1	3006461	Proissans                :	365211.50
+    1	2967103	Peyrat-le-Château       :	1003942.50
+    1	2989519	Onesse-Laharie           :	2194523.50
+    1	2976374	Salles-d’Angles        :	5403885.00
+    1	2978652	Saint-Magne              :	2942917.00
+    1	2997036	Lussant                  :	10916442.00
+    1	2985522	Préchac                 :	1467213.50
+    1	3018585	Feugarolles              :	5471946.50
+    2	2995642	Marmande                 :	6066291.00
+    2	3014383	Guéret                  :	3798564.00
+    2	2989187	Orthez                   :	3625545.00
+    2	2988447	Parthenay                :	3982671.00
+    2	2971298	Ussel                    :	3180870.00
+    2	2976600	Saint-Vincent-de-Tyrosse :	2616537.00
+    2	6429352	Coulounieix              :	2523675.00
+    2	2976542	Saint-Yrieix-sur-Charente:	3223605.00
+    2	3009052	Lagord                   :	2272578.00
+    2	6432268	Lanton                   :	2167242.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2997185	Ludon-Médoc             :	2157.76
+    1	3014084	Hagetmau                 :	2042.75
+    1	3013069	Hourtin                  :	1600.17
+    1	2970120	Vendeuvre-du-Poitou      :	1405.56
+    1	2977287	Saint-Quentin-de-Baron   :	1092.88
+    1	3028107	Cavignac                 :	939.37
+    1	3010273	La Chapelle-Saint-Laurent:	882.52
+    1	3033967	Beauvoir-sur-Niort       :	770.13
+    1	2990949	Nantiat                  :	699.28
+    1	3006775	La Roche-Posay           :	680.92
+    1	2984351	Rauzan                   :	534.85
+    1	2973962	Souprosse                :	495.49
+    1	3028049	Cazères-sur-l’Adour   :	477.56
+    1	2969015	Villandraut              :	476.25
+    1	3032932	Beurlay                  :	450.44
+    1	2978910	Saint-Laurent-des-Hommes :	443.88
+    2	2980550	Sainte-Hélène          :	14198.99
+    2	3029253	Cadillac                 :	7523.87
+    2	3023919	Confolens                :	194548.65
+    2	3031501	Bort-les-Orgues          :	392.19
+    2	2993308	Monflanquin              :	146283.93
+    2	2967253	Ychoux                   :	81380.84
+    2	6444135	Lezay                    :	107943.70
+    2	3027576	Chalais                  :	84993.55
+    2	3004334	Le Dorat                 :	72517.14
+    2	3015555	Felletin                 :	35691.32
+    2	6440596	Saint-Jean-Pied-de-Port  :	138496.54
+    2	2979520	Saint-Hilaire-la-Palud   :	19609.12
+    2	2990961	Nanteuil-en-Vallée      :	33495.68
+    2	2984754	Queyrac                  :	107261.67
+    2	3016609	Garlin                   :	42517.78
+    2	2979272	Saint-Jean-de-Thouars    :	18592.02
+    2	6429516	Saint-Aulaye             :	55229.92
+    2	6440402	Guéthary                :	20513.12
+    2	2978136	Saint-Maurice-la-Clouère:	98428.27
+    2	3034241	Beaulieu-sur-Dordogne    :	8455.60
+    2	3016871	Gabarret                 :	45892.52
+    2	2989708	Ogeu-les-Bains           :	52139.00
+    2	3004316	Lée                     :	58145.50
+    2	2972947	Thenon                   :	20659.69
+    2	3030832	Boussac                  :	12158.89
+    2	2979989	Saint-Genis-de-Saintonge :	6305.64
+    2	3027631	Chaillac-sur-Vienne      :	6894.59
+    2	2972719	Thorigné                :	31898.91
+    2	3037123	Ardin                    :	7442.73
+    2	3035816	Auzances                 :	101085.17
+    2	8290730	Jumilhac-le-Grand        :	35682.75
+    2	3024855	Civaux                   :	42899.53
+    2	6455625	La Couarde-sur-Mer       :	26.13
+    2	2987332	Piégut-Pluviers         :	91347.94
+    2	2992586	Montfort-en-Chalosse     :	12177.75
+    2	2982063	Sabres                   :	13977.63
+    2	3001899	Les Billaux              :	9021.76
+    2	2976047	Sarbazan                 :	26.02
+    2	2984314	Razès                   :	462.34
+    2	6451265	Combrand                 :	35943.18
+    2	2978270	Saint-Martin-Lacaussade  :	26412.50
+    2	3013437	Herm                     :	25.46
+    2	3036370	Aubiac                   :	91606.26
+    2	2986390	Arnac-Pompadour          :	4235.80
+    2	3023534	Corrèze                 :	17472.42
+    2	6427927	Corme-Écluse            :	103.82
+    2	3036579	Aslonnes                 :	51408.00
+    2	6451661	Charrais                 :	2915.57
+    2	2981907	Saint-Agnant-de-Versillat:	5471.59
+    2	3025472	Chéraute                :	4957.10
+    2	2970205	Vélines                 :	28967.42
+    2	3025365	Chevanceaux              :	80867.94
+    2	3009747	La Croix-Blanche         :	65039.73
+    2	2999431	Les Trois-Moutiers       :	69564.53
+    2	3014930	Le Grand-Village-Plage   :	69303.01
+    2	2974480	Siorac-en-Périgord      :	59505.16
+    2	2981078	Saint-Claud              :	16299.36
+    2	2995048	Maurens                  :	8777.45
+    2	2998253	Linards                  :	1402.38
+    2	3006461	Proissans                :	9949.94
+    2	2967103	Peyrat-le-Château       :	26013.41
+    2	2989519	Onesse-Laharie           :	71522.51
+    2	2976374	Salles-d’Angles        :	2404.06
+    2	2978652	Saint-Magne              :	6076.92
+    2	2997036	Lussant                  :	3028.26
+    2	2985522	Préchac                 :	63467.43
+    2	3018585	Feugarolles              :	11958.64
+    3	2995642	Marmande                 :	1391610.26
+    3	3014383	Guéret                  :	460513.23
+    3	2989187	Orthez                   :	71555.84
+    3	2988447	Parthenay                :	518313.52
+    3	2971298	Ussel                    :	1252368.56
+    3	2976600	Saint-Vincent-de-Tyrosse :	696214.47
+    3	6429352	Coulounieix              :	495364.24
+    3	2976542	Saint-Yrieix-sur-Charente:	249744.68
+    3	3009052	Lagord                   :	375995.20
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

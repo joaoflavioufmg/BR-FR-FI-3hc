@@ -1,0 +1,67 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    768950697.40
+Primary   Care Cost:	    362085765.00
+Secondary Care Cost:	    190459500.00
+Tertiary  Care Cost:	    186670375.00
+Add Infrastruc Cost:	     28773958.50
+Populat ExtLog Cost:	       961098.90
+HC Cost per capita (now):	     2888.79
+HC Cost per capita (fut):	     3004.99
+----------------------------------------
+
+-----------------------------------
+State population:	255891
+Max municipa pop:	70659
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.10
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 48 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  48 mun >  10 mun (100.00% coverage)
+Care Level [2]:  10 mun >   3 mun
+Care Level [3]:   3 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2985947	Porto-Vecchio            :	2826462.50
+    1	2988658	Corte                    :	1056722.00
+    1	6431189	Oletta                   :	12073912.00
+    1	2974157	Sotta                    :	645523.00
+    1	2974365	Solenzara                :	1654276.50
+    1	3028606	Cargèse                 :	185789.50
+    1	2989579	Olmeto                   :	1154215.50
+    1	2998221	Linguizzetta             :	1058420.00
+    1	2976121	Santa-Reparata-di-Balagna:	2168770.50
+    2	2985947	Porto-Vecchio            :	3340722.00
+    2	2988658	Corte                    :	2609145.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2988063	Penta-di-Casinca         :	1480.78
+    2	6431189	Oletta                   :	62133.02
+    2	2974365	Solenzara                :	11719.86
+    2	3028606	Cargèse                 :	2744.38
+    2	2989579	Olmeto                   :	4311.05
+    2	2998221	Linguizzetta             :	3008.05
+    2	2976121	Santa-Reparata-di-Balagna:	27521.09
+    3	2985947	Porto-Vecchio            :	622438.69
+    3	2988658	Corte                    :	225741.99
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

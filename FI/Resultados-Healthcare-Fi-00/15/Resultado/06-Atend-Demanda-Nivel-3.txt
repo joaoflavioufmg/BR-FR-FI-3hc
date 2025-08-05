@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	749	Siilinjärvi	235851.00	102.32	371.31	118.82	0.00	133.67	2.48	1.96	1.32	0.66

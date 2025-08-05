@@ -1,0 +1,11 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+398,"Lahti",398,"Lahti",0,1
+98,"Hollola",98,"Hollola",0,1
+142,"Iitti",98,"Hollola",0.5,1
+316,"Kärkölä",98,"Hollola",0.47,1
+16,"Asikkala",98,"Hollola",0.51,1
+111,"Heinola",111,"Heinola",0,1
+560,"Orimattila",560,"Orimattila",0,1
+576,"Padasjoki",576,"Padasjoki",0,1
+781,"Sysmä",81,"Hartola",0.48,1
+81,"Hartola",81,"Hartola",0,1

@@ -1,0 +1,198 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  11309122702.22
+Primary   Care Cost:	   9588146125.00
+Secondary Care Cost:	    681503900.00
+Tertiary  Care Cost:	    509915962.00
+Add Infrastruc Cost:	    521871420.00
+Populat ExtLog Cost:	      7685295.22
+HC Cost per capita (now):	     1590.83
+HC Cost per capita (fut):	     1668.98
+----------------------------------------
+
+-----------------------------------
+State population:	6776075
+Max municipa pop:	516092
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			8000   		1.45
+[3]			25000  		1.60
+-----------------------------------
+
+
+Demand met by level: (Estate has 1410 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 1410 mun >  75 mun (100.00% coverage)
+Care Level [2]:  75 mun >  13 mun
+Care Level [3]:  13 mun >   5 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2983489	Riom                     :	52227508.50
+    1	2967166	Yzeure                   :	6319531.50
+    1	2970831	Bellegarde-sur-Valserine :	4809160.50
+    1	3019238	Eybens                   :	67007042.00
+    1	2993277	Monistrol-sur-Loire      :	7871362.00
+    1	3021729	Dardilly                 :	2059391.00
+    1	3027301	Chamonix-Mont-Blanc      :	7271685.00
+    1	3007730	Langeac                  :	913807.00
+    1	3025274	Chevry                   :	11898735.00
+    1	2991179	Murat                    :	1163130.00
+    1	2996874	Mâcot-la-Plagne         :	5057210.00
+    1	2971074	Val-d’Isère           :	223145.50
+    1	2978623	Saint-Mamet-la-Salvetat  :	520295.50
+    1	2994806	Méaudre                 :	3527878.00
+    1	2993323	Monestier-de-Clermont    :	1309016.50
+    1	3003517	Le Mayet-de-Montagne     :	2263717.00
+    1	6614502	Lempdes-sur-Allagnon     :	5619955.50
+    1	6430201	Saillans                 :	847019.00
+    1	3027880	Cérilly                 :	1469053.00
+    1	2979705	Saint-Gervais-d’Auvergne:	1004225.50
+    1	3004433	Le Crest                 :	6346982.50
+    1	2987922	Pérouges                :	10016926.50
+    1	6424578	Malafretaz               :	9263297.50
+    1	6424542	Groissiat                :	5721269.50
+    1	3000902	Les Gets                 :	1752194.50
+    1	2985835	Pouilly-lès-Feurs       :	7114761.50
+    1	3036723	Arsac-en-Velay           :	9189151.50
+    1	6448959	Boisset-lès-Montrond    :	4870005.50
+    1	6424514	Dompierre-sur-Veyle      :	15873894.50
+    1	3010460	La Chambre               :	1865960.50
+    1	6434284	Saint-Just-en-Chevalet   :	2500022.00
+    1	2977050	Saint-Sauves-d’Auvergne:	740752.50
+    1	3022100	Culhat                   :	5090462.50
+    1	2990587	Neuvéglise              :	326299.00
+    1	6455737	La Garde-Adhémar        :	6424666.00
+    1	2967945	Virieu-le-Grand          :	4593514.50
+    1	2977132	Saint-Romain-Lachalm     :	748535.00
+    1	2978326	Saint-Martin-de-Valamas  :	1896807.50
+    1	2992777	Mont-de-Lans             :	1072994.50
+    1	2972868	Thiel-sur-Acolin         :	1807238.00
+    1	6454096	Virieu                   :	27168424.50
+    1	3022800	Coutouvre                :	15368173.50
+    1	2973493	Talencieux               :	12987436.00
+    1	2968019	Vinsobres                :	2802549.00
+    1	2981224	Saint-Cernin             :	862725.50
+    1	6456430	Les Villards-sur-Thônes :	30935013.00
+    1	6442904	Saint-Thibaud-de-Couz    :	24269514.00
+    1	2970899	Valloire                 :	2021186.00
+    1	6433169	Chozeau                  :	20099084.50
+    1	6615931	Champs sur Tarentaine    :	1086861.50
+    1	3007921	Lancié                  :	2853206.00
+    1	3027847	Cernex                   :	12962390.50
+    1	6442840	Notre-Dame-des-Millières:	5996770.00
+    1	2979986	Saint-Genis-l’Argentière:	1580838.00
+    1	3011217	La Bâtie-Rolland        :	10830693.00
+    1	6457196	Les Adrets               :	2989046.00
+    1	3012329	Job                      :	1470185.00
+    1	2977760	Saint-Pal-de-Chalencon   :	1101011.50
+    1	6433205	Gillonnay                :	5475767.00
+    1	3033677	Bellenaves               :	2933719.50
+    1	3001357	Montcel                  :	11987880.00
+    1	3026398	Chassenard               :	454781.00
+    1	3005992	Laurac-en-Vivarais       :	6646962.50
+    1	2996796	Magnet                   :	9681996.00
+    2	2983489	Riom                     :	6096783.00
+    2	2967166	Yzeure                   :	3697386.00
+    2	2970831	Bellegarde-sur-Valserine :	3706395.00
+    2	3019238	Eybens                   :	3545619.00
+    2	2993277	Monistrol-sur-Loire      :	3618846.00
+    2	3021729	Dardilly                 :	3048276.00
+    2	3027301	Chamonix-Mont-Blanc      :	2993298.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2979342	Saint-Jean-de-Bournay    :	2002.51
+    1	8292479	Salaise-sur-Sanne        :	1961.40
+    1	2991847	Morestel                 :	1955.72
+    1	2978163	Saint-Maurice-de-Beynost :	1739.24
+    1	6456872	La Buisse                :	1394.63
+    1	2994768	Megève                  :	1330.78
+    1	2972411	Pontcharra-sur-Turdine   :	1208.77
+    1	3033071	Bessenay                 :	1013.28
+    1	3033688	Bellegarde-en-Forez      :	873.78
+    1	2977142	Saint-Romain-de-Popey    :	685.29
+    1	2975606	Savasse                  :	639.37
+    1	2968760	Villefranche-d’Allier  :	570.71
+    1	3007326	Lapeyrouse-Mornay        :	533.10
+    1	6455359	Agnin                    :	492.87
+    1	2976660	Saint-Victor-de-Morestel :	474.93
+    1	3010374	La Chapelle-d’Aurec    :	453.51
+    2	2979985	Saint-Genis-Laval        :	96.76
+    2	3015823	Gleizé                  :	637521.00
+    2	2977350	Saint-Priest-en-Jarez    :	124159.22
+    2	3007730	Langeac                  :	399106.23
+    2	6451052	Contamine-sur-Arve       :	5284.73
+    2	3025274	Chevry                   :	21286.21
+    2	2991179	Murat                    :	37806.20
+    2	6430138	Montéléger             :	779.05
+    2	2996874	Mâcot-la-Plagne         :	58290.88
+    2	2971074	Val-d’Isère           :	130421.76
+    2	2994806	Méaudre                 :	26953.47
+    2	2993323	Monestier-de-Clermont    :	75790.72
+    2	3003517	Le Mayet-de-Montagne     :	68113.40
+    2	6614502	Lempdes-sur-Allagnon     :	157572.91
+    2	6430201	Saillans                 :	31323.85
+    2	3027880	Cérilly                 :	14991.19
+    2	2979705	Saint-Gervais-d’Auvergne:	23964.76
+    2	3004433	Le Crest                 :	425.52
+    2	2987922	Pérouges                :	69316.77
+    2	6424578	Malafretaz               :	142757.80
+    2	6424542	Groissiat                :	53.17
+    2	3000902	Les Gets                 :	2440.11
+    2	2985835	Pouilly-lès-Feurs       :	28928.91
+    2	3036723	Arsac-en-Velay           :	20819.89
+    2	6448959	Boisset-lès-Montrond    :	93814.30
+    2	6424514	Dompierre-sur-Veyle      :	49270.82
+    2	3010460	La Chambre               :	68453.35
+    2	6434284	Saint-Just-en-Chevalet   :	123457.30
+    2	2977050	Saint-Sauves-d’Auvergne:	49514.11
+    2	2990587	Neuvéglise              :	35239.02
+    2	6455737	La Garde-Adhémar        :	25093.16
+    2	2967945	Virieu-le-Grand          :	6638.67
+    2	2977132	Saint-Romain-Lachalm     :	77603.05
+    2	2978326	Saint-Martin-de-Valamas  :	3466.33
+    2	2992777	Mont-de-Lans             :	7707.71
+    2	6454096	Virieu                   :	51768.86
+    2	3022800	Coutouvre                :	76689.24
+    2	2973493	Talencieux               :	3403.42
+    2	2968019	Vinsobres                :	123233.40
+    2	6456430	Les Villards-sur-Thônes :	74931.93
+    2	6442904	Saint-Thibaud-de-Couz    :	24032.57
+    2	2970899	Valloire                 :	87499.19
+    2	6433169	Chozeau                  :	6836.89
+    2	6615931	Champs sur Tarentaine    :	86506.76
+    2	3007921	Lancié                  :	25916.01
+    2	3027847	Cernex                   :	47069.12
+    2	6442840	Notre-Dame-des-Millières:	79985.36
+    2	2979986	Saint-Genis-l’Argentière:	14221.87
+    2	3011217	La Bâtie-Rolland        :	3576.32
+    2	6457196	Les Adrets               :	79.94
+    2	3012329	Job                      :	60525.31
+    2	6433205	Gillonnay                :	13153.87
+    2	3033677	Bellenaves               :	22791.45
+    2	3001357	Montcel                  :	37654.30
+    2	3026398	Chassenard               :	63974.01
+    2	3005992	Laurac-en-Vivarais       :	11550.21
+    2	2996796	Magnet                   :	24994.88
+    3	2983489	Riom                     :	1444112.12
+    3	2967166	Yzeure                   :	940347.31
+    3	2970831	Bellegarde-sur-Valserine :	456200.98
+    3	3019238	Eybens                   :	318436.63
+    3	2993277	Monistrol-sur-Loire      :	520083.02
+    3	3027301	Chamonix-Mont-Blanc      :	344561.23
+    3	2985290	Privas                   :	85366.83
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

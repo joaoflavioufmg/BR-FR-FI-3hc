@@ -1,0 +1,182 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   7610871521.76
+Primary   Care Cost:	   5975007300.00
+Secondary Care Cost:	    699125350.00
+Tertiary  Care Cost:	    562470293.00
+Add Infrastruc Cost:	    370591671.17
+Populat ExtLog Cost:	      3676907.59
+HC Cost per capita (now):	     1713.77
+HC Cost per capita (fut):	     1802.41
+----------------------------------------
+
+-----------------------------------
+State population:	4222620
+Max municipa pop:	284677
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.20
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 941 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 941 mun >  64 mun (100.00% coverage)
+Care Level [2]:  64 mun >  12 mun
+Care Level [3]:  12 mun >   7 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3020062	Épernay                 :	5502369.00
+    1	3025892	Chaumont                 :	4074351.00
+    1	6441606	Saint-Louis              :	11057376.00
+    1	2967856	Vitry-le-François       :	2224238.50
+    1	2975588	Saverne                  :	5588684.00
+    1	3012467	Jarny                    :	10262712.00
+    1	3007680	Langres                  :	2316496.50
+    1	2973008	Thaon-les-Vosges         :	2833679.00
+    1	2980400	Sainte-Menehould         :	794664.00
+    1	3030093	Brienne-le-Château      :	999697.50
+    1	3018694	Fère-Champenoise        :	1716961.00
+    1	2998425	Liffol-le-Grand          :	1241804.00
+    1	3031086	Bourbonne-les-Bains      :	286537.50
+    1	2970546	Vaucouleurs              :	1979726.50
+    1	3029499	Burnhaupt-le-Bas         :	31463374.00
+    1	3019548	Esternay                 :	1152234.50
+    1	3024899	Cirey-sur-Vezouze        :	3205541.00
+    1	6437253	Vigneulles-lès-Hattonchâtel:	797494.00
+    1	6455322	Bulgnéville             :	1370286.00
+    1	2973530	Taintrux                 :	7164569.50
+    1	3016973	Froncles                 :	639863.00
+    1	3013410	Hermonville              :	33665821.50
+    1	3016264	Gerbéviller             :	4738835.00
+    1	3018824	Fayl-Billot              :	185506.50
+    1	3020710	Dugny-sur-Meuse          :	3698102.50
+    1	2969364	Vic-sur-Seille           :	1738044.50
+    1	3011431	Kogenheim                :	5762304.50
+    1	2984412	Raon-aux-Bois            :	12398513.00
+    1	3014738	Grendelbruch             :	3784983.50
+    1	6451767	Ban-de-Laveline          :	4424139.00
+    1	6435885	Mareuil-le-Port          :	985972.00
+    1	2986094	Pont-sur-Seine           :	3390764.50
+    1	3032468	Blagny                   :	2357673.00
+    1	2997719	Longeville-en-Barrois    :	4049305.50
+    1	2990415	Niederhergheim           :	1439338.00
+    1	2973773	Stuckange                :	37077528.00
+    1	3021149	Dompaire                 :	3919267.00
+    1	3036444	Attigny                  :	2282253.50
+    1	3013221	Hoffen                   :	7456059.50
+    1	6616951	Louvercy                 :	4710959.50
+    1	2992967	Montauville              :	4654642.50
+    1	3026965	Chancenay                :	5015467.50
+    1	6616928	Auménancourt-le-Grand   :	1213928.50
+    1	2967349	Wimmenau                 :	3911060.00
+    1	3021403	Diesen                   :	11301605.00
+    1	3003464	Le Ménil                :	5641746.50
+    1	3016992	Fromelennes              :	2308006.50
+    1	3021973	Cutry                    :	14080948.00
+    1	2995151	Maubert-Fontaine         :	837538.50
+    1	2984201	Recy                     :	7034814.00
+    1	2967137	Zimmersheim              :	421387.00
+    1	2991095	Mussy-sur-Seine          :	741035.50
+    1	2988824	Pagny-sur-Meuse          :	1646635.50
+    1	2968293	Ville-sous-la-Ferté     :	828765.50
+    1	6446911	Auxon                    :	800465.50
+    1	2975582	Savières                :	1220154.50
+    2	3020062	Épernay                 :	7406553.00
+    2	3025892	Chaumont                 :	6139287.00
+    2	6441606	Saint-Louis              :	6851460.00
+    2	2967856	Vitry-le-François       :	4182024.00
+    2	2975588	Saverne                  :	8569176.00
+    2	3012467	Jarny                    :	3070221.00
+    2	3007680	Langres                  :	2549085.00
+    2	2973008	Thaon-les-Vosges         :	3521364.00
+    3	3020062	Épernay                 :	9739676.10
+    3	3025892	Chaumont                 :	12929823.48
+    3	6441606	Saint-Louis              :	9236772.09
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2972350	Toul                     :	6765.25
+    1	2973511	Talange                  :	3380.96
+    1	2989087	Ottange                  :	1344.34
+    1	6450659	Biesheim                 :	1114.74
+    1	3011969	Kaysersberg              :	1071.45
+    1	3021888	Dambach-la-Ville         :	969.11
+    1	2992466	Montier-en-Der           :	859.78
+    1	3019532	Estissac                 :	804.68
+    1	2989938	Novéant-sur-Moselle     :	791.56
+    1	2986186	Pontfaverger-Moronvilliers:	765.76
+    1	3021420	Diemeringen              :	700.16
+    1	3026216	Château-Porcien         :	585.14
+    1	3033015	Bétheniville            :	560.21
+    1	3033155	Bertrichamps             :	478.43
+    1	2982165	Rumersheim-le-Haut       :	467.50
+    1	3015903	Givonne                  :	457.88
+    2	3019865	Erstein                  :	394568.45
+    2	3029771	Brumath                  :	15320.30
+    2	2982636	Rouffach                 :	252655.04
+    2	2980400	Sainte-Menehould         :	267005.16
+    2	3030093	Brienne-le-Château      :	38010.95
+    2	3018694	Fère-Champenoise        :	18980.64
+    2	2998425	Liffol-le-Grand          :	65353.75
+    2	3031086	Bourbonne-les-Bains      :	20829.31
+    2	2970546	Vaucouleurs              :	43159.28
+    2	3029499	Burnhaupt-le-Bas         :	22600.92
+    2	3019548	Esternay                 :	100651.70
+    2	3024899	Cirey-sur-Vezouze        :	25326.38
+    2	6437253	Vigneulles-lès-Hattonchâtel:	914.43
+    2	6455322	Bulgnéville             :	71625.66
+    2	2973530	Taintrux                 :	25454.37
+    2	3016973	Froncles                 :	37.84
+    2	3013410	Hermonville              :	15523.52
+    2	3016264	Gerbéviller             :	9186.72
+    2	3018824	Fayl-Billot              :	220.82
+    2	3020710	Dugny-sur-Meuse          :	24510.52
+    2	2969364	Vic-sur-Seille           :	7418.90
+    2	3011431	Kogenheim                :	80937.89
+    2	2984412	Raon-aux-Bois            :	422.20
+    2	3014738	Grendelbruch             :	4146.87
+    2	6451767	Ban-de-Laveline          :	83631.13
+    2	3007106	Laquenexy                :	85067.36
+    2	2986094	Pont-sur-Seine           :	51671.14
+    2	3032468	Blagny                   :	27218.66
+    2	2997719	Longeville-en-Barrois    :	68150.04
+    2	2990415	Niederhergheim           :	65094.29
+    2	2973773	Stuckange                :	10851.42
+    2	3036444	Attigny                  :	15387.34
+    2	3013221	Hoffen                   :	74994.39
+    2	6616951	Louvercy                 :	2590.19
+    2	2992967	Montauville              :	5052.26
+    2	3026965	Chancenay                :	6121.17
+    2	6616928	Auménancourt-le-Grand   :	29457.39
+    2	2967349	Wimmenau                 :	13507.88
+    2	3021403	Diesen                   :	5519.06
+    2	3003464	Le Ménil                :	67426.76
+    2	3016992	Fromelennes              :	33500.29
+    2	3021973	Cutry                    :	23140.18
+    2	2995151	Maubert-Fontaine         :	471.54
+    2	2984201	Recy                     :	2129.78
+    2	2991095	Mussy-sur-Seine          :	70722.14
+    2	2988824	Pagny-sur-Meuse          :	11238.48
+    2	2968293	Ville-sous-la-Ferté     :	1814.85
+    2	6446911	Auxon                    :	1106.80
+    3	2967856	Vitry-le-François       :	755221.69
+    3	2975588	Saverne                  :	57493.34
+    3	3012467	Jarny                    :	505862.58
+    3	2973008	Thaon-les-Vosges         :	76486.89
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

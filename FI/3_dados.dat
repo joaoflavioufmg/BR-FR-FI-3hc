@@ -1,0 +1,59 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   South Ostrobothnia (03)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	18000
+2	2285	# Q1
+3	4734	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.1 
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+743	03	62.7903	22.8403	68050	0	'Seinäjoki'	
+301	03	62.6167	22.4	18203	1	'Kurikka'	
+233	03	63.1014	23.0639	13491	1	'Kauhava'	
+408	03	62.9708	23.0069	13327	1	'Lapua'	
+232	03	62.4319	22.1794	11592	1	'Kauhajoki'	
+145	03	62.7333	22.5833	12473	1	'Ilmajoki'	
+010	03	62.5861	23.6194	10100	1	'Alavus'	
+005	03	63	23.8167	8307	1	'Alajärvi'	
+989	03	62.55	24.0694	4734	0	'Ähtäri'	
+846	03	62.4861	21.7472	4200	1	'Teuva'	
+300	03	62.8083	23.5083	3204	1	'Kuortane'	
+403	03	63.2167	23.6333	2453	1	'Lappajärvi'	
+934	03	63.1617	23.8167	2285	1	'Vimpeli'	
+052	03	63.3667	23.475	2142	1	'Evijärvi'	
+759	03	62.875	24.2083	1679	1	'Soini'	
+151	03	62.1139	21.9583	1664	1	'Isojoki'	
+218	03	62.3083	21.7083	1010	1	'Karijoki'			
+;
+
+
+end;

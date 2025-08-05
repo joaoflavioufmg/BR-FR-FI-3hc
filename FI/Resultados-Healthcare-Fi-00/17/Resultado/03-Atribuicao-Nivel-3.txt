@@ -1,0 +1,6 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+609	                          Pori	609	                          Pori	    0.00
+886	                        Ulvila	609	                          Pori	    0.19
+214	                  Kankaanpää	609	                          Pori	    1.19
+684	                         Rauma	684	                         Rauma	    0.00
+50	                          Eura	684	                         Rauma	    0.78

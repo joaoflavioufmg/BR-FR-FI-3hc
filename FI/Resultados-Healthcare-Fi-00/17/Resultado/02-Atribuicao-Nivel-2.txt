@@ -1,0 +1,10 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+609	                          Pori	609	                          Pori	    0.00
+608	                      Pomarkku	609	                          Pori	    0.64
+747	                     Siikainen	609	                          Pori	    1.11
+684	                         Rauma	684	                         Rauma	    0.00
+886	                        Ulvila	886	                        Ulvila	    0.00
+50	                          Eura	50	                          Eura	    0.00
+102	                     Huittinen	50	                          Eura	    0.83
+214	                  Kankaanpää	214	                  Kankaanpää	    0.00
+230	                        Karvia	214	                  Kankaanpää	    0.94

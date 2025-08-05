@@ -1,0 +1,6 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+609,"Pori",609,"Pori",0,3
+886,"Ulvila",609,"Pori",0.19,3
+214,"Kankaanpää",609,"Pori",1.19,3
+684,"Rauma",684,"Rauma",0,3
+50,"Eura",684,"Rauma",0.78,3

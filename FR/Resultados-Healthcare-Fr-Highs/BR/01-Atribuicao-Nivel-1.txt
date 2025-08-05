@@ -1,0 +1,738 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6498011	                        Rennes	6498011	                        Rennes	    0.00
+3030300	                         Brest	3030300	                         Brest	    0.00
+8291241	                     Plouzané	3030300	                         Brest	    0.21
+2997965	            Locmaria-Plouzané	3030300	                         Brest	    0.29
+6431001	                  Plougonvelin	3030300	                         Brest	    0.43
+2986698	                     Plouarzel	3030300	                         Brest	    0.46
+2993884	                       Milizac	3030300	                         Brest	    0.26
+3029068	               Camaret-sur-Mer	3030300	                         Brest	    0.38
+2986661	                      Plouguin	3030300	                         Brest	    0.43
+2986646	                    Ploumoguer	3030300	                         Brest	    0.43
+3007487	                      Lanvéoc	3030300	                         Brest	    0.29
+3007490	                   Lanrivoaré	3030300	                         Brest	    0.36
+2986634	                       Plourin	3030300	                         Brest	    0.49
+2973813	                       Quimper	2973813	                       Quimper	    0.00
+3017624	                     Fouesnant	2973813	                       Quimper	    0.33
+3019920	               Ergué-Gabéric	2973813	                       Quimper	    0.14
+3030102	                         Briec	2973813	                       Quimper	    0.34
+3009352	           La Forêt-Fouesnant	2973813	                       Quimper	    0.33
+3020283	                       Elliant	2973813	                       Quimper	    0.38
+6430984	                     Plogonnec	2973813	                       Quimper	    0.29
+3007645	                         Edern	2973813	                       Quimper	    0.37
+3007818	                 Landrévarzec	2973813	                       Quimper	    0.27
+6431031	                 Quéménéven	2973813	                       Quimper	    0.33
+6464789	                       Lorient	6464789	                       Lorient	    0.00
+3007663	                     Languidic	6464789	                       Lorient	    0.44
+2970777	                        Vannes	2970777	                        Vannes	    0.00
+2978640	                    Saint-Malo	2978640	                    Saint-Malo	    0.00
+2986757	                     Pleurtuit	2978640	                    Saint-Malo	    0.21
+2978062	       Saint-Méloir-des-Ondes	2978640	                    Saint-Malo	    0.19
+6612499	                 Miniac-Morvan	2978640	                    Saint-Malo	    0.42
+2986683	             Plouër-sur-Rance	2978640	                    Saint-Malo	    0.33
+2981237	          Saint-Cast-le-Guildo	2978640	                    Saint-Malo	    0.46
+2986695	                     Ploubalay	2978640	                    Saint-Malo	    0.31
+6616116	           Pleudihen-sur-Rance	2978640	                    Saint-Malo	    0.40
+2981008	                 Saint-Coulomb	2978640	                    Saint-Malo	    0.19
+2986796	                      Plerguer	2978640	                    Saint-Malo	    0.45
+2979160	      Saint-Jouan-des-Guérets	2978640	                    Saint-Malo	    0.15
+3009266	                   La Fresnais	2978640	                    Saint-Malo	    0.34
+2973579	                         Taden	2978640	                    Saint-Malo	    0.48
+2978668	                 Saint-Lunaire	2978640	                    Saint-Malo	    0.19
+3006929	                 La Richardais	2978640	                    Saint-Malo	    0.13
+2977616	    Saint-Père-Marc-en-Poulet	2978640	                    Saint-Malo	    0.23
+2981294	           Saint-Briac-sur-Mer	2978640	                    Saint-Malo	    0.24
+6455892	                La Gouesnière	2978640	                    Saint-Malo	    0.24
+3026237	Châteauneuf-d’Ille-et-Vilaine	2978640	                    Saint-Malo	    0.28
+3022611	                       Créhen	2978640	                    Saint-Malo	    0.47
+2977085	        Saint-Samson-sur-Rance	2978640	                    Saint-Malo	    0.44
+3007919	                      Lancieux	2978640	                    Saint-Malo	    0.28
+2979595	                  Saint-Hélen	2978640	                    Saint-Malo	    0.50
+3003332	          Le Minihic-sur-Rance	2978640	                    Saint-Malo	    0.20
+3013263	                         Hirel	2978640	                    Saint-Malo	    0.40
+2982298	                 Roz-Landrieux	2978640	                    Saint-Malo	    0.46
+3005522	           La Ville-ès-Nonais	2978640	                    Saint-Malo	    0.30
+2979602	                 Saint-Guinoux	2978640	                    Saint-Malo	    0.30
+3007668	                     Languenan	2978640	                    Saint-Malo	    0.44
+2992756	                      Mont-Dol	2978640	                    Saint-Malo	    0.49
+3005593	         La Vicomté-sur-Rance	2978640	                    Saint-Malo	    0.45
+3014214	             Le Vivier-sur-Mer	2978640	                    Saint-Malo	    0.45
+8286872	                  Saint-Brieuc	8286872	                  Saint-Brieuc	    0.00
+3007794	                      Lanester	3007794	                      Lanester	    0.00
+3017609	                     Fougères	3017609	                     Fougères	    0.00
+3007609	                       Lannion	3007609	                       Lannion	    0.00
+3024035	                    Concarneau	3024035	                    Concarneau	    0.00
+6431067	                        Tourch	3024035	                    Concarneau	    0.45
+3029713	                          Bruz	3029713	                          Bruz	    0.00
+3014294	                       Guignen	3029713	                          Bruz	    0.36
+3030283	                       Breteil	3029713	                          Bruz	    0.44
+2973492	                      Talensac	3029713	                          Bruz	    0.41
+3024926	                       Cintré	3029713	                          Bruz	    0.33
+3010226	        La Chapelle-Thouarault	3029713	                          Bruz	    0.36
+3034538	                        Baulon	3029713	                          Bruz	    0.36
+2976757	                 Saint-Thurial	3029713	                          Bruz	    0.35
+2976969	                  Saint-Senoux	3029713	                          Bruz	    0.34
+2988445	         Parthenay-de-Bretagne	3029713	                          Bruz	    0.49
+3006349	                         Lassy	3029713	                          Bruz	    0.26
+3010384	          La Chapelle-Bouëxic	3029713	                          Bruz	    0.45
+2998890	                     Le Verger	3029713	                          Bruz	    0.37
+2992669	                     Monterfil	3029713	                          Bruz	    0.45
+2971979	                    Treffendel	3029713	                          Bruz	    0.48
+2978634	           Saint-Malo-de-Phily	3029713	                          Bruz	    0.42
+2967879	                        Vitré	2967879	                        Vitré	    0.00
+3026070	       Châtillon-en-Vendelais	2967879	                        Vitré	    0.29
+6455901	                     Le Pertre	2967879	                        Vitré	    0.40
+2978037	              Saint-M’Hervé	2967879	                        Vitré	    0.23
+2997146	                       Luitré	2967879	                        Vitré	    0.48
+2986732	                      Ploemeur	2986732	                      Ploemeur	    0.00
+3027767	              Cesson-Sévigné	3027767	              Cesson-Sévigné	    0.00
+3007874	                    Landerneau	3007874	                    Landerneau	    0.00
+6449866	                     Hennebont	6449866	                     Hennebont	    0.00
+6454341	                       Pontivy	6454341	                       Pontivy	    0.00
+3014213	                      Guipavas	3014213	                      Guipavas	    0.00
+2991772	                       Morlaix	2991772	                       Morlaix	    0.00
+3021356	                         Dinan	3021356	                         Dinan	    0.00
+2977497	      Saint-Pierre-de-Plesguen	3021356	                         Dinan	    0.25
+2980806	                Saint-Domineuc	3021356	                         Dinan	    0.39
+6612976	                       Caulnes	3021356	                         Dinan	    0.50
+2986766	                   Pleugueneuc	3021356	                         Dinan	    0.32
+2994743	                       Meillac	3021356	                         Dinan	    0.45
+3019271	                        Évran	3021356	                         Dinan	    0.24
+2986697	                      Plouasne	3021356	                         Dinan	    0.44
+2999071	                   Le Tronchet	3021356	                         Dinan	    0.40
+2977611	                    Saint-Pern	3021356	                         Dinan	    0.48
+3001546	            Les Champs-Géraux	3021356	                         Dinan	    0.18
+6453802	                       Plérin	6453802	                       Plérin	    0.00
+3008225	                      Lamballe	6453802	                       Plérin	    0.50
+3007666	                      Langueux	6453802	                       Plérin	    0.15
+2986066	                        Pordic	6453802	                       Plérin	    0.13
+2986818	                      Plédran	6453802	                       Plérin	    0.25
+2986944	                      Plaintel	6453802	                       Plérin	    0.36
+3013283	                       Hillion	6453802	                       Plérin	    0.20
+2986800	           Pléneuf-Val-André	6453802	                       Plérin	    0.44
+3012910	                         Binic	6453802	                       Plérin	    0.21
+2984783	                       Quessoy	6453802	                       Plérin	    0.38
+8290526	              Étables sur Mer	6453802	                       Plérin	    0.28
+2977299	          Saint-Quay-Portrieux	6453802	                       Plérin	    0.35
+2981304	                 Saint-Brandan	6453802	                       Plérin	    0.44
+3013514	                        Hénon	6453802	                       Plérin	    0.45
+2986875	                  Planguenoual	6453802	                       Plérin	    0.36
+2971825	                     Trémuson	6453802	                       Plérin	    0.15
+2986418	                      Pommeret	6453802	                       Plérin	    0.33
+3024456	                    Coëtmieux	6453802	                       Plérin	    0.34
+6429034	                  Plaine-Haute	6453802	                       Plérin	    0.29
+2981243	                 Saint-Carreuc	6453802	                       Plérin	    0.39
+2980805	                   Saint-Donan	6453802	                       Plérin	    0.28
+3004224	                      Le Fœil	6453802	                       Plérin	    0.40
+3008192	                   La Méaugon	6453802	                       Plérin	    0.16
+2991796	                       Morieux	6453802	                       Plérin	    0.30
+2983743	                    Douarnenez	2983743	                    Douarnenez	    0.00
+3036247	                      Audierne	2983743	                    Douarnenez	    0.44
+2986267	                    Pont-Croix	2983743	                    Douarnenez	    0.33
+3019638	                     Esquibien	2983743	                    Douarnenez	    0.47
+2986215	                         Auray	2986215	                         Auray	    0.00
+6455179	                        Carnac	2986215	                         Auray	    0.29
+2986733	                       Ploemel	2986215	                         Auray	    0.17
+3007902	                       Landaul	2986215	                         Auray	    0.28
+2986657	                    Plouharnel	2986215	                         Auray	    0.31
+2977414	         Saint-Pierre-Quiberon	2986215	                         Auray	    0.50
+3006137	           La Trinité-sur-Mer	2986215	                         Auray	    0.25
+2984699	                    Quimperlé	2984699	                    Quimperlé	    0.00
+6437369	                    Saint-Avé	6437369	                    Saint-Avé	    0.00
+3014303	                        Guidel	3014303	                        Guidel	    0.00
+2986678	                    Ploufragan	2986678	                    Ploufragan	    0.00
+3026842	                     Chantepie	3026842	                     Chantepie	    0.00
+3021351	                        Dinard	3021351	                        Dinard	    0.00
+3007496	                     Lanvallay	3021351	                        Dinard	    0.50
+2984759	                      Quévert	3021351	                        Dinard	    0.47
+3023511	                       Corseul	3021351	                        Dinard	    0.46
+2986618	                       Pluduno	3021351	                        Dinard	    0.47
+2995175	                      Matignon	3021351	                        Dinard	    0.43
+2986729	                     Ploërmel	2986729	                     Ploërmel	    0.00
+2995009	                        Mauron	2986729	                     Ploërmel	    0.47
+3033851	                       Beignon	2986729	                     Ploërmel	    0.44
+2988794	                      Paimpont	2986729	                     Ploërmel	    0.49
+3014255	                     Guilliers	2986729	                     Ploërmel	    0.31
+2990841	               Néant-sur-Yvel	2986729	                     Ploërmel	    0.26
+2979619	               Saint-Grégoire	2979619	               Saint-Grégoire	    0.00
+6453799	                      Loudéac	6453799	                      Loudéac	    0.00
+6616117	               Plœuc-sur-Lié	6453799	                      Loudéac	    0.47
+3014370	                    Guerlédan	6453799	                      Loudéac	    0.43
+2991161	              Mûr-de-Bretagne	6453799	                      Loudéac	    0.44
+6429075	                   Plouguenast	6453799	                      Loudéac	    0.30
+2986786	                      Plessala	6453799	                      Loudéac	    0.37
+6453811	                       Trévé	6453799	                      Loudéac	    0.13
+2983106	                         Rohan	6453799	                      Loudéac	    0.30
+2986802	                        Plémy	6453799	                      Loudéac	    0.46
+6449847	                       Crédin	6453799	                      Loudéac	    0.40
+2990606	                      Neulliac	6453799	                      Loudéac	    0.45
+2981473	                Saint-Barnabé	6453799	                      Loudéac	    0.15
+2979879	                 Saint-Gérand	6453799	                      Loudéac	    0.32
+2981247	                 Saint-Caradec	6453799	                      Loudéac	    0.18
+2979638	                 Saint-Gonnery	6453799	                      Loudéac	    0.19
+2971264	                          Uzel	6453799	                      Loudéac	    0.33
+2986605	                      Plumieux	6453799	                      Loudéac	    0.38
+6614831	                         Redon	6614831	                         Redon	    0.00
+6452400	                       Allaire	6614831	                         Redon	    0.15
+3035316	                Bains-sur-Oust	6614831	                         Redon	    0.15
+2983590	                         Rieux	6614831	                         Redon	    0.16
+6437373	                   Saint-Dolay	6614831	                         Redon	    0.32
+2980446	                  Sainte-Marie	6614831	                         Redon	    0.20
+2974424	                  Sixt-sur-Aff	6614831	                         Redon	    0.35
+2976581	        Saint-Vincent-sur-Oust	6614831	                         Redon	    0.18
+2979230	         Saint-Jean-la-Poterie	6614831	                         Redon	    0.09
+2977610	                 Saint-Perreux	6614831	                         Redon	    0.07
+2984026	                         Renac	6614831	                         Redon	    0.28
+3007842	                   Landivisiau	3007842	                   Landivisiau	    0.00
+2975113	                        Séné	2975113	                        Séné	    0.00
+3036791	                       Arradon	2975113	                        Séné	    0.16
+3035459	                         Baden	2975113	                        Séné	    0.34
+3022726	                         Crach	2975113	                        Séné	    0.50
+3005202	                          Bono	2975113	                        Séné	    0.40
+6452404	                         Arzon	2975113	                        Séné	    0.35
+2997964	                  Locmariaquer	2975113	                        Séné	    0.41
+2979681	         Saint-Gildas-de-Rhuys	2975113	                        Séné	    0.38
+2977593	               Saint-Philibert	2975113	                        Séné	    0.50
+2975916	                       Sarzeau	2975916	                       Sarzeau	    0.00
+2971931	                     Trégueux	2971931	                     Trégueux	    0.00
+3007739	                      Lanfains	2971931	                     Trégueux	    0.50
+3012495	                        Janzé	3012495	                        Janzé	    0.00
+3006876	                  Larmor-Plage	3006876	                  Larmor-Plage	    0.00
+2977189	                   Saint-Renan	2977189	                   Saint-Renan	    0.00
+3004513	                    Le Conquet	2977189	                   Saint-Renan	    0.34
+2986046	                     Porspoder	2977189	                   Saint-Renan	    0.34
+6432839	     Saint-Jacques-de-la-Lande	2969741	               Vern-sur-Seiche	    0.22
+6448519	                        Betton	2969741	               Vern-sur-Seiche	    0.39
+2988853	                         Pacé	2969741	               Vern-sur-Seiche	    0.43
+3002351	                       Le Rheu	2969741	               Vern-sur-Seiche	    0.40
+3014305	                       Guichen	2969741	               Vern-sur-Seiche	    0.42
+2972715	           Thorigné-Fouillard	2969741	               Vern-sur-Seiche	    0.32
+2969741	               Vern-sur-Seiche	2969741	               Vern-sur-Seiche	    0.00
+6448545	          Chartres-de-Bretagne	2969741	               Vern-sur-Seiche	    0.19
+2991868	                     Mordelles	2969741	               Vern-sur-Seiche	    0.46
+3030456	          Bréal-sous-Montfort	2969741	               Vern-sur-Seiche	    0.50
+2969465	               Vezin-le-Coquet	2969741	               Vern-sur-Seiche	    0.35
+3008665	                       Laillé	2969741	               Vern-sur-Seiche	    0.29
+2989382	                      Orgères	2969741	               Vern-sur-Seiche	    0.18
+3010369	     La Chapelle-des-Fougeretz	2969741	               Vern-sur-Seiche	    0.44
+2998607	                 L’Hermitage	2969741	               Vern-sur-Seiche	    0.46
+3010911	                La Bouëxière	2969741	               Vern-sur-Seiche	    0.49
+3015434	                         Goven	2969741	               Vern-sur-Seiche	    0.47
+6448525	                   Bourgbarré	2969741	               Vern-sur-Seiche	    0.14
+6448552	                      Chavagne	2969741	               Vern-sur-Seiche	    0.34
+3023545	                    Corps-Nuds	2969741	               Vern-sur-Seiche	    0.19
+3031019	             Bourg-des-Comptes	2969741	               Vern-sur-Seiche	    0.42
+2980350	                  Saint-Erblon	2969741	               Vern-sur-Seiche	    0.12
+3022491	                        Crevin	2969741	               Vern-sur-Seiche	    0.32
+6432785	                   Pléchâtel	2969741	               Vern-sur-Seiche	    0.50
+2987046	              Piré-sur-Seiche	2969741	               Vern-sur-Seiche	    0.33
+3021240	                      Domagné	2969741	               Vern-sur-Seiche	    0.39
+3025379	                    Chevaigné	2969741	               Vern-sur-Seiche	    0.47
+2981639	                   Saint-Armel	2969741	               Vern-sur-Seiche	    0.09
+3030444	                       Brécé	2969741	               Vern-sur-Seiche	    0.28
+2997332	             Louvigné-de-Bais	2969741	               Vern-sur-Seiche	    0.50
+3037969	                       Amanlis	2969741	               Vern-sur-Seiche	    0.25
+2999203	          Le Theil-de-Bretagne	2969741	               Vern-sur-Seiche	    0.47
+2976846	       Saint-Sulpice-la-Forêt	2969741	               Vern-sur-Seiche	    0.48
+2979188	        Saint-Jean-sur-Vilaine	2969741	               Vern-sur-Seiche	    0.49
+2989122	                         Ossé	2969741	               Vern-sur-Seiche	    0.28
+2971796	                     Tresbœuf	2969741	               Vern-sur-Seiche	    0.46
+2986470	                      Poligné	2969741	               Vern-sur-Seiche	    0.47
+2988656	                        Pancé	2969741	               Vern-sur-Seiche	    0.47
+6616616	            Le Sel-de-Bretagne	2969741	               Vern-sur-Seiche	    0.41
+6432698	                         Essé	2969741	               Vern-sur-Seiche	    0.41
+3014280	                       Guilers	3014280	                       Guilers	    0.00
+3022242	                        Crozon	3022242	                        Crozon	    0.00
+3035327	              Bain-de-Bretagne	3035327	              Bain-de-Bretagne	    0.00
+3014208	                        Guipry	3035327	              Bain-de-Bretagne	    0.30
+2987056	                       Pipriac	3035327	              Bain-de-Bretagne	    0.50
+2994201	                        Messac	3035327	              Bain-de-Bretagne	    0.24
+3019941	               Ercé-en-Lamée	3035327	              Bain-de-Bretagne	    0.23
+3009639	                 La Dominelais	3035327	              Bain-de-Bretagne	    0.22
+2973224	                       Teillay	3035327	              Bain-de-Bretagne	    0.28
+2980756	       Sainte-Anne-sur-Vilaine	3035327	              Bain-de-Bretagne	    0.41
+3007588	               La Noë-Blanche	3035327	              Bain-de-Bretagne	    0.16
+3002373	             Le Relecq-Kerhuon	2994245	                      Lesneven	    0.47
+2986991	                     Plabennec	2994245	                      Lesneven	    0.27
+2994245	                      Lesneven	2994245	                      Lesneven	    0.00
+6431005	                  Plouguerneau	2994245	                      Lesneven	    0.35
+6448074	                      Gouesnou	2994245	                      Lesneven	    0.42
+3007610	                      Lannilis	2994245	                      Lesneven	    0.36
+2986629	                      Plouvien	2994245	                      Lesneven	    0.27
+2986691	                    Ploudaniel	2994245	                      Lesneven	    0.10
+3007885	                      Landéda	2994245	                      Lesneven	    0.46
+3031027	                   Bourg-Blanc	2994245	                      Lesneven	    0.39
+6456822	                   Le Folgoët	2994245	                      Lesneven	    0.04
+6430993	                    Plouédern	2994245	                      Lesneven	    0.28
+2986640	           Plounévez-Lochrist	2994245	                      Lesneven	    0.24
+6448097	                      Kerlouan	2994245	                      Lesneven	    0.22
+6431012	                 Plounéventer	2994245	                      Lesneven	    0.26
+3014192	                     Guissény	2994245	                      Lesneven	    0.24
+2976759	                  Saint-Thonan	2994245	                      Lesneven	    0.26
+3004321	                    Le Drennec	2994245	                      Lesneven	    0.14
+2986654	                      Plouider	2994245	                      Lesneven	    0.11
+3032160	                       Bodilis	2994245	                      Lesneven	    0.39
+6613974	                    Saint-Divy	2994245	                      Lesneven	    0.33
+2980483	            Kersaint-Plabennec	2994245	                      Lesneven	    0.29
+3011624	                      Kernilis	2994245	                      Lesneven	    0.18
+3007652	                  Lanhouarneau	2994245	                      Lesneven	    0.21
+2986644	               Plounéour-Trez	2994245	                      Lesneven	    0.22
+3024506	                    Coat-Méal	2994245	                      Lesneven	    0.45
+2988796	                       Paimpol	2988796	                       Paimpol	    0.00
+2986681	                     Plouézec	2988796	                       Paimpol	    0.14
+2986694	                  Ploubazlanec	2988796	                       Paimpol	    0.07
+2988054	                     Penvénan	2988796	                       Paimpol	    0.46
+2986771	                      Pleubian	2988796	                       Paimpol	    0.25
+2986662	                     Plouguiel	2988796	                       Paimpol	    0.36
+2998663	                  Lézardrieux	2988796	                       Paimpol	    0.11
+2993796	              Minihy-Tréguier	2988796	                       Paimpol	    0.33
+2986760	              Pleumeur-Gautier	2988796	                       Paimpol	    0.21
+2979640	                  Plougrescant	2988796	                       Paimpol	    0.38
+3007696	                       Langoat	2988796	                       Paimpol	    0.44
+2971988	                    Trédarzec	2988796	                       Paimpol	    0.28
+3028603	              Carhaix-Plouguer	3028603	              Carhaix-Plouguer	    0.00
+3015522	                        Gourin	3028603	              Carhaix-Plouguer	    0.38
+3029126	                        Callac	3028603	              Carhaix-Plouguer	    0.45
+2986707	             Plonévez-du-Faou	3028603	              Carhaix-Plouguer	    0.47
+2973858	                       Spézet	3028603	              Carhaix-Plouguer	    0.35
+2985787	                    Poullaouen	3028603	              Carhaix-Plouguer	    0.22
+3013026	                      Huelgoat	3028603	              Carhaix-Plouguer	    0.40
+6431013	                 Plounévézel	3028603	              Carhaix-Plouguer	    0.07
+3024692	                 Cléden-Poher	3028603	              Carhaix-Plouguer	    0.21
+3014221	                      Guingamp	3014221	                      Guingamp	    0.00
+2992581	              Montfort-sur-Meu	2992581	              Montfort-sur-Meu	    0.00
+2986807	              Plélan-le-Grand	2992581	              Montfort-sur-Meu	    0.46
+2994952	                        Maxent	2992581	              Montfort-sur-Meu	    0.46
+2986158	                Pont-l’Abbé	2986708	             Plonéour-Lanvern	    0.15
+2986708	             Plonéour-Lanvern	2986708	             Plonéour-Lanvern	    0.00
+2988088	                      Penmarch	2986708	             Plonéour-Lanvern	    0.27
+2986713	                      Plomelin	2986708	             Plonéour-Lanvern	    0.26
+2986616	                     Pluguffan	2986708	             Plonéour-Lanvern	    0.29
+3024112	                       Combrit	2986708	             Plonéour-Lanvern	    0.24
+2997943	                       Loctudy	2986708	             Plonéour-Lanvern	    0.29
+6430986	                       Plomeur	2986708	             Plonéour-Lanvern	    0.17
+6615132	                   Plobannalec	2986708	             Plonéour-Lanvern	    0.24
+2980184	                Saint-Évarzec	2986708	             Plonéour-Lanvern	    0.50
+2986756	                       Pleuven	2986708	             Plonéour-Lanvern	    0.45
+2986620	                     Plozévet	2986708	             Plonéour-Lanvern	    0.35
+3015602	                     Gouesnach	2986708	             Plonéour-Lanvern	    0.32
+6616344	                     Guilvinec	2986708	             Plonéour-Lanvern	    0.30
+2986709	                      Plonéis	2986708	             Plonéour-Lanvern	    0.34
+2971978	                    Treffiagat	2986708	             Plonéour-Lanvern	    0.28
+2985807	                   Pouldreuzic	2986708	             Plonéour-Lanvern	    0.20
+3024572	             Clohars-Fouesnant	2986708	             Plonéour-Lanvern	    0.40
+2986725	       Plogastel-Saint-Germain	2986708	             Plonéour-Lanvern	    0.23
+3014403	                       Guengat	2986708	             Plonéour-Lanvern	    0.41
+3007806	                      Landudec	2986708	             Plonéour-Lanvern	    0.29
+2971860	                     Tréméoc	2986708	             Plonéour-Lanvern	    0.13
+2985810	                    Pouldergat	2986708	             Plonéour-Lanvern	    0.40
+3014393	                          Guer	3014393	                          Guer	    0.00
+2994341	                        Mernel	3014393	                          Guer	    0.29
+3024137	                      Combourg	3024137	                      Combourg	    0.00
+2972544	                    Tinténiac	3024137	                      Combourg	    0.27
+2984853	                     Québriac	3024137	                      Combourg	    0.23
+3026262	                   Châteaulin	3026262	                   Châteaulin	    0.00
+6448054	          Châteauneuf-du-Faou	3026262	                   Châteaulin	    0.51
+3015596	                      Gouézec	3026262	                   Châteaulin	    0.23
+3028868	                       Cancale	3028868	                       Cancale	    0.00
+2984781	                   Questembert	2991077	                      Muzillac	    0.31
+6437403	                         Theix	2991077	                      Muzillac	    0.39
+2991077	                      Muzillac	2991077	                      Muzillac	    0.00
+2973637	                        Surzur	2991077	                      Muzillac	    0.29
+2973702	                       Sulniac	2991077	                      Muzillac	    0.38
+3018692	                        Férel	2991077	                      Muzillac	    0.33
+2988268	                       Péaule	2991077	                      Muzillac	    0.25
+2989920	                Noyal-Muzillac	2991077	                      Muzillac	    0.12
+2995329	                        Marzan	2991077	                      Muzillac	    0.30
+2971976	                    Treffléan	2991077	                      Muzillac	    0.43
+2996505	                      Malansac	2991077	                      Muzillac	    0.49
+6454339	                     Pénestin	2991077	                      Muzillac	    0.20
+3033238	                        Berric	2991077	                      Muzillac	    0.23
+3037899	                         Ambon	2991077	                      Muzillac	    0.14
+3021861	                        Damgan	2991077	                      Muzillac	    0.20
+3036610	                         Arzal	2991077	                      Muzillac	    0.22
+6456223	            La Trinité-Surzur	2991077	                      Muzillac	    0.26
+3029257	                         Caden	2991077	                      Muzillac	    0.42
+2993562	                         Molac	2991077	                      Muzillac	    0.50
+6437343	                     Pluherlin	2991077	                      Muzillac	    0.45
+3005425	                La Vraie-Croix	2991077	                      Muzillac	    0.40
+3033885	                      Béganne	2991077	                      Muzillac	    0.47
+2998298	                      Limerzel	2991077	                      Muzillac	    0.33
+2999137	               Le Tour-du-Parc	2991077	                      Muzillac	    0.32
+6437289	                       Lauzach	2991077	                      Muzillac	    0.21
+3006632	                        Larré	2991077	                      Muzillac	    0.45
+3029006	                       Camoël	2991077	                      Muzillac	    0.26
+2967234	                      Yffiniac	2967234	                      Yffiniac	    0.00
+3030403	                      Bréhand	2967234	                      Yffiniac	    0.30
+3007883	                     Landéhen	2967234	                      Yffiniac	    0.30
+3033884	                       Bégard	3033884	                       Bégard	    0.00
+2986639	            Plounévez-Moëdec	3033884	                       Bégard	    0.33
+6437322	                      Nivillac	6437322	                      Nivillac	    0.00
+2977390	            Saint-Pol-de-Léon	6431048	       Saint-Martin-des-Champs	    0.40
+2986653	                    Plouigneau	6431048	       Saint-Martin-des-Champs	    0.26
+6431048	       Saint-Martin-des-Champs	6431048	       Saint-Martin-des-Champs	    0.00
+2986633	          Plourin-lès-Morlaix	6431048	       Saint-Martin-des-Champs	    0.15
+2986772	           Plestin-les-Grèves	6431048	       Saint-Martin-des-Champs	    0.45
+3028667	                      Carantec	6431048	       Saint-Martin-des-Champs	    0.29
+2986746	                Pleyber-Christ	6431048	       Saint-Martin-des-Champs	    0.21
+2973303	                        Taulé	6431048	       Saint-Martin-des-Champs	    0.13
+2986628	                      Plouvorn	6431048	       Saint-Martin-des-Champs	    0.36
+2986676	                    Plougasnou	6431048	       Saint-Martin-des-Champs	    0.35
+2976791	              Saint-Thégonnec	6431048	       Saint-Martin-des-Champs	    0.24
+2986685	                     Plouénan	6431048	       Saint-Martin-des-Champs	    0.31
+3014304	                       Guiclan	6431048	       Saint-Martin-des-Champs	    0.23
+2976117	                        Santec	6431048	       Saint-Martin-des-Champs	    0.49
+3007973	             Lampaul-Guimiliau	6431048	       Saint-Martin-des-Champs	    0.43
+6431003	                     Plougoulm	6431048	       Saint-Martin-des-Champs	    0.45
+2986624	                 Plouzévédé	6431048	       Saint-Martin-des-Champs	    0.50
+2986679	                  Plouezoc’h	6431048	       Saint-Martin-des-Champs	    0.18
+2997947	                     Locquirec	6431048	       Saint-Martin-des-Champs	    0.48
+6431004	                  Plougourvest	6431048	       Saint-Martin-des-Champs	    0.45
+3014369	                   Guerlesquin	6431048	       Saint-Martin-des-Champs	    0.50
+3013504	                        Henvic	6431048	       Saint-Martin-des-Champs	    0.22
+2986645	             Plounéour-Ménez	6431048	       Saint-Martin-des-Champs	    0.39
+2974629	                       Sibiril	6431048	       Saint-Martin-des-Champs	    0.47
+2986687	            Plouégat-Guérand	6431048	       Saint-Martin-des-Champs	    0.33
+3011543	                        Garlan	6431048	       Saint-Martin-des-Champs	    0.17
+2980331	                  Sainte-Sève	6431048	       Saint-Martin-des-Champs	    0.08
+3024101	                       Commana	6431048	       Saint-Martin-des-Champs	    0.50
+3014236	                     Guimiliau	6431048	       Saint-Martin-des-Champs	    0.38
+2992998	         Montauban-de-Bretagne	2978067	          Saint-Méen-le-Grand	    0.27
+2978067	          Saint-Méen-le-Grand	2978067	          Saint-Méen-le-Grand	    0.00
+6432714	                      Iffendic	2978067	          Saint-Méen-le-Grand	    0.33
+6612334	                    Merdrignac	2978067	          Saint-Méen-le-Grand	    0.41
+3029925	                        Broons	2978067	          Saint-Méen-le-Grand	    0.38
+3012738	                     Irodouër	2978067	          Saint-Méen-le-Grand	    0.48
+2994773	                     Médréac	2978067	          Saint-Méen-le-Grand	    0.32
+3032033	                  Boisgervilly	2978067	          Saint-Méen-le-Grand	    0.24
+3016847	                         Gaël	2978067	          Saint-Méen-le-Grand	    0.17
+2984852	                    Quédillac	2978067	          Saint-Méen-le-Grand	    0.19
+2971839	                     Trémorel	2978067	          Saint-Méen-le-Grand	    0.18
+2977839	        Saint-Onen-la-Chapelle	2978067	          Saint-Méen-le-Grand	    0.05
+2974691	                     Sévignac	2978067	          Saint-Méen-le-Grand	    0.49
+2986613	                     Plumaugat	2978067	          Saint-Méen-le-Grand	    0.20
+6616618	                    Pont-Péan	6616618	                    Pont-Péan	    0.00
+3008857	        La Guerche-de-Bretagne	3008857	        La Guerche-de-Bretagne	    0.00
+2995398	            Martigné-Ferchaud	3008857	        La Guerche-de-Bretagne	    0.36
+3024459	                      Coësmes	3008857	        La Guerche-de-Bretagne	    0.43
+2984432	                       Rannée	3008857	        La Guerche-de-Bretagne	    0.05
+2986803	                       Plémet	2986803	                       Plémet	    0.00
+3004067	                     Le Gouray	2986803	                       Plémet	    0.46
+2989918	                 Noyal-Pontivy	2989918	                 Noyal-Pontivy	    0.00
+2971926	                      Trégunc	3033470	                      Bénodet	    0.49
+3033470	                      Bénodet	3033470	                      Bénodet	    0.00
+2986692	                Ploudalmézeau	3032125	                        Bohars	    0.41
+3032125	                        Bohars	3032125	                        Bohars	    0.00
+3007972	             Lampaul-Plouarzel	3032125	                        Bohars	    0.46
+2977780	                    Saint-Pabu	3032125	                        Bohars	    0.41
+3007803	                     Landunvez	3032125	                        Bohars	    0.49
+2995058	             Maure-de-Bretagne	2995058	             Maure-de-Bretagne	    0.00
+2986672	                    Plougonven	2986672	                    Plougonven	    0.00
+3024691	                       Cléder	6431037	                       Roscoff	    0.28
+6430997	                     Plouescat	6431037	                       Roscoff	    0.40
+6431037	                       Roscoff	6431037	                       Roscoff	    0.00
+2994697	                       Melesse	2992537	                   Montgermont	    0.17
+3016152	                      Gévezé	2992537	                   Montgermont	    0.22
+3008140	                  La Mézière	2992537	                   Montgermont	    0.19
+6448518	                       Bédée	2992537	                   Montgermont	    0.43
+2982977	                      Romillé	2992537	                   Montgermont	    0.37
+2981591	      Saint-Aubin-d’Aubigné	2992537	                   Montgermont	    0.36
+2992537	                   Montgermont	2992537	                   Montgermont	    0.00
+2986762	                    Pleumeleuc	2992537	                   Montgermont	    0.38
+2992065	            Montreuil-sur-Ille	2992537	                   Montgermont	    0.43
+2969105	                        Vignoc	2992537	                   Montgermont	    0.28
+2992074	             Montreuil-le-Gast	2992537	                   Montgermont	    0.25
+3019940	           Ercé-près-Liffré	2992537	                   Montgermont	    0.46
+3014212	                        Guipel	2992537	                   Montgermont	    0.39
+2991577	                       Mouazé	2992537	                   Montgermont	    0.29
+12179296	             Chasné-sur-Illet	2992537	                   Montgermont	    0.36
+2978070	        Saint-Médard-sur-Ille	2992537	                   Montgermont	    0.34
+3010382	         La Chapelle-Chaussée	2992537	                   Montgermont	    0.41
+6432724	                        Langan	2992537	                   Montgermont	    0.35
+2976537	                     Saint-Yvi	2976537	                     Saint-Yvi	    0.00
+3023777	                         Coray	2976537	                     Saint-Yvi	    0.33
+2984760	                       Quéven	2994676	                        Mellac	    0.44
+2982745	                     Rosporden	2994676	                        Mellac	    0.50
+2993647	               Moëlan-sur-Mer	2994676	                        Mellac	    0.27
+2986696	                        Plouay	2994676	                        Mellac	    0.45
+2984671	                      Bannalec	2994676	                        Mellac	    0.24
+2972379	                        Scaër	2994676	                        Mellac	    0.41
+3024573	              Clohars-Carnoët	2994676	                        Mellac	    0.30
+6614190	               Riec-sur-Bélon	2994676	                        Mellac	    0.27
+2986102	                   Pont-Scorff	2994676	                        Mellac	    0.38
+2994692	                       Melgven	2994676	                        Mellac	    0.48
+3024682	                      Cléguer	2994676	                        Mellac	    0.39
+3011630	                     Kernével	2994676	                        Mellac	    0.40
+2994676	                        Mellac	2994676	                        Mellac	    0.00
+2984198	                      Rédené	2994676	                        Mellac	    0.25
+2986286	                     Pont-Aven	2994676	                        Mellac	    0.34
+3004304	                    Le Faouët	2994676	                        Mellac	    0.39
+2990471	                        Névez	2994676	                        Mellac	    0.46
+6449854	                        Gestel	2994676	                        Mellac	    0.38
+2971856	                    Tréméven	2994676	                        Mellac	    0.09
+3014196	                     Guiscriff	2994676	                        Mellac	    0.43
+2984794	                      Querrien	2994676	                        Mellac	    0.17
+6455839	                   Le Trévoux	2994676	                        Mellac	    0.12
+3033303	                        Berné	2994676	                        Mellac	    0.43
+6612645	                        Meslan	2994676	                        Mellac	    0.37
+3036609	                        Arzano	2994676	                        Mellac	    0.26
+3029155	                         Calan	2994676	                        Mellac	    0.48
+3034493	                          Baye	2994676	                        Mellac	    0.14
+2997942	                     Locunolé	2994676	                        Mellac	    0.21
+3007489	                  Lanvénégen	2994676	                        Mellac	    0.27
+6431057	                 Saint-Thurien	2994676	                        Mellac	    0.18
+2982711	                     Rostrenen	2982711	                     Rostrenen	    0.00
+3007687	                     Langonnet	2982711	                     Rostrenen	    0.49
+6429004	                        Léhon	2986894	                     Plancoët	    0.42
+2986894	                     Plancoët	2986894	                     Plancoët	    0.00
+2971889	                     Trélivan	2986894	                     Plancoët	    0.33
+2986806	              Plélan-le-Petit	2986894	                     Plancoët	    0.25
+6489587	                Jugon-les-Lacs	2986894	                     Plancoët	    0.36
+2986774	                       Plestan	2986894	                     Plancoët	    0.48
+2986815	                       Fréhel	2986894	                     Plancoët	    0.38
+2986600	                       Plurien	2986894	                     Plancoët	    0.42
+2986819	                   Plédéliac	2986894	                     Plancoët	    0.35
+3013536	                   Hénanbihen	2986894	                     Plancoët	    0.28
+2986614	                     Plumaudan	2986894	                     Plancoët	    0.50
+2969063	              Vildé-Guingalan	2986894	                     Plancoët	    0.28
+3029734	                      Brusvily	2986894	                     Plancoët	    0.42
+3013535	                     Hénansal	2986894	                     Plancoët	    0.37
+3030863	                      Bourseul	2986894	                     Plancoët	    0.11
+2967183	               Yvignac-la-Tour	2986894	                     Plancoët	    0.50
+3032178	                       Bobital	2986894	                     Plancoët	    0.39
+2981245	                  Saint-Carné	2986894	                     Plancoët	    0.43
+2984649	                       Quintin	2984649	                       Quintin	    0.00
+2986649	                    Ploumagoar	2988856	                          Pabu	    0.12
+2986660	                        Plouha	2988856	                          Pabu	    0.45
+2986804	                        Plélo	2988856	                          Pabu	    0.36
+2986700	                      Plouagat	2988856	                          Pabu	    0.29
+2988856	                          Pabu	2988856	                          Pabu	    0.00
+3015422	                       Grâces	2988856	                          Pabu	    0.13
+2997511	                      Louargat	2988856	                          Pabu	    0.38
+2981923	                 Saint-Agathon	2988856	                          Pabu	    0.10
+6429084	                      Plourivo	2988856	                          Pabu	    0.45
+6447629	                     Bourbriac	2988856	                          Pabu	    0.33
+2986658	                      Plourhan	2988856	                          Pabu	    0.50
+2986652	                       Plouisy	2988856	                          Pabu	    0.09
+2988229	                     Pédernec	2988856	                          Pabu	    0.25
+2986410	           Pommerit-le-Vicomte	2988856	                          Pabu	    0.12
+3007481	                     Lanvollon	2988856	                          Pabu	    0.30
+3015614	                      Goudelin	2988856	                          Pabu	    0.22
+6428999	                        Lantic	2988856	                          Pabu	    0.44
+3028118	                         Cavan	2988856	                          Pabu	    0.45
+3007552	                      Lanrodec	2988856	                          Pabu	    0.28
+6429041	                    Pléhédel	2988856	                          Pabu	    0.38
+2986817	                     Pléguien	2988856	                          Pabu	    0.38
+2986726	                      Ploëzal	2988856	                          Pabu	    0.38
+2986411	                Pommerit-Jaudy	2988856	                          Pabu	    0.45
+2986630	                      Plouvara	2988856	                          Pabu	    0.46
+6616118	             Plouëc-du-Trieux	2988856	                          Pabu	    0.26
+2985579	                          Prat	2988856	                          Pabu	    0.39
+3006796	              La Roche-Derrien	2988856	                          Pabu	    0.50
+2984830	            Quemper-Guézennec	2988856	                          Pabu	    0.32
+3031609	                       Boqueho	2988856	                          Pabu	    0.43
+6429049	                      Plerneuf	2988856	                          Pabu	    0.50
+2971949	                    Tréglamus	2988856	                          Pabu	    0.27
+6452189	           Belle-Isle-en-Terre	2988856	                          Pabu	    0.49
+2986121	                     Pontrieux	2988856	                          Pabu	    0.31
+3026160	                 Châtelaudren	2988856	                          Pabu	    0.33
+3028217	                        Caudan	2985963	                    Port-Louis	    0.28
+3011506	                     Kervignac	2985963	                    Port-Louis	    0.27
+2983730	                       Riantec	2985963	                    Port-Louis	    0.08
+2986656	                     Plouhinec	2985963	                    Port-Louis	    0.19
+2997959	                  Locmiquélic	2985963	                    Port-Louis	    0.06
+3007858	                    Landévant	2985963	                    Port-Louis	    0.46
+3019930	                       Erdeven	2985963	                    Port-Louis	    0.41
+3033534	                          Belz	2985963	                    Port-Louis	    0.35
+2994351	                    Merlevenez	2985963	                    Port-Louis	    0.24
+2985963	                    Port-Louis	2985963	                    Port-Louis	    0.00
+3019423	                         Étel	2985963	                    Port-Louis	    0.32
+2986210	                       Nostang	2985963	                    Port-Louis	    0.33
+3030565	                   Brandérion	2985963	                    Port-Louis	    0.38
+2984741	                      Quiberon	2982795	                     Le Palais	    0.39
+2982795	                     Le Palais	2982795	                     Le Palais	    0.00
+6509361	                        Bangor	2982795	                     Le Palais	    0.11
+3012248	                      Josselin	3012248	                      Josselin	    0.00
+3009239	                    La Gacilly	2996440	                    Malestroit	    0.49
+6449840	                     Carentoir	2996440	                    Malestroit	    0.47
+2974949	                       Sérent	2996440	                    Malestroit	    0.23
+2996440	                    Malestroit	2996440	                    Malestroit	    0.00
+2973297	                       Taupont	2996440	                    Malestroit	    0.43
+3028954	                   Campénéac	2996440	                    Malestroit	    0.44
+2988215	                       Peillac	2996440	                    Malestroit	    0.41
+2986770	                    Pleucadeuc	2996440	                    Malestroit	    0.14
+2979405	          Saint-Jacut-les-Pins	2996440	                    Malestroit	    0.47
+2997300	                         Loyat	2996440	                    Malestroit	    0.50
+3036215	                         Augan	2996440	                    Malestroit	    0.36
+3010425	                   La Chapelle	2996440	                    Malestroit	    0.17
+2982207	                       Ruffiac	2996440	                    Malestroit	    0.19
+2979600	                Saint-Guyomard	2996440	                    Malestroit	    0.26
+3014274	                       Guillac	2996440	                    Malestroit	    0.32
+2978211	         Saint-Martin-sur-Oust	2996440	                    Malestroit	    0.30
+2993691	                     Missiriac	2996440	                    Malestroit	    0.10
+3028554	                          Caro	2996440	                    Malestroit	    0.19
+3015125	                Grand-Fougeray	3015125	                Grand-Fougeray	    0.00
+2971929	                     Tréguier	2971929	                     Tréguier	    0.00
+2986761	                Pleumeur-Bodou	3007636	                       Lanmeur	    0.50
+2972009	                   Trébeurden	3007636	                       Lanmeur	    0.43
+2986647	                   Ploumilliau	3007636	                       Lanmeur	    0.36
+3007636	                       Lanmeur	3007636	                       Lanmeur	    0.00
+2986699	                      Plouaret	3007636	                       Lanmeur	    0.46
+2986650	                   Ploulec’h	3007636	                       Lanmeur	    0.43
+6453813	              Le Vieux-Marché	3007636	                       Lanmeur	    0.50
+3030402	                       Bréhan	3030402	                       Bréhan	    0.00
+3014421	                       Guégon	3030402	                       Bréhan	    0.41
+3007570	                      Lanouée	3030402	                       Bréhan	    0.26
+2994608	                      Ménéac	3030402	                       Bréhan	    0.47
+2986767	                   Pleugriffet	3030402	                       Bréhan	    0.20
+2986593	                     Pluvigner	3024210	                         Colpo	    0.39
+3030440	                         Brech	3024210	                         Colpo	    0.44
+2986730	                       Ploeren	3024210	                         Colpo	    0.47
+3034582	                          Baud	3024210	                         Colpo	    0.42
+3020271	                         Elven	3024210	                         Colpo	    0.48
+2986793	                       Plescop	3024210	                         Colpo	    0.33
+2986601	                      Pluneret	3024210	                         Colpo	    0.48
+6455182	                   Grand-Champ	3024210	                         Colpo	    0.18
+2997961	                      Locminé	3024210	                         Colpo	    0.19
+2986608	                     Plumergat	3024210	                         Colpo	    0.29
+2977855	                   Saint-Nolff	3024210	                         Colpo	    0.44
+2991866	                       Moréac	3024210	                         Colpo	    0.28
+2986610	                    Pluméliau	3024210	                         Colpo	    0.49
+2992674	                   Monterblanc	3024210	                         Colpo	    0.32
+3029002	                        Camors	3024210	                         Colpo	    0.36
+2979370	          Saint-Jean-Brévelay	3024210	                         Colpo	    0.18
+3032685	                        Bignan	3024210	                         Colpo	    0.18
+2980762	         Sainte-Anne-d’Auray	3024210	                         Colpo	    0.42
+2986609	                      Plumelin	3024210	                         Colpo	    0.19
+2986611	                      Plumelec	3024210	                         Colpo	    0.32
+2986669	                  Plougoumelen	3024210	                         Colpo	    0.50
+6437308	                        Meucon	3024210	                         Colpo	    0.30
+3024210	                         Colpo	3024210	                         Colpo	    0.00
+2984147	                      Réguiny	3024210	                         Colpo	    0.45
+2986830	                      Plaudren	3024210	                         Colpo	    0.25
+3232380	                    Locqueltas	3024210	                         Colpo	    0.19
+2991030	                        Naizin	3024210	                         Colpo	    0.47
+3014402	                       Guénin	3024210	                         Colpo	    0.40
+2991343	                   Moustoir-Ac	3024210	                         Colpo	    0.11
+2997966	          Locmaria-Grand-Champ	3024210	                         Colpo	    0.18
+3030562	                      Brandivy	3024210	                         Colpo	    0.28
+2971986	                      Trédion	3024210	                         Colpo	    0.41
+2984588	                       Radenac	3024210	                         Colpo	    0.44
+3026275	                 Châteaugiron	2980849	                  Saint-Didier	    0.28
+2998423	                       Liffré	2980849	                  Saint-Didier	    0.42
+3026306	                 Châteaubourg	2980849	                  Saint-Didier	    0.07
+3025304	                       Acigné	2980849	                  Saint-Didier	    0.33
+3009301	             Noyal-sur-Vilaine	2980849	                  Saint-Didier	    0.29
+3037016	          Argentré-du-Plessis	2980849	                  Saint-Didier	    0.42
+2983885	                       Retiers	2980849	                  Saint-Didier	    0.50
+2974745	            Servon-sur-Vilaine	2980849	                  Saint-Didier	    0.18
+6616609	                       Domloup	2980849	                  Saint-Didier	    0.30
+2989952	                     Nouvoitou	2980849	                  Saint-Didier	    0.36
+2971073	                  Val-d’Izé	2980849	                  Saint-Didier	    0.26
+3019367	                     Étrelles	2980849	                  Saint-Didier	    0.34
+3035309	                          Bais	2980849	                  Saint-Didier	    0.28
+3035263	                       Balazé	2980849	                  Saint-Didier	    0.39
+2980849	                  Saint-Didier	2980849	                  Saint-Didier	    0.00
+3021235	                      Domalain	2980849	                  Saint-Didier	    0.37
+3015635	                        Gosné	2980849	                  Saint-Didier	    0.45
+2998061	           Livré-sur-Changeon	2980849	                  Saint-Didier	    0.35
+6454041	                       Erbrée	2980849	                  Saint-Didier	    0.46
+2986589	                Pocé-les-Bois	2980849	                  Saint-Didier	    0.23
+2972457	                        Torcé	2980849	                  Saint-Didier	    0.22
+3020926	                      Dourdain	2980849	                  Saint-Didier	    0.27
+2995549	                      Marpiré	2980849	                  Saint-Didier	    0.15
+2992070	       Montreuil-sous-Pérouse	2980849	                  Saint-Didier	    0.30
+2981565	        Saint-Aubin-du-Cormier	2980231	     Saint-Étienne-en-Coglès	    0.42
+2997331	          Louvigné-du-Désert	2980231	     Saint-Étienne-en-Coglès	    0.43
+3004444	                     Lécousse	2980231	     Saint-Étienne-en-Coglès	    0.22
+2981285	        Saint-Brice-en-Coglès	2980231	     Saint-Étienne-en-Coglès	    0.08
+2975046	              Sens-de-Bretagne	2980231	     Saint-Étienne-en-Coglès	    0.44
+2983046	                      Romagné	2980231	     Saint-Étienne-en-Coglès	    0.19
+3012399	                       Javené	2980231	     Saint-Étienne-en-Coglès	    0.31
+2979784	      Saint-Germain-en-Coglès	2980231	     Saint-Étienne-en-Coglès	    0.11
+2980231	     Saint-Étienne-en-Coglès	2980231	     Saint-Étienne-en-Coglès	    0.00
+3034413	          Bazouges-la-Pérouse	2980231	     Saint-Étienne-en-Coglès	    0.46
+2994011	       Mézières-sur-Couesnon	2980231	     Saint-Étienne-en-Coglès	    0.36
+6432848	           Saint-Marc-le-Blanc	2980231	     Saint-Étienne-en-Coglès	    0.19
+2977019	      Saint-Sauveur-des-Landes	2980231	     Saint-Étienne-en-Coglès	    0.17
+3016828	                        Gahard	2980231	     Saint-Étienne-en-Coglès	    0.47
+2979926	 Saint-Georges-de-Reintembault	2980231	     Saint-Étienne-en-Coglès	    0.33
+2971876	                      Tremblay	2980231	     Saint-Étienne-en-Coglès	    0.28
+3010316	            La Chapelle-Janson	2980231	     Saint-Étienne-en-Coglès	    0.44
+3034374	                       Beaucé	2980231	     Saint-Étienne-en-Coglès	    0.36
+2988518	                      Parigné	2980231	     Saint-Étienne-en-Coglès	    0.26
+2977814	         Saint-Ouen-des-Alleux	2980231	     Saint-Étienne-en-Coglès	    0.28
+3037418	                       Antrain	2980231	     Saint-Étienne-en-Coglès	    0.33
+2969171	         Vieux-Vy-sur-Couesnon	2980231	     Saint-Étienne-en-Coglès	    0.35
+2979195	       Saint-Jean-sur-Couesnon	2980231	     Saint-Étienne-en-Coglès	    0.32
+3007889	                      Landéan	2980231	     Saint-Étienne-en-Coglès	    0.32
+3008683	                     Laignelet	2980231	     Saint-Étienne-en-Coglès	    0.34
+2992176	                      Montours	2980231	     Saint-Étienne-en-Coglès	    0.11
+3011180	         La Bazouge-du-Désert	2980231	     Saint-Étienne-en-Coglès	    0.42
+3032642	                        Billé	2980231	     Saint-Étienne-en-Coglès	    0.35
+2979542	      Saint-Hilaire-des-Landes	2980231	     Saint-Étienne-en-Coglès	    0.16
+2986674	            Plougastel-Daoulas	6455410	                       Le Faou	    0.42
+2997616	                      Loperhet	6455410	                       Le Faou	    0.33
+6616358	    Pont-de-Buis-lès-Quimerch	6455410	                       Le Faou	    0.20
+2986747	                       Pleyben	6455410	                       Le Faou	    0.43
+2974423	                         Sizun	6455410	                       Le Faou	    0.36
+2998574	             Hôpital-Camfrout	6455410	                       Le Faou	    0.15
+3021328	                       Dirinon	6455410	                       Le Faou	    0.33
+2986710	                    Plomodiern	6455410	                       Le Faou	    0.33
+2997897	               Logonna-Daoulas	6455410	                       Le Faou	    0.24
+2973197	               Telgruc-sur-Mer	6455410	                       Le Faou	    0.37
+3021349	                     Dinéault	6455410	                       Le Faou	    0.21
+3013971	                        Hanvec	6455410	                       Le Faou	    0.10
+6430978	                       Pencran	6455410	                       Le Faou	    0.41
+3009390	          La Forest-Landerneau	6455410	                       Le Faou	    0.45
+3021747	                       Daoulas	6455410	                       Le Faou	    0.24
+3006780	              La Roche-Maurice	6455410	                       Le Faou	    0.50
+2986706	              Plonévez-Porzay	6455410	                       Le Faou	    0.48
+6455410	                       Le Faou	6455410	                       Le Faou	    0.00
+3028425	                          Cast	6455410	                       Le Faou	    0.39
+3012732	                      Irvillac	6455410	                       Le Faou	    0.22
+2976982	                  Saint-Ségal	6455410	                       Le Faou	    0.25
+3030522	                     Brasparts	6455410	                       Le Faou	    0.41
+3021264	               Dol-de-Bretagne	6614095	                 Baguer-Morvan	    0.08
+2986814	              Pleine-Fougères	6614095	                 Baguer-Morvan	    0.39
+6614095	                 Baguer-Morvan	6614095	                 Baguer-Morvan	    0.00
+3035389	                  Baguer-Pican	6614095	                 Baguer-Morvan	    0.16
+3021348	                        Dingé	6614095	                 Baguer-Morvan	    0.48
+3031743	                     Bonnemain	6614095	                 Baguer-Morvan	    0.16
+3020004	                       Epiniac	6614095	                 Baguer-Morvan	    0.15
+3010854	                    La Boussac	6614095	                 Baguer-Morvan	    0.21
+2981267	                Saint-Broladre	6614095	                 Baguer-Morvan	    0.28
+3025428	                     Cherrueix	6614095	                 Baguer-Morvan	    0.25
+6449842	                   Cléguérec	6429076	                Plouguernével	    0.47
+6429076	                Plouguernével	6429076	                Plouguernével	    0.00
+6429151	       Saint-Nicolas-du-Pélem	6429076	                Plouguernével	    0.26
+2996832	                 Maël-Carhaix	6429076	                Plouguernével	    0.33
+3015800	                        Glomel	6429076	                Plouguernével	    0.26
+2986731	                     Ploërdut	6429076	                Plouguernével	    0.43
+2986635	                       Plouray	6429076	                Plouguernével	    0.36
+2986638	            Plounévez-Quintin	6429076	                Plouguernével	    0.15
+2985788	               Poullan-sur-Mer	2985788	               Poullan-sur-Mer	    0.00
+2986724	                       Plogoff	2985788	               Poullan-sur-Mer	    0.49
+2987863	                 Perros-Guirec	6429194	           Trévou-Tréguignec	    0.16
+2986693	                     Ploubezre	6429194	           Trévou-Tréguignec	    0.35
+2997514	                      Louannec	6429194	           Trévou-Tréguignec	    0.11
+6616126	                    Trégastel	6429194	           Trévou-Tréguignec	    0.28
+6429109	                        Rospez	6429194	           Trévou-Tréguignec	    0.24
+6429194	           Trévou-Tréguignec	6429194	           Trévou-Tréguignec	    0.00
+2977300	             Saint-Quay-Perros	6429194	           Trévou-Tréguignec	    0.18
+2971893	                   Trélévern	6429194	           Trévou-Tréguignec	    0.03
+2972462	                    Tonquédec	6429194	           Trévou-Tréguignec	    0.41
+3011675	               Kermaria-Sulard	6429194	           Trévou-Tréguignec	    0.12
+6447654	                         Erquy	3037743	                         Andel	    0.44
+6429047	                Plénée-Jugon	3037743	                         Andel	    0.47
+3037743	                         Andel	3037743	                         Andel	    0.00
+3029697	                         Bubry	6614173	          Guémené-sur-Scorff	    0.30
+3012778	                     Inguiniel	6614173	          Guémené-sur-Scorff	    0.30
+3000090	                      Le Sourn	6614173	          Guémené-sur-Scorff	    0.40
+2976756	                 Saint-Thuriau	6614173	          Guémené-sur-Scorff	    0.49
+2996427	                    Malguénac	6614173	          Guémené-sur-Scorff	    0.28
+2994653	                       Melrand	6614173	          Guémené-sur-Scorff	    0.30
+6437356	                     Quistinic	6614173	          Guémené-sur-Scorff	    0.47
+3014365	                         Guern	6614173	          Guémené-sur-Scorff	    0.23
+2981466	             Saint-Barthélemy	6614173	          Guémené-sur-Scorff	    0.49
+6614173	          Guémené-sur-Scorff	6614173	          Guémené-sur-Scorff	    0.00

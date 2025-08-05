@@ -1,0 +1,53 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  24634165759.29
+Primary   Care Cost:	   6606961614.00
+Secondary Care Cost:	   8809649818.20
+Tertiary  Care Cost:	   9215829052.65
+Add Infrastruc Cost:	      1578099.00
+Populat ExtLog Cost:	       147175.44
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4466.76
+----------------------------------------
+
+----------------------------------------
+State population:	5514993
+Max municipa pop:	1006402
+Min municipa pop:	1007
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1963   		0.77
+Care Level [3]	3840   		0.95
+----------------------------------------
+
+
+Demand met by level: (Estate has 437 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 437 mun > 100 mun (100.00% coverage)
+Care Level [2]: 100 mun >  86 mun
+Care Level [3]:  86 mun >  77 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6451561	Lapalud                  :	457276.60
+    1	3036067	Aups                     :	440504.60
+    1	2980325	Saintes-Maries-de-la-Mer :	258408.60
+    2	2980325	Saintes-Maries-de-la-Mer :	421909.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6451513	Le Plan-de-la-Tour       :	21016.79
+    2	6451561	Lapalud                  :	2143.58
+    2	3036067	Aups                     :	185.83
+    2	2985142	Puget-Théniers          :	52733.19
+    2	2980247	Saint-Étienne-de-Tinée :	13420.43
+    2	3028382	Castellane               :	52169.81
+    2	2974661	Seyne                    :	5505.82
+----------------------------------------------------------------

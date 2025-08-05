@@ -1,0 +1,438 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3028808	                        Cannes	3014856	                        Grasse	    0.37
+2977162	                       Antibes	3014856	                        Grasse	    0.48
+3029227	                Cagnes-sur-Mer	3014856	                        Grasse	    0.47
+3014856	                        Grasse	3014856	                        Grasse	    0.00
+3004871	                     Le Cannet	3014856	                        Grasse	    0.32
+6425695	                     Vallauris	3014856	                        Grasse	    0.37
+2996255	          Mandelieu-la-Napoule	3014856	                        Grasse	    0.34
+2991551	                       Mougins	3014856	                        Grasse	    0.24
+2970148	                         Vence	3014856	                        Grasse	    0.42
+2968533	             Villeneuve-Loubet	3014856	                        Grasse	    0.41
+6425693	                      Valbonne	3014856	                        Grasse	    0.20
+2991579	                Mouans-Sartoux	3014856	                        Grasse	    0.17
+3032579	                          Biot	3014856	                        Grasse	    0.38
+2987554	                    Peymeinade	3014856	                        Grasse	    0.11
+2988220	                      Pégomas	3014856	                        Grasse	    0.20
+3009978	             La Colle-sur-Loup	3014856	                        Grasse	    0.38
+3009150	                      La Gaude	3014856	                        Grasse	    0.50
+2992978	                    Montauroux	3014856	                        Grasse	    0.33
+6451486	                       Fayence	3014856	                        Grasse	    0.46
+2979395	        La Roquette-sur-Siagne	3014856	                        Grasse	    0.25
+2979209	                 Saint-Jeannet	3014856	                        Grasse	    0.51
+2972273	           Tourrettes-sur-Loup	3014856	                        Grasse	    0.32
+6455473	                    Le Bosquet	3014856	                        Grasse	    0.18
+2981217	     Saint-Cézaire-sur-Siagne	3014856	                        Grasse	    0.25
+6615741	           Châteauneuf-Grasse	3014856	                        Grasse	    0.12
+2976695	        Saint-Vallier-de-Thiey	3014856	                        Grasse	    0.17
+2977701	           Saint-Paul-de-Vence	3014856	                        Grasse	    0.42
+3029118	                       Callian	3014856	                        Grasse	    0.35
+3036022	           Auribeau-sur-Siagne	3014856	                        Grasse	    0.18
+12072017	                     Le Tignet	3014856	                        Grasse	    0.18
+6615738	               Le Bar-sur-Loup	3014856	                        Grasse	    0.17
+6617829	                    Tourrettes	3014856	                        Grasse	    0.45
+2989486	                          Opio	3014856	                        Grasse	    0.13
+2973418	                      Tanneron	3014856	                        Grasse	    0.23
+3029282	                        Cabris	3014856	                        Grasse	    0.09
+2972942	              Théoule-sur-Mer	3014856	                        Grasse	    0.45
+2973863	                  Spéracèdes	3014856	                        Grasse	    0.13
+6454958	                     Martigues	6454958	                     Martigues	    0.00
+3012647	                        Istres	6454958	                     Martigues	    0.33
+2967870	                     Vitrolles	6454958	                     Martigues	    0.43
+2995750	                     Marignane	6454958	                     Martigues	    0.34
+6454959	                       Miramas	6454958	                     Martigues	    0.50
+3026227	    Châteauneuf-les-Martigues	6454958	                     Martigues	    0.24
+6447156	                  Port-de-Bouc	6454958	                     Martigues	    0.12
+3017651	                   Fos-sur-Mer	6454958	                     Martigues	    0.25
+3033241	              Berre-l’Étang	6454958	                     Martigues	    0.31
+2983130	                        Rognac	6454958	                     Martigues	    0.44
+3016070	              Gignac-la-Nerthe	6454958	                     Martigues	    0.38
+6456720	          La Fare-les-Oliviers	6454958	                     Martigues	    0.50
+2981209	                  Saint-Chamas	6454958	                     Martigues	    0.40
+6447157	    Port-Saint-Louis-du-Rhône	6454958	                     Martigues	    0.49
+6427089	              Sausset-les-Pins	6454958	                     Martigues	    0.24
+2976656	                Saint-Victoret	6454958	                     Martigues	    0.38
+2977947	      Saint-Mitre-les-Remparts	6454958	                     Martigues	    0.15
+3028510	                Carry-le-Rouet	6454958	                     Martigues	    0.29
+3020149	            Ensuès-la-Redonne	6454958	                     Martigues	    0.35
+3002271	                       Le Rove	6454958	                     Martigues	    0.42
+3016702	                           Gap	3016702	                           Gap	    0.00
+2969516	                        Veynes	3016702	                           Gap	    0.51
+3025033	                       Chorges	3016702	                           Gap	    0.39
+3011218	               La Bâtie-Neuve	3016702	                           Gap	    0.23
+2973485	                       Tallard	3016702	                           Gap	    0.28
+2981355	     Saint-Bonnet-en-Champsaur	3016702	                           Gap	    0.34
+2982985	                       Romette	3016702	                           Gap	    0.08
+3006795	          La Roche-des-Arnauds	3016702	                           Gap	    0.24
+3006511	                     La Saulce	3016702	                           Gap	    0.40
+6618043	               Digne-les-Bains	6618043	               Digne-les-Bains	    0.00
+3026312	   Château-Arnoux-Saint-Auban	6618043	               Digne-les-Bains	    0.45
+2996413	                       Malijai	6618043	               Digne-les-Bains	    0.43
+2967718	                       Volonne	6618043	               Digne-les-Bains	    0.44
+6618050	               Le Vieil Aiglun	6618043	               Digne-les-Bains	    0.22
+6618042	                    L’Escale	6618043	               Digne-les-Bains	    0.42
+6425526	                  Mallemoisson	6618043	               Digne-les-Bains	    0.26
+3037352	                           Apt	3037352	                           Apt	    0.00
+3003650	                        Le Luc	3003650	                        Le Luc	    0.00
+2985141	                   Puget-Ville	3003650	                        Le Luc	    0.46
+3015686	                      Gonfaron	3003650	                        Le Luc	    0.21
+3018355	                       Flayosc	3003650	                        Le Luc	    0.42
+3028637	                       Carcès	3003650	                        Le Luc	    0.35
+3017799	                 Forcalqueiret	3003650	                        Le Luc	    0.50
+2980783	   Sainte-Anastasie-sur-Issole	3003650	                        Le Luc	    0.41
+6451469	               Camps-la-Source	3003650	                        Le Luc	    0.44
+2980772	                        Toulon	3002357	            Le Revest-les-Eaux	    0.14
+2974657	              La Seyne-sur-Mer	3002357	            Le Revest-les-Eaux	    0.23
+3012937	                       Hyères	3002357	            Le Revest-les-Eaux	    0.44
+2974427	          Six-Fours-les-Plages	3002357	            Le Revest-les-Eaux	    0.30
+3009198	                      La Garde	3002357	            Le Revest-les-Eaux	    0.22
+3005825	             La Valette-du-Var	3002357	            Le Revest-les-Eaux	    0.16
+2999891	                       La Crau	3002357	            Le Revest-les-Eaux	    0.31
+2976258	                Sanary-sur-Mer	3002357	            Le Revest-les-Eaux	    0.30
+2989590	                     Ollioules	3002357	            Le Revest-les-Eaux	    0.19
+6445059	             Saint-Cyr-sur-Mer	3002357	            Le Revest-les-Eaux	    0.44
+3022158	                         Cuers	3002357	            Le Revest-les-Eaux	    0.34
+2974338	                 Solliès-Pont	3002357	            Le Revest-les-Eaux	    0.24
+3002510	                     Le Pradet	3002357	            Le Revest-les-Eaux	    0.28
+3028534	                  Carqueiranne	3002357	            Le Revest-les-Eaux	    0.37
+3009566	                   La Farlède	3002357	            Le Revest-les-Eaux	    0.24
+3035156	                        Bandol	3002357	            Le Revest-les-Eaux	    0.37
+2987297	              Pierrefeu-du-Var	3002357	            Le Revest-les-Eaux	    0.46
+2972324	        Saint-Mandrier-sur-Mer	3002357	            Le Revest-les-Eaux	    0.28
+2974337	               Solliès-Toucas	3002357	            Le Revest-les-Eaux	    0.22
+6457114	          La Cadière-d’Azur	3002357	            Le Revest-les-Eaux	    0.35
+3002357	            Le Revest-les-Eaux	3002357	            Le Revest-les-Eaux	    0.00
+3004838	                  Le Castellet	3002357	            Le Revest-les-Eaux	    0.31
+2974586	                        Signes	3002357	            Le Revest-les-Eaux	    0.34
+2974336	                Solliès-Ville	3002357	            Le Revest-les-Eaux	    0.23
+3033784	                    Belgentier	3002357	            Le Revest-les-Eaux	    0.24
+2980759	                       Évenos	3002357	            Le Revest-les-Eaux	    0.20
+2994486	       Méounes-lès-Montrieux	3002357	            Le Revest-les-Eaux	    0.30
+2989460	                        Orange	2980711	     Sainte-Cécile-les-Vignes	    0.33
+3031868	                      Bollène	2980711	     Sainte-Cécile-les-Vignes	    0.29
+6615256	                      Valréas	2980711	     Sainte-Cécile-les-Vignes	    0.44
+2975953	                      Sarrians	2980711	     Sainte-Cécile-les-Vignes	    0.48
+2971154	             Vaison-la-Romaine	2980711	     Sainte-Cécile-les-Vignes	    0.38
+2987071	                       Piolenc	2980711	     Sainte-Cécile-les-Vignes	    0.31
+3029069	            Camaret-sur-Aigues	2980711	     Sainte-Cécile-les-Vignes	    0.23
+6451561	                       Lapalud	2980711	     Sainte-Cécile-les-Vignes	    0.43
+2993342	                     Mondragon	2980711	     Sainte-Cécile-les-Vignes	    0.35
+2974923	           Sérignan-du-Comtat	2980711	     Sainte-Cécile-les-Vignes	    0.18
+3029254	                    Caderousse	2980711	     Sainte-Cécile-les-Vignes	    0.47
+2980711	     Sainte-Cécile-les-Vignes	2980711	     Sainte-Cécile-les-Vignes	    0.00
+2991741	                        Mornas	2980711	     Sainte-Cécile-les-Vignes	    0.34
+3034218	             Beaumes-de-Venise	2980711	     Sainte-Cécile-les-Vignes	    0.45
+2967914	                         Visan	2980711	     Sainte-Cécile-les-Vignes	    0.23
+3014640	                       Grillon	2980711	     Sainte-Cécile-les-Vignes	    0.42
+2968005	                       Violès	2980711	     Sainte-Cécile-les-Vignes	    0.27
+2982075	                        Sablet	2980711	     Sainte-Cécile-les-Vignes	    0.28
+2971205	                    Vacqueyras	2980711	     Sainte-Cécile-les-Vignes	    0.35
+3029182	                      Cairanne	2980711	     Sainte-Cécile-les-Vignes	    0.10
+3036433	                       Aubagne	2986891	    Plan-d’Aups-Sainte-Baume	    0.32
+6456718	                     La Ciotat	2986891	    Plan-d’Aups-Sainte-Baume	    0.48
+3038159	                       Allauch	2986891	    Plan-d’Aups-Sainte-Baume	    0.47
+2978100	 Saint-Maximin-la-Sainte-Baume	2986891	    Plan-d’Aups-Sainte-Baume	    0.45
+3036012	                        Auriol	2986891	    Plan-d’Aups-Sainte-Baume	    0.21
+6447127	                        Fuveau	2986891	    Plan-d’Aups-Sainte-Baume	    0.46
+3005326	                   Le Beausset	2986891	    Plan-d’Aups-Sainte-Baume	    0.40
+6447163	                    Roquevaire	2986891	    Plan-d’Aups-Sainte-Baume	    0.23
+3028431	                        Cassis	2986891	    Plan-d’Aups-Sainte-Baume	    0.48
+6615537	           Carnoux-en-Provence	2986891	    Plan-d’Aups-Sainte-Baume	    0.37
+3016398	                      Gémenos	2986891	    Plan-d’Aups-Sainte-Baume	    0.21
+3007401	         La Penne-sur-Huveaune	2986891	    Plan-d’Aups-Sainte-Baume	    0.43
+6445065	                Saint-Zacharie	2986891	    Plan-d’Aups-Sainte-Baume	    0.15
+2982859	         Roquefort-la-Bédoule	2986891	    Plan-d’Aups-Sainte-Baume	    0.34
+2972168	                       Tourves	2986891	    Plan-d’Aups-Sainte-Baume	    0.47
+2990987	                 Nans-les-Pins	2986891	    Plan-d’Aups-Sainte-Baume	    0.17
+3027745	                      Ceyreste	2986891	    Plan-d’Aups-Sainte-Baume	    0.37
+2993832	                         Mimet	2986891	    Plan-d’Aups-Sainte-Baume	    0.49
+3014767	                     Gréasque	2986891	    Plan-d’Aups-Sainte-Baume	    0.46
+2986891	    Plan-d’Aups-Sainte-Baume	2986891	    Plan-d’Aups-Sainte-Baume	    0.00
+2982575	                      Rougiers	2986891	    Plan-d’Aups-Sainte-Baume	    0.32
+2985765	                     Pourcieux	2986891	    Plan-d’Aups-Sainte-Baume	    0.41
+2969187	                     Marseille	3029248	                      Cadolive	    0.45
+3038354	               Aix-en-Provence	3029248	                      Cadolive	    0.42
+3000047	           Les Pennes-Mirabeau	3029248	                      Cadolive	    0.48
+3016667	                      Gardanne	3029248	                      Cadolive	    0.22
+3031387	                  Bouc-Bel-Air	3029248	                      Cadolive	    0.32
+2986889	                Plan-de-Cuques	3029248	                      Cadolive	    0.22
+2975020	         Septèmes-les-Vallons	3029248	                      Cadolive	    0.37
+6453664	                         Trets	3029248	                      Cadolive	    0.31
+3029283	                      Cabriès	3029248	                      Cadolive	    0.36
+3000866	               La Bouilladisse	3029248	                      Cadolive	    0.10
+2994068	                      Meyreuil	3029248	                      Cadolive	    0.27
+6427092	             Simiane-Collongue	3029248	                      Cadolive	    0.25
+2987547	                        Peypin	3029248	                      Cadolive	    0.07
+6451516	                   Pourrières	3029248	                      Cadolive	    0.48
+3022152	                Cuges-les-Pins	3029248	                      Cadolive	    0.45
+2982472	                       Rousset	3029248	                      Cadolive	    0.28
+2987551	                       Peynier	3029248	                      Cadolive	    0.24
+2976994	               Saint-Savournin	3029248	                      Cadolive	    0.05
+3026229	         Châteauneuf-le-Rouge	3029248	                      Cadolive	    0.27
+3029248	                      Cadolive	3029248	                      Cadolive	    0.00
+3033803	                    Belcodène	3029248	                      Cadolive	    0.12
+2984944	                    Puyloubier	3029248	                      Cadolive	    0.44
+2978561	         Saint-Marc-Jaumegarde	3029248	                      Cadolive	    0.43
+2980325	      Saintes-Maries-de-la-Mer	2980325	      Saintes-Maries-de-la-Mer	    0.00
+2994497	                        Menton	6446679	                Breil-sur-Roya	    0.45
+2988214	                        Peille	6446679	                Breil-sur-Roya	    0.44
+2973180	                         Tende	6446679	                Breil-sur-Roya	    0.45
+6446679	                Breil-sur-Roya	6446679	                Breil-sur-Roya	    0.00
+6446710	                        Gorbio	6446679	                Breil-sur-Roya	    0.44
+12072016	                 Sainte-Agnès	6446679	                Breil-sur-Roya	    0.42
+2997234	                      Lucéram	6446679	                Breil-sur-Roya	    0.34
+3028380	                     Castellar	6446679	                Breil-sur-Roya	    0.37
+3036938	                         Arles	2988609	                       Paradou	    0.34
+3026211	                Châteaurenard	2988609	                       Paradou	    0.47
+2973393	                      Tarascon	2988609	                       Paradou	    0.35
+2978396	          Saint-Martin-de-Crau	2988609	                       Paradou	    0.23
+2977214	       Saint-Rémy-de-Provence	2988609	                       Paradou	    0.21
+3019219	                    Eyguières	2988609	                       Paradou	    0.49
+2989935	                         Noves	2988609	                       Paradou	    0.49
+6447161	                      Rognonas	2988609	                       Paradou	    0.50
+3017816	                   Fontvieille	2988609	                       Paradou	    0.16
+2991421	                      Mouriès	2988609	                       Paradou	    0.19
+2996711	                      Maillane	2988609	                       Paradou	    0.31
+2980238	       Saint-Étienne-du-Grès	2988609	                       Paradou	    0.21
+9178745	         Maussane-les-Alpilles	2988609	                       Paradou	    0.03
+2988609	                       Paradou	2988609	                       Paradou	    0.00
+3019229	                   Eygalières	2988609	                       Paradou	    0.34
+3036048	                      Aureille	2988609	                       Paradou	    0.32
+3031178	                       Boulbon	2988609	                       Paradou	    0.44
+2980402	                 Sainte-Maxime	3009193	              La Garde-Freinet	    0.34
+2969353	                      Vidauban	3009193	              La Garde-Freinet	    0.32
+3003188	                       Cogolin	3009193	              La Garde-Freinet	    0.22
+2990906	                        Le Muy	3009193	              La Garde-Freinet	    0.47
+3028129	             Cavalaire-sur-Mer	3009193	              La Garde-Freinet	    0.42
+3002138	                      Les Arcs	3009193	              La Garde-Freinet	    0.41
+2987179	                       Pignans	3009193	              La Garde-Freinet	    0.49
+3004870	          Le Cannet-des-Maures	3009193	              La Garde-Freinet	    0.33
+2976742	                  Saint-Tropez	3009193	              La Garde-Freinet	    0.37
+3009710	               La Croix-Valmer	3009193	              La Garde-Freinet	    0.36
+2983390	                        Gassin	3009193	              La Garde-Freinet	    0.34
+2984521	                    Ramatuelle	3009193	              La Garde-Freinet	    0.40
+3024313	                 Collobrières	3009193	              La Garde-Freinet	    0.39
+3009193	              La Garde-Freinet	3009193	              La Garde-Freinet	    0.00
+2973396	                      Taradeau	3009193	              La Garde-Freinet	    0.39
+3017253	                       Fréjus	2977662	          Saint-Paul-en-Forêt	    0.38
+3020850	                    Draguignan	2977662	          Saint-Paul-en-Forêt	    0.46
+6445063	                Saint-Raphaël	2977662	          Saint-Paul-en-Forêt	    0.42
+2982875	         Roquebrune-sur-Argens	2977662	          Saint-Paul-en-Forêt	    0.36
+6614189	              Puget-sur-Argens	2977662	          Saint-Paul-en-Forêt	    0.31
+2972058	             Trans-en-Provence	2977662	          Saint-Paul-en-Forêt	    0.45
+3008037	                      La Motte	2977662	          Saint-Paul-en-Forêt	    0.38
+3035398	             Bagnols-en-Forêt	2977662	          Saint-Paul-en-Forêt	    0.08
+2975265	                      Seillans	2977662	          Saint-Paul-en-Forêt	    0.21
+3018513	                   Figanières	2977662	          Saint-Paul-en-Forêt	    0.39
+3029125	                        Callas	2977662	          Saint-Paul-en-Forêt	    0.32
+2977662	          Saint-Paul-en-Forêt	2977662	          Saint-Paul-en-Forêt	    0.00
+3034939	                      Bargemon	2977662	          Saint-Paul-en-Forêt	    0.32
+3035681	                       Avignon	3012282	                  Jonquerettes	    0.25
+3028542	                    Carpentras	3012282	                  Jonquerettes	    0.38
+6614137	                     Cavaillon	3012282	                  Jonquerettes	    0.37
+2998127	        L’Isle-sur-la-Sorgue	3012282	                  Jonquerettes	    0.25
+2974188	                       Sorgues	3012282	                  Jonquerettes	    0.21
+3002570	                     Le Pontet	3012282	                  Jonquerettes	    0.15
+2992638	                       Monteux	3012282	                  Jonquerettes	    0.28
+2970253	                       Vedène	3012282	                  Jonquerettes	    0.10
+2987945	          Pernes-les-Fontaines	3012282	                  Jonquerettes	    0.29
+6456555	                       Le Thor	3012282	                  Jonquerettes	    0.13
+6451576	        Morières-lès-Avignon	3012282	                  Jonquerettes	    0.06
+3020142	      Entraigues-sur-la-Sorgue	3012282	                  Jonquerettes	    0.16
+2994901	                         Mazan	3012282	                  Jonquerettes	    0.49
+3022897	                   Courthézon	3012282	                  Jonquerettes	    0.40
+3036359	                      Aubignan	3012282	                  Jonquerettes	    0.46
+3012277	                   Jonquières	3012282	                  Jonquerettes	    0.47
+3033912	                   Bédarrides	3012282	                  Jonquerettes	    0.27
+6451536	           Caumont-sur-Durance	3012282	                  Jonquerettes	    0.15
+3014803	                      Graveson	3012282	                  Jonquerettes	    0.42
+2977063	   Saint-Saturnin-lès-Avignon	3012282	                  Jonquerettes	    0.03
+2983338	                        Robion	3012282	                  Jonquerettes	    0.46
+3019203	                      Eyragues	3012282	                  Jonquerettes	    0.35
+3029312	                      Cabannes	3012282	                  Jonquerettes	    0.24
+3025375	                  Cheval-Blanc	3012282	                  Jonquerettes	    0.48
+3035036	                    Barbentane	3012282	                  Jonquerettes	    0.39
+2986883	                Plan-d’Orgon	3012282	                  Jonquerettes	    0.40
+3026242	       Châteauneuf-de-Gadagne	3012282	                  Jonquerettes	    0.06
+2981791	                  Saint-Andiol	3012282	                  Jonquerettes	    0.31
+2970187	                      Velleron	3012282	                  Jonquerettes	    0.19
+2989362	                         Orgon	3012282	                  Jonquerettes	    0.48
+6452559	             Althen-des-Paluds	3012282	                  Jonquerettes	    0.17
+2993496	                    Mollégès	3012282	                  Jonquerettes	    0.39
+2994783	              Loriol-du-Comtat	3012282	                  Jonquerettes	    0.38
+3026233	          Châteauneuf-du-Pape	3012282	                  Jonquerettes	    0.36
+2995155	                        Maubec	3012282	                  Jonquerettes	    0.50
+2973564	                     Taillades	3012282	                  Jonquerettes	    0.44
+3029284	        Cabrières-d’Avignon	3012282	                  Jonquerettes	    0.46
+2996449	            Malemort-du-Comtat	3012282	                  Jonquerettes	    0.50
+3009078	                        Lagnes	3012282	                  Jonquerettes	    0.39
+3012282	                  Jonquerettes	3012282	                  Jonquerettes	    0.00
+2980247	      Saint-Étienne-de-Tinée	2980247	      Saint-Étienne-de-Tinée	    0.00
+3008432	           La Londe-les-Maures	3008116	                      La Môle	    0.51
+3031532	            Bormes-les-Mimosas	3008116	                      La Môle	    0.29
+3003713	                   Le Lavandou	3008116	                      La Môle	    0.28
+3014634	                       Grimaud	3008116	                      La Môle	    0.21
+6451513	            Le Plan-de-la-Tour	3008116	                      La Môle	    0.40
+3008116	                      La Môle	3008116	                      La Môle	    0.00
+3030057	                     Brignoles	2992583	           Montfort-sur-Argens	    0.23
+2997581	                       Lorgues	2992583	           Montfort-sur-Argens	    0.49
+3016635	                     Garéoult	2992583	           Montfort-sur-Argens	    0.43
+6445057	                      Rocbaron	2992583	           Montfort-sur-Argens	    0.48
+2999012	                        Le Val	2992583	           Montfort-sur-Argens	    0.14
+2976472	                      Salernes	2992583	           Montfort-sur-Argens	    0.34
+3018389	           Flassans-sur-Issole	2992583	           Montfort-sur-Argens	    0.35
+3028558	                     Carnoules	2992583	           Montfort-sur-Argens	    0.50
+3033065	              Besse-sur-Issole	2992583	           Montfort-sur-Argens	    0.37
+3034918	                       Barjols	2992583	           Montfort-sur-Argens	    0.33
+2990787	                      Néoules	2992583	           Montfort-sur-Argens	    0.50
+6455294	                          Bras	2992583	           Montfort-sur-Argens	    0.34
+2984145	                      Régusse	2992583	           Montfort-sur-Argens	    0.50
+2999179	                   Le Thoronet	2992583	           Montfort-sur-Argens	    0.37
+2975256	    Seillons-Source-d’Argens	2992583	           Montfort-sur-Argens	    0.48
+3006704	             La Roquebrussanne	2992583	           Montfort-sur-Argens	    0.47
+3036067	                          Aups	2992583	           Montfort-sur-Argens	    0.48
+3023410	                      Cotignac	2992583	           Montfort-sur-Argens	    0.16
+3029306	                       Cabasse	2992583	           Montfort-sur-Argens	    0.24
+6457116	                      La Celle	2992583	           Montfort-sur-Argens	    0.28
+2968822	                    Villecroze	2992583	           Montfort-sur-Argens	    0.43
+2973259	                      Tavernes	2992583	           Montfort-sur-Argens	    0.39
+3029809	                   Brue-Auriac	2992583	           Montfort-sur-Argens	    0.39
+2992583	           Montfort-sur-Argens	2992583	           Montfort-sur-Argens	    0.00
+2970746	                       Varages	2992583	           Montfort-sur-Argens	    0.47
+3020134	                 Entrecasteaux	2992583	           Montfort-sur-Argens	    0.27
+2976341	             Salon-de-Provence	3023576	             Cornillon-Confoux	    0.22
+2988186	                   Pélissanne	3023576	             Cornillon-Confoux	    0.25
+3007912	              Lançon-Provence	3023576	             Cornillon-Confoux	    0.14
+6427095	                        Velaux	3023576	             Cornillon-Confoux	    0.38
+2975120	                        Sénas	3023576	             Cornillon-Confoux	    0.51
+6427097	                     Ventabren	3023576	             Cornillon-Confoux	    0.45
+3014868	                         Grans	3023576	             Cornillon-Confoux	    0.13
+3023344	                       Coudoux	3023576	             Cornillon-Confoux	    0.36
+3008308	                       Lamanon	3023576	             Cornillon-Confoux	    0.39
+3023576	             Cornillon-Confoux	3023576	             Cornillon-Confoux	    0.00
+3007082	            Laragne-Montéglin	2974831	                        Serres	    0.38
+2974831	                        Serres	2974831	                        Serres	    0.00
+3028551	                        Caromb	2968290	              Villes-sur-Auzon	    0.29
+3033900	                       Bédoin	2968290	              Villes-sur-Auzon	    0.21
+3016624	                        Gargas	2968290	              Villes-sur-Auzon	    0.50
+8297344	       Saint-Saturnin-lès-Apt	2968290	              Villes-sur-Auzon	    0.44
+2996495	                    Malaucène	2968290	              Villes-sur-Auzon	    0.38
+2991750	                     Mormoiron	2968290	              Villes-sur-Auzon	    0.10
+3015661	                        Gordes	2968290	              Villes-sur-Auzon	    0.41
+2975798	                         Sault	2968290	              Villes-sur-Auzon	    0.36
+2968290	              Villes-sur-Auzon	2968290	              Villes-sur-Auzon	    0.00
+3020133	                    Entrechaux	2968290	              Villes-sur-Auzon	    0.48
+2970151	                      Venasque	2968290	              Villes-sur-Auzon	    0.24
+3023842	                        Contes	3007506	                     Lantosque	    0.45
+2998916	                        Levens	3007506	                     Lantosque	    0.36
+2974162	                        Sospel	3007506	                     Lantosque	    0.38
+2978284	           Saint-Martin-du-Var	3007506	                     Lantosque	    0.48
+8288974	                 L’Escarène	3007506	                     Lantosque	    0.40
+2982881	                Roquebillière	3007506	                     Lantosque	    0.11
+3032308	                      Blausasc	3007506	                     Lantosque	    0.48
+3016053	                       Gilette	3007506	                     Lantosque	    0.46
+2978208	         Saint-Martin-Vésubie	3007506	                     Lantosque	    0.29
+3007506	                     Lantosque	3007506	                     Lantosque	    0.00
+3033242	               Berre-les-Alpes	3007506	                     Lantosque	    0.40
+3006213	            La Tour-d’Aigues	3023736	        Corbières-en-Provence	    0.42
+2968023	              Vinon-sur-Verdon	3023736	        Corbières-en-Provence	    0.16
+2979088	                  Saint-Julien	3023736	        Corbières-en-Provence	    0.38
+3016018	                   Ginasservis	3023736	        Corbières-en-Provence	    0.32
+3005687	                  La Verdière	3023736	        Corbières-en-Provence	    0.50
+3011268	       La Bastide-des-Jourdans	3023736	        Corbières-en-Provence	    0.24
+3008015	           La Motte-d’Aigues	3023736	        Corbières-en-Provence	    0.46
+2993771	                      Mirabeau	3023736	        Corbières-en-Provence	    0.25
+3015384	                      Grambois	3023736	        Corbières-en-Provence	    0.33
+3027889	                      Céreste	3023736	        Corbières-en-Provence	    0.42
+3023736	        Corbières-en-Provence	3023736	        Corbières-en-Provence	    0.00
+3034169	           Beaumont-de-Pertuis	3023736	        Corbières-en-Provence	    0.14
+6425528	                      Manosque	3010787	                  La Brillanne	    0.34
+2989461	                       Oraison	3010787	                  La Brillanne	    0.06
+3017798	                   Forcalquier	3010787	                  La Brillanne	    0.24
+2968614	                    Villeneuve	3010787	                  La Brillanne	    0.11
+2987222	                    Pierrevert	3010787	                  La Brillanne	    0.43
+3000329	                     Les Mées	3010787	                  La Brillanne	    0.33
+2980205	                  Sainte-Tulle	3010787	                  La Brillanne	    0.47
+2971033	                     Valensole	3010787	                  La Brillanne	    0.31
+2967708	                          Volx	3010787	                  La Brillanne	    0.17
+2987459	                       Peyruis	3010787	                  La Brillanne	    0.30
+3014717	             Gréoux-les-Bains	3010787	                  La Brillanne	    0.47
+2983580	                          Riez	3010787	                  La Brillanne	    0.50
+2984118	                     Reillanne	3010787	                  La Brillanne	    0.48
+2996234	                          Mane	3010787	                  La Brillanne	    0.25
+2980220	     Saint-Étienne-les-Orgues	3010787	                  La Brillanne	    0.40
+2977959	 Saint-Michel-l’Observatoire	3010787	                  La Brillanne	    0.35
+3010787	                  La Brillanne	3010787	                  La Brillanne	    0.00
+3034991	                 Barcelonnette	3012406	                      Jausiers	    0.18
+3012406	                      Jausiers	3012406	                      Jausiers	    0.00
+2988800	                          Nice	2981375	                  Saint-Blaise	    0.33
+2978891	          Saint-Laurent-du-Var	2981375	                  Saint-Blaise	    0.44
+3034041	                    Beausoleil	2981375	                  Saint-Blaise	    0.43
+8288967	                        Carros	2981375	                  Saint-Blaise	    0.16
+3006152	                   La Trinité	2981375	                  Saint-Blaise	    0.27
+6618146	      Saint-André-de-la-Roche	2981375	                  Saint-Blaise	    0.25
+2968749	          Villefranche-sur-Mer	2981375	                  Saint-Blaise	    0.36
+2972195	              Tourrette-Levens	2981375	                  Saint-Blaise	    0.12
+3020834	                          Drap	2981375	                  Saint-Blaise	    0.25
+3028742	                   Cap-d’Ail	2981375	                  Saint-Blaise	    0.44
+3016534	                    Gattières	2981375	                  Saint-Blaise	    0.21
+3034238	              Beaulieu-sur-Mer	2981375	                  Saint-Blaise	    0.37
+3024276	                      Colomars	2981375	                  Saint-Blaise	    0.16
+3006089	                     La Turbie	2981375	                  Saint-Blaise	    0.39
+3036540	                     Aspremont	2981375	                  Saint-Blaise	    0.11
+3019174	                          Èze	2981375	                  Saint-Blaise	    0.36
+3019095	                       Falicon	2981375	                  Saint-Blaise	    0.22
+3028418	                   Castagniers	2981375	                  Saint-Blaise	    0.09
+2979369	         Saint-Jean-Cap-Ferrat	2981375	                  Saint-Blaise	    0.42
+2980300	                       Peillon	2981375	                  Saint-Blaise	    0.30
+3004963	                       Le Broc	2981375	                  Saint-Blaise	    0.14
+2981375	                  Saint-Blaise	2981375	                  Saint-Blaise	    0.00
+3028783	                      Cantaron	2981375	                  Saint-Blaise	    0.23
+2974446	                      Sisteron	3002132	                         Mison	    0.28
+2988208	                        Peipin	3002132	                         Mison	    0.41
+3002132	                         Mison	3002132	                         Mison	    0.00
+3014258	                    Guillestre	3001268	                         Crots	    0.50
+3001268	                         Crots	3001268	                         Crots	    0.00
+6446638	                        Embrun	8288944	                Savines-le-Lac	    0.21
+2974661	                         Seyne	8288944	                Savines-le-Lac	    0.50
+8288911	        Châteauroux-les-Alpes	8288944	                Savines-le-Lac	    0.34
+8288944	                Savines-le-Lac	8288944	                Savines-le-Lac	    0.00
+3030142	                     Briançon	3003297	        Le Monêtier-les-Bains	    0.33
+6618140	    L’Argentière-la-Bessée	3003297	        Le Monêtier-les-Bains	    0.51
+2981214	                Saint-Chaffrey	3003297	        Le Monêtier-les-Bains	    0.24
+2968929	         Villar-Saint-Pancrace	3003297	        Le Monêtier-les-Bains	    0.37
+6425639	   Saint-Martin-de-Queyrières	3003297	        Le Monêtier-les-Bains	    0.41
+3003297	        Le Monêtier-les-Bains	3003297	        Le Monêtier-les-Bains	    0.00
+2987825	                       Pertuis	2997384	                     Lourmarin	    0.34
+3008208	                       Lambesc	2997384	                     Lourmarin	    0.37
+2996397	                     Mallemort	2997384	                     Lourmarin	    0.38
+3002443	       Le Puy-Sainte-Réparade	2997384	                     Lourmarin	    0.32
+2981259	                  Saint-Cannat	2997384	                     Lourmarin	    0.42
+3006703	        La Roque-d’Anthéron	2997384	                     Lourmarin	    0.17
+2983127	                        Rognes	2997384	                     Lourmarin	    0.28
+3029256	                       Cadenet	2997384	                     Lourmarin	    0.08
+3005966	                        Lauris	2997384	                     Lourmarin	    0.11
+2994070	                    Meyrargues	2997384	                     Lourmarin	    0.49
+2968701	                    Villelaure	2997384	                     Lourmarin	    0.21
+3026616	                     Charleval	2997384	                     Lourmarin	    0.27
+3038156	                       Alleins	2997384	                     Lourmarin	    0.44
+2994379	                     Mérindol	2997384	                     Lourmarin	    0.32
+2969832	                    Vernègues	2997384	                     Lourmarin	    0.44
+3022164	                       Cucuron	2997384	                     Lourmarin	    0.15
+6451579	              Oppède le Vieux	2997384	                     Lourmarin	    0.45
+3031665	                      Bonnieux	2997384	                     Lourmarin	    0.20
+3015571	                         Goult	2997384	                     Lourmarin	    0.36
+2997384	                     Lourmarin	2997384	                     Lourmarin	    0.00
+3037482	                       Ansouis	2997384	                     Lourmarin	    0.21
+2985142	               Puget-Théniers	3037512	                         Annot	    0.45
+3028382	                    Castellane	3037512	                         Annot	    0.45
+3037512	                         Annot	3037512	                         Annot	    0.00
+2981717	        Saint-André-les-Alpes	3037512	                         Annot	    0.32
+2970092	                      Venelles	2970408	                  Vauvenargues	    0.27
+6447121	                     Éguilles	2970408	                  Vauvenargues	    0.50
+2987472	         Peyrolles-en-Provence	2970408	                  Vauvenargues	    0.25
+3012200	                       Jouques	2970408	                  Vauvenargues	    0.24
+2983732	                         Rians	2970408	                  Vauvenargues	    0.34
+3009663	                 La Destrousse	2970408	                  Vauvenargues	    0.50
+2999182	                   Le Tholonet	2970408	                  Vauvenargues	    0.21
+2970408	                  Vauvenargues	2970408	                  Vauvenargues	    0.00

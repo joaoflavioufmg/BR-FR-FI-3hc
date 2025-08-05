@@ -1,0 +1,14 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+297,"Kuopio",297,"Kuopio",0,2
+420,"Leppävirta",297,"Kuopio",1.12,2
+686,"Rautalampi",297,"Kuopio",1.31,2
+857,"Tuusniemi",297,"Kuopio",1.06,2
+844,"Tervo",297,"Kuopio",1.18,2
+140,"Iisalmi",140,"Iisalmi",0,2
+402,"Lapinlahti",140,"Iisalmi",0.59,2
+263,"Kiuruvesi",140,"Iisalmi",0.75,2
+595,"Pielavesi",140,"Iisalmi",1.06,2
+925,"Vieremä",140,"Iisalmi",0.56,2
+239,"Keitele",140,"Iisalmi",1.49,2
+687,"Rautavaara",140,"Iisalmi",1.39,2
+749,"Siilinjärvi",749,"Siilinjärvi",0,2

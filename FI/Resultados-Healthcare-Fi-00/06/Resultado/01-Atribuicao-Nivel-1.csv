@@ -1,0 +1,12 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+109,"Hämeenlinna",109,"Hämeenlinna",0,1
+165,"Janakkala",109,"Hämeenlinna",0.35,1
+82,"Hattula",109,"Hämeenlinna",0.17,1
+694,"Riihimäki",694,"Riihimäki",0,1
+433,"Loppi",694,"Riihimäki",0.44,1
+86,"Hausjärvi",694,"Riihimäki",0.39,1
+61,"Forssa",61,"Forssa",0,1
+834,"Tammela",61,"Forssa",0.21,1
+169,"Jokioinen",61,"Forssa",0.18,1
+981,"Ypäjä",61,"Forssa",0.45,1
+103,"Humppila",103,"Humppila",0,1

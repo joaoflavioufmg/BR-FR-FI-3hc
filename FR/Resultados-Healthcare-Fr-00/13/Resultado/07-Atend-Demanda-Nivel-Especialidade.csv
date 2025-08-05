@@ -1,0 +1,406 @@
+NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
+1,3014856,Grasse,1,Physicians,521659,67.82
+1,3014856,Grasse,2,Nurses,521659,328.65
+1,3014856,Grasse,3,OtherCadres,521659,187.80
+1,3014856,Grasse,4,CommunityBased,521659,182.58
+1,3014856,Grasse,5,Beds,521659,0.00
+1,3014856,Grasse,6,CTScanner,521659,0.00
+1,3014856,Grasse,7,MRIUnit,521659,0.00
+1,3014856,Grasse,8,Mammography,521659,0.00
+1,3014856,Grasse,9,Radiotherapy,521659,0.00
+1,6454958,Martigues,1,Physicians,330662,42.99
+1,6454958,Martigues,2,Nurses,330662,208.32
+1,6454958,Martigues,3,OtherCadres,330662,119.04
+1,6454958,Martigues,4,CommunityBased,330662,115.73
+1,6454958,Martigues,5,Beds,330662,0.00
+1,6454958,Martigues,6,CTScanner,330662,0.00
+1,6454958,Martigues,7,MRIUnit,330662,0.00
+1,6454958,Martigues,8,Mammography,330662,0.00
+1,6454958,Martigues,9,Radiotherapy,330662,0.00
+1,3016702,Gap,1,Physicians,58311,7.58
+1,3016702,Gap,2,Nurses,58311,36.74
+1,3016702,Gap,3,OtherCadres,58311,20.99
+1,3016702,Gap,4,CommunityBased,58311,20.41
+1,3016702,Gap,5,Beds,58311,0.00
+1,3016702,Gap,6,CTScanner,58311,0.00
+1,3016702,Gap,7,MRIUnit,58311,0.00
+1,3016702,Gap,8,Mammography,58311,0.00
+1,3016702,Gap,9,Radiotherapy,58311,0.00
+1,6618043,Digne-les-Bains,1,Physicians,28904,3.76
+1,6618043,Digne-les-Bains,2,Nurses,28904,18.21
+1,6618043,Digne-les-Bains,3,OtherCadres,28904,10.41
+1,6618043,Digne-les-Bains,4,CommunityBased,28904,10.12
+1,6618043,Digne-les-Bains,5,Beds,28904,0.00
+1,6618043,Digne-les-Bains,6,CTScanner,28904,0.00
+1,6618043,Digne-les-Bains,7,MRIUnit,28904,0.00
+1,6618043,Digne-les-Bains,8,Mammography,28904,0.00
+1,6618043,Digne-les-Bains,9,Radiotherapy,28904,0.00
+1,3037352,Apt,1,Physicians,11011,1.43
+1,3037352,Apt,2,Nurses,11011,6.94
+1,3037352,Apt,3,OtherCadres,11011,3.96
+1,3037352,Apt,4,CommunityBased,11011,3.85
+1,3037352,Apt,5,Beds,11011,0.00
+1,3037352,Apt,6,CTScanner,11011,0.00
+1,3037352,Apt,7,MRIUnit,11011,0.00
+1,3037352,Apt,8,Mammography,11011,0.00
+1,3037352,Apt,9,Radiotherapy,11011,0.00
+1,3003650,Le Luc,1,Physicians,34344,4.46
+1,3003650,Le Luc,2,Nurses,34344,21.64
+1,3003650,Le Luc,3,OtherCadres,34344,12.36
+1,3003650,Le Luc,4,CommunityBased,34344,12.02
+1,3003650,Le Luc,5,Beds,34344,0.00
+1,3003650,Le Luc,6,CTScanner,34344,0.00
+1,3003650,Le Luc,7,MRIUnit,34344,0.00
+1,3003650,Le Luc,8,Mammography,34344,0.00
+1,3003650,Le Luc,9,Radiotherapy,34344,0.00
+1,3002357,Le Revest-les-Eaux,1,Physicians,536378,69.73
+1,3002357,Le Revest-les-Eaux,2,Nurses,536378,337.92
+1,3002357,Le Revest-les-Eaux,3,OtherCadres,536378,193.10
+1,3002357,Le Revest-les-Eaux,4,CommunityBased,536378,187.73
+1,3002357,Le Revest-les-Eaux,5,Beds,536378,0.00
+1,3002357,Le Revest-les-Eaux,6,CTScanner,536378,0.00
+1,3002357,Le Revest-les-Eaux,7,MRIUnit,536378,0.00
+1,3002357,Le Revest-les-Eaux,8,Mammography,536378,0.00
+1,3002357,Le Revest-les-Eaux,9,Radiotherapy,536378,0.00
+1,2980711,Sainte-Cécile-les-Vignes,1,Physicians,103184,13.41
+1,2980711,Sainte-Cécile-les-Vignes,2,Nurses,103184,65.01
+1,2980711,Sainte-Cécile-les-Vignes,3,OtherCadres,103184,37.15
+1,2980711,Sainte-Cécile-les-Vignes,4,CommunityBased,103184,36.11
+1,2980711,Sainte-Cécile-les-Vignes,5,Beds,103184,0.00
+1,2980711,Sainte-Cécile-les-Vignes,6,CTScanner,103184,0.00
+1,2980711,Sainte-Cécile-les-Vignes,7,MRIUnit,103184,0.00
+1,2980711,Sainte-Cécile-les-Vignes,8,Mammography,103184,0.00
+1,2980711,Sainte-Cécile-les-Vignes,9,Radiotherapy,103184,0.00
+1,2986891,Plan-d’Aups-Sainte-Baume,1,Physicians,227449,29.57
+1,2986891,Plan-d’Aups-Sainte-Baume,2,Nurses,227449,143.29
+1,2986891,Plan-d’Aups-Sainte-Baume,3,OtherCadres,227449,81.88
+1,2986891,Plan-d’Aups-Sainte-Baume,4,CommunityBased,227449,79.61
+1,2986891,Plan-d’Aups-Sainte-Baume,5,Beds,227449,0.00
+1,2986891,Plan-d’Aups-Sainte-Baume,6,CTScanner,227449,0.00
+1,2986891,Plan-d’Aups-Sainte-Baume,7,MRIUnit,227449,0.00
+1,2986891,Plan-d’Aups-Sainte-Baume,8,Mammography,227449,0.00
+1,2986891,Plan-d’Aups-Sainte-Baume,9,Radiotherapy,227449,0.00
+1,3029248,Cadolive,1,Physicians,1165064,151.46
+1,3029248,Cadolive,2,Nurses,1165064,733.99
+1,3029248,Cadolive,3,OtherCadres,1165064,419.42
+1,3029248,Cadolive,4,CommunityBased,1165064,407.77
+1,3029248,Cadolive,5,Beds,1165064,0.00
+1,3029248,Cadolive,6,CTScanner,1165064,0.00
+1,3029248,Cadolive,7,MRIUnit,1165064,0.00
+1,3029248,Cadolive,8,Mammography,1165064,0.00
+1,3029248,Cadolive,9,Radiotherapy,1165064,0.00
+1,2980325,Saintes-Maries-de-la-Mer,1,Physicians,2157,0.28
+1,2980325,Saintes-Maries-de-la-Mer,2,Nurses,2157,1.36
+1,2980325,Saintes-Maries-de-la-Mer,3,OtherCadres,2157,0.78
+1,2980325,Saintes-Maries-de-la-Mer,4,CommunityBased,2157,0.75
+1,2980325,Saintes-Maries-de-la-Mer,5,Beds,2157,0.00
+1,2980325,Saintes-Maries-de-la-Mer,6,CTScanner,2157,0.00
+1,2980325,Saintes-Maries-de-la-Mer,7,MRIUnit,2157,0.00
+1,2980325,Saintes-Maries-de-la-Mer,8,Mammography,2157,0.00
+1,2980325,Saintes-Maries-de-la-Mer,9,Radiotherapy,2157,0.00
+1,6446679,Breil-sur-Roya,1,Physicians,40953,5.32
+1,6446679,Breil-sur-Roya,2,Nurses,40953,25.80
+1,6446679,Breil-sur-Roya,3,OtherCadres,40953,14.74
+1,6446679,Breil-sur-Roya,4,CommunityBased,40953,14.33
+1,6446679,Breil-sur-Roya,5,Beds,40953,0.00
+1,6446679,Breil-sur-Roya,6,CTScanner,40953,0.00
+1,6446679,Breil-sur-Roya,7,MRIUnit,40953,0.00
+1,6446679,Breil-sur-Roya,8,Mammography,40953,0.00
+1,6446679,Breil-sur-Roya,9,Radiotherapy,40953,0.00
+1,2988609,Paradou,1,Physicians,143777,18.69
+1,2988609,Paradou,2,Nurses,143777,90.58
+1,2988609,Paradou,3,OtherCadres,143777,51.76
+1,2988609,Paradou,4,CommunityBased,143777,50.32
+1,2988609,Paradou,5,Beds,143777,0.00
+1,2988609,Paradou,6,CTScanner,143777,0.00
+1,2988609,Paradou,7,MRIUnit,143777,0.00
+1,2988609,Paradou,8,Mammography,143777,0.00
+1,2988609,Paradou,9,Radiotherapy,143777,0.00
+1,3009193,La Garde-Freinet,1,Physicians,88568,11.51
+1,3009193,La Garde-Freinet,2,Nurses,88568,55.80
+1,3009193,La Garde-Freinet,3,OtherCadres,88568,31.88
+1,3009193,La Garde-Freinet,4,CommunityBased,88568,31.00
+1,3009193,La Garde-Freinet,5,Beds,88568,0.00
+1,3009193,La Garde-Freinet,6,CTScanner,88568,0.00
+1,3009193,La Garde-Freinet,7,MRIUnit,88568,0.00
+1,3009193,La Garde-Freinet,8,Mammography,88568,0.00
+1,3009193,La Garde-Freinet,9,Radiotherapy,88568,0.00
+1,2977662,Saint-Paul-en-Forêt,1,Physicians,171356,22.28
+1,2977662,Saint-Paul-en-Forêt,2,Nurses,171356,107.95
+1,2977662,Saint-Paul-en-Forêt,3,OtherCadres,171356,61.69
+1,2977662,Saint-Paul-en-Forêt,4,CommunityBased,171356,59.97
+1,2977662,Saint-Paul-en-Forêt,5,Beds,171356,0.00
+1,2977662,Saint-Paul-en-Forêt,6,CTScanner,171356,0.00
+1,2977662,Saint-Paul-en-Forêt,7,MRIUnit,171356,0.00
+1,2977662,Saint-Paul-en-Forêt,8,Mammography,171356,0.00
+1,2977662,Saint-Paul-en-Forêt,9,Radiotherapy,171356,0.00
+1,3012282,Jonquerettes,1,Physicians,363621,47.27
+1,3012282,Jonquerettes,2,Nurses,363621,229.08
+1,3012282,Jonquerettes,3,OtherCadres,363621,130.90
+1,3012282,Jonquerettes,4,CommunityBased,363621,127.27
+1,3012282,Jonquerettes,5,Beds,363621,0.00
+1,3012282,Jonquerettes,6,CTScanner,363621,0.00
+1,3012282,Jonquerettes,7,MRIUnit,363621,0.00
+1,3012282,Jonquerettes,8,Mammography,363621,0.00
+1,3012282,Jonquerettes,9,Radiotherapy,363621,0.00
+1,2980247,Saint-Étienne-de-Tinée,1,Physicians,1513,0.20
+1,2980247,Saint-Étienne-de-Tinée,2,Nurses,1513,0.95
+1,2980247,Saint-Étienne-de-Tinée,3,OtherCadres,1513,0.54
+1,2980247,Saint-Étienne-de-Tinée,4,CommunityBased,1513,0.53
+1,2980247,Saint-Étienne-de-Tinée,5,Beds,1513,0.00
+1,2980247,Saint-Étienne-de-Tinée,6,CTScanner,1513,0.00
+1,2980247,Saint-Étienne-de-Tinée,7,MRIUnit,1513,0.00
+1,2980247,Saint-Étienne-de-Tinée,8,Mammography,1513,0.00
+1,2980247,Saint-Étienne-de-Tinée,9,Radiotherapy,1513,0.00
+1,3008116,La Môle,1,Physicians,33529,4.36
+1,3008116,La Môle,2,Nurses,33529,21.12
+1,3008116,La Môle,3,OtherCadres,33529,12.07
+1,3008116,La Môle,4,CommunityBased,33529,11.74
+1,3008116,La Môle,5,Beds,33529,0.00
+1,3008116,La Môle,6,CTScanner,33529,0.00
+1,3008116,La Môle,7,MRIUnit,33529,0.00
+1,3008116,La Môle,8,Mammography,33529,0.00
+1,3008116,La Môle,9,Radiotherapy,33529,0.00
+1,2992583,Montfort-sur-Argens,1,Physicians,89160,11.59
+1,2992583,Montfort-sur-Argens,2,Nurses,89160,56.17
+1,2992583,Montfort-sur-Argens,3,OtherCadres,89160,32.10
+1,2992583,Montfort-sur-Argens,4,CommunityBased,89160,31.21
+1,2992583,Montfort-sur-Argens,5,Beds,89160,0.00
+1,2992583,Montfort-sur-Argens,6,CTScanner,89160,0.00
+1,2992583,Montfort-sur-Argens,7,MRIUnit,89160,0.00
+1,2992583,Montfort-sur-Argens,8,Mammography,89160,0.00
+1,2992583,Montfort-sur-Argens,9,Radiotherapy,89160,0.00
+1,3023576,Cornillon-Confoux,1,Physicians,97919,12.73
+1,3023576,Cornillon-Confoux,2,Nurses,97919,61.69
+1,3023576,Cornillon-Confoux,3,OtherCadres,97919,35.25
+1,3023576,Cornillon-Confoux,4,CommunityBased,97919,34.27
+1,3023576,Cornillon-Confoux,5,Beds,97919,0.00
+1,3023576,Cornillon-Confoux,6,CTScanner,97919,0.00
+1,3023576,Cornillon-Confoux,7,MRIUnit,97919,0.00
+1,3023576,Cornillon-Confoux,8,Mammography,97919,0.00
+1,3023576,Cornillon-Confoux,9,Radiotherapy,97919,0.00
+1,2974831,Serres,1,Physicians,4822,0.63
+1,2974831,Serres,2,Nurses,4822,3.04
+1,2974831,Serres,3,OtherCadres,4822,1.74
+1,2974831,Serres,4,CommunityBased,4822,1.69
+1,2974831,Serres,5,Beds,4822,0.00
+1,2974831,Serres,6,CTScanner,4822,0.00
+1,2974831,Serres,7,MRIUnit,4822,0.00
+1,2974831,Serres,8,Mammography,4822,0.00
+1,2974831,Serres,9,Radiotherapy,4822,0.00
+1,2968290,Villes-sur-Auzon,1,Physicians,23535,3.06
+1,2968290,Villes-sur-Auzon,2,Nurses,23535,14.83
+1,2968290,Villes-sur-Auzon,3,OtherCadres,23535,8.47
+1,2968290,Villes-sur-Auzon,4,CommunityBased,23535,8.24
+1,2968290,Villes-sur-Auzon,5,Beds,23535,0.00
+1,2968290,Villes-sur-Auzon,6,CTScanner,23535,0.00
+1,2968290,Villes-sur-Auzon,7,MRIUnit,23535,0.00
+1,2968290,Villes-sur-Auzon,8,Mammography,23535,0.00
+1,2968290,Villes-sur-Auzon,9,Radiotherapy,23535,0.00
+1,3007506,Lantosque,1,Physicians,30600,3.98
+1,3007506,Lantosque,2,Nurses,30600,19.28
+1,3007506,Lantosque,3,OtherCadres,30600,11.02
+1,3007506,Lantosque,4,CommunityBased,30600,10.71
+1,3007506,Lantosque,5,Beds,30600,0.00
+1,3007506,Lantosque,6,CTScanner,30600,0.00
+1,3007506,Lantosque,7,MRIUnit,30600,0.00
+1,3007506,Lantosque,8,Mammography,30600,0.00
+1,3007506,Lantosque,9,Radiotherapy,30600,0.00
+1,3023736,Corbières-en-Provence,1,Physicians,23484,3.05
+1,3023736,Corbières-en-Provence,2,Nurses,23484,14.80
+1,3023736,Corbières-en-Provence,3,OtherCadres,23484,8.45
+1,3023736,Corbières-en-Provence,4,CommunityBased,23484,8.22
+1,3023736,Corbières-en-Provence,5,Beds,23484,0.00
+1,3023736,Corbières-en-Provence,6,CTScanner,23484,0.00
+1,3023736,Corbières-en-Provence,7,MRIUnit,23484,0.00
+1,3023736,Corbières-en-Provence,8,Mammography,23484,0.00
+1,3023736,Corbières-en-Provence,9,Radiotherapy,23484,0.00
+1,3010787,La Brillanne,1,Physicians,68907,8.96
+1,3010787,La Brillanne,2,Nurses,68907,43.41
+1,3010787,La Brillanne,3,OtherCadres,68907,24.81
+1,3010787,La Brillanne,4,CommunityBased,68907,24.12
+1,3010787,La Brillanne,5,Beds,68907,0.00
+1,3010787,La Brillanne,6,CTScanner,68907,0.00
+1,3010787,La Brillanne,7,MRIUnit,68907,0.00
+1,3010787,La Brillanne,8,Mammography,68907,0.00
+1,3010787,La Brillanne,9,Radiotherapy,68907,0.00
+1,3012406,Jausiers,1,Physicians,3706,0.48
+1,3012406,Jausiers,2,Nurses,3706,2.33
+1,3012406,Jausiers,3,OtherCadres,3706,1.33
+1,3012406,Jausiers,4,CommunityBased,3706,1.30
+1,3012406,Jausiers,5,Beds,3706,0.00
+1,3012406,Jausiers,6,CTScanner,3706,0.00
+1,3012406,Jausiers,7,MRIUnit,3706,0.00
+1,3012406,Jausiers,8,Mammography,3706,0.00
+1,3012406,Jausiers,9,Radiotherapy,3706,0.00
+1,2981375,Saint-Blaise,1,Physicians,459596,59.75
+1,2981375,Saint-Blaise,2,Nurses,459596,289.55
+1,2981375,Saint-Blaise,3,OtherCadres,459596,165.45
+1,2981375,Saint-Blaise,4,CommunityBased,459596,160.86
+1,2981375,Saint-Blaise,5,Beds,459596,0.00
+1,2981375,Saint-Blaise,6,CTScanner,459596,0.00
+1,2981375,Saint-Blaise,7,MRIUnit,459596,0.00
+1,2981375,Saint-Blaise,8,Mammography,459596,0.00
+1,2981375,Saint-Blaise,9,Radiotherapy,459596,0.00
+1,3002132,Mison,1,Physicians,10159,1.32
+1,3002132,Mison,2,Nurses,10159,6.40
+1,3002132,Mison,3,OtherCadres,10159,3.66
+1,3002132,Mison,4,CommunityBased,10159,3.56
+1,3002132,Mison,5,Beds,10159,0.00
+1,3002132,Mison,6,CTScanner,10159,0.00
+1,3002132,Mison,7,MRIUnit,10159,0.00
+1,3002132,Mison,8,Mammography,10159,0.00
+1,3002132,Mison,9,Radiotherapy,10159,0.00
+1,3001268,Crots,1,Physicians,3431,0.45
+1,3001268,Crots,2,Nurses,3431,2.16
+1,3001268,Crots,3,OtherCadres,3431,1.24
+1,3001268,Crots,4,CommunityBased,3431,1.20
+1,3001268,Crots,5,Beds,3431,0.00
+1,3001268,Crots,6,CTScanner,3431,0.00
+1,3001268,Crots,7,MRIUnit,3431,0.00
+1,3001268,Crots,8,Mammography,3431,0.00
+1,3001268,Crots,9,Radiotherapy,3431,0.00
+1,8288944,Savines-le-Lac,1,Physicians,9866,1.28
+1,8288944,Savines-le-Lac,2,Nurses,9866,6.22
+1,8288944,Savines-le-Lac,3,OtherCadres,9866,3.55
+1,8288944,Savines-le-Lac,4,CommunityBased,9866,3.45
+1,8288944,Savines-le-Lac,5,Beds,9866,0.00
+1,8288944,Savines-le-Lac,6,CTScanner,9866,0.00
+1,8288944,Savines-le-Lac,7,MRIUnit,9866,0.00
+1,8288944,Savines-le-Lac,8,Mammography,9866,0.00
+1,8288944,Savines-le-Lac,9,Radiotherapy,9866,0.00
+1,3003297,Le Monêtier-les-Bains,1,Physicians,18581,2.42
+1,3003297,Le Monêtier-les-Bains,2,Nurses,18581,11.71
+1,3003297,Le Monêtier-les-Bains,3,OtherCadres,18581,6.69
+1,3003297,Le Monêtier-les-Bains,4,CommunityBased,18581,6.50
+1,3003297,Le Monêtier-les-Bains,5,Beds,18581,0.00
+1,3003297,Le Monêtier-les-Bains,6,CTScanner,18581,0.00
+1,3003297,Le Monêtier-les-Bains,7,MRIUnit,18581,0.00
+1,3003297,Le Monêtier-les-Bains,8,Mammography,18581,0.00
+1,3003297,Le Monêtier-les-Bains,9,Radiotherapy,18581,0.00
+1,2997384,Lourmarin,1,Physicians,89929,11.69
+1,2997384,Lourmarin,2,Nurses,89929,56.66
+1,2997384,Lourmarin,3,OtherCadres,89929,32.37
+1,2997384,Lourmarin,4,CommunityBased,89929,31.48
+1,2997384,Lourmarin,5,Beds,89929,0.00
+1,2997384,Lourmarin,6,CTScanner,89929,0.00
+1,2997384,Lourmarin,7,MRIUnit,89929,0.00
+1,2997384,Lourmarin,8,Mammography,89929,0.00
+1,2997384,Lourmarin,9,Radiotherapy,89929,0.00
+1,3037512,Annot,1,Physicians,5400,0.70
+1,3037512,Annot,2,Nurses,5400,3.40
+1,3037512,Annot,3,OtherCadres,5400,1.94
+1,3037512,Annot,4,CommunityBased,5400,1.89
+1,3037512,Annot,5,Beds,5400,0.00
+1,3037512,Annot,6,CTScanner,5400,0.00
+1,3037512,Annot,7,MRIUnit,5400,0.00
+1,3037512,Annot,8,Mammography,5400,0.00
+1,3037512,Annot,9,Radiotherapy,5400,0.00
+1,2970408,Vauvenargues,1,Physicians,37197,4.84
+1,2970408,Vauvenargues,2,Nurses,37197,23.43
+1,2970408,Vauvenargues,3,OtherCadres,37197,13.39
+1,2970408,Vauvenargues,4,CommunityBased,37197,13.02
+1,2970408,Vauvenargues,5,Beds,37197,0.00
+1,2970408,Vauvenargues,6,CTScanner,37197,0.00
+1,2970408,Vauvenargues,7,MRIUnit,37197,0.00
+1,2970408,Vauvenargues,8,Mammography,37197,0.00
+1,2970408,Vauvenargues,9,Radiotherapy,37197,0.00
+2,3014856,Grasse,1,Physicians,1312732,29.66
+2,3014856,Grasse,2,Nurses,1312732,17.11
+2,3014856,Grasse,3,OtherCadres,1312732,41.06
+2,3014856,Grasse,4,CommunityBased,1312732,0.00
+2,3014856,Grasse,5,Beds,1312732,67.87
+2,3014856,Grasse,6,CTScanner,1312732,0.29
+2,3014856,Grasse,7,MRIUnit,1312732,0.21
+2,3014856,Grasse,8,Mammography,1312732,0.09
+2,3014856,Grasse,9,Radiotherapy,1312732,0.01
+2,6454958,Martigues,1,Physicians,2094154,31.29
+2,6454958,Martigues,2,Nurses,2094154,18.05
+2,6454958,Martigues,3,OtherCadres,2094154,43.32
+2,6454958,Martigues,4,CommunityBased,2094154,0.00
+2,6454958,Martigues,5,Beds,2094154,71.60
+2,6454958,Martigues,6,CTScanner,2094154,0.30
+2,6454958,Martigues,7,MRIUnit,2094154,0.22
+2,6454958,Martigues,8,Mammography,2094154,0.10
+2,6454958,Martigues,9,Radiotherapy,2094154,0.01
+2,3016702,Gap,1,Physicians,95011,23.43
+2,3016702,Gap,2,Nurses,95011,13.52
+2,3016702,Gap,3,OtherCadres,95011,32.45
+2,3016702,Gap,4,CommunityBased,95011,0.00
+2,3016702,Gap,5,Beds,95011,53.62
+2,3016702,Gap,6,CTScanner,95011,0.23
+2,3016702,Gap,7,MRIUnit,95011,0.16
+2,3016702,Gap,8,Mammography,95011,0.07
+2,3016702,Gap,9,Radiotherapy,95011,0.00
+2,6618043,Digne-les-Bains,1,Physicians,142073,12.20
+2,6618043,Digne-les-Bains,2,Nurses,142073,7.04
+2,6618043,Digne-les-Bains,3,OtherCadres,142073,16.90
+2,6618043,Digne-les-Bains,4,CommunityBased,142073,0.00
+2,6618043,Digne-les-Bains,5,Beds,142073,27.93
+2,6618043,Digne-les-Bains,6,CTScanner,142073,0.12
+2,6618043,Digne-les-Bains,7,MRIUnit,142073,0.08
+2,6618043,Digne-les-Bains,8,Mammography,142073,0.04
+2,6618043,Digne-les-Bains,9,Radiotherapy,142073,0.00
+2,3037352,Apt,1,Physicians,501351,8.51
+2,3037352,Apt,2,Nurses,501351,4.91
+2,3037352,Apt,3,OtherCadres,501351,11.79
+2,3037352,Apt,4,CommunityBased,501351,0.00
+2,3037352,Apt,5,Beds,501351,19.48
+2,3037352,Apt,6,CTScanner,501351,0.08
+2,3037352,Apt,7,MRIUnit,501351,0.06
+2,3037352,Apt,8,Mammography,501351,0.03
+2,3037352,Apt,9,Radiotherapy,501351,0.00
+2,3003650,Le Luc,1,Physicians,693411,9.23
+2,3003650,Le Luc,2,Nurses,693411,5.33
+2,3003650,Le Luc,3,OtherCadres,693411,12.78
+2,3003650,Le Luc,4,CommunityBased,693411,0.00
+2,3003650,Le Luc,5,Beds,693411,21.13
+2,3003650,Le Luc,6,CTScanner,693411,0.09
+2,3003650,Le Luc,7,MRIUnit,693411,0.06
+2,3003650,Le Luc,8,Mammography,693411,0.03
+2,3003650,Le Luc,9,Radiotherapy,693411,0.00
+2,2980325,Saintes-Maries-de-la-Mer,1,Physicians,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,2,Nurses,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,3,OtherCadres,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,4,CommunityBased,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,5,Beds,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,6,CTScanner,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,7,MRIUnit,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,8,Mammography,0,0.00
+2,2980325,Saintes-Maries-de-la-Mer,9,Radiotherapy,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,1,Physicians,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,2,Nurses,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,3,OtherCadres,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,4,CommunityBased,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,5,Beds,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,6,CTScanner,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,7,MRIUnit,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,8,Mammography,0,0.00
+2,2980247,Saint-Étienne-de-Tinée,9,Radiotherapy,0,0.00
+3,3014856,Grasse,1,Physicians,2006143,37.12
+3,3014856,Grasse,2,Nurses,2006143,134.71
+3,3014856,Grasse,3,OtherCadres,2006143,43.11
+3,3014856,Grasse,4,CommunityBased,2006143,0.00
+3,3014856,Grasse,5,Beds,2006143,48.50
+3,3014856,Grasse,6,CTScanner,2006143,0.90
+3,3014856,Grasse,7,MRIUnit,2006143,0.71
+3,3014856,Grasse,8,Mammography,2006143,0.48
+3,3014856,Grasse,9,Radiotherapy,2006143,0.24
+3,6454958,Martigues,1,Physicians,2595505,36.70
+3,6454958,Martigues,2,Nurses,2595505,133.20
+3,6454958,Martigues,3,OtherCadres,2595505,42.62
+3,6454958,Martigues,4,CommunityBased,2595505,0.00
+3,6454958,Martigues,5,Beds,2595505,47.95
+3,6454958,Martigues,6,CTScanner,2595505,0.89
+3,6454958,Martigues,7,MRIUnit,2595505,0.70
+3,6454958,Martigues,8,Mammography,2595505,0.47
+3,6454958,Martigues,9,Radiotherapy,2595505,0.24
+3,3016702,Gap,1,Physicians,237084,35.27
+3,3016702,Gap,2,Nurses,237084,128.01
+3,3016702,Gap,3,OtherCadres,237084,40.96
+3,3016702,Gap,4,CommunityBased,237084,0.00
+3,3016702,Gap,5,Beds,237084,46.08
+3,3016702,Gap,6,CTScanner,237084,0.85
+3,3016702,Gap,7,MRIUnit,237084,0.68
+3,3016702,Gap,8,Mammography,237084,0.46
+3,3016702,Gap,9,Radiotherapy,237084,0.23

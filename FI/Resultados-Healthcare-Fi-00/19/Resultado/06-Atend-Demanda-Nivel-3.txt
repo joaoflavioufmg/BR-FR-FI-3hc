@@ -1,0 +1,3 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	853	Turku	384184.00	170.23	617.76	197.68	0.00	222.39	4.12	3.27	2.20	1.10
+3	734	Salo	107453.00	38.54	139.88	44.76	0.00	50.36	0.93	0.74	0.50	0.25

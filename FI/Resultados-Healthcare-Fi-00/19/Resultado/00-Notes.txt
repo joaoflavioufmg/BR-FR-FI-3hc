@@ -1,0 +1,63 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   2039332597.26
+Primary   Care Cost:	    647977566.00
+Secondary Care Cost:	    860738560.00
+Tertiary  Care Cost:	    499032378.00
+Add Infrastruc Cost:	     30239944.60
+Populat ExtLog Cost:	      1344148.66
+HC Cost per capita (now):	     4083.80
+HC Cost per capita (fut):	     4148.05
+----------------------------------------
+
+-----------------------------------
+State population:	491637
+Max municipa pop:	206909
+Min municipa pop:	1098
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 27 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  27 mun >  11 mun (100.00% coverage)
+Care Level [2]:  11 mun >   6 mun
+Care Level [3]:   6 mun >   2 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	202	Kaarina                  :	5096574.20
+    1	445	Pargas                   :	1903587.40
+    1	738	Sauvo                    :	2682393.60
+    1	284	Koski Tl                 :	1315495.80
+    1	480	Marttila                 :	1800915.20
+    1	304	Kustavi                  :	368512.80
+    1	918	Vehmaa                   :	1266334.40
+    2	202	Kaarina                  :	11507894.40
+    2	445	Pargas                   :	4298236.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	761	Somero                   :	3933.32
+    2	738	Sauvo                    :	4988.55
+    2	284	Koski Tl                 :	820.13
+    2	480	Marttila                 :	4772.29
+    2	304	Kustavi                  :	3623.17
+    3	430	Loimaa                   :	357709.17
+    3	895	Uusikaupunki             :	968302.02
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

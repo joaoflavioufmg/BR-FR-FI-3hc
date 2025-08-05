@@ -1,0 +1,66 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    339942612.59
+Primary   Care Cost:	    164565480.00
+Secondary Care Cost:	    108827360.00
+Tertiary  Care Cost:	     49251306.00
+Add Infrastruc Cost:	     15225431.40
+Populat ExtLog Cost:	      2073035.19
+HC Cost per capita (now):	     2584.05
+HC Cost per capita (fut):	     2722.59
+----------------------------------------
+
+-----------------------------------
+State population:	124860
+Max municipa pop:	48693
+Min municipa pop:	1230
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		1.00
+[2]			5000   		1.60
+[3]			25000  		1.80
+-----------------------------------
+
+
+Demand met by level: (Estate has 14 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  14 mun >   6 mun (100.00% coverage)
+Care Level [2]:   6 mun >   2 mun
+Care Level [3]:   2 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	178	Juva                     :	665326.40
+    1	171	Joroinen                 :	2489833.80
+    1	90	Heinävesi               :	352037.80
+    1	97	Hirvensalmi              :	8165669.00
+    1	623	Puumala                  :	257537.20
+    2	178	Juva                     :	3295027.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	491	Mikkeli                  :	160676.62
+    1	593	Pieksämäki             :	500121.05
+    1	507	Mäntyharju              :	10467.49
+    1	213	Kangasniemi              :	220785.96
+    1	681	Rantasalmi               :	100546.83
+    1	768	Sulkava                  :	12823.24
+    1	588	Pertunmaa                :	388.57
+    1	46	Enonkoski                :	2144.68
+    2	171	Joroinen                 :	21709.09
+    2	90	Heinävesi               :	447923.21
+    2	97	Hirvensalmi              :	339589.86
+    2	623	Puumala                  :	153959.24
+    3	178	Juva                     :	101899.36
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

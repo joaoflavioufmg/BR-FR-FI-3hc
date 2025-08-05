@@ -1,0 +1,28 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+853	                         Turku	853	                         Turku	    0.00
+680	                        Raisio	853	                         Turku	    0.17
+423	                         Lieto	853	                         Turku	    0.28
+529	                      Naantali	853	                         Turku	    0.34
+481	                         Masku	853	                         Turku	    0.40
+704	                         Rusko	853	                         Turku	    0.26
+538	                    Nousiainen	853	                         Turku	    0.49
+734	                          Salo	734	                          Salo	    0.00
+202	                       Kaarina	202	                       Kaarina	    0.00
+430	                        Loimaa	430	                        Loimaa	    0.00
+561	                      Oripää	430	                        Loimaa	    0.49
+895	                  Uusikaupunki	895	                  Uusikaupunki	    0.00
+400	                       Laitila	895	                  Uusikaupunki	    0.46
+631	                    Pyhäranta	895	                  Uusikaupunki	    0.46
+445	                        Pargas	445	                        Pargas	    0.00
+577	                        Paimio	738	                         Sauvo	    0.32
+322	                     Kimitoön	738	                         Sauvo	    0.50
+738	                         Sauvo	738	                         Sauvo	    0.00
+761	                        Somero	284	                      Koski Tl	    0.51
+284	                      Koski Tl	284	                      Koski Tl	    0.00
+19	                          Aura	480	                      Marttila	    0.46
+480	                      Marttila	480	                      Marttila	    0.00
+636	                      Pöytyä	480	                      Marttila	    0.23
+833	                    Taivassalo	304	                       Kustavi	    0.34
+304	                       Kustavi	304	                       Kustavi	    0.00
+503	                    Mynämäki	918	                        Vehmaa	    0.36
+918	                        Vehmaa	918	                        Vehmaa	    0.00

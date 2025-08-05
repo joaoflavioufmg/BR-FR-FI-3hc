@@ -1,0 +1,56 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   South Savo (04)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	5000
+# 3	25000
+2	2043	# Q1
+3	3414	# Q2 
+;
+
+param DurUpper:=
+1 1.0 
+2 1.6 
+3 1.8; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+491	04	61.6875	27.2736	48693	0	'Mikkeli'	
+740	04	61.8667	28.8831	28185	0	'Savonlinna'	
+593	04	62.3	27.1583	14892	0	'Pieksämäki'	
+178	04	61.8972	27.8569	5048	1	'Juva'	
+507	04	61.4181	26.8792	5034	1	'Mäntyharju'	
+213	04	61.99	26.6417	4756	1	'Kangasniemi'	
+171	04	62.1792	27.8278	3999	1	'Joroinen'	
+681	04	62.0667	28.3	2829	1	'Rantasalmi'	
+090	04	62.425	28.6333	2671	1	'Heinävesi'	
+768	04	61.7875	28.3708	2097	1	'Sulkava'	
+097	04	61.6389	26.7806	2025	1	'Hirvensalmi'	
+623	04	61.525	28.1833	1954	1	'Puumala'	
+588	04	61.5028	26.4792	1447	1	'Pertunmaa'	
+046	04	62.0889	28.9333	1230	1	'Enonkoski'	
+;
+
+
+end;

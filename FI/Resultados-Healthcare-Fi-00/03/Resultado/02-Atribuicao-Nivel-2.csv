@@ -1,0 +1,14 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+743,"Seinäjoki",743,"Seinäjoki",0,2
+300,"Kuortane",743,"Seinäjoki",0.85,2
+233,"Kauhava",233,"Kauhava",0,2
+934,"Vimpeli",233,"Kauhava",0.96,2
+52,"Evijärvi",233,"Kauhava",0.9,2
+408,"Lapua",408,"Lapua",0,2
+232,"Kauhajoki",232,"Kauhajoki",0,2
+151,"Isojoki",232,"Kauhajoki",0.93,2
+218,"Karijoki",232,"Kauhajoki",0.7,2
+145,"Ilmajoki",145,"Ilmajoki",0,2
+10,"Alavus",10,"Alavus",0,2
+989,"Ähtäri",10,"Alavus",0.59,2
+759,"Soini",10,"Alavus",1.1,2

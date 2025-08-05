@@ -1,0 +1,9 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+49	                         Espoo	49	                         Espoo	    0.00
+106	                    Hyvinkää	49	                         Espoo	    1.20
+543	                   Nurmijärvi	49	                         Espoo	    0.74
+92	                        Vantaa	92	                        Vantaa	    0.00
+638	                        Porvoo	92	                        Vantaa	    0.91
+444	                         Lohja	92	                        Vantaa	    1.34
+257	                   Kirkkonummi	257	                   Kirkkonummi	    0.00
+710	                     Raasepori	257	                   Kirkkonummi	    1.42

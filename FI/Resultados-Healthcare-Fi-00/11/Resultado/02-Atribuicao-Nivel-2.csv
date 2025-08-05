@@ -1,0 +1,17 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+837,"Tampere",837,"Tampere",0,2
+702,"Ruovesi",837,"Tampere",1.41,2
+536,"Nokia",536,"Nokia",0,2
+143,"Ikaalinen",536,"Nokia",1,2
+581,"Parkano",536,"Nokia",1.61,2
+980,"Ylöjärvi",980,"Ylöjärvi",0,2
+936,"Virrat",980,"Ylöjärvi",1.93,2
+250,"Kihniö",980,"Ylöjärvi",1.91,2
+211,"Kangasala",211,"Kangasala",0,2
+508,"Mänttä-Vilppula",211,"Kangasala",1.74,2
+177,"Juupajoki",211,"Kangasala",1.02,2
+790,"Sastamala",790,"Sastamala",0,2
+619,"Punkalaidun",790,"Sastamala",0.69,2
+418,"Lempäälä",418,"Lempäälä",0,2
+908,"Valkeakoski",908,"Valkeakoski",0,2
+20,"Akaa",20,"Akaa",0,2

@@ -1,0 +1,48 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  16425107945.40
+Primary   Care Cost:	   4404342774.00
+Secondary Care Cost:	   5872702126.20
+Tertiary  Care Cost:	   6143469943.65
+Add Infrastruc Cost:	      4589989.40
+Populat ExtLog Cost:	         3112.15
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4467.70
+----------------------------------------
+
+----------------------------------------
+State population:	3676413
+Max municipa pop:	727357
+Min municipa pop:	1002
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1469   		0.49
+Care Level [3]	2190   		0.92
+----------------------------------------
+
+
+Demand met by level: (Estate has 737 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 737 mun >  95 mun (100.00% coverage)
+Care Level [2]:  95 mun >  88 mun
+Care Level [3]:  88 mun >  83 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3014393	Guer                     :	858247.20
+    1	2995058	Maure-de-Bretagne        :	420138.60
+    1	2985788	Poullan-sur-Mer          :	328851.00
+    1	3037743	Andel                    :	895505.00
+    2	3014393	Guer                     :	2087247.60
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6448054	Châteauneuf-du-Faou     :	3112.15
+----------------------------------------------------------------

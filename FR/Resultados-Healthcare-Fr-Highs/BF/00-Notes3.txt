@@ -1,0 +1,65 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   8372829745.19
+Primary   Care Cost:	   2240449284.00
+Secondary Care Cost:	   2987390389.20
+Tertiary  Care Cost:	   3125127525.90
+Add Infrastruc Cost:	     19823239.02
+Populat ExtLog Cost:	        39307.07
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4477.07
+----------------------------------------
+
+----------------------------------------
+State population:	1870158
+Max municipa pop:	156920
+Min municipa pop:	1005
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1288   		0.45
+Care Level [3]	1695   		0.99
+----------------------------------------
+
+
+Demand met by level: (Estate has 474 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 474 mun >  93 mun (100.00% coverage)
+Care Level [2]:  93 mun >  77 mun
+Care Level [3]:  77 mun >  70 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6455993	Les Rousses              :	436072.00
+    1	6446048	Toucy                    :	315433.40
+    1	3002256	Le Russey                :	1342958.00
+    1	6615236	Bois-d’Amont           :	324418.40
+    1	6442111	Scey-sur-Saône-et-Saint-Albin:	373776.00
+    1	2985840	Pouilly-en-Auxois        :	309323.60
+    1	3023735	Corbigny                 :	175267.40
+    1	2990479	Neuvy-sur-Loire          :	318069.00
+    1	6452589	Aillant-sur-Tholon       :	344784.40
+    1	2981843	Saint-Amand-en-Puisaye   :	1632874.00
+    1	3023010	Courlon-sur-Yonne        :	980802.60
+    1	2973382	Tarcenay                 :	802779.80
+    2	6455993	Les Rousses              :	1241668.80
+    2	6446048	Toucy                    :	515014.80
+    2	3023735	Corbigny                 :	536530.80
+    2	2990479	Neuvy-sur-Loire          :	3185346.00
+    3	6446048	Toucy                    :	6988120.02
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	2991880	Morbier                  :	5459.62
+    1	2995983	Marcigny                 :	981.21
+    1	6438052	Pouilly-sur-Loire        :	903.24
+    1	2968026	Vinneuf                  :	15554.78
+    1	3032278	Bléneau                 :	853.46
+    1	2968550	Villeneuve-l’Archevêque:	15554.78
+----------------------------------------------------------------

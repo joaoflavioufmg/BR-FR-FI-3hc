@@ -1,0 +1,120 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   8413349975.51
+Primary   Care Cost:	   6947109470.00
+Secondary Care Cost:	    656001500.00
+Tertiary  Care Cost:	    569862336.00
+Add Infrastruc Cost:	    238431325.50
+Populat ExtLog Cost:	      1945344.01
+HC Cost per capita (now):	     1664.69
+HC Cost per capita (fut):	     1713.65
+----------------------------------------
+
+-----------------------------------
+State population:	4909618
+Max municipa pop:	232787
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			25000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 952 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 952 mun >  39 mun (100.00% coverage)
+Care Level [2]:  39 mun >   8 mun
+Care Level [3]:   8 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6453527	Laon                     :	4291412.00
+    1	6438351	Marly                    :	4679688.00
+    1	6439685	Longuenesse              :	10381855.00
+    1	2969599	Vervins                  :	3225775.50
+    1	6450036	Avesnelles               :	10238657.00
+    1	3025942	Chaulnes                 :	4104632.00
+    1	2980344	Saint-Erme-Outre-et-Ramecourt:	1624420.00
+    1	2992664	Montescourt-Lizerolles   :	18267084.00
+    1	6438131	Bouvignies               :	4885712.00
+    1	2995463	Marseille-en-Beauvaisis  :	2157733.50
+    1	3029673	Bucquoy                  :	2464647.00
+    1	6438136	Brouckerque              :	29386578.50
+    1	3035325	Baincthun                :	19043353.00
+    1	2976885	Saint-Souplet            :	7947913.50
+    1	3013416	Hermies                  :	3795454.50
+    1	2989652	Oisemont                 :	892299.00
+    1	3011460	Killem                   :	8727012.50
+    1	3025177	Chierry                  :	5900833.00
+    1	3014410	Guemps                   :	19711516.00
+    1	2980751	Marconne                 :	1880110.50
+    1	2984345	Ravenel                  :	2230464.50
+    1	6438996	Thiverny                 :	11183877.00
+    1	3023328	Coudun                   :	17085700.50
+    1	3018649	Ferrière-la-Petite      :	12495582.00
+    1	3033312	Bernaville               :	2911787.00
+    1	6444666	Pendé                   :	1447120.50
+    1	6438765	Jouy-sous-Thelle         :	1748515.50
+    1	6613909	Levignen                 :	6751955.50
+    1	2982294	Rozoy-sur-Serre          :	329553.50
+    2	6453527	Laon                     :	6534990.00
+    2	6438351	Marly                    :	8485092.00
+    2	6439685	Longuenesse              :	3620001.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3029030	Cambrai                  :	14213.50
+    1	6438498	Sin-le-Noble             :	6788.16
+    1	3004314	Leers                    :	4110.86
+    1	6438573	Waziers                  :	3248.01
+    1	3017024	Friville-Escarbotin      :	1968.40
+    1	6444438	Flixecourt               :	1401.63
+    1	6438259	Godewaersvelde           :	896.95
+    1	3036450	Attichy                  :	828.29
+    1	6438238	Flines-lès-Mortagne     :	719.84
+    1	2996058	Marcelcave               :	547.09
+    1	2972936	Thérouanne              :	478.87
+    2	2984438	Rang-du-Fliers           :	124568.40
+    2	2976690	Saint-Venant             :	20106.87
+    2	2969599	Vervins                  :	67658.84
+    2	6438152	Capinghem                :	4683.59
+    2	6450036	Avesnelles               :	84760.43
+    2	3025942	Chaulnes                 :	60573.74
+    2	2980344	Saint-Erme-Outre-et-Ramecourt:	73830.75
+    2	2992664	Montescourt-Lizerolles   :	69972.00
+    2	6614064	Allonne                  :	376.36
+    2	6438131	Bouvignies               :	10179.27
+    2	2995463	Marseille-en-Beauvaisis  :	60169.70
+    2	3029673	Bucquoy                  :	24263.91
+    2	6438136	Brouckerque              :	1782.30
+    2	3035325	Baincthun                :	50069.26
+    2	2976885	Saint-Souplet            :	17683.83
+    2	3013416	Hermies                  :	41944.74
+    2	3011460	Killem                   :	19118.03
+    2	3025177	Chierry                  :	41157.56
+    2	3014410	Guemps                   :	2723.89
+    2	2980751	Marconne                 :	16772.48
+    2	3023328	Coudun                   :	9401.32
+    2	3018649	Ferrière-la-Petite      :	26276.54
+    2	3033312	Bernaville               :	870.41
+    2	6438765	Jouy-sous-Thelle         :	14918.93
+    2	6613909	Levignen                 :	24720.70
+    2	2982294	Rozoy-sur-Serre          :	40806.14
+    3	3038789	Abbeville                :	1597.95
+    3	6438351	Marly                    :	207797.98
+    3	6439685	Longuenesse              :	304492.42
+    3	3024643	Clermont                 :	486864.06
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

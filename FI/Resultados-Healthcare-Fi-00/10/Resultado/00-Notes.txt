@@ -1,0 +1,89 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    681009540.15
+Primary   Care Cost:	    223257338.00
+Secondary Care Cost:	    325738080.00
+Tertiary  Care Cost:	     50684400.00
+Add Infrastruc Cost:	     63297676.80
+Populat ExtLog Cost:	     18032045.35
+HC Cost per capita (now):	     3540.21
+HC Cost per capita (fut):	     4020.34
+----------------------------------------
+
+-----------------------------------
+State population:	169391
+Max municipa pop:	66467
+Min municipa pop:	894
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			5000   		2.80
+[3]			6000   		2.20
+-----------------------------------
+
+
+Demand met by level: (Estate has 21 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  21 mun >  19 mun (100.00% coverage)
+Care Level [2]:  19 mun >   5 mun
+Care Level [3]:   5 mun >   4 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	758	Sodankylä               :	976506.20
+    1	241	Keminmaa                 :	5975680.20
+    1	320	Kemijärvi               :	822827.40
+    1	148	Inari                    :	913110.40
+    1	261	Kittilä                 :	833766.80
+    1	976	Ylitornio                :	432831.20
+    1	683	Ranua                    :	413193.00
+    1	732	Salla                    :	385515.00
+    1	854	Pello                    :	368644.60
+    1	614	Posio                    :	340703.00
+    1	751	Simo                     :	332926.80
+    1	845	Tervola                  :	328841.00
+    1	498	Muonio                   :	289301.00
+    1	47	Enontekiö               :	227486.80
+    1	890	Utsjoki                  :	157105.60
+    1	742	Savukoski                :	125078.20
+    1	583	Pelkosenniemi            :	117829.20
+    1	273	Kolari                   :	524036.80
+    2	758	Sodankylä               :	2487340.80
+    2	241	Keminmaa                 :	5575238.40
+    2	320	Kemijärvi               :	23544326.40
+    2	148	Inari                    :	2416512.00
+    2	261	Kittilä                 :	5065152.00
+    3	758	Sodankylä               :	4274606.70
+    3	241	Keminmaa                 :	2270038.68
+    3	320	Kemijärvi               :	1942946.46
+    3	148	Inari                    :	2156132.16
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	698	Rovaniemi                :	12012997.44
+    2	976	Ylitornio                :	381246.30
+    2	683	Ranua                    :	946573.51
+    2	732	Salla                    :	136730.40
+    2	854	Pello                    :	1435715.38
+    2	614	Posio                    :	385201.26
+    2	751	Simo                     :	3357.95
+    2	845	Tervola                  :	10286.13
+    2	498	Muonio                   :	159253.59
+    2	47	Enontekiö               :	663294.04
+    2	890	Utsjoki                  :	740450.17
+    2	742	Savukoski                :	103147.51
+    2	583	Pelkosenniemi            :	15030.63
+    2	273	Kolari                   :	246517.32
+    3	261	Kittilä                 :	792243.73
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

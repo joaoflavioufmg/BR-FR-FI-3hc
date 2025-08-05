@@ -1,0 +1,46 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6433030,Joué-lés-Tours,6433030,Joué-lés-Tours,0.00,2
+6448666,Chambray-lès-Tours,6433030,Joué-lés-Tours,0.10,2
+2997123,Lunay,6433030,Joué-lés-Tours,1.36,2
+3027350,Chambourg-sur-Indre,6433030,Joué-lés-Tours,0.74,2
+2983902,Restigné,6433030,Joué-lés-Tours,0.84,2
+6434143,Thésée,6433030,Joué-lés-Tours,1.21,2
+2981129,Saint-Christophe-sur-le-Nais,6433030,Joué-lés-Tours,0.82,2
+6614652,La Celle-Saint-Avant,6433030,Joué-lés-Tours,0.92,2
+2998347,Ligré,6433030,Joué-lés-Tours,0.99,2
+3016269,Saint-Ouen-les-Vignes,6433030,Joué-lés-Tours,0.71,2
+3020810,Dreux,3020810,Dreux,0.00,2
+3004468,Le Coudray,3020810,Dreux,0.88,2
+2967236,Yèvres,3020810,Dreux,1.50,2
+6430795,Margon,3020810,Dreux,1.49,2
+2986183,Pontgouin,3020810,Dreux,0.81,2
+2969628,Vert-en-Drouais,3020810,Dreux,0.15,2
+2977587,Saint-Piat,3020810,Dreux,0.66,2
+2976533,Sainville,3020810,Dreux,1.30,2
+2969257,Vierzon,2969257,Vierzon,0.00,2
+2980514,Sainte-Lizaigne,2969257,Vierzon,0.61,2
+2974089,Souesmes,2969257,Vierzon,0.69,2
+2982966,Romorantin,2969257,Vierzon,0.72,2
+6434714,Saint-Jean-de-Braye,6434714,Saint-Jean-de-Braye,0.00,2
+2988942,Outarville,6434714,Saint-Jean-de-Braye,0.83,2
+2980796,Saint-Dyé-sur-Loire,6434714,Saint-Jean-de-Braye,1.15,2
+3037119,Ardon,6434714,Saint-Jean-de-Braye,0.42,2
+3017106,Fréteval,6434714,Saint-Jean-de-Braye,1.42,2
+3031183,Boulay-les-Barres,6434714,Saint-Jean-de-Braye,0.40,2
+8290211,Saint-Doulchard,8290211,Saint-Doulchard,0.00,2
+2980324,Sainte-Solange,8290211,Saint-Doulchard,0.35,2
+2975543,Savigny-en-Sancerre,8290211,Saint-Doulchard,1.26,2
+3022154,Cuffy,8290211,Saint-Doulchard,1.34,2
+3026638,Charenton-du-Cher,8290211,Saint-Doulchard,1.15,2
+3026222,Châteauneuf-sur-Loire,3026222,Châteauneuf-sur-Loire,0.00,2
+3030645,Boynes,3026222,Châteauneuf-sur-Loire,0.75,2
+2968073,Vimory,3026222,Châteauneuf-sur-Loire,0.90,2
+2979642,Saint-Gondon,3026222,Châteauneuf-sur-Loire,0.75,2
+6456039,La Selle-sur-le-Bied,3026222,Châteauneuf-sur-Loire,1.37,2
+6448604,Déols,6448604,Déols,0.00,2
+2997279,Luant,6448604,Déols,0.39,2
+6616035,Lignières,6448604,Déols,0.92,2
+6448610,Écueillé,6448604,Déols,0.98,2
+2973722,Tournon-Saint-Martin,6448604,Déols,1.46,2
+3027632,Chaillac,6448604,Déols,1.35,2
+3003629,Le Magny,6448604,Déols,0.88,2

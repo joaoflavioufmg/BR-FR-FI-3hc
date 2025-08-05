@@ -1,0 +1,697 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6454724	                         Melun	6454724	                         Melun	    0.00
+3021852	              Dammarie-lè-Lys	6454724	                         Melun	    0.07
+3003481	             Le Mée-sur-Seine	6454724	                         Melun	    0.06
+3030101	             Brie-Comte-Robert	6454724	                         Melun	    0.43
+6443740	               Moissy-Cramayel	6454724	                         Melun	    0.27
+3018074	                 Fontainebleau	6454724	                         Melun	    0.37
+2994534	                       Mennecy	6454724	                         Melun	    0.42
+6455395	                 Saint-Fargeau	6454724	                         Melun	    0.21
+6451134	                          Avon	6454724	                         Melun	    0.39
+6443890	                Vaux-le-Pénil	6454724	                         Melun	    0.06
+2969608	              Vert-Saint-Denis	6454724	                         Melun	    0.10
+3030787	          Boussy-Saint-Antoine	6454724	                         Melun	    0.48
+3027242	           Champagne-sur-Seine	6454724	                         Melun	    0.48
+6443767	                         Nandy	6454724	                         Melun	    0.21
+6451149	                   Bois-le-Roi	6454724	                         Melun	    0.20
+6446206	             Saintry-sur-Seine	6454724	                         Melun	    0.33
+6446223	                      Villabé	6454724	                         Melun	    0.40
+6446178	          Le Coudray-Montceaux	6454724	                         Melun	    0.33
+6443893	            Veneux-les-Sablons	6454724	                         Melun	    0.51
+6456473	          Le Châtelet-en-Brie	6454724	                         Melun	    0.26
+6617677	               Guignes-Rabutin	6454724	                         Melun	    0.37
+8296617	                   La Rochette	6454724	                         Melun	    0.06
+2972754	                       Thomery	6454724	                         Melun	    0.43
+6443831	                 Saint-Mammès	6454724	                         Melun	    0.51
+3025910	               Chaumes-en-Brie	6454724	                         Melun	    0.49
+6443895	           Verneuil-l’Étang	6454724	                         Melun	    0.43
+3027200	                    Champcueil	6454724	                         Melun	    0.40
+2967542	            Vulaines-sur-Seine	6454724	                         Melun	    0.36
+3013452	                       Héricy	6454724	                         Melun	    0.32
+6443813	                      Rubelles	6454724	                         Melun	    0.07
+3026464	                   Chartrettes	6454724	                         Melun	    0.17
+6443682	                 Grisy-Suisnes	6454724	                         Melun	    0.40
+6443851	                      Samoreau	6454724	                         Melun	    0.36
+6443713	               Livry-sur-Seine	6454724	                         Melun	    0.10
+2989263	                         Ormoy	6454724	                         Melun	    0.40
+3027609	             Chailly-en-Bière	6454724	                         Melun	    0.23
+2976281	              Samois-sur-Seine	6454724	                         Melun	    0.30
+2987834	          Perthes-en-Gâtinais	6454724	                         Melun	    0.26
+6443785	             Ozouer-le-Voulgis	6454724	                         Melun	    0.40
+2975247	                    Seine-Port	6454724	                         Melun	    0.20
+3010332	          La Chapelle-Gauthier	6454724	                         Melun	    0.44
+2998076	               Liverdy-en-Brie	6454724	                         Melun	    0.49
+2974384	              Soisy-sur-École	6454724	                         Melun	    0.36
+3027970	               Cély-en-Bière	6454724	                         Melun	    0.33
+2974362	                        Solers	6454724	                         Melun	    0.34
+2974434	                 Sivry-Courtry	6454724	                         Melun	    0.18
+6451140	                      Barbizon	6454724	                         Melun	    0.28
+3031918	          Boissise-la-Bertrand	6454724	                         Melun	    0.14
+2977006	      Saint-Sauveur-sur-École	6454724	                         Melun	    0.24
+2971045	               Valence-en-Brie	6454724	                         Melun	    0.50
+6443662	              Fontaine-le-Port	6454724	                         Melun	    0.24
+2980916	                   Saint-Denis	3015689	                       Gonesse	    0.23
+3036145	              Aulnay-sous-Bois	3015689	                       Gonesse	    0.16
+3020839	                        Drancy	3015689	                       Gonesse	    0.16
+8298036	                Noisy-le-Grand	3015689	                       Gonesse	    0.43
+3024597	                        Clichy	3015689	                       Gonesse	    0.35
+2976043	                     Sarcelles	3015689	                       Gonesse	    0.13
+6452608	                       Bobigny	3015689	                       Gonesse	    0.21
+6451987	                         Bondy	3015689	                       Gonesse	    0.24
+3009824	                  La Courneuve	3015689	                       Gonesse	    0.18
+3016621	           Garges-lès-Gonesse	3015689	                       Gonesse	    0.10
+3016830	                         Gagny	3015689	                       Gonesse	    0.33
+2973841	                        Stains	3015689	                       Gonesse	    0.16
+6614566	          Le Perreux-Sur-Marne	3015689	                       Gonesse	    0.42
+2990265	              Nogent-sur-Marne	3015689	                       Gonesse	    0.42
+6612809	                      Houilles	3015689	                       Gonesse	    0.50
+8286153	                 Goussainville	3015689	                       Gonesse	    0.13
+2987271	         Pierrefitte-sur-Seine	3015689	                       Gonesse	    0.17
+6452064	                        Bezons	3015689	                       Gonesse	    0.46
+3024596	              Clichy-sous-Bois	3015689	                       Gonesse	    0.29
+6446359	               Villiers-le-Bel	3015689	                       Gonesse	    0.12
+6455392	                   Romainville	3015689	                       Gonesse	    0.29
+2992616	                   Montfermeil	3015689	                       Gonesse	    0.32
+6446335	                       Sannois	3015689	                       Gonesse	    0.35
+6446342	                       Taverny	3015689	                       Gonesse	    0.42
+3015689	                       Gonesse	3015689	                       Gonesse	    0.00
+6612920	         Cormeilles-en-Parisis	3015689	                       Gonesse	    0.45
+3000060	       Les Pavillons-sous-Bois	3015689	                       Gonesse	    0.26
+6451986	         Villeneuve-la-Garenne	3015689	                       Gonesse	    0.26
+6454892	                   Montmorency	3015689	                       Gonesse	    0.23
+2993679	                    Mitry-Mory	3015689	                       Gonesse	    0.30
+6452022	             Joinville-le-Pont	3015689	                       Gonesse	    0.46
+2974385	        Soisy-sous-Montmorency	3015689	                       Gonesse	    0.27
+3002499	         Le Pré-Saint-Gervais	3015689	                       Gonesse	    0.30
+6452011	                 Bry-sur-Marne	3015689	                       Gonesse	    0.43
+6455393	                    Le Bourget	3015689	                       Gonesse	    0.15
+3021150	                        Domont	3015689	                       Gonesse	    0.25
+6446326	       Saint-Brice-sous-Forêt	3015689	                       Gonesse	    0.17
+6452048	       Arnouville-lès-Gonesse	3015689	                       Gonesse	    0.06
+2992287	                     Montmagny	3015689	                       Gonesse	    0.19
+6446257	             Enghien-les-Bains	3015689	                       Gonesse	    0.26
+2991860	                         Dugny	3015689	                       Gonesse	    0.11
+6454890	                       Louvres	3015689	                       Gonesse	    0.19
+3021848	           Dammartin-en-Goële	3015689	                       Gonesse	    0.46
+3017660	                        Fosses	3015689	                       Gonesse	    0.32
+6446264	                    Ézanville	3015689	                       Gonesse	    0.20
+6452056	                     Beauchamp	3015689	                       Gonesse	    0.48
+2992229	                       Groslay	3015689	                       Gonesse	    0.19
+2998329	          L’Île-Saint-Denis	3015689	                       Gonesse	    0.25
+3033098	                   Bessancourt	3015689	                       Gonesse	    0.45
+3020440	                       Écouen	3015689	                       Gonesse	    0.15
+8298284	                    Saint-Prix	3015689	                       Gonesse	    0.34
+6443783	                         Othis	3015689	                       Gonesse	    0.48
+3022868	                       Courtry	3015689	                       Gonesse	    0.34
+3031294	                   Bouffémont	3015689	                       Gonesse	    0.31
+2995653	                Marly-la-Ville	3015689	                       Gonesse	    0.28
+2969423	                       Viarmes	3015689	                       Gonesse	    0.42
+2994396	                       Mériel	3015689	                       Gonesse	    0.51
+3023375	                       Coubron	3015689	                       Gonesse	    0.31
+2996982	                     Luzarches	3015689	                       Gonesse	    0.35
+2999186	                    Le Thillay	3015689	                       Gonesse	    0.06
+6446341	                   Survilliers	3015689	                       Gonesse	    0.35
+6454895	                       Presles	3015689	                       Gonesse	    0.47
+2978550	                    Saint-Mard	3015689	                       Gonesse	    0.47
+6446307	                     Montsoult	3015689	                       Gonesse	    0.34
+2985107	             Puiseux-en-France	3015689	                       Gonesse	    0.22
+3017208	                    Frépillon	3015689	                       Gonesse	    0.48
+3025882	                    Chaumontel	3015689	                       Gonesse	    0.39
+2991362	                Moussy-le-Neuf	3015689	                       Gonesse	    0.35
+6446304	                    Montlignon	3015689	                       Gonesse	    0.31
+6446294	                      Margency	3015689	                       Gonesse	    0.29
+2983073	              Roissy-en-France	3015689	                       Gonesse	    0.13
+3036562	            Asnières-sur-Oise	3015689	                       Gonesse	    0.44
+2978287	        Saint-Martin-du-Tertre	3015689	                       Gonesse	    0.38
+2970163	                       Vémars	3015689	                       Gonesse	    0.31
+3037713	                       Andilly	3015689	                       Gonesse	    0.28
+2976557	                    Saint-Witz	3015689	                       Gonesse	    0.36
+6443717	                   Longperrier	3015689	                       Gonesse	    0.43
+3033598	              Belloy-en-France	3015689	                       Gonesse	    0.32
+2968249	                   Villevaudé	3015689	                       Gonesse	    0.44
+6443701	                        Juilly	3015689	                       Gonesse	    0.47
+3017922	           Fontenay-en-Parisis	3015689	                       Gonesse	    0.18
+3035362	             Baillet-en-France	3015689	                       Gonesse	    0.34
+2996827	                     Maffliers	3015689	                       Gonesse	    0.36
+3036456	                   Attainville	3015689	                       Gonesse	    0.27
+2991361	               Moussy-le-Vieux	3015689	                       Gonesse	    0.36
+2993578	                    Moisselles	3015689	                       Gonesse	    0.27
+2968448	                      Villeron	3015689	                       Gonesse	    0.26
+2994179	                         Messy	3015689	                       Gonesse	    0.46
+3031713	            Bonneuil-en-France	3015689	                       Gonesse	    0.05
+3003415	              Le Mesnil-Amelot	3015689	                       Gonesse	    0.27
+2990612	             Neuilly-sur-Marne	3015689	                       Gonesse	    0.41
+3031137	          Boulogne-Billancourt	3013657	                       Garches	    0.10
+3037044	                    Argenteuil	3013657	                       Garches	    0.31
+8298013	                      Nanterre	3013657	                       Garches	    0.15
+8286605	                    Versailles	3013657	                       Garches	    0.15
+6455398	          Carrières-sur-Seine	3013657	                       Garches	    0.26
+3024266	                      Colombes	3013657	                       Garches	    0.25
+6455399	                    Courbevoic	3013657	                       Garches	    0.19
+6521954	               Rueil-Malmaison	3013657	                       Garches	    0.09
+6451970	           Issy-les-Moulineaux	3013657	                       Garches	    0.16
+6612091	              Levallois-Perret	3013657	                       Garches	    0.23
+2990611	             Neuilly-sur-Seine	3013657	                       Garches	    0.19
+6451992	             Épinay-sur-Seine	3013657	                       Garches	    0.38
+6451966	                       Clamart	3013657	                       Garches	    0.19
+8286614	                  Sartrouville	3013657	                       Garches	    0.26
+2977824	                    Saint-Ouen	3013657	                       Garches	    0.33
+6451975	                     Montrouge	3013657	                       Garches	    0.26
+6510057	                      Suresnes	3013657	                       Garches	    0.09
+3016321	                 Gennevilliers	3013657	                       Garches	    0.32
+2994144	                        Meudon	3013657	                       Garches	    0.13
+2979783	         Saint-Germain-en-Laye	3013657	                       Garches	    0.23
+3009670	                       Puteaux	3013657	                       Garches	    0.14
+2986501	                        Poissy	3013657	                       Garches	    0.35
+3026083	                    Châtillon	3013657	                       Garches	    0.23
+6446266	                  Franconville	3013657	                       Garches	    0.41
+3023924	      Conflans-Sainte-Honorine	3013657	                       Garches	    0.46
+6444090	                       Trappes	3013657	                       Garches	    0.39
+2986930	                       Plaisir	3013657	                       Garches	    0.45
+6455401	                        Cachan	3013657	                       Garches	    0.30
+8286631	                      Malakoff	3013657	                       Garches	    0.21
+3026033	                        Chatou	3013657	                       Garches	    0.13
+8297997	                   Saint-Cloud	3013657	                       Garches	    0.06
+3009169	           La Garenne-Colombes	3013657	                       Garches	    0.20
+3019897	                        Ermont	3013657	                       Garches	    0.43
+6614115	                 Bois-Colombes	3013657	                       Garches	    0.25
+6455402	                    Le Chesnay	3013657	                       Garches	    0.13
+3020310	                    Élancourt	3013657	                       Garches	    0.45
+6446255	                      Eaubonne	3013657	                       Garches	    0.44
+3017924	            Fontenay-aux-Roses	3013657	                       Garches	    0.24
+2996564	              Maisons-Laffitte	3013657	                       Garches	    0.29
+6451981	                       Sèvres	3013657	                       Garches	    0.08
+2978621	                  Saint-Mandé	3013657	                       Garches	    0.42
+3021516	                Deuil-la-Barre	3013657	                       Garches	    0.45
+6612927	      Montigny-lès-Cormeilles	3013657	                       Garches	    0.41
+3038712	                      Achères	3013657	                       Garches	    0.39
+3010529	          La Celle-Saint-Cloud	3013657	                       Garches	    0.10
+6446329	                 Saint-Gratien	3013657	                       Garches	    0.39
+3025715	                      Chaville	3013657	                       Garches	    0.10
+2975469	                        Sceaux	3013657	                       Garches	    0.27
+6444066	          Saint-Cyr-l’École	3013657	                       Garches	    0.26
+6612921	                       Éragny	3013657	                       Garches	    0.51
+3009094	                      Maurepas	3013657	                       Garches	    0.50
+3013657	                       Garches	3013657	                       Garches	    0.00
+6456496	          Les Clayes-sous-Bois	3013657	                       Garches	    0.38
+6444014	                  Marly-le-Roi	3013657	                       Garches	    0.18
+3028521	        Carrières-sous-Poissy	3013657	                       Garches	    0.39
+6456504	                       Le Pecq	3013657	                       Garches	    0.20
+2998854	                   Le Vésinet	3013657	                       Garches	    0.17
+2978768	           Saint-Leu-la-Forêt	3013657	                       Garches	    0.49
+6451213	                 Bois-d’Arcy	3013657	                       Garches	    0.31
+6444032	                     Montesson	3013657	                       Garches	    0.19
+3017919	            Fontenay-le-Fleury	3013657	                       Garches	    0.27
+3037692	                      Andrésy	3013657	                       Garches	    0.44
+2971689	               Triel-sur-Seine	3013657	                       Garches	    0.50
+6451985	               Ville-d’Avray	3013657	                       Garches	    0.06
+2968475	                    Villepreux	3013657	                       Garches	    0.34
+3026862	         Chanteloup-les-Vignes	3013657	                       Garches	    0.47
+3022380	             Croissy-sur-Seine	3013657	                       Garches	    0.12
+6446320	                    Pierrelaye	3013657	                       Garches	    0.50
+6451220	                      Bougival	3013657	                       Garches	    0.10
+6613136	                    Vaucresson	3013657	                       Garches	    0.06
+6456638	           Le Plessis-Bouchard	3013657	                       Garches	    0.45
+6444042	                  Noisy-le-Roi	3013657	                       Garches	    0.23
+2997351	                  Louveciennes	3013657	                       Garches	    0.14
+6456501	         Le Mesnil-Saint-Denis	3013657	                       Garches	    0.50
+6455400	                  La Verrière	3013657	                       Garches	    0.48
+2989372	                       Orgeval	3013657	                       Garches	    0.44
+3003375	              Le Mesnil-le-Roi	3013657	                       Garches	    0.26
+3027351	                    Chambourcy	3013657	                       Garches	    0.32
+6456506	                 Le Port-Marly	3013657	                       Garches	    0.17
+6444099	           Villennes-sur-Seine	3013657	                       Garches	    0.43
+2977854	        Saint-Nom-la-Bretêche	3013657	                       Garches	    0.31
+6614539	           La Frette-sur-Seine	3013657	                       Garches	    0.36
+6614248	           L’Étang-la-Ville	3013657	                       Garches	    0.22
+2995059	                    Maurecourt	3013657	                       Garches	    0.48
+6443969	                     Fourqueux	3013657	                       Garches	    0.25
+6444060	                  Rocquencourt	3013657	                       Garches	    0.14
+3035340	                        Bailly	3013657	                       Garches	    0.20
+6444012	                  Mareil-Marly	3013657	                       Garches	    0.23
+2991898	                Morainvilliers	3013657	                       Garches	    0.51
+3018587	                  Feucherolles	3013657	                       Garches	    0.40
+6613134	            Marnes-la-Coquette	3013657	                       Garches	    0.05
+3025732	                      Chavenay	3013657	                       Garches	    0.37
+3022562	                   Crespières	3013657	                       Garches	    0.50
+6444018	                        Médan	3013657	                       Garches	    0.46
+3038516	                     Aigremont	3013657	                       Garches	    0.35
+2972794	             Thiverval-Grignon	3013657	                       Garches	    0.49
+2970761	                        Vanves	3013657	                       Garches	    0.20
+3016292	                      Gentilly	3013657	                       Garches	    0.30
+2978048	                         Paris	3007102	              La Queue-en-Brie	    0.45
+2992090	                     Montreuil	3007102	              La Queue-en-Brie	    0.31
+6452043	               Vitry-sur-Seine	3007102	              La Queue-en-Brie	    0.34
+6452018	                      Créteil	3007102	              La Queue-en-Brie	    0.21
+6452605	                 Aubervilliers	3007102	              La Queue-en-Brie	    0.49
+6452013	           Champigny-sur-Marne	3007102	              La Queue-en-Brie	    0.14
+6452032	        Saint-Maur-des-Fossés	3007102	              La Queue-en-Brie	    0.14
+8298130	                Ivry-sur-Seine	3007102	              La Queue-en-Brie	    0.37
+8285608	                        Pantin	3007102	              La Queue-en-Brie	    0.44
+3005269	               Le Blanc-Mesnil	3007102	              La Queue-en-Brie	    0.47
+2996568	                Maisons-Alfort	3007102	              La Queue-en-Brie	    0.26
+9177387	                       Chelles	3007102	              La Queue-en-Brie	    0.26
+2968705	                     Villejuif	3007102	              La Queue-en-Brie	    0.39
+3017910	            Fontenay-sous-Bois	3007102	              La Queue-en-Brie	    0.25
+2974681	                        Sevran	3007102	              La Queue-en-Brie	    0.41
+2968054	                     Vincennes	3007102	              La Queue-en-Brie	    0.30
+3035602	               Rosny-sous-Bois	3007102	              La Queue-en-Brie	    0.27
+8287136	                 Choisy-le-Roi	3007102	              La Queue-en-Brie	    0.32
+2998056	                  Livry-Gargan	3007102	              La Queue-en-Brie	    0.37
+6452000	                  Noisy-le-Sec	3007102	              La Queue-en-Brie	    0.36
+3038213	                   Alfortville	3007102	              La Queue-en-Brie	    0.28
+3035409	                       Bagneux	3007102	              La Queue-en-Brie	    0.48
+8298054	                    Villepinte	3007102	              La Queue-en-Brie	    0.47
+3035403	                      Bagnolet	3007102	              La Queue-en-Brie	    0.37
+6446222	             Vigneux-sur-Seine	3007102	              La Queue-en-Brie	    0.38
+2998632	            L’Haÿ-les-Roses	3007102	              La Queue-en-Brie	    0.44
+10283420	             Charenton-le-Pont	3007102	              La Queue-en-Brie	    0.33
+2968653	                   Villemomble	3007102	              La Queue-en-Brie	    0.30
+2972893	                        Thiais	3007102	              La Queue-en-Brie	    0.34
+2968142	            Villiers-sur-Marne	3007102	              La Queue-en-Brie	    0.12
+2984004	                  Villeparisis	3007102	              La Queue-en-Brie	    0.45
+6457187	           Le Kremlin-Bicêtre	3007102	              La Queue-en-Brie	    0.40
+3027014	              Champs-Sur-Marne	3007102	              La Queue-en-Brie	    0.18
+6455343	                          Orly	3007102	              La Queue-en-Brie	    0.36
+8297907	                     Montgeron	3007102	              La Queue-en-Brie	    0.32
+3000491	                     Les Lilas	3007102	              La Queue-en-Brie	    0.38
+2983074	                Roissy-en-Brie	3007102	              La Queue-en-Brie	    0.14
+2972444	                         Torcy	3007102	              La Queue-en-Brie	    0.22
+6613168	                       Arcueil	3007102	              La Queue-en-Brie	    0.44
+6613167	             Villeneuve-le-Roi	3007102	              La Queue-en-Brie	    0.33
+6455408	            Thorigny-sur-Marne	3007102	              La Queue-en-Brie	    0.34
+2990616	             Neuilly-Plaisance	3007102	              La Queue-en-Brie	    0.24
+3030990	                Bourg-la-Reine	3007102	              La Queue-en-Brie	    0.48
+3025314	                Chevilly-Larue	3007102	              La Queue-en-Brie	    0.41
+6452015	       Chennevières-sur-Marne	3007102	              La Queue-en-Brie	    0.08
+6443774	                       Noisiel	3007102	              La Queue-en-Brie	    0.20
+2971027	                      Valenton	3007102	              La Queue-en-Brie	    0.24
+3002401	                     Le Raincy	3007102	              La Queue-en-Brie	    0.32
+2997904	                        Lognes	3007102	              La Queue-en-Brie	    0.16
+6455344	                 Saint-Maurice	3007102	              La Queue-en-Brie	    0.27
+6443883	              Vaires-sur-Marne	3007102	              La Queue-en-Brie	    0.26
+6443750	                   Montévrain	3007102	              La Queue-en-Brie	    0.39
+6446134	          Épinay-sous-Sénart	3007102	              La Queue-en-Brie	    0.29
+3024701	                 Claye-Souilly	3007102	              La Queue-en-Brie	    0.48
+3007102	              La Queue-en-Brie	3007102	              La Queue-en-Brie	    0.00
+6452037	                  Villecresnes	3007102	              La Queue-en-Brie	    0.20
+6497274	                        Serris	3007102	              La Queue-en-Brie	    0.43
+6443721	               Magny-le-Hongre	3007102	              La Queue-en-Brie	    0.48
+2979752	    Saint-Germain-lès-Corbeil	3007102	              La Queue-en-Brie	    0.50
+3035329	         Bailly-Romainvilliers	3007102	              La Queue-en-Brie	    0.48
+2974383	               Soisy-sur-Seine	3007102	              La Queue-en-Brie	    0.46
+2970469	                      Vaujours	3007102	              La Queue-en-Brie	    0.40
+6451994	             Gournay-sur-Marne	3007102	              La Queue-en-Brie	    0.20
+6443847	     Saint-Thibault-des-Vignes	3007102	              La Queue-en-Brie	    0.30
+6443606	                        Chessy	3007102	              La Queue-en-Brie	    0.42
+3029855	          Brou-sur-Chantereine	3007102	              La Queue-en-Brie	    0.28
+6443797	                      Pomponne	3007102	              La Queue-en-Brie	    0.33
+3026867	                    Chanteloup	3007102	              La Queue-en-Brie	    0.35
+3021806	                      Dampmart	3007102	              La Queue-en-Brie	    0.40
+3037531	               Annet-sur-Marne	3007102	              La Queue-en-Brie	    0.46
+6443623	                      Coupvray	3007102	              La Queue-en-Brie	    0.49
+6456485	                        Le Pin	3007102	              La Queue-en-Brie	    0.36
+3027524	                     Chalifert	3007102	              La Queue-en-Brie	    0.45
+3015463	                     Gouvernes	3007102	              La Queue-en-Brie	    0.29
+3014367	                    Guermantes	3007102	              La Queue-en-Brie	    0.30
+3019256	                         Évry	3007102	              La Queue-en-Brie	    0.50
+3038754	               Ablon-sur-Seine	3007102	              La Queue-en-Brie	    0.34
+8297891	                 Courcouronnes	6446140	           Fontenay-lès-Briis	    0.50
+3037423	                        Antony	6446140	           Fontenay-lès-Briis	    0.46
+6508695	                         Massy	6446140	           Fontenay-lès-Briis	    0.38
+2975525	              Savigny-sur-Orge	6446140	           Fontenay-lès-Briis	    0.39
+2980558	    Sainte-Geneviève-des-Bois	6446140	           Fontenay-lès-Briis	    0.34
+2988758	                     Palaiseau	6446140	           Fontenay-lès-Briis	    0.31
+3036460	                    Athis-Mons	6446140	           Fontenay-lès-Briis	    0.49
+6613133	             Châtenay-Malabry	6446140	           Fontenay-lès-Briis	    0.46
+2992415	        Montigny-le-Bretonneux	6446140	           Fontenay-lès-Briis	    0.48
+6446231	               Viry-Châtillon	6446140	           Fontenay-lès-Briis	    0.43
+12122717	                   Ris-Orangis	6446140	           Fontenay-lès-Briis	    0.49
+6457182	           Le Plessis-Robinson	6446140	           Fontenay-lès-Briis	    0.49
+3020832	                       Draveil	6446140	           Fontenay-lès-Briis	    0.50
+3014643	                        Grigny	6446140	           Fontenay-lès-Briis	    0.43
+3014143	                    Guyancourt	6446140	           Fontenay-lès-Briis	    0.45
+3017178	                       Fresnes	6446140	           Fontenay-lès-Briis	    0.48
+3030257	            Brétigny-sur-Orge	6446140	           Fontenay-lès-Briis	    0.28
+6509676	          Vélizy-Villacoublay	6446140	           Fontenay-lès-Briis	    0.46
+2994477	                Gif-sur-Yvette	6446140	           Fontenay-lès-Briis	    0.23
+8297845	                    Longjumeau	6446140	           Fontenay-lès-Briis	    0.33
+2991719	              Morsang-sur-Orge	6446140	           Fontenay-lès-Briis	    0.37
+8286678	                Chilly-Mazarin	6446140	           Fontenay-lès-Briis	    0.37
+3006025	         Saint-Michel-sur-Orge	6446140	           Fontenay-lès-Briis	    0.27
+6446153	               Juvisy-sur-Orge	6446140	           Fontenay-lès-Briis	    0.45
+6444102	                      Viroflay	6446140	           Fontenay-lès-Briis	    0.50
+2989204	                         Orsay	6446140	           Fontenay-lès-Briis	    0.23
+6446218	         Verrières-le-Buisson	6446140	           Fontenay-lès-Briis	    0.41
+6446138	               Fleury-Mérogis	6446140	           Fontenay-lès-Briis	    0.38
+6446175	                      Morangis	6446140	           Fontenay-lès-Briis	    0.41
+6446135	              Épinay-sur-Orge	6446140	           Fontenay-lès-Briis	    0.35
+2967745	         Voisins-le-Bretonneux	6446140	           Fontenay-lès-Briis	    0.43
+3036823	                       Arpajon	6446140	           Fontenay-lès-Briis	    0.19
+6446200	    Saint-Germain-lès-Arpajon	6446140	           Fontenay-lès-Briis	    0.20
+3020925	                       Dourdan	6446140	           Fontenay-lès-Briis	    0.37
+8297880	           Villebon-sur-Yvette	6446140	           Fontenay-lès-Briis	    0.26
+3031818	                     Bondoufle	6446140	           Fontenay-lès-Briis	    0.41
+6446149	                          Igny	6446140	           Fontenay-lès-Briis	    0.36
+6446113	              Bures-sur-Yvette	6446140	           Fontenay-lès-Briis	    0.21
+6612811	             Magny-les-Hameaux	6446140	           Fontenay-lès-Briis	    0.32
+3030203	                     Breuillet	6446140	           Fontenay-lès-Briis	    0.15
+6446163	                    Marcoussis	6446140	           Fontenay-lès-Briis	    0.15
+6443995	                 Jouy-en-Josas	6446140	           Fontenay-lès-Briis	    0.41
+3005524	              La Ville-du-Bois	6446140	           Fontenay-lès-Briis	    0.24
+2983755	    Saint-Rémy-lès-Chevreuse	6446140	           Fontenay-lès-Briis	    0.28
+6446174	                    Montlhéry	6446140	           Fontenay-lès-Briis	    0.22
+3035228	                   Ballancourt	6446140	           Fontenay-lès-Briis	    0.50
+2988589	           Paray-Vieille-Poste	6446140	           Fontenay-lès-Briis	    0.45
+6446159	                        Lisses	6446140	           Fontenay-lès-Briis	    0.50
+2969199	                       Wissous	6446140	           Fontenay-lès-Briis	    0.44
+6446158	                         Linas	6446140	           Fontenay-lès-Briis	    0.21
+6454877	                     Étréchy	6446140	           Fontenay-lès-Briis	    0.36
+2998269	                       Limours	6446140	           Fontenay-lès-Briis	    0.16
+6446150	                     Itteville	6446140	           Fontenay-lès-Briis	    0.45
+2997698	             Longpont-sur-Orge	6446140	           Fontenay-lès-Briis	    0.26
+2975785	           Saulx-les-Chartreux	6446140	           Fontenay-lès-Briis	    0.29
+3020346	                         Égly	6446140	           Fontenay-lès-Briis	    0.17
+2981629	     Saint-Arnoult-en-Yvelines	6446140	           Fontenay-lès-Briis	    0.42
+6443930	                           Buc	6446140	           Fontenay-lès-Briis	    0.43
+2982146	                        Rungis	6446140	           Fontenay-lès-Briis	    0.50
+6454736	                     Chevreuse	6446140	           Fontenay-lès-Briis	    0.33
+2995571	          Marolles-en-Hurepoix	6446140	           Fontenay-lès-Briis	    0.31
+3007017	                         Lardy	6446140	           Fontenay-lès-Briis	    0.34
+2993715	                 Saint-Chéron	6446140	           Fontenay-lès-Briis	    0.19
+2989601	                   Ollainville	6446140	           Fontenay-lès-Briis	    0.14
+3032695	                      Bièvres	6446140	           Fontenay-lès-Briis	    0.39
+2968139	             Villiers-sur-Orge	6446140	           Fontenay-lès-Briis	    0.29
+2989874	                         Nozay	6446140	           Fontenay-lès-Briis	    0.20
+3035230	               Ballainvilliers	6446140	           Fontenay-lès-Briis	    0.30
+6446156	             Leuville-sur-Orge	6446140	           Fontenay-lès-Briis	    0.20
+2991792	             Morigny-Champigny	6446140	           Fontenay-lès-Briis	    0.48
+6456630	                   La Norville	6446140	           Fontenay-lès-Briis	    0.21
+6456631	             Le Plessis-Pâté	6446140	           Fontenay-lès-Briis	    0.32
+2982043	                        Saclay	6446140	           Fontenay-lès-Briis	    0.31
+3017728	              Forges-les-Bains	6446140	           Fontenay-lès-Briis	    0.11
+6455337	         Boissy-sous-Saint-Yon	6446140	           Fontenay-lès-Briis	    0.20
+3029717	          Bruyères-le-Châtel	6446140	           Fontenay-lès-Briis	    0.10
+3027836	                         Cerny	6446140	           Fontenay-lès-Briis	    0.51
+3030044	             Briis-sous-Forges	6446140	           Fontenay-lès-Briis	    0.06
+6454882	                   Saint-Vrain	6446140	           Fontenay-lès-Briis	    0.39
+2969616	                 Vert-le-Petit	6446140	           Fontenay-lès-Briis	    0.43
+6446118	                      Champlan	6446140	           Fontenay-lès-Briis	    0.33
+3015727	             Gometz-le-Châtel	6446140	           Fontenay-lès-Briis	    0.17
+2968704	                     Villejust	6446140	           Fontenay-lès-Briis	    0.23
+2969617	                 Vert-le-Grand	6446140	           Fontenay-lès-Briis	    0.39
+6446140	           Fontenay-lès-Briis	6446140	           Fontenay-lès-Briis	    0.00
+3031098	              Bouray-sur-Juine	6446140	           Fontenay-lès-Briis	    0.38
+6446122	                 Cheptainville	6446140	           Fontenay-lès-Briis	    0.28
+6446217	                     Vauhallan	6446140	           Fontenay-lès-Briis	    0.33
+3031744	                     Bonnelles	6446140	           Fontenay-lès-Briis	    0.23
+6443932	                       Bullion	6446140	           Fontenay-lès-Briis	    0.29
+3000268	                 Les Molières	6446140	           Fontenay-lès-Briis	    0.22
+3023725	                     Corbreuse	6446140	           Fontenay-lès-Briis	    0.49
+3037648	                 Angervilliers	6446140	           Fontenay-lès-Briis	    0.18
+2974905	                      Sermaise	6446140	           Fontenay-lès-Briis	    0.27
+2998738	              Lévis-Saint-Nom	6446140	           Fontenay-lès-Briis	    0.47
+3000460	            Les-Loges-en-Josas	6446140	           Fontenay-lès-Briis	    0.40
+6443935	               Cernay-la-Ville	6446140	           Fontenay-lès-Briis	    0.36
+3017915	           Fontenay-le-Vicomte	6446140	           Fontenay-lès-Briis	    0.49
+2978126	    Saint-Maurice-Montcouronne	6446140	           Fontenay-lès-Briis	    0.12
+3015728	               Gometz-la-Ville	6446140	           Fontenay-lès-Briis	    0.15
+6456632	          Le Val-Saint-Germain	6446140	           Fontenay-lès-Briis	    0.23
+2999040	                    Leudeville	6446140	           Fontenay-lès-Briis	    0.35
+3026281	                  Châteaufort	6446140	           Fontenay-lès-Briis	    0.35
+6446193	                     Roinville	6446140	           Fontenay-lès-Briis	    0.32
+2970474	                  Vaugrigneuse	6446140	           Fontenay-lès-Briis	    0.08
+3031905	              Boissy-le-Cutté	6446140	           Fontenay-lès-Briis	    0.47
+3035866	          Auvers-Saint-Georges	6446140	           Fontenay-lès-Briis	    0.37
+6446229	            Villiers-le-Bâcle	6446140	           Fontenay-lès-Briis	    0.30
+3000763	            Les Granges-le-Roi	6446140	           Fontenay-lès-Briis	    0.41
+2972143	              Toussus-le-Noble	6446140	           Fontenay-lès-Briis	    0.36
+3027446	                    Chamarande	6446140	           Fontenay-lès-Briis	    0.31
+2968655	         Villemoisson-sur-Orge	6446140	           Fontenay-lès-Briis	    0.35
+3012499	            Janville-sur-Juine	6446140	           Fontenay-lès-Briis	    0.36
+2996148	               Mantes-la-Jolie	6443983	                     Guerville	    0.13
+3000192	                   Les Mureaux	6443983	                     Guerville	    0.35
+6444000	                         Limay	6443983	                     Guerville	    0.14
+2982756	               Rosny-sur-Seine	6443983	                     Guerville	    0.24
+2986272	          Jouars-Pontchartrain	6443983	                     Guerville	    0.50
+3031667	          Bonnières-sur-Seine	6443983	                     Guerville	    0.38
+3017219	                      Freneuse	6443983	                     Guerville	    0.38
+3011978	                       Juziers	6443983	                     Guerville	    0.24
+3013120	                        Houdan	6443983	                     Guerville	    0.49
+6444038	          Neauphle-le-Château	6443983	                     Guerville	    0.47
+2994428	           Montfort-l’Amaury	6443983	                     Guerville	    0.48
+6614000	     Villiers-Saint-Frédéric	6443983	                     Guerville	    0.45
+3016733	                       Gambais	6443983	                     Guerville	    0.49
+2989376	                       Orgerus	6443983	                     Guerville	    0.30
+3016690	                  Garancières	6443983	                     Guerville	    0.34
+2975019	                      Septeuil	6443983	                     Guerville	    0.17
+6614549	        La Queue-lès-Yvelines	6443983	                     Guerville	    0.39
+6443983	                     Guerville	6443983	                     Guerville	    0.00
+3018154	        Follainville-Dennemont	6443983	                     Guerville	    0.22
+3033477	                    Bennecourt	6443983	                     Guerville	    0.41
+2979832	    Saint-Germain-de-la-Grange	6443983	                     Guerville	    0.43
+6443929	                       Bréval	6443983	                     Guerville	    0.37
+6444020	                        Méré	6443983	                     Guerville	    0.46
+2997706	                       Longnes	6443983	                     Guerville	    0.28
+3034463	                   Bazainville	6443983	                     Guerville	    0.41
+2975783	                    Richebourg	6443983	                     Guerville	    0.38
+3021847	            Dammartin-en-Serve	6443983	                     Guerville	    0.24
+3026765	                        Chapet	6443983	                     Guerville	    0.37
+3016745	                       Galluis	6443983	                     Guerville	    0.43
+3014362	                       Guernes	6443983	                     Guerville	    0.26
+2973582	                 Tacoignières	6443983	                     Guerville	    0.32
+3019597	              Corbeil-Essonnes	3023389	                       Coubert	    0.43
+2967244	      Villeneuve-Saint-Georges	3023389	                       Coubert	    0.48
+6443853	             Savigny-le-Temple	3023389	                       Coubert	    0.32
+2967245	                        Yerres	3023389	                       Coubert	    0.40
+3029392	           Bussy-Saint-Georges	3023389	                       Coubert	    0.48
+2998305	             Limeil-Brévannes	3023389	                       Coubert	    0.44
+6452034	                  Sucy-en-Brie	3023389	                       Coubert	    0.42
+3012874	                        Brunoy	3023389	                       Coubert	    0.36
+3024107	                Combs-la-Ville	3023389	                       Coubert	    0.25
+9177111	            Ozoir-la-Ferrière	3023389	                       Coubert	    0.30
+3002647	           Le Plessis-Trévise	3023389	                       Coubert	    0.45
+6452010	            Bonneuil-sur-Marne	3023389	                       Coubert	    0.48
+3031898	           Boissy-Saint-Léger	3023389	                       Coubert	    0.41
+6455406	                     Lieusaint	3023389	                       Coubert	    0.29
+6446205	        Saint-Pierre-du-Perray	3023389	                       Coubert	    0.40
+6451172	                        Cesson	3023389	                       Coubert	    0.34
+6452028	            Ormesson-sur-Marne	3023389	                       Coubert	    0.43
+3022301	                        Crosne	3023389	                       Coubert	    0.45
+2984678	           Quincy-sous-Sénart	3023389	                       Coubert	    0.30
+2972253	               Tournan-en-Brie	3023389	                       Coubert	    0.23
+3014697	          Gretz-Armainvilliers	3023389	                       Coubert	    0.21
+3020247	                 Émerainville	3023389	                       Coubert	    0.41
+3000602	                      Lésigny	3023389	                       Coubert	    0.25
+3017902	            Fontenay-Trésigny	3023389	                       Coubert	    0.33
+2991754	                       Mormant	3023389	                       Coubert	    0.40
+2995573	              Marolles-en-Brie	3023389	                       Coubert	    0.32
+6452025	             Mandres-les-Roses	3023389	                       Coubert	    0.29
+2990195	                       Noiseau	3023389	                       Coubert	    0.40
+2972611	                        Tigery	3023389	                       Coubert	    0.36
+2976109	                       Santeny	3023389	                       Coubert	    0.27
+3025270	               Chevry-Cossigny	3023389	                       Coubert	    0.16
+3031917	               Boissise-le-Roi	3023389	                       Coubert	    0.46
+3018633	            Ferrières-en-Brie	3023389	                       Coubert	    0.42
+3024328	                    Collégien	3023389	                       Coubert	    0.46
+2974747	                        Servon	3023389	                       Coubert	    0.24
+6446137	                     Étiolles	3023389	                       Coubert	    0.42
+2982317	                 Rozay-en-Brie	3023389	                       Coubert	    0.48
+2985402	               Presles-en-Brie	3023389	                       Coubert	    0.15
+2970693	                Varennes-Jarcy	3023389	                       Coubert	    0.25
+2986279	                    Pontcarré	3023389	                       Coubert	    0.35
+6443633	             Croissy-Beaubourg	3023389	                       Coubert	    0.44
+6443862	            Soignolles-en-Brie	3023389	                       Coubert	    0.04
+3023389	                       Coubert	3023389	                       Coubert	    0.00
+2984294	                         Réau	3023389	                       Coubert	    0.22
+2968548	           Villeneuve-le-Comte	3023389	                       Coubert	    0.46
+2996674	                        Maincy	3023389	                       Coubert	    0.34
+2995670	                Marles-en-Brie	3023389	                       Coubert	    0.37
+3008705	           La Houssaye-en-Brie	3023389	                       Coubert	    0.40
+2993589	                      Moisenay	3023389	                       Coubert	    0.31
+2975249	                     Courpalay	3023389	                       Coubert	    0.49
+3018675	             Férolles-Attilly	3023389	                       Coubert	    0.21
+2990651	          Neufmoutiers-en-Brie	3023389	                       Coubert	    0.37
+6443922	                      Voisenon	3023389	                       Coubert	    0.28
+3018880	                     Favières	3023389	                       Coubert	    0.30
+6454726	                       Nemours	3035419	            Bagneaux-sur-Loing	    0.11
+2977425	     Saint-Pierre-lès-Nemours	3035419	            Bagneaux-sur-Loing	    0.11
+2973963	             Souppes-sur-Loing	3035419	            Bagneaux-sur-Loing	    0.15
+2991842	               Moret-sur-Loing	3035419	            Bagneaux-sur-Loing	    0.45
+3026268	               Château-Landon	3035419	            Bagneaux-sur-Loing	    0.23
+6451160	              Bourron-Marlotte	3035419	            Bagneaux-sur-Loing	    0.30
+6443646	                     Écuelles	3035419	            Bagneaux-sur-Loing	    0.40
+3020335	                    Égreville	3035419	            Bagneaux-sur-Loing	    0.34
+3035419	            Bagneaux-sur-Loing	3035419	            Bagneaux-sur-Loing	    0.00
+3034160	         Beaumont-en-Gâtinais	3035419	            Bagneaux-sur-Loing	    0.50
+2968679	                Villemaréchal	3035419	            Bagneaux-sur-Loing	    0.32
+6443622	                   Coulommiers	6451175	               Chailly-en-Brie	    0.10
+3009490	             La Ferté-Gaucher	6451175	               Chailly-en-Brie	    0.33
+3012236	                       Jouarre	6451175	               Chailly-en-Brie	    0.38
+2984284	                        Rebais	6451175	               Chailly-en-Brie	    0.26
+6443700	                Jouy-sur-Morin	6451175	               Chailly-en-Brie	    0.28
+6443818	                Saint-Augustin	6451175	               Chailly-en-Brie	    0.17
+3012163	               Jouy-le-Châtel	6451175	               Chailly-en-Brie	    0.35
+2991695	                      Mortcerf	6451175	               Chailly-en-Brie	    0.38
+6451175	               Chailly-en-Brie	6451175	               Chailly-en-Brie	    0.00
+2968519	         Villeneuve-sur-Bellot	6451175	               Chailly-en-Brie	    0.45
+6443602	                      Chauffry	6451175	               Chailly-en-Brie	    0.14
+2985229	                       Provins	6454716	                      Chenoise	    0.25
+6443768	                        Nangis	6454716	                      Chenoise	    0.37
+6613861	                   Longueville	6454716	                      Chenoise	    0.30
+2973944	                       Sourdun	6454716	                      Chenoise	    0.36
+6454716	                      Chenoise	6454716	                      Chenoise	    0.00
+2977101	                        Saints	6454716	                      Chenoise	    0.48
+3025057	                Choisy-en-Brie	6454716	                      Chenoise	    0.40
+2972301	                       Touquin	6454716	                      Chenoise	    0.47
+2968151	        Villiers-Saint-Georges	6454716	                      Chenoise	    0.40
+3025275	                        Chevru	6454716	                      Chenoise	    0.33
+3017936	                  Fontenailles	6454716	                      Chenoise	    0.48
+8297830	                      Étampes	3030085	         Brières-les-Scellés	    0.08
+3037654	                    Angerville	3030085	         Brières-les-Scellés	    0.48
+3009496	               La Ferté-Alais	3030085	         Brières-les-Scellés	    0.39
+2994416	                   Méréville	3030085	         Brières-les-Scellés	    0.41
+2996559	                        Maisse	3030085	         Brières-les-Scellés	    0.47
+2985041	                        Pussay	3030085	         Brières-les-Scellés	    0.40
+6446195	                        Saclas	3030085	         Brières-les-Scellés	    0.27
+6446131	        D’Huison-Longueville	3030085	         Brières-les-Scellés	    0.33
+3034541	                        Baulne	3030085	         Brières-les-Scellés	    0.42
+3030085	         Brières-les-Scellés	3030085	         Brières-les-Scellés	    0.00
+6613994	             Châlo-Saint-Mars	3030085	         Brières-les-Scellés	    0.16
+6454723	                         Meaux	3036902	          Armentières-en-Brie	    0.25
+3009481	        La Ferté-sous-Jouarre	3036902	          Armentières-en-Brie	    0.21
+6443651	                         Esbly	3036902	          Armentières-en-Brie	    0.44
+2990957	           Nanteuil-lès-Meaux	3036902	          Armentières-en-Brie	    0.27
+2977709	                  Saint-Pathus	3036902	          Armentières-en-Brie	    0.48
+2991407	                       Mouroux	3036902	          Armentières-en-Brie	    0.44
+6443804	                Quincy-Voisins	3036902	          Armentières-en-Brie	    0.35
+3022613	             Crégy-lès-Meaux	3036902	          Armentières-en-Brie	    0.26
+2971673	                      Trilport	3036902	          Armentières-en-Brie	    0.15
+2968502	                      Villenoy	3036902	          Armentières-en-Brie	    0.31
+2979730	       Saint-Germain-sur-Morin	3036902	          Armentières-en-Brie	    0.41
+6443757	                        Montry	3036902	          Armentières-en-Brie	    0.44
+2998027	                Lizy-sur-Ourcq	3036902	          Armentières-en-Brie	    0.13
+2976883	               Saint-Soupplets	3036902	          Armentières-en-Brie	    0.43
+3031906	             Boissy-le-Châtel	3036902	          Armentières-en-Brie	    0.48
+2995828	            Mareuil-lès-Meaux	3036902	          Armentières-en-Brie	    0.33
+2986408	                      Pommeuse	3036902	          Armentières-en-Brie	    0.45
+3019040	                  Faremoutiers	3036902	          Armentières-en-Brie	    0.50
+6443684	                      Guérard	3036902	          Armentières-en-Brie	    0.44
+2989645	                       Oissery	3036902	          Armentières-en-Brie	    0.45
+6443620	        Couilly-Pont-aux-Dames	3036902	          Armentières-en-Brie	    0.40
+2970650	                     Varreddes	3036902	          Armentières-en-Brie	    0.18
+2980932	           Saint-Cyr-sur-Morin	3036902	          Armentières-en-Brie	    0.36
+2968140	            Villiers-sur-Morin	3036902	          Armentières-en-Brie	    0.42
+6443634	               Crouy-sur-Ourcq	3036902	          Armentières-en-Brie	    0.32
+2982094	              Saâcy-sur-Marne	3036902	          Armentières-en-Brie	    0.35
+2992476	                      Monthyon	3036902	          Armentières-en-Brie	    0.36
+3031167	                      Bouleurs	3036902	          Armentières-en-Brie	    0.34
+2967639	                     Voulangis	3036902	          Armentières-en-Brie	    0.42
+6443618	        Condé-Sainte-Libiaire	3036902	          Armentières-en-Brie	    0.41
+3016918	                     Fublaines	3036902	          Armentières-en-Brie	    0.20
+3027307	                      Chamigny	3036902	          Armentières-en-Brie	    0.24
+3026934	             Changis-sur-Marne	3036902	          Armentières-en-Brie	    0.06
+3016220	          Germigny-l’Evêque	3036902	          Armentières-en-Brie	    0.15
+2988131	                      Penchard	3036902	          Armentières-en-Brie	    0.30
+3010523	            La Celle-sur-Morin	3036902	          Armentières-en-Brie	    0.49
+2979218	   Saint-Jean-les-Deux-Jumeaux	3036902	          Armentières-en-Brie	    0.08
+3036902	          Armentières-en-Brie	3036902	          Armentières-en-Brie	    0.00
+3022808	                   Coutevroult	3036902	          Armentières-en-Brie	    0.45
+2995330	                Mary-sur-Marne	3036902	          Armentières-en-Brie	    0.10
+2976285	                      Sammeron	3036902	          Armentières-en-Brie	    0.14
+6443719	                       Luzancy	3036902	          Armentières-en-Brie	    0.30
+3021844	         Dammartin-sur-Tigeaux	3036902	          Armentières-en-Brie	    0.48
+3012702	           Isles-lès-Villenoy	3036902	          Armentières-en-Brie	    0.40
+2971287	                Ussy-sur-Marne	3036902	          Armentières-en-Brie	    0.11
+3020968	                          Doue	3036902	          Armentières-en-Brie	    0.41
+2993843	               Milly-la-Forêt	2994131	            Achères-la-Forêt	    0.24
+6617946	         Boutigny-sur-Essonnes	2994131	            Achères-la-Forêt	    0.43
+2992387	            Montigny-sur-Loing	2994131	            Achères-la-Forêt	    0.33
+3010315	          La Chapelle-la-Reine	2994131	            Achères-la-Forêt	    0.08
+6443746	         Montcourt-Fromonville	2994131	            Achères-la-Forêt	    0.28
+3004848	              Noisy-sur-École	2994131	            Achères-la-Forêt	    0.15
+3014671	                Grez-sur-Loing	2994131	            Achères-la-Forêt	    0.24
+2994131	            Achères-la-Forêt	2994131	            Achères-la-Forêt	    0.00
+2992671	          Montereau-faut-Yonne	6443599	           Châtenay-sur-Seine	    0.28
+6443886	            Varennes-sur-Seine	6443599	           Châtenay-sur-Seine	    0.34
+2999382	            La Grande-Paroisse	6443599	           Châtenay-sur-Seine	    0.36
+2979770	           Saint-Germain-Laval	6443599	           Châtenay-sur-Seine	    0.19
+2969749	              Vernou-sur-Seine	6443599	           Châtenay-sur-Seine	    0.47
+3028806	                Cannes-Écluse	6443599	           Châtenay-sur-Seine	    0.25
+2991295	                Bray-sur-Seine	6443599	           Châtenay-sur-Seine	    0.27
+6443729	            Marolles-sur-Seine	6443599	           Châtenay-sur-Seine	    0.15
+2967631	                         Voulx	6443599	           Châtenay-sur-Seine	    0.45
+6454720	                        Gouaix	6443599	           Châtenay-sur-Seine	    0.41
+6443753	              Montigny-Lencoup	6443599	           Châtenay-sur-Seine	    0.11
+2976415	                        Salins	6443599	           Châtenay-sur-Seine	    0.13
+6443599	           Châtenay-sur-Seine	6443599	           Châtenay-sur-Seine	    0.00
+6454886	                         Cergy	2973069	       Tessancourt-sur-Aubette	    0.26
+2967990	                      Pontoise	2973069	       Tessancourt-sur-Aubette	    0.34
+8286141	        Saint-Ouen-l’Aumône	2973069	       Tessancourt-sur-Aubette	    0.35
+8296740	               Mantes-la-Ville	2973069	       Tessancourt-sur-Aubette	    0.40
+6446317	                          Osny	2973069	       Tessancourt-sur-Aubette	    0.28
+12307023	                      Vauréal	2973069	       Tessancourt-sur-Aubette	    0.18
+3012162	               Jouy-le-Moutier	2973069	       Tessancourt-sur-Aubette	    0.22
+6444094	            Verneuil-sur-Seine	2973069	       Tessancourt-sur-Aubette	    0.16
+3036402	                 Aubergenville	2973069	       Tessancourt-sur-Aubette	    0.22
+3032872	                        Beynes	2973069	       Tessancourt-sur-Aubette	    0.47
+3016622	                   Gargenville	2973069	       Tessancourt-sur-Aubette	    0.22
+6454887	                  Courdimanche	2973069	       Tessancourt-sur-Aubette	    0.15
+3019985	                       Épône	2973069	       Tessancourt-sur-Aubette	    0.27
+2996802	                   Magnanville	2973069	       Tessancourt-sur-Aubette	    0.46
+2995110	                         Maule	2973069	       Tessancourt-sur-Aubette	    0.35
+2994494	                     Menucourt	2973069	       Tessancourt-sur-Aubette	    0.11
+6446292	                Magny-en-Vexin	2973069	       Tessancourt-sur-Aubette	    0.44
+6444092	                Vaux-sur-Seine	2973069	       Tessancourt-sur-Aubette	    0.09
+3020426	                    Ecquevilly	2973069	       Tessancourt-sur-Aubette	    0.21
+3012656	                         Issou	2973069	       Tessancourt-sur-Aubette	    0.25
+6444023	          Mézières-sur-Seine	2973069	       Tessancourt-sur-Aubette	    0.28
+2995702	                       Marines	2973069	       Tessancourt-sur-Aubette	    0.35
+2986071	                   Porcheville	2973069	       Tessancourt-sur-Aubette	    0.30
+3029684	                      Buchelay	2973069	       Tessancourt-sur-Aubette	    0.47
+6446258	                        Ennery	2973069	       Tessancourt-sur-Aubette	    0.37
+6443964	               Flins-sur-Seine	2973069	       Tessancourt-sur-Aubette	    0.19
+3013926	                   Hardricourt	2973069	       Tessancourt-sur-Aubette	    0.07
+3031409	                       Bouafle	2973069	       Tessancourt-sur-Aubette	    0.17
+3026474	                         Chars	2973069	       Tessancourt-sur-Aubette	    0.38
+6612930	             Neuville-sur-Oise	2973069	       Tessancourt-sur-Aubette	    0.25
+3031911	           Boissy-l’Aillerie	2973069	       Tessancourt-sur-Aubette	    0.25
+2995859	            Mareil-sur-Mauldre	2973069	       Tessancourt-sur-Aubette	    0.37
+3034451	                      Bazemont	2973069	       Tessancourt-sur-Aubette	    0.29
+3023644	           Cormeilles-en-Vexin	2973069	       Tessancourt-sur-Aubette	    0.31
+2971316	                            Us	2973069	       Tessancourt-sur-Aubette	    0.23
+2974991	                   Seraincourt	2973069	       Tessancourt-sur-Aubette	    0.10
+3002184	            Les Alluets-le-Roi	2973069	       Tessancourt-sur-Aubette	    0.31
+3038759	                      Ableiges	2973069	       Tessancourt-sur-Aubette	    0.21
+3036142	            Aulnay-sur-Mauldre	2973069	       Tessancourt-sur-Aubette	    0.30
+2969083	                         Vigny	2973069	       Tessancourt-sur-Aubette	    0.15
+2989670	        Oinville-sur-Montcient	2973069	       Tessancourt-sur-Aubette	    0.13
+6444041	                        Nézel	2973069	       Tessancourt-sur-Aubette	    0.27
+2973069	       Tessancourt-sur-Aubette	2973069	       Tessancourt-sur-Aubette	    0.00
+2987847	                        Persan	2974717	                         Seugy	    0.24
+2988490	                 L’Isle-Adam	2974717	                         Seugy	    0.31
+2994283	                Méry-sur-Oise	2974717	                         Seugy	    0.41
+3034141	             Beaumont-sur-Oise	2974717	                         Seugy	    0.20
+3035864	               Auvers-sur-Oise	2974717	                         Seugy	    0.42
+6446318	                       Parmain	2974717	                         Seugy	    0.34
+3027243	            Champagne-sur-Oise	2974717	                         Seugy	    0.29
+3029715	            Bruyères-sur-Oise	2974717	                         Seugy	    0.16
+3033294	               Bernes-sur-Oise	2974717	                         Seugy	    0.20
+3029377	                Butry-sur-Oise	2974717	                         Seugy	    0.37
+2990729	             Nesles-la-Vallée	2974717	                         Seugy	    0.41
+2991398	                         Mours	2974717	                         Seugy	    0.23
+2970866	                    Valmondois	2974717	                         Seugy	    0.38
+2974717	                         Seugy	2974717	                         Seugy	    0.00
+2984513	                   Rambouillet	2989432	                      Orcemont	    0.16
+6456497	            Les Essarts-le-Roi	2989432	                      Orcemont	    0.39
+6456505	         Le Perray-en-Yvelines	2989432	                      Orcemont	    0.31
+3024406	                   Coignières	2989432	                      Orcemont	    0.49
+3038756	                         Ablis	2989432	                      Orcemont	    0.20
+3036223	                     Auffargis	2989432	                      Orcemont	    0.34
+2974263	                      Sonchamp	2989432	                      Orcemont	    0.13
+2977196	       Saint-Rémy-l’Honoré	2989432	                      Orcemont	    0.49
+2978822	      Saint-Léger-en-Yvelines	2989432	                      Orcemont	    0.38
+3016456	                       Gazeran	2989432	                      Orcemont	    0.14
+2982228	               Les Bréviaires	2989432	                      Orcemont	    0.33
+3023948	             Condé-sur-Vesgre	2989432	                      Orcemont	    0.51
+2989432	                      Orcemont	2989432	                      Orcemont	    0.00

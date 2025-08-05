@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+743	                    Seinäjoki	743	                    Seinäjoki	    0.00
+233	                       Kauhava	743	                    Seinäjoki	    0.91
+408	                         Lapua	743	                    Seinäjoki	    0.54
+232	                     Kauhajoki	743	                    Seinäjoki	    1.31
+145	                      Ilmajoki	743	                    Seinäjoki	    0.36
+10	                        Alavus	743	                    Seinäjoki	    1.14

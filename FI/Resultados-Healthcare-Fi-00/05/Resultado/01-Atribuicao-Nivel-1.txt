@@ -1,0 +1,10 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+205	                       Kajaani	205	                       Kajaani	    0.00
+578	                       Paltamo	205	                       Kajaani	    0.53
+697	                   Ristijärvi	205	                       Kajaani	    0.97
+765	                       Sotkamo	765	                       Sotkamo	    0.00
+290	                         Kuhmo	290	                         Kuhmo	    0.00
+777	                   Suomussalmi	777	                   Suomussalmi	    0.00
+105	                    Hyrynsalmi	777	                   Suomussalmi	    0.77
+785	                         Vaala	785	                         Vaala	    0.00
+620	                      Puolanka	620	                      Puolanka	    0.00

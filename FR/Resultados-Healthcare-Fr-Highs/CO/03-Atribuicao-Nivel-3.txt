@@ -1,0 +1,12 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3227183	                       Ajaccio	3227183	                       Ajaccio	    0.00
+3037372	                      Appietto	3227183	                       Ajaccio	    0.25
+3018443	                        Bastia	3018443	                        Bastia	    0.00
+2985947	                 Porto-Vecchio	2985947	                 Porto-Vecchio	    0.00
+6616385	                         Borgo	6616385	                         Borgo	    0.00
+2988658	                         Corte	2988658	                         Corte	    0.00
+2973571	                       Aléria	2988658	                         Corte	    0.92
+3029090	                         Calvi	3029090	                         Calvi	    0.00
+3213049	                       Furiani	3213049	                       Furiani	    0.00
+6431123	                      Sartène	6431123	                      Sartène	    0.00
+3031801	                     Bonifacio	3031801	                     Bonifacio	    0.00

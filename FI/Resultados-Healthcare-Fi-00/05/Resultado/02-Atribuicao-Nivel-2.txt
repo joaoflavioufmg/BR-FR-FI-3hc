@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+205	                       Kajaani	205	                       Kajaani	    0.00
+785	                         Vaala	205	                       Kajaani	    1.41
+765	                       Sotkamo	765	                       Sotkamo	    0.00
+290	                         Kuhmo	290	                         Kuhmo	    0.00
+777	                   Suomussalmi	777	                   Suomussalmi	    0.00
+620	                      Puolanka	777	                   Suomussalmi	    1.47

@@ -1,0 +1,9 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6508863,Le Mans,6508863,Le Mans,0.00,3
+3019259,Évron,6508863,Le Mans,1.19,3
+3025053,Cholet,3025053,Cholet,0.00,3
+2999908,Les Ponts-de-Cé,3025053,Cholet,1.21,3
+3026823,Chantonnay,3025053,Cholet,1.09,3
+2979590,Saint-Herblain,2979590,Saint-Herblain,0.00,3
+2992206,Montoir-de-Bretagne,2979590,Saint-Herblain,1.00,3
+2973748,Sucé-sur-Erdre,2979590,Saint-Herblain,0.40,3

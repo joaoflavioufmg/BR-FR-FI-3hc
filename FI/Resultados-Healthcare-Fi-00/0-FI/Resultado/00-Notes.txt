@@ -1,0 +1,430 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  12325283891.13
+Primary   Care Cost:	   7379246078.00
+Secondary Care Cost:	   3446984240.00
+Tertiary  Care Cost:	    436133334.00
+Add Infrastruc Cost:	    956323920.26
+Populat ExtLog Cost:	    106596318.87
+HC Cost per capita (now):	     2011.56
+HC Cost per capita (fut):	     2201.41
+----------------------------------------
+
+-----------------------------------
+State population:	5598821
+Max municipa pop:	703540
+Min municipa pop:	113
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			4000   		2.80
+[3]			6000   		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 309 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 309 mun > 190 mun (100.00% coverage)
+Care Level [2]: 190 mun >  27 mun
+Care Level [3]:  27 mun >  24 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	543	Nurmijärvi              :	29647092.00
+    1	710	Raasepori                :	3434312.60
+    1	678	Raahe                    :	2964313.80
+    1	182	Jämsä                  :	2261160.80
+    1	75	Hamina                   :	8624464.80
+    1	111	Heinola                  :	2197369.60
+    1	604	Pirkkala                 :	51490965.00
+    1	410	Laukaa                   :	2436586.60
+    1	244	Kempele                  :	34503394.80
+    1	560	Orimattila               :	17914387.80
+    1	305	Kuusamo                  :	1868660.40
+    1	445	Pargas                   :	29174193.60
+    1	276	Kontiolahti              :	12314205.80
+    1	408	Lapua                    :	3534612.40
+    1	232	Kauhajoki                :	1527825.60
+    1	145	Ilmajoki                 :	13012086.80
+    1	426	Liperi                   :	1491185.20
+    1	10	Alavus                   :	1331180.00
+    1	422	Lieksa                   :	1195162.40
+    1	535	Nivala                   :	1239579.00
+    1	765	Sotkamo                  :	1291376.40
+    1	102	Huittinen                :	1191999.20
+    1	402	Lapinlahti               :	1105538.40
+    1	139	Ii                       :	1242874.00
+    1	420	Leppävirta              :	3479651.80
+    1	729	Saarijärvi              :	1065471.20
+    1	500	Muurame                  :	21444123.60
+    1	235	Kauniainen               :	179030661.80
+    1	224	Karkkila                 :	4984148.80
+    1	78	Hanko                    :	900062.20
+    1	290	Kuhmo                    :	888068.40
+    1	758	Sodankylä               :	976506.20
+    1	263	Kiuruvesi                :	882401.00
+    1	241	Keminmaa                 :	5975680.20
+    1	777	Suomussalmi              :	838907.00
+    1	615	Pudasjärvi              :	912056.00
+    1	433	Loppi                    :	4630793.00
+    1	541	Nurmes                   :	1074038.20
+    1	320	Kemijärvi               :	822827.40
+    1	893	Nykarleby                :	4865528.80
+    1	69	Haapajärvi              :	781046.80
+    1	143	Ikaalinen                :	2124484.20
+    1	71	Haapavesi                :	771161.80
+    1	309	Outokumpu                :	738870.80
+    1	508	Mänttä-Vilppula        :	1081023.60
+    1	783	Säkylä                 :	781178.60
+    1	936	Virrat                   :	749283.00
+    1	148	Inari                    :	913110.40
+    1	581	Parkano                  :	749019.40
+    1	288	Kronoby                  :	1608750.80
+    1	635	Pälkäne                :	7901673.60
+    1	931	Viitasaari               :	686941.60
+    1	178	Juva                     :	665326.40
+    1	261	Kittilä                 :	833766.80
+    1	755	Siuntio                  :	7246100.40
+    1	507	Mäntyharju              :	663481.20
+    1	704	Rusko                    :	12454177.40
+    1	51	Eurajoki                 :	6193413.80
+    1	531	Nakkila                  :	11145798.80
+    1	213	Kangasniemi              :	626840.80
+    1	475	Malax                    :	12183592.00
+    1	217	Kannus                   :	670466.60
+    1	169	Jokioinen                :	3920259.20
+    1	146	Ilomantsi                :	515074.40
+    1	77	Hankasalmi               :	540380.00
+    1	611	Pornainen                :	14252983.80
+    1	746	Sievi                    :	2587629.40
+    1	171	Joroinen                 :	527068.20
+    1	176	Juuka                    :	493327.40
+    1	887	Urjala                   :	2572867.80
+    1	152	Isokyrö                 :	2301887.00
+    1	595	Pielavesi                :	478829.40
+    1	848	Tohmajärvi              :	1595702.60
+    1	172	Joutsa                   :	490296.00
+    1	170	Jomala                   :	3748260.20
+    1	702	Ruovesi                  :	475270.80
+    1	607	Polvijärvi              :	478170.40
+    1	976	Ylitornio                :	432831.20
+    1	762	Sonkajärvi              :	2999240.80
+    1	226	Karstula                 :	423209.80
+    1	601	Pihtipudas               :	445484.00
+    1	832	Taivalkoski              :	445484.00
+    1	683	Ranua                    :	413193.00
+    1	592	Petäjävesi             :	449174.40
+    1	925	Vieremä                 :	412534.00
+    1	681	Rantasalmi               :	372862.20
+    1	732	Salla                    :	385515.00
+    1	300	Kuortane                 :	422287.20
+    1	892	Uurainen                 :	2668554.60
+    1	854	Pello                    :	368644.60
+    1	90	Heinävesi               :	352037.80
+    1	578	Paltamo                  :	373653.00
+    1	614	Posio                    :	340703.00
+    1	849	Toholampi                :	312497.80
+    1	686	Rautalampi               :	1159444.60
+    1	924	Veteli                   :	981382.80
+    1	751	Simo                     :	332926.80
+    1	625	Pyhäjoki                :	358100.60
+    1	845	Tervola                  :	328841.00
+    1	576	Padasjoki                :	326864.00
+    1	785	Vaala                    :	297472.60
+    1	416	Lemi                     :	11329132.60
+    1	934	Vimpeli                  :	1396025.60
+    1	619	Punkalaidun              :	307884.80
+    1	738	Sauvo                    :	7778967.80
+    1	81	Hartola                  :	690763.80
+    1	691	Reisjärvi               :	316451.80
+    1	889	Utajärvi                :	1430952.60
+    1	584	Perho                    :	291541.60
+    1	620	Puolanka                 :	270058.20
+    1	407	Lapinjärvi              :	2375036.00
+    1	275	Konnevesi                :	300372.20
+    1	768	Sulkava                  :	276384.60
+    1	9	Alavieska                :	1862202.20
+    1	317	Kärsämäki             :	298658.80
+    1	857	Tuusniemi                :	580579.00
+    1	52	Evijärvi                :	605621.00
+    1	230	Karvia                   :	274407.60
+    1	850	Toivakka                 :	306435.00
+    1	105	Hyrynsalmi               :	244884.40
+    1	239	Keitele                  :	241984.80
+    1	284	Koski Tl                 :	1315495.80
+    1	498	Muonio                   :	289301.00
+    1	707	Rääkkylä              :	229727.40
+    1	291	Kuhmoinen                :	251079.00
+    1	97	Hirvensalmi              :	266895.00
+    1	623	Puumala                  :	257537.20
+    1	608	Pomarkku                 :	237240.00
+    1	759	Soini                    :	221292.20
+    1	280	Korsnäs                 :	256746.40
+    1	631	Pyhäranta               :	3231867.80
+    1	151	Isojoki                  :	219315.20
+    1	489	Miehikkälä             :	565422.00
+    1	436	Lumijoki                 :	817819.00
+    1	250	Kihniö                  :	195986.60
+    1	480	Marttila                 :	1800915.20
+    1	616	Pukkila                  :	221951.20
+    1	181	Jämijärvi              :	1685194.80
+    1	47	Enontekiö               :	227486.80
+    1	791	Siikalatva               :	580974.40
+    1	588	Pertunmaa                :	190714.60
+    1	256	Kinnula                  :	180302.40
+    1	687	Rautavaara               :	169626.60
+    1	833	Taivassalo               :	678638.20
+    1	844	Tervo                    :	395927.20
+    1	630	Pyhäntä                :	210221.00
+    1	747	Siikainen                :	537744.00
+    1	46	Enonkoski                :	162114.00
+    1	312	Kyyjärvi                :	143134.80
+    1	561	Oripää                 :	2087316.60
+    1	218	Karijoki                 :	686678.00
+    1	697	Ristijärvi              :	147484.20
+    1	231	Kaskinen                 :	2204486.80
+    1	890	Utsjoki                  :	157105.60
+    1	265	Kivijärvi               :	279020.60
+    1	742	Savukoski                :	125078.20
+    1	72	Hailuoto                 :	117170.20
+    1	583	Pelkosenniemi            :	117829.20
+    1	43	Eckerö                  :	133908.80
+    1	421	Lestijärvi              :	83561.20
+    1	435	Luhanka                  :	89096.80
+    1	35	Brändö                 :	60759.80
+    1	65	Geta                     :	74467.00
+    1	766	Sottunga                 :	196382.00
+    1	165	Janakkala                :	2000855.80
+    1	82	Hattula                  :	10139637.60
+    1	86	Hausjärvi               :	975979.00
+    1	316	Kärkölä               :	4216941.00
+    1	624	Pyhtää                 :	623414.00
+    1	16	Asikkala                 :	1004052.40
+    1	689	Rautjärvi               :	845892.40
+    1	177	Juupajoki                :	1297307.40
+    1	626	Pyhäjärvi              :	561599.80
+    1	318	Kökar                   :	29786.80
+    1	273	Kolari                   :	524036.80
+    2	75	Hamina                   :	29138611.20
+    2	305	Kuusamo                  :	5225260.80
+    2	276	Kontiolahti              :	19535654.40
+    2	10	Alavus                   :	3801542.40
+    2	765	Sotkamo                  :	20162697.60
+    2	729	Saarijärvi              :	5657376.00
+    2	224	Karkkila                 :	34228166.40
+    2	241	Keminmaa                 :	5575238.40
+    2	615	Pudasjärvi              :	4865760.00
+    2	433	Loppi                    :	12898281.60
+    2	320	Kemijärvi               :	23826748.80
+    2	893	Nykarleby                :	3935164.80
+    2	143	Ikaalinen                :	26228976.00
+    2	148	Inari                    :	2416512.00
+    2	261	Kittilä                 :	7270070.40
+    2	704	Rusko                    :	23988940.80
+    2	152	Isokyrö                 :	3742915.20
+    2	170	Jomala                   :	2649235.20
+    2	16	Asikkala                 :	14265456.00
+    3	75	Hamina                   :	5609740.50
+    3	305	Kuusamo                  :	4412477.16
+    3	276	Kontiolahti              :	4608856.98
+    3	10	Alavus                   :	4616637.48
+    3	765	Sotkamo                  :	3049333.56
+    3	224	Karkkila                 :	2570677.20
+    3	241	Keminmaa                 :	2270038.68
+    3	615	Pudasjärvi              :	2153642.40
+    3	433	Loppi                    :	2300849.46
+    3	320	Kemijärvi               :	1942946.46
+    3	893	Nykarleby                :	3512740.14
+    3	143	Ikaalinen                :	1980604.08
+    3	148	Inari                    :	2156132.16
+    3	261	Kittilä                 :	1968777.72
+    3	704	Rusko                    :	2142749.70
+    3	170	Jomala                   :	2029465.62
+    3	16	Asikkala                 :	2370873.96
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	297	Kuopio                   :	62442.61
+    1	405	Lappeenranta             :	35863.55
+    1	208	Kalajoki                 :	5898.49
+    1	50	Eura                     :	5155.95
+    1	761	Somero                   :	3933.32
+    1	494	Muhos                    :	4285.42
+    1	503	Mynämäki               :	3613.10
+    1	441	Luumäki                 :	2000.53
+    2	286	Kouvola                  :	1085975.37
+    2	698	Rovaniemi                :	12012997.44
+    2	491	Mikkeli                  :	5175803.68
+    2	734	Salo                     :	1794429.16
+    2	543	Nurmijärvi              :	193927.60
+    2	205	Kajaani                  :	133284.66
+    2	740	Savonlinna               :	12823611.53
+    2	710	Raasepori                :	4039803.39
+    2	790	Sastamala                :	564317.66
+    2	678	Raahe                    :	625898.64
+    2	182	Jämsä                  :	548460.83
+    2	111	Heinola                  :	11959.58
+    2	604	Pirkkala                 :	422030.73
+    2	410	Laukaa                   :	1753213.96
+    2	244	Kempele                  :	3983177.93
+    2	560	Orimattila               :	202602.44
+    2	445	Pargas                   :	13510.01
+    2	408	Lapua                    :	1685424.34
+    2	232	Kauhajoki                :	4584986.82
+    2	145	Ilmajoki                 :	2254323.45
+    2	426	Liperi                   :	61039.43
+    2	422	Lieksa                   :	641273.54
+    2	535	Nivala                   :	81112.93
+    2	102	Huittinen                :	37285.68
+    2	402	Lapinlahti               :	45253.55
+    2	139	Ii                       :	1462000.46
+    2	420	Leppävirta              :	745815.41
+    2	500	Muurame                  :	386513.31
+    2	235	Kauniainen               :	234299.21
+    2	78	Hanko                    :	3414086.64
+    2	290	Kuhmo                    :	305717.18
+    2	758	Sodankylä               :	1171422.82
+    2	263	Kiuruvesi                :	1424988.67
+    2	777	Suomussalmi              :	1662715.24
+    2	541	Nurmes                   :	2740944.44
+    2	69	Haapajärvi              :	441003.86
+    2	71	Haapavesi                :	12762.47
+    2	309	Outokumpu                :	82742.95
+    2	508	Mänttä-Vilppula        :	2072688.81
+    2	783	Säkylä                 :	16718.70
+    2	936	Virrat                   :	467283.27
+    2	581	Parkano                  :	4671.91
+    2	288	Kronoby                  :	26272.73
+    2	635	Pälkäne                :	1117934.31
+    2	931	Viitasaari               :	172324.88
+    2	178	Juva                     :	272698.00
+    2	755	Siuntio                  :	113839.88
+    2	507	Mäntyharju              :	2077971.97
+    2	51	Eurajoki                 :	4300.21
+    2	213	Kangasniemi              :	76615.52
+    2	475	Malax                    :	50836.38
+    2	217	Kannus                   :	48765.73
+    2	169	Jokioinen                :	170553.48
+    2	146	Ilomantsi                :	193731.78
+    2	77	Hankasalmi               :	1218602.44
+    2	611	Pornainen                :	421335.80
+    2	746	Sievi                    :	58965.06
+    2	171	Joroinen                 :	29195.48
+    2	176	Juuka                    :	251309.07
+    2	887	Urjala                   :	816255.89
+    2	595	Pielavesi                :	94083.16
+    2	848	Tohmajärvi              :	317154.57
+    2	172	Joutsa                   :	1232382.30
+    2	702	Ruovesi                  :	205999.16
+    2	607	Polvijärvi              :	2602.53
+    2	976	Ylitornio                :	381246.30
+    2	762	Sonkajärvi              :	300912.38
+    2	226	Karstula                 :	341312.01
+    2	601	Pihtipudas               :	513779.93
+    2	832	Taivalkoski              :	226936.86
+    2	683	Ranua                    :	946573.51
+    2	592	Petäjävesi             :	1291.81
+    2	925	Vieremä                 :	631491.70
+    2	681	Rantasalmi               :	244077.88
+    2	732	Salla                    :	136730.40
+    2	300	Kuortane                 :	35735.40
+    2	892	Uurainen                 :	73520.20
+    2	854	Pello                    :	1435715.38
+    2	90	Heinävesi               :	447556.31
+    2	578	Paltamo                  :	31619.81
+    2	614	Posio                    :	385201.26
+    2	849	Toholampi                :	107577.24
+    2	686	Rautalampi               :	238801.67
+    2	924	Veteli                   :	89965.13
+    2	751	Simo                     :	3357.95
+    2	625	Pyhäjoki                :	13739.05
+    2	845	Tervola                  :	10286.13
+    2	576	Padasjoki                :	777.16
+    2	785	Vaala                    :	609251.34
+    2	416	Lemi                     :	117567.27
+    2	934	Vimpeli                  :	253914.17
+    2	619	Punkalaidun              :	321049.22
+    2	738	Sauvo                    :	12647.87
+    2	81	Hartola                  :	75232.99
+    2	691	Reisjärvi               :	336793.73
+    2	889	Utajärvi                :	757468.02
+    2	584	Perho                    :	755337.16
+    2	620	Puolanka                 :	562174.14
+    2	407	Lapinjärvi              :	1402357.99
+    2	275	Konnevesi                :	688115.16
+    2	768	Sulkava                  :	503845.81
+    2	9	Alavieska                :	1878.47
+    2	317	Kärsämäki             :	109098.15
+    2	857	Tuusniemi                :	70345.07
+    2	52	Evijärvi                :	776399.75
+    2	230	Karvia                   :	700287.93
+    2	850	Toivakka                 :	326133.03
+    2	105	Hyrynsalmi               :	121509.38
+    2	239	Keitele                  :	178199.01
+    2	284	Koski Tl                 :	71199.60
+    2	498	Muonio                   :	159253.59
+    2	707	Rääkkylä              :	59577.97
+    2	291	Kuhmoinen                :	377466.09
+    2	97	Hirvensalmi              :	320168.88
+    2	623	Puumala                  :	876926.15
+    2	608	Pomarkku                 :	25403.81
+    2	759	Soini                    :	11568.62
+    2	280	Korsnäs                 :	144967.18
+    2	631	Pyhäranta               :	129361.80
+    2	151	Isojoki                  :	716413.18
+    2	489	Miehikkälä             :	2859.27
+    2	436	Lumijoki                 :	183623.26
+    2	250	Kihniö                  :	41381.50
+    2	480	Marttila                 :	14221.76
+    2	616	Pukkila                  :	266254.02
+    2	181	Jämijärvi              :	109775.82
+    2	47	Enontekiö               :	663294.04
+    2	791	Siikalatva               :	140919.52
+    2	588	Pertunmaa                :	524486.67
+    2	256	Kinnula                  :	203851.19
+    2	687	Rautavaara               :	63800.61
+    2	833	Taivassalo               :	7000.34
+    2	844	Tervo                    :	32906.04
+    2	630	Pyhäntä                :	247284.28
+    2	747	Siikainen                :	107863.43
+    2	46	Enonkoski                :	439280.76
+    2	312	Kyyjärvi                :	288397.68
+    2	561	Oripää                 :	20748.70
+    2	218	Karijoki                 :	478643.50
+    2	697	Ristijärvi              :	15090.00
+    2	231	Kaskinen                 :	361887.60
+    2	890	Utsjoki                  :	740450.17
+    2	265	Kivijärvi               :	21540.56
+    2	742	Savukoski                :	120017.09
+    2	72	Hailuoto                 :	199428.26
+    2	583	Pelkosenniemi            :	15030.63
+    2	43	Eckerö                  :	160.12
+    2	421	Lestijärvi              :	139769.10
+    2	435	Luhanka                  :	91014.45
+    2	35	Brändö                 :	45784.52
+    2	65	Geta                     :	300.90
+    2	766	Sottunga                 :	1140.38
+    2	165	Janakkala                :	4757.29
+    2	82	Hattula                  :	64508.95
+    2	86	Hausjärvi               :	26398.75
+    2	316	Kärkölä               :	27147.32
+    2	624	Pyhtää                 :	5622.94
+    2	689	Rautjärvi               :	31299.17
+    2	177	Juupajoki                :	163481.12
+    2	626	Pyhäjärvi              :	1076777.25
+    2	318	Kökar                   :	13271.31
+    2	273	Kolari                   :	246517.32
+    3	729	Saarijärvi              :	417447.15
+    3	152	Isokyrö                 :	241763.15
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

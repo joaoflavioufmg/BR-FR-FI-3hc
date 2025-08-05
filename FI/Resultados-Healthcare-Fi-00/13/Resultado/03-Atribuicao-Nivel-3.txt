@@ -1,0 +1,4 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+167	                       Joensuu	167	                       Joensuu	    0.00
+276	                   Kontiolahti	167	                       Joensuu	    0.48
+426	                        Liperi	167	                       Joensuu	    0.52

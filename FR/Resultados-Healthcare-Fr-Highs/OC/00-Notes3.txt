@@ -1,0 +1,77 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  24923694364.63
+Primary   Care Cost:	   6653877690.00
+Secondary Care Cost:	   8872207197.00
+Tertiary  Care Cost:	   9281270712.75
+Add Infrastruc Cost:	    115808187.92
+Populat ExtLog Cost:	       530576.96
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4487.40
+----------------------------------------
+
+----------------------------------------
+State population:	5554155
+Max municipa pop:	968638
+Min municipa pop:	1003
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1379   		1.06
+Care Level [3]	2243   		0.99
+----------------------------------------
+
+
+Demand met by level: (Estate has 910 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 910 mun > 168 mun (100.00% coverage)
+Care Level [2]: 168 mun > 142 mun
+Care Level [3]: 142 mun > 134 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	2990363	Nîmes                   :	18089919.80
+    1	2979679	Saint-Gilles             :	1651682.60
+    1	2969400	Vic-Fezensac             :	420378.20
+    1	3010566	Lacaune                  :	296864.40
+    1	2990890	Naucelle                 :	240558.40
+    1	2983929	Réquista                :	238881.20
+    1	3018238	Florac                   :	226901.20
+    1	6441030	Saint-Paul-de-Fenouillet :	215640.00
+    1	3031135	Boulogne-sur-Gesse       :	195274.00
+    1	3034921	Barjac                   :	193117.60
+    1	2993088	Montaigu-de-Quercy       :	156458.80
+    1	3028349	Castelnau d’Auzan      :	125430.60
+    1	3021065	Donzac                   :	408158.60
+    1	2971693	Trie-sur-Baïse          :	122795.00
+    1	2976375	Salles-Curan             :	122555.40
+    2	2990363	Nîmes                   :	32232532.80
+    3	2990363	Nîmes                   :	60871039.32
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3028092	Caylus                   :	4099.36
+    1	3029168	Cajarc                   :	5864.45
+    2	2969400	Vic-Fezensac             :	3562.66
+    2	3010566	Lacaune                  :	3837.65
+    2	2990890	Naucelle                 :	2598.25
+    2	2983929	Réquista                :	60808.80
+    2	3018238	Florac                   :	4831.33
+    2	6441030	Saint-Paul-de-Fenouillet :	2395.71
+    2	3031135	Boulogne-sur-Gesse       :	1084.88
+    2	3034921	Barjac                   :	10888.99
+    2	2981865	Saint-Alban-sur-Limagnole:	15455.31
+    2	6440992	Osséja                  :	395025.89
+    2	2993088	Montaigu-de-Quercy       :	1310.54
+    2	3035595	Ax-les-Thermes           :	5712.84
+    2	3028349	Castelnau d’Auzan      :	1463.83
+    2	3021065	Donzac                   :	1233.63
+    2	2971693	Trie-sur-Baïse          :	585.08
+    2	2976375	Salles-Curan             :	9817.76
+----------------------------------------------------------------

@@ -1,0 +1,87 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2988800,"Nice",2988800,"Nice",0,3
+2969187,"Marseille",2969187,"Marseille",0,3
+2980772,"Toulon",2980772,"Toulon",0,3
+3038354,"Aix-en-Provence",3038354,"Aix-en-Provence",0,3
+3035681,"Avignon",3035681,"Avignon",0,3
+3028808,"Cannes",3028808,"Cannes",0,3
+2977162,"Antibes",2977162,"Antibes",0,3
+2974657,"La Seyne-sur-Mer",2974657,"La Seyne-sur-Mer",0,3
+3012937,"Hyères",3012937,"Hyères",0,3
+3017253,"Fréjus",3017253,"Fréjus",0,3
+3036938,"Arles",3036938,"Arles",0,3
+2980325,"Saintes-Maries-de-la-Mer",3036938,"Arles",0.74,3
+3029227,"Cagnes-sur-Mer",3029227,"Cagnes-sur-Mer",0,3
+3014856,"Grasse",3014856,"Grasse",0,3
+6454958,"Martigues",6454958,"Martigues",0,3
+3036433,"Aubagne",3036433,"Aubagne",0,3
+2976341,"Salon-de-Provence",2976341,"Salon-de-Provence",0,3
+3012647,"Istres",3012647,"Istres",0,3
+3004871,"Le Cannet",3004871,"Le Cannet",0,3
+3016702,"Gap",3016702,"Gap",0,3
+2973485,"Tallard",3016702,"Gap",0.28,3
+3020850,"Draguignan",3020850,"Draguignan",0,3
+6456718,"La Ciotat",6456718,"La Ciotat",0,3
+2980759,"Évenos",6456718,"La Ciotat",0.45,3
+6445063,"Saint-Raphaël",6445063,"Saint-Raphaël",0,3
+2999179,"Le Thoronet",6445063,"Saint-Raphaël",0.94,3
+2967870,"Vitrolles",2967870,"Vitrolles",0,3
+2995750,"Marignane",2995750,"Marignane",0,3
+2989460,"Orange",2989460,"Orange",0,3
+2978891,"Saint-Laurent-du-Var",2978891,"Saint-Laurent-du-Var",0,3
+3028542,"Carpentras",3028542,"Carpentras",0,3
+6425695,"Vallauris",6425695,"Vallauris",0,3
+6614137,"Cavaillon",6614137,"Cavaillon",0,3
+3009198,"La Garde",3009198,"La Garde",0,3
+2996255,"Mandelieu-la-Napoule",2996255,"Mandelieu-la-Napoule",0,3
+6425528,"Manosque",6425528,"Manosque",0,3
+3038159,"Allauch",3038159,"Allauch",0,3
+3016667,"Gardanne",3016667,"Gardanne",0,3
+2987825,"Pertuis",2987825,"Pertuis",0,3
+2991551,"Mougins",2991551,"Mougins",0,3
+2974188,"Sorgues",2974188,"Sorgues",0,3
+2970148,"Vence",2970148,"Vence",0,3
+2999891,"La Crau",2999891,"La Crau",0,3
+3030057,"Brignoles",3030057,"Brignoles",0,3
+2976258,"Sanary-sur-Mer",2976258,"Sanary-sur-Mer",0,3
+6618043,"Digne-les-Bains",6618043,"Digne-les-Bains",0,3
+2973393,"Tarascon",2973393,"Tarascon",0,3
+3031387,"Bouc-Bel-Air",3031387,"Bouc-Bel-Air",0,3
+2982875,"Roquebrune-sur-Argens",2982875,"Roquebrune-sur-Argens",0,3
+2989590,"Ollioules",2989590,"Ollioules",0,3
+3003188,"Cogolin",3003188,"Cogolin",0,3
+3018513,"Figanières",3003188,"Cogolin",0.88,3
+3030142,"Briançon",3030142,"Briançon",0,3
+3037352,"Apt",3037352,"Apt",0,3
+3003650,"Le Luc",3003650,"Le Luc",0,3
+2977214,"Saint-Rémy-de-Provence",2977214,"Saint-Rémy-de-Provence",0,3
+3028534,"Carqueiranne",3028534,"Carqueiranne",0,3
+6615256,"Valréas",6615256,"Valréas",0,3
+6447163,"Roquevaire",6447163,"Roquevaire",0,3
+2988220,"Pégomas",2988220,"Pégomas",0,3
+6447121,"Éguilles",6447121,"Éguilles",0,3
+2974446,"Sisteron",2974446,"Sisteron",0,3
+3023842,"Contes",3023842,"Contes",0,3
+2973180,"Tende",3023842,"Contes",0.95,3
+3019219,"Eyguières",3019219,"Eyguières",0,3
+2976656,"Saint-Victoret",2976656,"Saint-Victoret",0,3
+3007401,"La Penne-sur-Huveaune",3007401,"La Penne-sur-Huveaune",0,3
+3000866,"La Bouilladisse",3000866,"La Bouilladisse",0,3
+6446638,"Embrun",6446638,"Embrun",0,3
+3034991,"Barcelonnette",6446638,"Embrun",0.59,3
+2994901,"Mazan",2994901,"Mazan",0,3
+2975953,"Sarrians",2975953,"Sarrians",0,3
+2987297,"Pierrefeu-du-Var",2987297,"Pierrefeu-du-Var",0,3
+2971154,"Vaison-la-Romaine",2971154,"Vaison-la-Romaine",0,3
+3002443,"Le Puy-Sainte-Réparade",3002443,"Le Puy-Sainte-Réparade",0,3
+3014717,"Gréoux-les-Bains",3002443,"Le Puy-Sainte-Réparade",0.94,3
+2974337,"Solliès-Toucas",2974337,"Solliès-Toucas",0,3
+6618146,"Saint-André-de-la-Roche",6618146,"Saint-André-de-la-Roche",0,3
+2987547,"Peypin",2987547,"Peypin",0,3
+3017798,"Forcalquier",3017798,"Forcalquier",0,3
+2990987,"Nans-les-Pins",2990987,"Nans-les-Pins",0,3
+2998916,"Levens",2998916,"Levens",0,3
+2974162,"Sospel",2998916,"Levens",0.45,3
+3027745,"Ceyreste",3027745,"Ceyreste",0,3
+2993832,"Mimet",2993832,"Mimet",0,3
+3002357,"Le Revest-les-Eaux",3002357,"Le Revest-les-Eaux",0,3

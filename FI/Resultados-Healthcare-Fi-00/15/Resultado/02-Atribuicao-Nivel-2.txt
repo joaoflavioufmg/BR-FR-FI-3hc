@@ -1,0 +1,14 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+297	                        Kuopio	297	                        Kuopio	    0.00
+420	                   Leppävirta	297	                        Kuopio	    1.12
+686	                    Rautalampi	297	                        Kuopio	    1.31
+857	                     Tuusniemi	297	                        Kuopio	    1.06
+844	                         Tervo	297	                        Kuopio	    1.18
+140	                       Iisalmi	140	                       Iisalmi	    0.00
+402	                    Lapinlahti	140	                       Iisalmi	    0.59
+263	                     Kiuruvesi	140	                       Iisalmi	    0.75
+595	                     Pielavesi	140	                       Iisalmi	    1.06
+925	                      Vieremä	140	                       Iisalmi	    0.56
+239	                       Keitele	140	                       Iisalmi	    1.49
+687	                    Rautavaara	140	                       Iisalmi	    1.39
+749	                  Siilinjärvi	749	                  Siilinjärvi	    0.00

@@ -1,0 +1,65 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6529563,"Orléans",6529563,"Orléans",0,3
+2972191,"Tours",2972191,"Tours",0,3
+3031005,"Bourges",3031005,"Bourges",0,3
+3032213,"Blois",3032213,"Blois",0,3
+3026204,"Châteauroux",3026204,"Châteauroux",0,3
+3026467,"Chartres",3026467,"Chartres",0,3
+3020810,"Dreux",3020810,"Dreux",0,3
+2969257,"Vierzon",2969257,"Vierzon",0,3
+2989611,"Olivet",2989611,"Olivet",0,3
+2970110,"Vendôme",2970110,"Vendôme",0,3
+6433106,"Saint-Cyr-sur-Loire",6433106,"Saint-Cyr-sur-Loire",0,3
+2969779,"Montargis",2969779,"Montargis",0,3
+3016097,"Gien",3016097,"Gien",0,3
+3005811,"Amilly",3005811,"Amilly",0,3
+3026285,"Châteaudun",3026285,"Châteaudun",0,3
+2995246,"Amboise",2995246,"Amboise",0,3
+6430921,"Vernouillet",6430921,"Vernouillet",0,3
+6448666,"Chambray-lès-Tours",6448666,"Chambray-lès-Tours",0,3
+2969102,"Issoudun",2969102,"Issoudun",0,3
+2996645,"Mainvilliers",2996645,"Mainvilliers",0,3
+3010265,"La Chapelle-Saint-Mesmin",3010265,"La Chapelle-Saint-Mesmin",0,3
+2990272,"Nogent-le-Rotrou",2990272,"Nogent-le-Rotrou",0,3
+8290211,"Saint-Doulchard",8290211,"Saint-Doulchard",0,3
+2981837,"Saint-Amand-Montrond",2981837,"Saint-Amand-Montrond",0,3
+2987002,"Pithiviers",2987002,"Pithiviers",0,3
+6449183,"Chécy",6449183,"Chécy",0,3
+3025132,"Chinon",3025132,"Chinon",0,3
+6448640,"Ballan-Miré",6448640,"Ballan-Miré",0,3
+3034297,"Beaugency",3034297,"Beaugency",0,3
+2997996,"Loches",2997996,"Loches",0,3
+6434738,"Sully-sur-Loire",6434738,"Sully-sur-Loire",0,3
+6449157,"Briare",6449157,"Briare",0,3
+6453745,"Sancerre",6449157,"Briare",0.87,3
+6433044,"Luynes",6433044,"Luynes",0,3
+3031702,"Bonneval",3031702,"Bonneval",0,3
+3026208,"Château-Renault",3026208,"Château-Renault",0,3
+2990550,"Neuville-aux-Bois",2990550,"Neuville-aux-Bois",0,3
+3008020,"Lamotte-Beuvron",3008020,"Lamotte-Beuvron",0,3
+6434132,"Selles-sur-Cher",6434132,"Selles-sur-Cher",0,3
+6456884,"La Chaussée-Saint-Victor",6456884,"La Chaussée-Saint-Victor",0,3
+3005270,"Le Blanc",3029345,"Buzançais",0.99,3
+3029345,"Buzançais",3029345,"Buzançais",0,3
+2980403,"Sainte-Maure-de-Touraine",2980403,"Sainte-Maure-de-Touraine",0,3
+3004468,"Le Coudray",3004468,"Le Coudray",0,3
+3010154,"La Châtre",3010154,"La Châtre",0,3
+3027598,"Chaingy",3027598,"Chaingy",0,3
+6434061,"Montoire-sur-le-Loir",6434061,"Montoire-sur-le-Loir",0,3
+3020678,"Dun-sur-Auron",3020678,"Dun-sur-Auron",0,3
+2978184,"Saint-Maur",2978184,"Saint-Maur",0,3
+3008418,"La Loupe",3008418,"La Loupe",0,3
+6455923,"La Membrolle-sur-Choisille",6455923,"La Membrolle-sur-Choisille",0,3
+2998718,"Levroux",2998718,"Levroux",0,3
+2981898,"Saint-Aignan",2981898,"Saint-Aignan",0,3
+3023063,"Cour-Cheverny",3023063,"Cour-Cheverny",0,3
+3027625,"Chailles",3027625,"Chailles",0,3
+2981305,"Saint-Branchs",2981305,"Saint-Branchs",0,3
+3026053,"Châtillon-sur-Indre",3026053,"Châtillon-sur-Indre",0,3
+2971056,"Valençay",2971056,"Valençay",0,3
+3013007,"Huisseau-sur-Cosson",3013007,"Huisseau-sur-Cosson",0,3
+3035786,"Auzouer-en-Touraine",3035786,"Auzouer-en-Touraine",0,3
+3034122,"Beaune-la-Rolande",3034122,"Beaune-la-Rolande",0,3
+2991895,"Morancez",2991895,"Morancez",0,3
+2990274,"Nogent-le-Phaye",2991895,"Morancez",0.21,3
+2976050,"Saran",2976050,"Saran",0,3

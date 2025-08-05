@@ -1,0 +1,4 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3227183,Ajaccio,3227183,Ajaccio,0.00
+2985947,Porto-Vecchio,3227183,Ajaccio,1.46
+2988658,Corte,3227183,Ajaccio,1.36

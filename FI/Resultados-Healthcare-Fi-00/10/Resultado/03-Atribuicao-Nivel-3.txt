@@ -1,0 +1,6 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+758	                    Sodankylä	758	                    Sodankylä	    0.00
+261	                      Kittilä	758	                    Sodankylä	    1.90
+241	                      Keminmaa	241	                      Keminmaa	    0.00
+320	                    Kemijärvi	320	                    Kemijärvi	    0.00
+148	                         Inari	148	                         Inari	    0.00

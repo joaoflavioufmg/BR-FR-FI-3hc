@@ -1,0 +1,134 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   6299149620.31
+Primary   Care Cost:	   4797490995.00
+Secondary Care Cost:	    635758200.00
+Tertiary  Care Cost:	    596385626.00
+Add Infrastruc Cost:	    268338454.00
+Populat ExtLog Cost:	      1176345.31
+HC Cost per capita (now):	     1778.42
+HC Cost per capita (fut):	     1857.91
+----------------------------------------
+
+-----------------------------------
+State population:	3390453
+Max municipa pop:	314138
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.10
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 749 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 749 mun >  38 mun (100.00% coverage)
+Care Level [2]:  38 mun >   8 mun
+Care Level [3]:   8 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3019259	Évron                   :	3710979.00
+    1	3026823	Chantonnay               :	9470312.00
+    1	2992206	Montoir-de-Bretagne      :	14292632.00
+    1	2973748	Sucé-sur-Erdre          :	10756405.50
+    1	6436516	Villaines-la-Juhel       :	1247181.00
+    1	2981146	Saint-Christophe-du-Ligneron:	8156060.00
+    1	3031220	Bouin                    :	11779167.50
+    1	3004763	Le Champ-Saint-Père     :	4472532.00
+    1	3036512	Assérac                 :	10733058.00
+    1	2997855	Loiron                   :	14144198.50
+    1	2979928	Saint-Georges-de-Pointindoux:	30598667.50
+    1	2974701	Sévérac                :	6659414.50
+    1	3029775	Brûlon                  :	1743987.50
+    1	3010044	La Chevallerais          :	5118338.00
+    1	3007004	La Regrippière          :	12926025.00
+    1	2980905	Saint-Denis-de-Gastines  :	5899984.00
+    1	3003653	Le Luart                 :	4793454.00
+    1	2977659	Saint-Paul-en-Pareds     :	4161939.50
+    1	2977600	Saint-Philbert-du-Peuple :	8696448.50
+    1	2985490	Préfailles              :	14446584.00
+    1	2982188	Ruillé-sur-Loir         :	1746676.00
+    1	2989820	Nyoiseau                 :	5563780.00
+    1	2975467	Sceaux-d’Anjou         :	2327109.00
+    1	3006640	La Rouxière             :	8006070.00
+    1	6442669	Requeil                  :	7332247.00
+    1	3017456	Foussais-Payré          :	4636672.00
+    1	2970534	Vaudelnay                :	3985913.50
+    1	3026808	Chanzeaux                :	2184618.50
+    1	2976839	Saint-Sulpice-le-Verdon  :	15495099.00
+    1	2990679	Neufchâtel-en-Saosnois  :	2970792.50
+    1	2999825	Les Rairies              :	2992866.50
+    1	3003726	Le Langon                :	3413263.00
+    1	2997433	Louisfert                :	6136006.00
+    1	3014683	Grez-en-Bouère          :	6589372.00
+    2	3019259	Évron                   :	3595053.00
+    2	3026823	Chantonnay               :	3238158.00
+    2	2992206	Montoir-de-Bretagne      :	2447445.00
+    2	2973748	Sucé-sur-Erdre          :	1869945.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6498004	Les Sables-d’Olonne    :	19249.73
+    1	2979299	Saint-Jean-de-Monts      :	3790.73
+    1	6455148	Chemillé                :	3149.18
+    1	2979109	Saint-Julien-de-Concelles:	3115.07
+    1	6457155	La Ferrière             :	2311.26
+    1	3014413	Guémené-Penfao         :	2277.15
+    1	3038520	Aigrefeuille-sur-Maine   :	1736.18
+    1	6615510	Geneston                 :	1595.36
+    1	2981263	Saint-Calais             :	1419.12
+    1	3012484	Jard-sur-Mer             :	1165.03
+    1	3028428	Casson                   :	1019.40
+    1	2979552	Saint-Hilaire-de-Chaléons:	1007.60
+    1	2974550	Sillé-le-Guillaume      :	991.42
+    1	3023891	Conlie                   :	822.61
+    1	2972455	Torcé-en-Vallée        :	621.44
+    1	2981525	Saint-Augustin-des-Bois  :	534.41
+    1	2977280	Saint-Quentin-en-Mauges  :	447.82
+    2	6436516	Villaines-la-Juhel       :	1102.10
+    2	2981146	Saint-Christophe-du-Ligneron:	145449.15
+    2	3031220	Bouin                    :	56100.44
+    2	3004763	Le Champ-Saint-Père     :	12299.77
+    2	3036512	Assérac                 :	123.94
+    2	2997855	Loiron                   :	67877.04
+    2	2979928	Saint-Georges-de-Pointindoux:	94513.65
+    2	2974701	Sévérac                :	2478.74
+    2	3029775	Brûlon                  :	17243.40
+    2	3010044	La Chevallerais          :	6895.77
+    2	3007004	La Regrippière          :	3692.11
+    2	2980905	Saint-Denis-de-Gastines  :	49903.62
+    2	3003653	Le Luart                 :	8784.20
+    2	2977659	Saint-Paul-en-Pareds     :	4741.80
+    2	2977600	Saint-Philbert-du-Peuple :	28857.98
+    2	2985490	Préfailles              :	67349.60
+    2	2982188	Ruillé-sur-Loir         :	57864.48
+    2	2989820	Nyoiseau                 :	65777.02
+    2	2975467	Sceaux-d’Anjou         :	473.41
+    2	3006640	La Rouxière             :	46157.96
+    2	6442669	Requeil                  :	1483.94
+    2	3017456	Foussais-Payré          :	13764.49
+    2	2970534	Vaudelnay                :	40838.44
+    2	2976839	Saint-Sulpice-le-Verdon  :	37300.32
+    2	2990679	Neufchâtel-en-Saosnois  :	42300.69
+    2	2999825	Les Rairies              :	17345.22
+    2	3003726	Le Langon                :	5035.14
+    2	2997433	Louisfert                :	30868.17
+    2	3014683	Grez-en-Bouère          :	11169.28
+    3	2999908	Les Ponts-de-Cé         :	117238.73
+    3	3019259	Évron                   :	63411.80
+    3	3026823	Chantonnay               :	12649.41
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

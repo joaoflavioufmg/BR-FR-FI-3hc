@@ -1,0 +1,62 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    343148153.88
+Primary   Care Cost:	     89295818.00
+Secondary Care Cost:	    153608720.00
+Tertiary  Care Cost:	     85412106.00
+Add Infrastruc Cost:	     11255887.00
+Populat ExtLog Cost:	      3575622.88
+HC Cost per capita (now):	     4845.93
+HC Cost per capita (fut):	     5064.84
+----------------------------------------
+
+-----------------------------------
+State population:	67751
+Max municipa pop:	34732
+Min municipa pop:	1119
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		1.00
+[2]			6000   		1.50
+[3]			25000  		2.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 9 municipalities).
+----------------------------------------------------------------
+Care Level [1]:   9 mun >   6 mun (100.00% coverage)
+Care Level [2]:   6 mun >   4 mun
+Care Level [3]:   4 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	765	Sotkamo                  :	1291376.40
+    1	290	Kuhmo                    :	888068.40
+    1	777	Suomussalmi              :	1083791.40
+    1	785	Vaala                    :	297472.60
+    1	620	Puolanka                 :	270058.20
+    2	765	Sotkamo                  :	2915884.80
+    2	290	Kuhmo                    :	2005228.80
+    2	777	Suomussalmi              :	2504006.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	578	Paltamo                  :	264.10
+    1	105	Hyrynsalmi               :	20368.84
+    1	697	Ristijärvi              :	46827.37
+    2	785	Vaala                    :	257339.06
+    2	620	Puolanka                 :	276741.96
+    3	290	Kuhmo                    :	1331473.43
+    3	777	Suomussalmi              :	1642608.13
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

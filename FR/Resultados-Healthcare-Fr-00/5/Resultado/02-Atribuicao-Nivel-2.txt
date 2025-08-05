@@ -1,0 +1,37 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3007794,Lanester,3007794,Lanester,0.00
+6614173,Guémené-sur-Scorff,3007794,Lanester,0.88
+3017609,Fougères,3017609,Fougères,0.00
+2979542,Saint-Hilaire-des-Landes,3017609,Fougères,0.29
+2992070,Montreuil-sous-Pérouse,3017609,Fougères,0.56
+3007609,Lannion,3007609,Lannion,0.00
+2971949,Tréglamus,3007609,Lannion,0.59
+2980331,Sainte-Sève,3007609,Lannion,0.91
+2986121,Pontrieux,3007609,Lannion,0.55
+6437369,Saint-Avé,6437369,Saint-Avé,0.00
+2984741,Quiberon,6437369,Saint-Avé,0.92
+3021861,Damgan,6437369,Saint-Avé,0.55
+2979405,Saint-Jacut-les-Pins,6437369,Saint-Avé,0.97
+3014274,Guillac,6437369,Saint-Avé,0.80
+3030562,Brandivy,6437369,Saint-Avé,0.46
+2979619,Saint-Grégoire,2979619,Saint-Grégoire,0.00
+6614095,Baguer-Morvan,2979619,Saint-Grégoire,1.05
+2979595,Saint-Hélen,2979619,Saint-Grégoire,1.02
+2977839,Saint-Onen-la-Chapelle,2979619,Saint-Grégoire,0.91
+6432698,Essé,2979619,Saint-Grégoire,0.73
+2994341,Mernel,2979619,Saint-Grégoire,0.88
+3007588,La Noë-Blanche,2979619,Saint-Grégoire,0.97
+3007842,Landivisiau,3007842,Landivisiau,0.00
+3032125,Bohars,3007842,Landivisiau,0.85
+3013026,Huelgoat,3007842,Landivisiau,0.72
+2986644,Plounéour-Trez,3007842,Landivisiau,0.60
+2971931,Trégueux,2971931,Trégueux,0.00
+6429151,Saint-Nicolas-du-Pélem,2971931,Trégueux,0.93
+2981473,Saint-Barnabé,2971931,Trégueux,0.98
+3030863,Bourseul,2971931,Trégueux,0.88
+3037743,Andel,2971931,Trégueux,0.31
+3019920,Ergué-Gabéric,3019920,Ergué-Gabéric,0.00
+2985788,Poullan-sur-Mer,3019920,Ergué-Gabéric,0.76
+2971860,Tréméoc,3019920,Ergué-Gabéric,0.43
+2976982,Saint-Ségal,3019920,Ergué-Gabéric,0.69
+6431057,Saint-Thurien,3019920,Ergué-Gabéric,0.75

@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	153	Imatra	119591.00	58.87	213.64	68.37	0.00	76.91	1.42	1.13	0.76	0.38

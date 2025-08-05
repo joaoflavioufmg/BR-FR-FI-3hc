@@ -1,0 +1,58 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Satakunta (17)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	2687	# Q1
+3	6197	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.2
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+609	17	61.4847	21.7972	79975	0	'Pori'	
+684	17	61.1167	21.5	37478	0	'Rauma'	
+886	17	61.4292	21.875	11551	1	'Ulvila'	
+050	17	61.1333	22.0833	10353	1	'Eura'	
+214	17	61.8042	22.3944	11383	1	'Kankaanpää'	
+102	17	61.1764	22.6986	9044	1	'Huittinen'	
+271	17	61.2556	22.3486	6212	1	'Kokemäki'	
+079	17	61.3139	22.1417	6182	0	'Harjavalta'	
+783	17	61.05	22.35	5927	1	'Säkylä'	
+051	17	61.2	21.7333	9513	1	'Eurajoki'	
+531	17	61.3653	22.0042	4591	1	'Nakkila'	
+484	17	61.8583	21.5	2888	1	'Merikarvia'	
+230	17	62.1333	22.5583	2082	1	'Karvia'	
+608	17	61.6917	22.0083	1800	1	'Pomarkku'	
+181	17	61.8167	22.6917	1403	1	'Jämijärvi'	
+747	17	61.8833	21.8167	1192	1	'Siikainen'	
+;
+
+
+end;

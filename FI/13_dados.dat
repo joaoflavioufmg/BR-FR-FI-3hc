@@ -1,0 +1,54 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   North Karelia (13)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	3726	# Q1
+3	6878	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.4
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+167	13	62.6	29.7639	78622	0	'Joensuu'	
+276	13	62.7667	29.85	14809	1	'Kontiolahti'	
+426	13	62.5333	29.3833	11314	1	'Liperi'	
+422	13	63.3167	30.0167	9068	1	'Lieksa'	
+260	13	62.0986	30.1375	8431	1	'Kitee'	
+541	13	63.5444	29.1333	8149	1	'Nurmes'	
+309	13	62.725	29.0167	5606	1	'Outokumpu'	
+146	13	62.6667	30.9333	3908	1	'Ilomantsi'	
+176	13	63.2417	29.25	3743	1	'Juuka'	
+848	13	62.2264	30.3319	3676	1	'Tohmajärvi'	
+607	13	62.855	29.3667	3628	1	'Polvijärvi'	
+707	13	62.3133	29.625	1743	1	'Rääkkylä'	
+;
+
+
+end;

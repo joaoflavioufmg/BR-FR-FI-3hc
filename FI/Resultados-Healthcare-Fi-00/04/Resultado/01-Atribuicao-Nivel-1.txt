@@ -1,0 +1,15 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+740	                    Savonlinna	740	                    Savonlinna	    0.00
+681	                    Rantasalmi	740	                    Savonlinna	    0.94
+768	                       Sulkava	740	                    Savonlinna	    0.71
+46	                     Enonkoski	740	                    Savonlinna	    0.62
+178	                          Juva	178	                          Juva	    0.00
+593	                  Pieksämäki	171	                      Joroinen	    0.93
+171	                      Joroinen	171	                      Joroinen	    0.00
+90	                    Heinävesi	90	                    Heinävesi	    0.00
+491	                       Mikkeli	97	                   Hirvensalmi	    0.66
+507	                   Mäntyharju	97	                   Hirvensalmi	    0.63
+213	                   Kangasniemi	97	                   Hirvensalmi	    0.99
+97	                   Hirvensalmi	97	                   Hirvensalmi	    0.00
+588	                     Pertunmaa	97	                   Hirvensalmi	    0.55
+623	                       Puumala	623	                       Puumala	    0.00

@@ -1,0 +1,5 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+398,"Lahti",398,"Lahti",0,3
+98,"Hollola",398,"Lahti",0.19,3
+111,"Heinola",398,"Lahti",0.8,3
+560,"Orimattila",398,"Lahti",0.5,3

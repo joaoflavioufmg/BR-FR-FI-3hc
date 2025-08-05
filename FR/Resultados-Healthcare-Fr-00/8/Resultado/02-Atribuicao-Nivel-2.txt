@@ -1,0 +1,18 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6454724,Melun,6454724,Melun,0.00
+3023389,Coubert,6454724,Melun,0.37
+3035419,Bagneaux-sur-Loing,6454724,Melun,0.86
+6454716,Chenoise,6454724,Melun,1.00
+3030085,Brières-les-Scellés,6454724,Melun,0.99
+2994131,Achères-la-Forêt,6454724,Melun,0.57
+6443599,Châtenay-sur-Seine,6454724,Melun,0.87
+3013657,Garches,3013657,Garches,0.00
+6446140,Fontenay-lès-Briis,3013657,Garches,0.63
+6443983,Guerville,3013657,Garches,0.87
+2973069,Tessancourt-sur-Aubette,3013657,Garches,0.70
+2974717,Seugy,3013657,Garches,0.85
+2989432,Orcemont,3013657,Garches,0.99
+3015689,Gonesse,3007102,La Queue-en-Brie,0.60
+3007102,La Queue-en-Brie,3007102,La Queue-en-Brie,0.00
+6451175,Chailly-en-Brie,3007102,La Queue-en-Brie,1.00
+3036902,Armentières-en-Brie,3007102,La Queue-en-Brie,0.97

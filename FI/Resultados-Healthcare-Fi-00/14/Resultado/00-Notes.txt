@@ -1,0 +1,90 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1102056970.99
+Primary   Care Cost:	    548353900.00
+Secondary Care Cost:	    348859120.00
+Tertiary  Care Cost:	    109306392.00
+Add Infrastruc Cost:	     88139179.20
+Populat ExtLog Cost:	      7398379.79
+HC Cost per capita (now):	     2419.23
+HC Cost per capita (fut):	     2648.86
+----------------------------------------
+
+-----------------------------------
+State population:	416050
+Max municipa pop:	223389
+Min municipa pop:	889
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.20
+[3]			14000  		2.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 29 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  29 mun >  21 mun (100.00% coverage)
+Care Level [2]:  21 mun >   4 mun
+Care Level [3]:   4 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	678	Raahe                    :	2964313.80
+    1	244	Kempele                  :	33111191.40
+    1	305	Kuusamo                  :	1868660.40
+    1	535	Nivala                   :	1239579.00
+    1	139	Ii                       :	1242874.00
+    1	615	Pudasjärvi              :	912056.00
+    1	69	Haapajärvi              :	781046.80
+    1	71	Haapavesi                :	771161.80
+    1	832	Taivalkoski              :	445484.00
+    1	625	Pyhäjoki                :	358100.60
+    1	691	Reisjärvi               :	316451.80
+    1	889	Utajärvi                :	1430952.60
+    1	9	Alavieska                :	1862202.20
+    1	317	Kärsämäki             :	298658.80
+    1	436	Lumijoki                 :	2210022.40
+    1	791	Siikalatva               :	580974.40
+    1	630	Pyhäntä                :	210221.00
+    1	483	Merijärvi               :	965039.60
+    1	72	Hailuoto                 :	117170.20
+    1	626	Pyhäjärvi              :	561599.80
+    2	678	Raahe                    :	6957888.00
+    2	244	Kempele                  :	12563481.60
+    2	305	Kuusamo                  :	5225260.80
+    3	244	Kempele                  :	6732311.04
+    3	305	Kuusamo                  :	4412477.16
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	208	Kalajoki                 :	5898.49
+    1	494	Muhos                    :	4285.42
+    2	535	Nivala                   :	10460.56
+    2	139	Ii                       :	242937.50
+    2	615	Pudasjärvi              :	2287867.61
+    2	69	Haapajärvi              :	292567.65
+    2	71	Haapavesi                :	92695.85
+    2	832	Taivalkoski              :	307032.22
+    2	625	Pyhäjoki                :	75829.38
+    2	691	Reisjärvi               :	147387.25
+    2	889	Utajärvi                :	67940.26
+    2	317	Kärsämäki             :	200494.71
+    2	791	Siikalatva               :	619835.33
+    2	630	Pyhäntä                :	563714.32
+    2	483	Merijärvi               :	577.94
+    2	72	Hailuoto                 :	10373.18
+    2	626	Pyhäjärvi              :	1248833.42
+    3	678	Raahe                    :	1219648.70
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

@@ -1,0 +1,5 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+2	905	Vaasa	109166.00	41.76	24.09	57.82	0.00	95.56	0.40	0.29	0.13	0.01
+2	598	Jakobstad	18286.00	9.51	5.49	13.17	0.00	21.76	0.09	0.07	0.03	0.00
+2	499	Korsholm	19413.00	10.09	5.82	13.98	0.00	23.10	0.10	0.07	0.03	0.00
+2	599	Pedersöre	30836.00	5.90	3.40	8.17	0.00	13.51	0.06	0.04	0.02	0.00

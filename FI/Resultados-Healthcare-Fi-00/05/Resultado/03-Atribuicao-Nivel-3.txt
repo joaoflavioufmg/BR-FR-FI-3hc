@@ -1,0 +1,5 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+205	                       Kajaani	205	                       Kajaani	    0.00
+765	                       Sotkamo	205	                       Kajaani	    0.83
+290	                         Kuhmo	205	                       Kajaani	    2.18
+777	                   Suomussalmi	205	                       Kajaani	    2.31

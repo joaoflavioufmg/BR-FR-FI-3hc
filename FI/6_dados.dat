@@ -1,0 +1,53 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Kanta-Häme (06)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	25000
+2	5025	# Q1
+3	7405	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+109	06	61	24.4414	68096	0	'Hämeenlinna'	
+694	06	60.7333	24.7667	27742	0	'Riihimäki'	
+061	06	60.8167	23.6167	15575	0	'Forssa'	
+433	06	60.7181	24.4417	7393	1	'Loppi'	
+834	06	60.8	23.7667	5524	1	'Tammela'	
+169	06	60.8042	23.4861	4526	1	'Jokioinen'	
+981	06	60.8083	23.2833	2153	1	'Ypäjä'	
+103	06	60.925	23.3667	1966	1	'Humppila'	
+165	06	60.9167	24.6333	15181	1	'Janakkala'	
+082	06	61.05	24.3667	8836	1	'Hattula'	
+086	06	60.7833	25.0333	7405	1	'Hausjärvi'				
+;
+
+
+end;

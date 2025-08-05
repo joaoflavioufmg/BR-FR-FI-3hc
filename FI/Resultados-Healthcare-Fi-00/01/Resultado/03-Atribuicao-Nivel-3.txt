@@ -1,0 +1,3 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+478	                     Mariehamn	478	                     Mariehamn	    0.00
+170	                        Jomala	478	                     Mariehamn	    0.14

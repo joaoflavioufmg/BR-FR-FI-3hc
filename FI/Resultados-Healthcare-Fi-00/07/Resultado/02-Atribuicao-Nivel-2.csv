@@ -1,0 +1,8 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+272,"Kokkola",272,"Kokkola",0,2
+849,"Toholampi",272,"Kokkola",1.38,2
+74,"Halsua",272,"Kokkola",1.65,2
+236,"Kaustinen",272,"Kokkola",1.07,2
+217,"Kannus",217,"Kannus",0,2
+584,"Perho",217,"Kannus",2,2
+421,"Lestijärvi",217,"Kannus",1.4,2

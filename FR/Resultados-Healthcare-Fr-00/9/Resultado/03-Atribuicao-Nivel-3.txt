@@ -1,0 +1,14 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+2990919,Narbonne,2990919,Narbonne,0.00
+3029302,Cabestany,2990919,Narbonne,1.40
+2973385,Tarbes,2973385,Tarbes,0.00
+2991153,Muret,2991153,Muret,0.00
+3018174,Foix,2991153,Muret,1.49
+6427003,Rodez,6427003,Rodez,0.00
+3018506,Figeac,6427003,Rodez,1.29
+2993875,Millau,2993875,Millau,0.00
+2994617,Mende,2993875,Millau,1.44
+3036281,Auch,3036281,Auch,0.00
+2987376,Pibrac,3036281,Auch,1.41
+3028337,Castelnau-le-Lez,3028337,Castelnau-le-Lez,0.00
+6431321,Marguerittes,3028337,Castelnau-le-Lez,1.25

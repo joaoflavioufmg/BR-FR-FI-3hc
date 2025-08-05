@@ -1,0 +1,7 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+286,"Kouvola",286,"Kouvola",0,1
+285,"Kotka",285,"Kotka",0,1
+624,"Pyhtää",285,"Kotka",0.33,1
+75,"Hamina",75,"Hamina",0,1
+935,"Virolahti",489,"Miehikkälä",0.24,1
+489,"Miehikkälä",489,"Miehikkälä",0,1

@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+286	                       Kouvola	286	                       Kouvola	    0.00
+285	                         Kotka	285	                         Kotka	    0.00
+624	                      Pyhtää	285	                         Kotka	    0.33
+75	                        Hamina	75	                        Hamina	    0.00
+935	                     Virolahti	489	                  Miehikkälä	    0.24
+489	                  Miehikkälä	489	                  Miehikkälä	    0.00

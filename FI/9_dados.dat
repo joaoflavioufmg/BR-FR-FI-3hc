@@ -1,0 +1,48 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Kymenlaakso (09)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	3215	# Q1
+3	11378	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+286	09	60.8681	26.7042	73577	0	'Kouvola'	
+285	09	60.4667	26.9458	47411	0	'Kotka'	
+075	09	60.5697	27.1981	18025	1	'Hamina'	
+935	09	60.5833	27.7	2710	1	'Virolahti'	
+489	09	60.6708	27.7	1580	1	'Miehikkälä'	
+624	09	60.4958	26.7097	4730	1	'Pyhtää'	
+;
+
+
+end;

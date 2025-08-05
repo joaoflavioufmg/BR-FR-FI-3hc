@@ -1,0 +1,75 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2990919,Narbonne,2990919,Narbonne,0.00,2
+2972665,Thuir,2990919,Narbonne,1.61,2
+3011252,Labastide-Rouairoux,2990919,Narbonne,1.10,2
+2998445,Lieuran-lès-Béziers,2990919,Narbonne,0.81,2
+2988043,Pépieux,2990919,Narbonne,0.73,2
+3002537,Le Poujol-sur-Orb,2990919,Narbonne,1.11,2
+2982860,Roquefort-des-Corbières,2990919,Narbonne,0.55,2
+2973385,Tarbes,2973385,Tarbes,0.00,2
+3035416,Bagnères-de-Luchon,2973385,Tarbes,1.62,2
+3011313,Labarthe-Rivière,2973385,Tarbes,1.29,2
+2995990,Marciac,2973385,Tarbes,0.84,2
+6440945,Tournay,2973385,Tarbes,0.38,2
+2974002,Pierrefitte-Nestalas,2973385,Tarbes,0.80,2
+2991153,Muret,2991153,Muret,0.00,2
+2967812,Viviers-lès-Montagnes,2991153,Muret,1.73,2
+6427003,Rodez,6427003,Rodez,0.00,2
+2979995,Saint-Geniez-d’Olt,6427003,Rodez,0.85,2
+2971046,Valence-d’Albigeois,6427003,Rodez,0.98,2
+3008825,Laguiole,6427003,Rodez,1.07,2
+3024797,Clairvaux-d’Aveyron,6427003,Rodez,0.39,2
+6444868,Lombers,6427003,Rodez,1.74,2
+2976375,Salles-Curan,6427003,Rodez,0.63,2
+2993875,Millau,2993875,Millau,0.00,2
+3029071,Camarès,2993875,Millau,0.86,2
+3036281,Auch,3036281,Auch,0.00,2
+3023606,Cornebarrieu,3036281,Auch,1.49,2
+3004185,Le Fousseret,3036281,Auch,1.40,2
+2998132,L’Isle-en-Dodon,3036281,Auch,0.89,2
+3015690,Gondrin,3036281,Auch,0.96,2
+3003774,Le Houga,3036281,Auch,1.58,2
+3019829,Escatalens,3036281,Auch,1.53,2
+3029245,Cadours,3036281,Auch,0.96,2
+2975244,Seissan,3036281,Auch,0.43,2
+2981080,Saint-Clar,3036281,Auch,0.78,2
+3015738,Golfech,3036281,Auch,1.40,2
+3028337,Castelnau-le-Lez,3028337,Castelnau-le-Lez,0.00,2
+2978325,Saint-Martin-de-Valgalgues,3028337,Castelnau-le-Lez,1.51,2
+2983744,Le Cailar,3028337,Castelnau-le-Lez,0.68,2
+2987103,Pinet,3028337,Castelnau-le-Lez,1.02,2
+3006711,Laroque,3028337,Castelnau-le-Lez,0.87,2
+2970978,Vallabrègues,3028337,Castelnau-le-Lez,1.58,2
+2992147,Montpezat,3028337,Castelnau-le-Lez,0.79,2
+2980152,Saint-Félix-de-Lodez,3028337,Castelnau-le-Lez,0.89,2
+2994617,Mende,2994617,Mende,0.00,2
+3007694,Langogne,2994617,Mende,0.91,2
+3018238,Florac,2994617,Mende,0.56,2
+3036097,Aumont-Aubrac,2994617,Mende,0.71,2
+3029302,Cabestany,3029302,Cabestany,0.00,2
+2968062,Vinça,3029302,Cabestany,0.85,2
+3027915,Cerbère,3029302,Cabestany,0.80,2
+2978938,Saint-Laurent-de-Cerdans,3029302,Cabestany,1.06,2
+3018506,Figeac,3018506,Figeac,0.00,2
+2975018,Septfonds,3018506,Figeac,1.45,2
+2970288,Vayrac,3018506,Figeac,1.16,2
+2976310,Salviac,3018506,Figeac,1.53,2
+3009315,La Fouillade,3018506,Figeac,1.05,2
+3019693,Espère,3018506,Figeac,1.33,2
+3018174,Foix,3018174,Foix,0.00,2
+3011281,Labastide-d’Anjou,3018174,Foix,1.17,2
+3035595,Ax-les-Thermes,3018174,Foix,0.83,2
+3027582,Chalabre,3018174,Foix,0.81,2
+2981984,Saillagouse,3018174,Foix,1.66,2
+3023294,Couiza,3018174,Foix,1.32,2
+2992350,Montjoie-en-Couserans,3018174,Foix,0.92,2
+3004208,Le Fossat,3018174,Foix,0.71,2
+2991366,Moussoulens,3018174,Foix,1.54,2
+6431321,Marguerittes,6431321,Marguerittes,0.00,2
+3015618,Goudargues,6431321,Marguerittes,0.99,2
+2977647,Saint-Paul-les-Fonts,6431321,Marguerittes,0.71,2
+2987376,Pibrac,2987376,Pibrac,0.00,2
+3028048,Cazes-Mondenard,2987376,Pibrac,1.70,2
+2975056,Senouillac,2987376,Pibrac,1.61,2
+3030952,Bourg-Saint-Bernard,2987376,Pibrac,0.86,2
+2988689,Mirepoix-sur-Tarn,2987376,Pibrac,0.79,2

@@ -1,0 +1,7 @@
+NIVEL,CODIGO,DESTINO,POP_ATENDIDA,Physicians,Nurses,OtherCadres,CommunityBased,Beds,CTScanner,MRIUnit,Mammography,Radiotherapy
+1,740,"Savonlinna",34341,4.4644,21.6349,12.3627,12.0194,0,0,0,0,0
+1,178,"Juva",5048,0.6562,3.1802,1.8173,1.7668,0,0,0,0,0
+1,171,"Joroinen",18891,2.4559,11.9014,6.8007,6.6118,0,0,0,0,0
+1,90,"Heinävesi",2671,0.3472,1.6827,0.9616,0.9349,0,0,0,0,0
+1,97,"Hirvensalmi",61955,8.0542,39.0317,22.3038,21.6843,0,0,0,0,0
+1,623,"Puumala",1954,0.254,1.231,0.7034,0.6839,0,0,0,0,0

@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3014856,Grasse,3014856,Grasse,0.00
+3003650,Le Luc,3014856,Grasse,1.43
+6454958,Martigues,6454958,Martigues,0.00
+3037352,Apt,6454958,Martigues,1.49
+3016702,Gap,3016702,Gap,0.00
+6618043,Digne-les-Bains,3016702,Gap,1.33

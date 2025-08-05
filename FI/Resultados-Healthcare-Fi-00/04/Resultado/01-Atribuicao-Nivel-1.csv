@@ -1,0 +1,15 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+740,"Savonlinna",740,"Savonlinna",0,1
+681,"Rantasalmi",740,"Savonlinna",0.94,1
+768,"Sulkava",740,"Savonlinna",0.71,1
+46,"Enonkoski",740,"Savonlinna",0.62,1
+178,"Juva",178,"Juva",0,1
+593,"Pieksämäki",171,"Joroinen",0.93,1
+171,"Joroinen",171,"Joroinen",0,1
+90,"Heinävesi",90,"Heinävesi",0,1
+491,"Mikkeli",97,"Hirvensalmi",0.66,1
+507,"Mäntyharju",97,"Hirvensalmi",0.63,1
+213,"Kangasniemi",97,"Hirvensalmi",0.99,1
+97,"Hirvensalmi",97,"Hirvensalmi",0,1
+588,"Pertunmaa",97,"Hirvensalmi",0.55,1
+623,"Puumala",623,"Puumala",0,1

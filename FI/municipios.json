@@ -1,0 +1,3092 @@
+[
+ {
+   "codigo": 91,
+   "nome": "Helsinki",
+   "latitude": 60.1756,
+   "longitude": 24.9342,
+   "codigo_re": "18",
+   "population": 642045,
+   "admin_name": "Uusimaa",
+   "capital": "primary"
+ },
+ {
+   "codigo": 49,
+   "nome": "Espoo",
+   "latitude": 60.21,
+   "longitude": 24.66,
+   "codigo_re": "18",
+   "population": 269802,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 837,
+   "nome": "Tampere",
+   "latitude": 61.4981,
+   "longitude": 23.7608,
+   "codigo_re": "11",
+   "population": 225118,
+   "admin_name": "Pirkanmaa",
+   "capital": "admin"
+ },
+ {
+   "codigo": 92,
+   "nome": "Vantaa",
+   "latitude": 60.3,
+   "longitude": 25.0333,
+   "codigo_re": "18",
+   "population": 214605,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 564,
+   "nome": "Oulu",
+   "latitude": 65.0142,
+   "longitude": 25.4719,
+   "codigo_re": "14",
+   "population": 200526,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "admin"
+ },
+ {
+   "codigo": 853,
+   "nome": "Turku",
+   "latitude": 60.4517,
+   "longitude": 22.27,
+   "codigo_re": "FI-19 ",
+   "population": 187604,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "admin"
+ },
+ {
+   "codigo": 179,
+   "nome": "Jyväskylä",
+   "latitude": 62.2333,
+   "longitude": 25.7333,
+   "codigo_re": "08",
+   "population": 137368,
+   "admin_name": "Keski-Suomi",
+   "capital": "admin"
+ },
+ {
+   "codigo": 297,
+   "nome": "Kuopio",
+   "latitude": 62.8925,
+   "longitude": 27.6783,
+   "codigo_re": "15",
+   "population": 120246,
+   "admin_name": "Pohjois-Savo",
+   "capital": "admin"
+ },
+ {
+   "codigo": 398,
+   "nome": "Lahti",
+   "latitude": 60.9804,
+   "longitude": 25.655,
+   "codigo_re": "16",
+   "population": 118119,
+   "admin_name": "Päijät-Häme",
+   "capital": "admin"
+ },
+ {
+   "codigo": 286,
+   "nome": "Kouvola",
+   "latitude": 60.8681,
+   "longitude": 26.7042,
+   "codigo_re": "09",
+   "population": 85855,
+   "admin_name": "Kymenlaakso",
+   "capital": "admin"
+ },
+ {
+   "codigo": 609,
+   "nome": "Pori",
+   "latitude": 61.4847,
+   "longitude": 21.7972,
+   "codigo_re": "17",
+   "population": 85363,
+   "admin_name": "Satakunta",
+   "capital": "admin"
+ },
+ {
+   "codigo": 167,
+   "nome": "Joensuu",
+   "latitude": 62.6,
+   "longitude": 29.7639,
+   "codigo_re": "13",
+   "population": 75514,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "admin"
+ },
+ {
+   "codigo": 405,
+   "nome": "Lappeenranta",
+   "latitude": 61.0583,
+   "longitude": 28.1861,
+   "codigo_re": "02",
+   "population": 72875,
+   "admin_name": "Etelä-Karjala",
+   "capital": "admin"
+ },
+ {
+   "codigo": 109,
+   "nome": "Hämeenlinna",
+   "latitude": 61,
+   "longitude": 24.4414,
+   "codigo_re": "06",
+   "population": 68011,
+   "admin_name": "Kanta-Häme",
+   "capital": "admin"
+ },
+ {
+   "codigo": 905,
+   "nome": "Vaasa",
+   "latitude": 63.1,
+   "longitude": 21.6167,
+   "codigo_re": "12",
+   "population": 67619,
+   "admin_name": "Pohjanmaa",
+   "capital": "admin"
+ },
+ {
+   "codigo": 698,
+   "nome": "Rovaniemi",
+   "latitude": 66.5028,
+   "longitude": 25.7285,
+   "codigo_re": "10",
+   "population": 61763,
+   "admin_name": "Lappi",
+   "capital": "admin"
+ },
+ {
+   "codigo": 743,
+   "nome": "Seinäjoki",
+   "latitude": 62.7903,
+   "longitude": 22.8403,
+   "codigo_re": "03",
+   "population": 61530,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "admin"
+ },
+ {
+   "codigo": 491,
+   "nome": "Mikkeli",
+   "latitude": 61.6875,
+   "longitude": 27.2736,
+   "codigo_re": "04",
+   "population": 54665,
+   "admin_name": "Etelä-Savo",
+   "capital": "admin"
+ },
+ {
+   "codigo": 285,
+   "nome": "Kotka",
+   "latitude": 60.4667,
+   "longitude": 26.9458,
+   "codigo_re": "09",
+   "population": 54319,
+   "admin_name": "Kymenlaakso",
+   "capital": "minor"
+ },
+ {
+   "codigo": 734,
+   "nome": "Salo",
+   "latitude": 60.3831,
+   "longitude": 23.1331,
+   "codigo_re": "FI-19 ",
+   "population": 53890,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 638,
+   "nome": "Porvoo",
+   "latitude": 60.3931,
+   "longitude": 25.6639,
+   "codigo_re": "18",
+   "population": 49928,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 272,
+   "nome": "Kokkola",
+   "latitude": 63.8376,
+   "longitude": 23.132,
+   "codigo_re": "07",
+   "population": 47570,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "admin"
+ },
+ {
+   "codigo": 444,
+   "nome": "Lohja",
+   "latitude": 60.25,
+   "longitude": 24.0667,
+   "codigo_re": "18",
+   "population": 47353,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 106,
+   "nome": "Hyvinkää",
+   "latitude": 60.6306,
+   "longitude": 24.8597,
+   "codigo_re": "18",
+   "population": 46463,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 543,
+   "nome": "Nurmijärvi",
+   "latitude": 60.4667,
+   "longitude": 24.8083,
+   "codigo_re": "18",
+   "population": 42709,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 186,
+   "nome": "Järvenpää",
+   "latitude": 60.4722,
+   "longitude": 25.0889,
+   "codigo_re": "18",
+   "population": 40106,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 684,
+   "nome": "Rauma",
+   "latitude": 61.1167,
+   "longitude": 21.5,
+   "codigo_re": "17",
+   "population": 39809,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 257,
+   "nome": "Kirkkonummi",
+   "latitude": 60.1167,
+   "longitude": 24.4167,
+   "codigo_re": "18",
+   "population": 38649,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 858,
+   "nome": "Tuusula",
+   "latitude": 60.4028,
+   "longitude": 25.0292,
+   "codigo_re": "18",
+   "population": 38646,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 205,
+   "nome": "Kajaani",
+   "latitude": 64.225,
+   "longitude": 27.7333,
+   "codigo_re": "05",
+   "population": 37622,
+   "admin_name": "Kainuu",
+   "capital": "admin"
+ },
+ {
+   "codigo": 740,
+   "nome": "Savonlinna",
+   "latitude": 61.8667,
+   "longitude": 28.8831,
+   "codigo_re": "04",
+   "population": 35523,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 245,
+   "nome": "Kerava",
+   "latitude": 60.4028,
+   "longitude": 25.1,
+   "codigo_re": "18",
+   "population": 35293,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 536,
+   "nome": "Nokia",
+   "latitude": 61.4767,
+   "longitude": 23.5053,
+   "codigo_re": "11",
+   "population": 33322,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 980,
+   "nome": "Ylöjärvi",
+   "latitude": 61.55,
+   "longitude": 23.5833,
+   "codigo_re": "11",
+   "population": 32738,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 202,
+   "nome": "Kaarina",
+   "latitude": 60.4069,
+   "longitude": 22.3722,
+   "codigo_re": "FI-19 ",
+   "population": 32590,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 211,
+   "nome": "Kangasala",
+   "latitude": 61.4639,
+   "longitude": 24.065,
+   "codigo_re": "11",
+   "population": 32229,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 694,
+   "nome": "Riihimäki",
+   "latitude": 60.7333,
+   "longitude": 24.7667,
+   "codigo_re": "06",
+   "population": 29269,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 927,
+   "nome": "Vihti",
+   "latitude": 60.4167,
+   "longitude": 24.3331,
+   "codigo_re": "18",
+   "population": 28919,
+   "admin_name": "Uusimaa",
+   "capital": ""
+ },
+ {
+   "codigo": 710,
+   "nome": "Raasepori",
+   "latitude": 59.975,
+   "longitude": 23.4361,
+   "codigo_re": "18",
+   "population": 28405,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 153,
+   "nome": "Imatra",
+   "latitude": 61.1931,
+   "longitude": 28.7764,
+   "codigo_re": "02",
+   "population": 27835,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 790,
+   "nome": "Sastamala",
+   "latitude": 61.3417,
+   "longitude": 22.9083,
+   "codigo_re": "11",
+   "population": 25220,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 678,
+   "nome": "Raahe",
+   "latitude": 64.6847,
+   "longitude": 24.4792,
+   "codigo_re": "14",
+   "population": 25165,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 680,
+   "nome": "Raisio",
+   "latitude": 60.4861,
+   "longitude": 22.1694,
+   "codigo_re": "FI-19 ",
+   "population": 24290,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 98,
+   "nome": "Hollola",
+   "latitude": 60.9886,
+   "longitude": 25.5128,
+   "codigo_re": "16",
+   "population": 23915,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 418,
+   "nome": "Lempäälä",
+   "latitude": 61.3139,
+   "longitude": 23.7528,
+   "codigo_re": "11",
+   "population": 22536,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 140,
+   "nome": "Iisalmi",
+   "latitude": 63.5611,
+   "longitude": 27.1889,
+   "codigo_re": "15",
+   "population": 21945,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 851,
+   "nome": "Tornio",
+   "latitude": 65.8497,
+   "longitude": 24.1441,
+   "codigo_re": "10",
+   "population": 21928,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 749,
+   "nome": "Siilinjärvi",
+   "latitude": 63.075,
+   "longitude": 27.66,
+   "codigo_re": "15",
+   "population": 21794,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 240,
+   "nome": "Kemi",
+   "latitude": 65.7336,
+   "longitude": 24.5634,
+   "codigo_re": "10",
+   "population": 21758,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 301,
+   "nome": "Kurikka",
+   "latitude": 62.6167,
+   "longitude": 22.4,
+   "codigo_re": "03",
+   "population": 21734,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 182,
+   "nome": "Jämsä",
+   "latitude": 61.8639,
+   "longitude": 25.1903,
+   "codigo_re": "08",
+   "population": 21542,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 915,
+   "nome": "Varkaus",
+   "latitude": 62.3167,
+   "longitude": 27.8833,
+   "codigo_re": "15",
+   "population": 21155,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 908,
+   "nome": "Valkeakoski",
+   "latitude": 61.2667,
+   "longitude": 24.0306,
+   "codigo_re": "11",
+   "population": 20800,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 505,
+   "nome": "Mäntsälä",
+   "latitude": 60.6331,
+   "longitude": 25.3167,
+   "codigo_re": "18",
+   "population": 20685,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 992,
+   "nome": "Äänekoski",
+   "latitude": 62.6042,
+   "longitude": 25.7264,
+   "codigo_re": "08",
+   "population": 19919,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 75,
+   "nome": "Hamina",
+   "latitude": 60.5697,
+   "longitude": 27.1981,
+   "codigo_re": "09",
+   "population": 19877,
+   "admin_name": "Kymenlaakso",
+   "capital": "minor"
+ },
+ {
+   "codigo": 111,
+   "nome": "Heinola",
+   "latitude": 61.2028,
+   "longitude": 26.0319,
+   "codigo_re": "16",
+   "population": 19575,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 598,
+   "nome": "Jakobstad",
+   "latitude": 63.6667,
+   "longitude": 22.7,
+   "codigo_re": "12",
+   "population": 19436,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 753,
+   "nome": "Sipoo",
+   "latitude": 60.3764,
+   "longitude": 25.2722,
+   "codigo_re": "18",
+   "population": 19399,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 499,
+   "nome": "Korsholm",
+   "latitude": 63.1125,
+   "longitude": 21.6778,
+   "codigo_re": "12",
+   "population": 19302,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 423,
+   "nome": "Lieto",
+   "latitude": 60.5,
+   "longitude": 22.4497,
+   "codigo_re": "FI-19 ",
+   "population": 19263,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 529,
+   "nome": "Naantali",
+   "latitude": 60.4681,
+   "longitude": 22.0264,
+   "codigo_re": "FI-19 ",
+   "population": 18916,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 604,
+   "nome": "Pirkkala",
+   "latitude": 61.4667,
+   "longitude": 23.65,
+   "codigo_re": "11",
+   "population": 18913,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 410,
+   "nome": "Laukaa",
+   "latitude": 62.4167,
+   "longitude": 25.95,
+   "codigo_re": "08",
+   "population": 18865,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 593,
+   "nome": "Pieksämäki",
+   "latitude": 62.3,
+   "longitude": 27.1583,
+   "codigo_re": "04",
+   "population": 18220,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 61,
+   "nome": "Forssa",
+   "latitude": 60.8167,
+   "longitude": 23.6167,
+   "codigo_re": "06",
+   "population": 17422,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 244,
+   "nome": "Kempele",
+   "latitude": 64.9125,
+   "longitude": 25.5083,
+   "codigo_re": "14",
+   "population": 17066,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 20,
+   "nome": "Akaa",
+   "latitude": 61.1667,
+   "longitude": 23.8681,
+   "codigo_re": "11",
+   "population": 17043,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 233,
+   "nome": "Kauhava",
+   "latitude": 63.1014,
+   "longitude": 23.0639,
+   "codigo_re": "03",
+   "population": 16784,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 430,
+   "nome": "Loimaa",
+   "latitude": 60.8514,
+   "longitude": 23.0583,
+   "codigo_re": "FI-19 ",
+   "population": 16467,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 560,
+   "nome": "Orimattila",
+   "latitude": 60.8042,
+   "longitude": 25.7333,
+   "codigo_re": "16",
+   "population": 16326,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 305,
+   "nome": "Kuusamo",
+   "latitude": 65.9667,
+   "longitude": 29.1667,
+   "codigo_re": "14",
+   "population": 15688,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 895,
+   "nome": "Uusikaupunki",
+   "latitude": 60.7833,
+   "longitude": 21.4167,
+   "codigo_re": "FI-19 ",
+   "population": 15510,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 445,
+   "nome": "Pargas",
+   "latitude": 60.3,
+   "longitude": 22.3,
+   "codigo_re": "FI-19 ",
+   "population": 15457,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 434,
+   "nome": "Loviisa",
+   "latitude": 60.4569,
+   "longitude": 26.225,
+   "codigo_re": "18",
+   "population": 15311,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 977,
+   "nome": "Ylivieska",
+   "latitude": 64.0722,
+   "longitude": 24.5375,
+   "codigo_re": "14",
+   "population": 15039,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 276,
+   "nome": "Kontiolahti",
+   "latitude": 62.7667,
+   "longitude": 29.85,
+   "codigo_re": "13",
+   "population": 14827,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 408,
+   "nome": "Lapua",
+   "latitude": 62.9708,
+   "longitude": 23.0069,
+   "codigo_re": "03",
+   "population": 14609,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 232,
+   "nome": "Kauhajoki",
+   "latitude": 62.4319,
+   "longitude": 22.1794,
+   "codigo_re": "03",
+   "population": 13875,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 886,
+   "nome": "Ulvila",
+   "latitude": 61.4292,
+   "longitude": 21.875,
+   "codigo_re": "17",
+   "population": 13237,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 208,
+   "nome": "Kalajoki",
+   "latitude": 64.2597,
+   "longitude": 23.9486,
+   "codigo_re": "14",
+   "population": 12621,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 145,
+   "nome": "Ilmajoki",
+   "latitude": 62.7333,
+   "longitude": 22.5833,
+   "codigo_re": "03",
+   "population": 12159,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 426,
+   "nome": "Liperi",
+   "latitude": 62.5333,
+   "longitude": 29.3833,
+   "codigo_re": "13",
+   "population": 12150,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 50,
+   "nome": "Eura",
+   "latitude": 61.1333,
+   "longitude": 22.0833,
+   "codigo_re": "17",
+   "population": 12128,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 10,
+   "nome": "Alavus",
+   "latitude": 62.5861,
+   "longitude": 23.6194,
+   "codigo_re": "03",
+   "population": 12044,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 422,
+   "nome": "Lieksa",
+   "latitude": 63.3167,
+   "longitude": 30.0167,
+   "codigo_re": "13",
+   "population": 11772,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 214,
+   "nome": "Kankaanpää",
+   "latitude": 61.8042,
+   "longitude": 22.3944,
+   "codigo_re": "17",
+   "population": 11769,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 478,
+   "nome": "Mariehamn",
+   "latitude": 60.0986,
+   "longitude": 19.9444,
+   "codigo_re": "01",
+   "population": 11461,
+   "admin_name": "Åland",
+   "capital": "admin"
+ },
+ {
+   "codigo": 535,
+   "nome": "Nivala",
+   "latitude": 63.9292,
+   "longitude": 24.9778,
+   "codigo_re": "14",
+   "population": 10876,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 260,
+   "nome": "Kitee",
+   "latitude": 62.0986,
+   "longitude": 30.1375,
+   "codigo_re": "13",
+   "population": 10832,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 108,
+   "nome": "Hämeenkyrö",
+   "latitude": 61.6333,
+   "longitude": 23.2,
+   "codigo_re": "11",
+   "population": 10667,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 577,
+   "nome": "Paimio",
+   "latitude": 60.4569,
+   "longitude": 22.6861,
+   "codigo_re": "FI-19 ",
+   "population": 10620,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 765,
+   "nome": "Sotkamo",
+   "latitude": 64.1333,
+   "longitude": 28.3833,
+   "codigo_re": "05",
+   "population": 10523,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 102,
+   "nome": "Huittinen",
+   "latitude": 61.1764,
+   "longitude": 22.6986,
+   "codigo_re": "17",
+   "population": 10473,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 249,
+   "nome": "Keuruu",
+   "latitude": 62.2597,
+   "longitude": 24.7069,
+   "codigo_re": "08",
+   "population": 10117,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 5,
+   "nome": "Alajärvi",
+   "latitude": 63,
+   "longitude": 23.8167,
+   "codigo_re": "03",
+   "population": 10006,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 402,
+   "nome": "Lapinlahti",
+   "latitude": 63.3667,
+   "longitude": 27.3833,
+   "codigo_re": "15",
+   "population": 9982,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 139,
+   "nome": "Ii",
+   "latitude": 65.3167,
+   "longitude": 25.3722,
+   "codigo_re": "14",
+   "population": 9966,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 420,
+   "nome": "Leppävirta",
+   "latitude": 62.4917,
+   "longitude": 27.7875,
+   "codigo_re": "15",
+   "population": 9953,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 425,
+   "nome": "Liminka",
+   "latitude": 64.8083,
+   "longitude": 25.4167,
+   "codigo_re": "14",
+   "population": 9937,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 729,
+   "nome": "Saarijärvi",
+   "latitude": 62.7056,
+   "longitude": 25.2569,
+   "codigo_re": "08",
+   "population": 9915,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 500,
+   "nome": "Muurame",
+   "latitude": 62.1292,
+   "longitude": 25.6722,
+   "codigo_re": "08",
+   "population": 9791,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 481,
+   "nome": "Masku",
+   "latitude": 60.5708,
+   "longitude": 22.1,
+   "codigo_re": "FI-19 ",
+   "population": 9706,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 235,
+   "nome": "Kauniainen",
+   "latitude": 60.2097,
+   "longitude": 24.7264,
+   "codigo_re": "18",
+   "population": 9486,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 562,
+   "nome": "Orivesi",
+   "latitude": 61.6778,
+   "longitude": 24.3569,
+   "codigo_re": "11",
+   "population": 9408,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 545,
+   "nome": "Närpes",
+   "latitude": 62.4736,
+   "longitude": 21.3375,
+   "codigo_re": "12",
+   "population": 9387,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 761,
+   "nome": "Somero",
+   "latitude": 60.6292,
+   "longitude": 23.5139,
+   "codigo_re": "FI-19 ",
+   "population": 9093,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 494,
+   "nome": "Muhos",
+   "latitude": 64.8,
+   "longitude": 26,
+   "codigo_re": "14",
+   "population": 9063,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 224,
+   "nome": "Karkkila",
+   "latitude": 60.5347,
+   "longitude": 24.2097,
+   "codigo_re": "18",
+   "population": 8969,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 78,
+   "nome": "Hanko",
+   "latitude": 59.8236,
+   "longitude": 22.9681,
+   "codigo_re": "18",
+   "population": 8864,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 290,
+   "nome": "Kuhmo",
+   "latitude": 64.125,
+   "longitude": 29.5167,
+   "codigo_re": "05",
+   "population": 8806,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 758,
+   "nome": "Sodankylä",
+   "latitude": 67.4149,
+   "longitude": 26.5907,
+   "codigo_re": "10",
+   "population": 8782,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 263,
+   "nome": "Kiuruvesi",
+   "latitude": 63.6528,
+   "longitude": 26.6194,
+   "codigo_re": "15",
+   "population": 8600,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 400,
+   "nome": "Laitila",
+   "latitude": 60.8792,
+   "longitude": 21.6931,
+   "codigo_re": "FI-19 ",
+   "population": 8520,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 241,
+   "nome": "Keminmaa",
+   "latitude": 65.799,
+   "longitude": 24.5426,
+   "codigo_re": "10",
+   "population": 8388,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 777,
+   "nome": "Suomussalmi",
+   "latitude": 64.8833,
+   "longitude": 28.9167,
+   "codigo_re": "05",
+   "population": 8336,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 615,
+   "nome": "Pudasjärvi",
+   "latitude": 65.3583,
+   "longitude": 27,
+   "codigo_re": "14",
+   "population": 8257,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 433,
+   "nome": "Loppi",
+   "latitude": 60.7181,
+   "longitude": 24.4417,
+   "codigo_re": "06",
+   "population": 8175,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 399,
+   "nome": "Laihia",
+   "latitude": 62.9764,
+   "longitude": 22.0111,
+   "codigo_re": "12",
+   "population": 8090,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 541,
+   "nome": "Nurmes",
+   "latitude": 63.5444,
+   "longitude": 29.1333,
+   "codigo_re": "13",
+   "population": 7996,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 503,
+   "nome": "Mynämäki",
+   "latitude": 60.6833,
+   "longitude": 21.9833,
+   "codigo_re": "FI-19 ",
+   "population": 7859,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 320,
+   "nome": "Kemijärvi",
+   "latitude": 66.715,
+   "longitude": 27.4306,
+   "codigo_re": "10",
+   "population": 7766,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 563,
+   "nome": "Oulainen",
+   "latitude": 64.2667,
+   "longitude": 24.8167,
+   "codigo_re": "14",
+   "population": 7610,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 271,
+   "nome": "Kokemäki",
+   "latitude": 61.2556,
+   "longitude": 22.3486,
+   "codigo_re": "17",
+   "population": 7591,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 893,
+   "nome": "Nykarleby",
+   "latitude": 63.5167,
+   "longitude": 22.5333,
+   "codigo_re": "12",
+   "population": 7564,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 69,
+   "nome": "Haapajärvi",
+   "latitude": 63.7486,
+   "longitude": 25.3181,
+   "codigo_re": "14",
+   "population": 7438,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 778,
+   "nome": "Suonenjoki",
+   "latitude": 62.625,
+   "longitude": 27.1222,
+   "codigo_re": "15",
+   "population": 7390,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 79,
+   "nome": "Harjavalta",
+   "latitude": 61.3139,
+   "longitude": 22.1417,
+   "codigo_re": "17",
+   "population": 7296,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 143,
+   "nome": "Ikaalinen",
+   "latitude": 61.7694,
+   "longitude": 23.0681,
+   "codigo_re": "11",
+   "population": 7207,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 71,
+   "nome": "Haapavesi",
+   "latitude": 64.1375,
+   "longitude": 25.3667,
+   "codigo_re": "14",
+   "population": 7167,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 309,
+   "nome": "Outokumpu",
+   "latitude": 62.725,
+   "longitude": 29.0167,
+   "codigo_re": "13",
+   "population": 7139,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 508,
+   "nome": "Mänttä-Vilppula",
+   "latitude": 62.0292,
+   "longitude": 24.6236,
+   "codigo_re": "11",
+   "population": 7077,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 783,
+   "nome": "Säkylä",
+   "latitude": 61.05,
+   "longitude": 22.35,
+   "codigo_re": "17",
+   "population": 7070,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 936,
+   "nome": "Virrat",
+   "latitude": 62.2403,
+   "longitude": 23.7708,
+   "codigo_re": "11",
+   "population": 7002,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 148,
+   "nome": "Inari",
+   "latitude": 68.9055,
+   "longitude": 27.0176,
+   "codigo_re": "10",
+   "population": 6804,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 859,
+   "nome": "Tyrnävä",
+   "latitude": 64.75,
+   "longitude": 25.65,
+   "codigo_re": "14",
+   "population": 6793,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 287,
+   "nome": "Kristinestad",
+   "latitude": 62.2736,
+   "longitude": 21.3778,
+   "codigo_re": "12",
+   "population": 6793,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 581,
+   "nome": "Parkano",
+   "latitude": 62.0097,
+   "longitude": 23.025,
+   "codigo_re": "11",
+   "population": 6766,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 946,
+   "nome": "Vöyri",
+   "latitude": 63.1333,
+   "longitude": 22.25,
+   "codigo_re": "12",
+   "population": 6714,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 288,
+   "nome": "Kronoby",
+   "latitude": 63.725,
+   "longitude": 23.0333,
+   "codigo_re": "12",
+   "population": 6682,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 635,
+   "nome": "Pälkäne",
+   "latitude": 61.3389,
+   "longitude": 24.2681,
+   "codigo_re": "11",
+   "population": 6676,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 931,
+   "nome": "Viitasaari",
+   "latitude": 63.075,
+   "longitude": 25.8597,
+   "codigo_re": "08",
+   "population": 6666,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 178,
+   "nome": "Juva",
+   "latitude": 61.8972,
+   "longitude": 27.8569,
+   "codigo_re": "04",
+   "population": 6548,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 261,
+   "nome": "Kittilä",
+   "latitude": 67.6531,
+   "longitude": 24.9114,
+   "codigo_re": "10",
+   "population": 6416,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 834,
+   "nome": "Tammela",
+   "latitude": 60.8,
+   "longitude": 23.7667,
+   "codigo_re": "06",
+   "population": 6280,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 755,
+   "nome": "Siuntio",
+   "latitude": 60.1333,
+   "longitude": 24.2167,
+   "codigo_re": "18",
+   "population": 6182,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 507,
+   "nome": "Mäntyharju",
+   "latitude": 61.4181,
+   "longitude": 26.8792,
+   "codigo_re": "04",
+   "population": 6159,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 704,
+   "nome": "Rusko",
+   "latitude": 60.5417,
+   "longitude": 22.2222,
+   "codigo_re": "FI-19 ",
+   "population": 6110,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 989,
+   "nome": "Ähtäri",
+   "latitude": 62.55,
+   "longitude": 24.0694,
+   "codigo_re": "03",
+   "population": 6068,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 51,
+   "nome": "Eurajoki",
+   "latitude": 61.2,
+   "longitude": 21.7333,
+   "codigo_re": "17",
+   "population": 5938,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 531,
+   "nome": "Nakkila",
+   "latitude": 61.3653,
+   "longitude": 22.0042,
+   "codigo_re": "17",
+   "population": 5651,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 213,
+   "nome": "Kangasniemi",
+   "latitude": 61.99,
+   "longitude": 26.6417,
+   "codigo_re": "04",
+   "population": 5628,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 475,
+   "nome": "Malax",
+   "latitude": 62.9417,
+   "longitude": 21.55,
+   "codigo_re": "12",
+   "population": 5545,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 149,
+   "nome": "Ingå",
+   "latitude": 60.0458,
+   "longitude": 24.0056,
+   "codigo_re": "18",
+   "population": 5541,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 217,
+   "nome": "Kannus",
+   "latitude": 63.9017,
+   "longitude": 23.9151,
+   "codigo_re": "07",
+   "population": 5520,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 846,
+   "nome": "Teuva",
+   "latitude": 62.4861,
+   "longitude": 21.7472,
+   "codigo_re": "03",
+   "population": 5482,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 169,
+   "nome": "Jokioinen",
+   "latitude": 60.8042,
+   "longitude": 23.4861,
+   "codigo_re": "06",
+   "population": 5425,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 146,
+   "nome": "Ilomantsi",
+   "latitude": 62.6667,
+   "longitude": 30.9333,
+   "codigo_re": "13",
+   "population": 5336,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 700,
+   "nome": "Ruokolahti",
+   "latitude": 61.2917,
+   "longitude": 28.8167,
+   "codigo_re": "02",
+   "population": 5312,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 77,
+   "nome": "Hankasalmi",
+   "latitude": 62.3889,
+   "longitude": 26.4361,
+   "codigo_re": "08",
+   "population": 5240,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 580,
+   "nome": "Parikkala",
+   "latitude": 61.55,
+   "longitude": 29.5,
+   "codigo_re": "02",
+   "population": 5235,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 440,
+   "nome": "Larsmo",
+   "latitude": 63.75,
+   "longitude": 22.8,
+   "codigo_re": "12",
+   "population": 5147,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 611,
+   "nome": "Pornainen",
+   "latitude": 60.475,
+   "longitude": 25.375,
+   "codigo_re": "18",
+   "population": 5125,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 746,
+   "nome": "Sievi",
+   "latitude": 63.9069,
+   "longitude": 24.5167,
+   "codigo_re": "14",
+   "population": 5124,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 171,
+   "nome": "Joroinen",
+   "latitude": 62.1792,
+   "longitude": 27.8278,
+   "codigo_re": "04",
+   "population": 5110,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 18,
+   "nome": "Askola",
+   "latitude": 60.5278,
+   "longitude": 25.6,
+   "codigo_re": "18",
+   "population": 5104,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 176,
+   "nome": "Juuka",
+   "latitude": 63.2417,
+   "longitude": 29.25,
+   "codigo_re": "13",
+   "population": 5034,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 538,
+   "nome": "Nousiainen",
+   "latitude": 60.6,
+   "longitude": 22.0833,
+   "codigo_re": "FI-19 ",
+   "population": 4859,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 887,
+   "nome": "Urjala",
+   "latitude": 61.0833,
+   "longitude": 23.55,
+   "codigo_re": "11",
+   "population": 4829,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 831,
+   "nome": "Taipalsaari",
+   "latitude": 61.1597,
+   "longitude": 28.0597,
+   "codigo_re": "02",
+   "population": 4815,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 152,
+   "nome": "Isokyrö",
+   "latitude": 63,
+   "longitude": 22.3167,
+   "codigo_re": "12",
+   "population": 4785,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 595,
+   "nome": "Pielavesi",
+   "latitude": 63.2333,
+   "longitude": 26.7583,
+   "codigo_re": "15",
+   "population": 4740,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 848,
+   "nome": "Tohmajärvi",
+   "latitude": 62.2264,
+   "longitude": 30.3319,
+   "codigo_re": "13",
+   "population": 4738,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 748,
+   "nome": "Siikajoki",
+   "latitude": 64.6639,
+   "longitude": 25.1014,
+   "codigo_re": "14",
+   "population": 4721,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 172,
+   "nome": "Joutsa",
+   "latitude": 61.7417,
+   "longitude": 26.1153,
+   "codigo_re": "08",
+   "population": 4688,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 170,
+   "nome": "Jomala",
+   "latitude": 60.15,
+   "longitude": 19.95,
+   "codigo_re": "01",
+   "population": 4648,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 702,
+   "nome": "Ruovesi",
+   "latitude": 61.9833,
+   "longitude": 24.0833,
+   "codigo_re": "11",
+   "population": 4623,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 607,
+   "nome": "Polvijärvi",
+   "latitude": 62.855,
+   "longitude": 29.3667,
+   "codigo_re": "13",
+   "population": 4556,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 922,
+   "nome": "Vesilahti",
+   "latitude": 61.3167,
+   "longitude": 23.6167,
+   "codigo_re": "11",
+   "population": 4489,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 976,
+   "nome": "Ylitornio",
+   "latitude": 66.3167,
+   "longitude": 23.6667,
+   "codigo_re": "10",
+   "population": 4291,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 762,
+   "nome": "Sonkajärvi",
+   "latitude": 63.6667,
+   "longitude": 27.5167,
+   "codigo_re": "15",
+   "population": 4278,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 226,
+   "nome": "Karstula",
+   "latitude": 62.875,
+   "longitude": 24.8,
+   "codigo_re": "08",
+   "population": 4268,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 601,
+   "nome": "Pihtipudas",
+   "latitude": 63.3667,
+   "longitude": 25.575,
+   "codigo_re": "08",
+   "population": 4221,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 832,
+   "nome": "Taivalkoski",
+   "latitude": 65.575,
+   "longitude": 28.2417,
+   "codigo_re": "14",
+   "population": 4199,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 781,
+   "nome": "Sysmä",
+   "latitude": 61.5028,
+   "longitude": 25.6847,
+   "codigo_re": "16",
+   "population": 4040,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 683,
+   "nome": "Ranua",
+   "latitude": 65.9275,
+   "longitude": 26.5184,
+   "codigo_re": "10",
+   "population": 4020,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 592,
+   "nome": "Petäjävesi",
+   "latitude": 62.25,
+   "longitude": 25.1833,
+   "codigo_re": "08",
+   "population": 4008,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 19,
+   "nome": "Aura",
+   "latitude": 60.6472,
+   "longitude": 22.5903,
+   "codigo_re": "FI-19 ",
+   "population": 3991,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 925,
+   "nome": "Vieremä",
+   "latitude": 63.7431,
+   "longitude": 27.0014,
+   "codigo_re": "15",
+   "population": 3757,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 681,
+   "nome": "Rantasalmi",
+   "latitude": 62.0667,
+   "longitude": 28.3,
+   "codigo_re": "04",
+   "population": 3733,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 732,
+   "nome": "Salla",
+   "latitude": 66.8333,
+   "longitude": 28.6667,
+   "codigo_re": "10",
+   "population": 3727,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 300,
+   "nome": "Kuortane",
+   "latitude": 62.8083,
+   "longitude": 23.5083,
+   "codigo_re": "03",
+   "population": 3715,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 892,
+   "nome": "Uurainen",
+   "latitude": 62.5,
+   "longitude": 25.4367,
+   "codigo_re": "08",
+   "population": 3666,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 854,
+   "nome": "Pello",
+   "latitude": 66.7756,
+   "longitude": 23.9635,
+   "codigo_re": "10",
+   "population": 3623,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 739,
+   "nome": "Savitaipale",
+   "latitude": 61.2,
+   "longitude": 27.6833,
+   "codigo_re": "02",
+   "population": 3613,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 90,
+   "nome": "Heinävesi",
+   "latitude": 62.425,
+   "longitude": 28.6333,
+   "codigo_re": "04",
+   "population": 3574,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 578,
+   "nome": "Paltamo",
+   "latitude": 64.4083,
+   "longitude": 27.8417,
+   "codigo_re": "05",
+   "population": 3488,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 614,
+   "nome": "Posio",
+   "latitude": 66.1097,
+   "longitude": 28.1739,
+   "codigo_re": "10",
+   "population": 3477,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 935,
+   "nome": "Virolahti",
+   "latitude": 60.5833,
+   "longitude": 27.7,
+   "codigo_re": "09",
+   "population": 3347,
+   "admin_name": "Kymenlaakso",
+   "capital": "minor"
+ },
+ {
+   "codigo": 322,
+   "nome": "Kimitoön",
+   "latitude": 60.1639,
+   "longitude": 22.7278,
+   "codigo_re": "FI-19 ",
+   "population": 3339,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 849,
+   "nome": "Toholampi",
+   "latitude": 63.775,
+   "longitude": 24.25,
+   "codigo_re": "07",
+   "population": 3311,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 686,
+   "nome": "Rautalampi",
+   "latitude": 62.6217,
+   "longitude": 26.8333,
+   "codigo_re": "15",
+   "population": 3303,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 924,
+   "nome": "Veteli",
+   "latitude": 63.4753,
+   "longitude": 23.7886,
+   "codigo_re": "07",
+   "population": 3302,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 751,
+   "nome": "Simo",
+   "latitude": 65.6613,
+   "longitude": 25.0623,
+   "codigo_re": "10",
+   "population": 3238,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 403,
+   "nome": "Lappajärvi",
+   "latitude": 63.2167,
+   "longitude": 23.6333,
+   "codigo_re": "03",
+   "population": 3215,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 625,
+   "nome": "Pyhäjoki",
+   "latitude": 64.4667,
+   "longitude": 24.2583,
+   "codigo_re": "14",
+   "population": 3211,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 845,
+   "nome": "Tervola",
+   "latitude": 66.0821,
+   "longitude": 24.808,
+   "codigo_re": "10",
+   "population": 3195,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 204,
+   "nome": "Kaavi",
+   "latitude": 62.975,
+   "longitude": 28.4833,
+   "codigo_re": "15",
+   "population": 3194,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 484,
+   "nome": "Merikarvia",
+   "latitude": 61.8583,
+   "longitude": 21.5,
+   "codigo_re": "17",
+   "population": 3185,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 576,
+   "nome": "Padasjoki",
+   "latitude": 61.35,
+   "longitude": 25.275,
+   "codigo_re": "16",
+   "population": 3143,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 785,
+   "nome": "Vaala",
+   "latitude": 64.55,
+   "longitude": 26.8333,
+   "codigo_re": "05",
+   "population": 3074,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 416,
+   "nome": "Lemi",
+   "latitude": 61.0611,
+   "longitude": 27.8042,
+   "codigo_re": "02",
+   "population": 3073,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 934,
+   "nome": "Vimpeli",
+   "latitude": 63.1617,
+   "longitude": 23.8167,
+   "codigo_re": "03",
+   "population": 3073,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 619,
+   "nome": "Punkalaidun",
+   "latitude": 61.1117,
+   "longitude": 23.105,
+   "codigo_re": "11",
+   "population": 3049,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 738,
+   "nome": "Sauvo",
+   "latitude": 60.3417,
+   "longitude": 22.6917,
+   "codigo_re": "FI-19 ",
+   "population": 3019,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 81,
+   "nome": "Hartola",
+   "latitude": 61.5784,
+   "longitude": 26.0142,
+   "codigo_re": "16",
+   "population": 2982,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 691,
+   "nome": "Reisjärvi",
+   "latitude": 63.6056,
+   "longitude": 24.9319,
+   "codigo_re": "14",
+   "population": 2894,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 889,
+   "nome": "Utajärvi",
+   "latitude": 64.75,
+   "longitude": 26.4167,
+   "codigo_re": "14",
+   "population": 2861,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 584,
+   "nome": "Perho",
+   "latitude": 63.2167,
+   "longitude": 24.4167,
+   "codigo_re": "07",
+   "population": 2860,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 620,
+   "nome": "Puolanka",
+   "latitude": 64.8681,
+   "longitude": 27.6708,
+   "codigo_re": "05",
+   "population": 2776,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 407,
+   "nome": "Lapinjärvi",
+   "latitude": 60.6167,
+   "longitude": 26.2,
+   "codigo_re": "18",
+   "population": 2774,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 275,
+   "nome": "Konnevesi",
+   "latitude": 62.6283,
+   "longitude": 26.2833,
+   "codigo_re": "08",
+   "population": 2757,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 768,
+   "nome": "Sulkava",
+   "latitude": 61.7875,
+   "longitude": 28.3708,
+   "codigo_re": "04",
+   "population": 2724,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 9,
+   "nome": "Alavieska",
+   "latitude": 64.1667,
+   "longitude": 24.3083,
+   "codigo_re": "14",
+   "population": 2687,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 317,
+   "nome": "Kärsämäki",
+   "latitude": 63.975,
+   "longitude": 25.7583,
+   "codigo_re": "14",
+   "population": 2658,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 857,
+   "nome": "Tuusniemi",
+   "latitude": 62.8083,
+   "longitude": 28.4917,
+   "codigo_re": "15",
+   "population": 2597,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 52,
+   "nome": "Evijärvi",
+   "latitude": 63.3667,
+   "longitude": 23.475,
+   "codigo_re": "03",
+   "population": 2499,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 230,
+   "nome": "Karvia",
+   "latitude": 62.1333,
+   "longitude": 22.5583,
+   "codigo_re": "17",
+   "population": 2475,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 850,
+   "nome": "Toivakka",
+   "latitude": 62.1,
+   "longitude": 26.0833,
+   "codigo_re": "08",
+   "population": 2431,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 105,
+   "nome": "Hyrynsalmi",
+   "latitude": 64.675,
+   "longitude": 28.4917,
+   "codigo_re": "05",
+   "population": 2422,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 981,
+   "nome": "Ypäjä",
+   "latitude": 60.8083,
+   "longitude": 23.2833,
+   "codigo_re": "06",
+   "population": 2411,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 103,
+   "nome": "Humppila",
+   "latitude": 60.925,
+   "longitude": 23.3667,
+   "codigo_re": "06",
+   "population": 2388,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 239,
+   "nome": "Keitele",
+   "latitude": 63.1783,
+   "longitude": 26.35,
+   "codigo_re": "15",
+   "population": 2379,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 284,
+   "nome": "Koski Tl",
+   "latitude": 60.6542,
+   "longitude": 23.1403,
+   "codigo_re": "FI-19 ",
+   "population": 2359,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 498,
+   "nome": "Muonio",
+   "latitude": 67.9593,
+   "longitude": 23.6772,
+   "codigo_re": "10",
+   "population": 2358,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 707,
+   "nome": "Rääkkylä",
+   "latitude": 62.3133,
+   "longitude": 29.625,
+   "codigo_re": "13",
+   "population": 2349,
+   "admin_name": "Pohjois-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 291,
+   "nome": "Kuhmoinen",
+   "latitude": 61.5667,
+   "longitude": 25.1833,
+   "codigo_re": "08",
+   "population": 2334,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 97,
+   "nome": "Hirvensalmi",
+   "latitude": 61.6389,
+   "longitude": 26.7806,
+   "codigo_re": "04",
+   "population": 2290,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 623,
+   "nome": "Puumala",
+   "latitude": 61.525,
+   "longitude": 28.1833,
+   "codigo_re": "04",
+   "population": 2260,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 608,
+   "nome": "Pomarkku",
+   "latitude": 61.6917,
+   "longitude": 22.0083,
+   "codigo_re": "17",
+   "population": 2240,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 759,
+   "nome": "Soini",
+   "latitude": 62.875,
+   "longitude": 24.2083,
+   "codigo_re": "03",
+   "population": 2224,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 280,
+   "nome": "Korsnäs",
+   "latitude": 62.7833,
+   "longitude": 21.1833,
+   "codigo_re": "12",
+   "population": 2201,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 921,
+   "nome": "Vesanto",
+   "latitude": 62.9333,
+   "longitude": 26.4167,
+   "codigo_re": "15",
+   "population": 2191,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 631,
+   "nome": "Pyhäranta",
+   "latitude": 60.95,
+   "longitude": 21.4417,
+   "codigo_re": "FI-19 ",
+   "population": 2136,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 151,
+   "nome": "Isojoki",
+   "latitude": 62.1139,
+   "longitude": 21.9583,
+   "codigo_re": "03",
+   "population": 2123,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 142,
+   "nome": "Iitti",
+   "latitude": 61.025,
+   "longitude": 25.15,
+   "codigo_re": "16",
+   "population": 2104,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 489,
+   "nome": "Miehikkälä",
+   "latitude": 60.6708,
+   "longitude": 27.7,
+   "codigo_re": "09",
+   "population": 2085,
+   "admin_name": "Kymenlaakso",
+   "capital": "minor"
+ },
+ {
+   "codigo": 436,
+   "nome": "Lumijoki",
+   "latitude": 64.8367,
+   "longitude": 25.1867,
+   "codigo_re": "14",
+   "population": 2076,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 250,
+   "nome": "Kihniö",
+   "latitude": 62.2083,
+   "longitude": 23.1792,
+   "codigo_re": "11",
+   "population": 2038,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 480,
+   "nome": "Marttila",
+   "latitude": 60.5833,
+   "longitude": 22.9,
+   "codigo_re": "FI-19 ",
+   "population": 2028,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 417,
+   "nome": "Lemland",
+   "latitude": 60.0806,
+   "longitude": 20.1,
+   "codigo_re": "01",
+   "population": 1991,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 616,
+   "nome": "Pukkila",
+   "latitude": 60.645,
+   "longitude": 25.5833,
+   "codigo_re": "18",
+   "population": 1971,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 504,
+   "nome": "Myrskylä",
+   "latitude": 60.6667,
+   "longitude": 25.85,
+   "codigo_re": "18",
+   "population": 1969,
+   "admin_name": "Uusimaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 636,
+   "nome": "Pöytyä",
+   "latitude": 60.5833,
+   "longitude": 22.7333,
+   "codigo_re": "FI-19 ",
+   "population": 1958,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 181,
+   "nome": "Jämijärvi",
+   "latitude": 61.8167,
+   "longitude": 22.6917,
+   "codigo_re": "17",
+   "population": 1948,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 47,
+   "nome": "Enontekiö",
+   "latitude": 68.3847,
+   "longitude": 23.6389,
+   "codigo_re": "10",
+   "population": 1861,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 791,
+   "nome": "Siikalatva",
+   "latitude": 64.2667,
+   "longitude": 25.8667,
+   "codigo_re": "14",
+   "population": 1843,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 588,
+   "nome": "Pertunmaa",
+   "latitude": 61.5028,
+   "longitude": 26.4792,
+   "codigo_re": "04",
+   "population": 1817,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 256,
+   "nome": "Kinnula",
+   "latitude": 63.3667,
+   "longitude": 24.9667,
+   "codigo_re": "08",
+   "population": 1745,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 687,
+   "nome": "Rautavaara",
+   "latitude": 63.4944,
+   "longitude": 28.2986,
+   "codigo_re": "15",
+   "population": 1737,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 495,
+   "nome": "Multia",
+   "latitude": 62.4083,
+   "longitude": 24.795,
+   "codigo_re": "08",
+   "population": 1710,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 833,
+   "nome": "Taivassalo",
+   "latitude": 60.5617,
+   "longitude": 21.6083,
+   "codigo_re": "FI-19 ",
+   "population": 1633,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 844,
+   "nome": "Tervo",
+   "latitude": 62.9556,
+   "longitude": 26.7556,
+   "codigo_re": "15",
+   "population": 1608,
+   "admin_name": "Pohjois-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 630,
+   "nome": "Pyhäntä",
+   "latitude": 64.0972,
+   "longitude": 26.3306,
+   "codigo_re": "14",
+   "population": 1587,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 76,
+   "nome": "Hammarland",
+   "latitude": 60.2167,
+   "longitude": 19.7403,
+   "codigo_re": "01",
+   "population": 1537,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 747,
+   "nome": "Siikainen",
+   "latitude": 61.8833,
+   "longitude": 21.8167,
+   "codigo_re": "17",
+   "population": 1527,
+   "admin_name": "Satakunta",
+   "capital": "minor"
+ },
+ {
+   "codigo": 46,
+   "nome": "Enonkoski",
+   "latitude": 62.0889,
+   "longitude": 28.9333,
+   "codigo_re": "04",
+   "population": 1473,
+   "admin_name": "Etelä-Savo",
+   "capital": "minor"
+ },
+ {
+   "codigo": 216,
+   "nome": "Kannonkoski",
+   "latitude": 62.975,
+   "longitude": 25.2667,
+   "codigo_re": "08",
+   "population": 1462,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 312,
+   "nome": "Kyyjärvi",
+   "latitude": 63.0431,
+   "longitude": 24.5639,
+   "codigo_re": "08",
+   "population": 1379,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 561,
+   "nome": "Oripää",
+   "latitude": 60.8556,
+   "longitude": 22.6972,
+   "codigo_re": "FI-19 ",
+   "population": 1377,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 218,
+   "nome": "Karijoki",
+   "latitude": 62.3083,
+   "longitude": 21.7083,
+   "codigo_re": "03",
+   "population": 1369,
+   "admin_name": "Etelä-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 697,
+   "nome": "Ristijärvi",
+   "latitude": 64.5056,
+   "longitude": 28.2139,
+   "codigo_re": "05",
+   "population": 1351,
+   "admin_name": "Kainuu",
+   "capital": "minor"
+ },
+ {
+   "codigo": 231,
+   "nome": "Kaskinen",
+   "latitude": 62.3847,
+   "longitude": 21.2222,
+   "codigo_re": "12",
+   "population": 1285,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 890,
+   "nome": "Utsjoki",
+   "latitude": 69.9078,
+   "longitude": 27.0265,
+   "codigo_re": "10",
+   "population": 1250,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 74,
+   "nome": "Halsua",
+   "latitude": 63.4633,
+   "longitude": 24.1667,
+   "codigo_re": "07",
+   "population": 1225,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 265,
+   "nome": "Kivijärvi",
+   "latitude": 63.12,
+   "longitude": 25.075,
+   "codigo_re": "08",
+   "population": 1200,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 483,
+   "nome": "Merijärvi",
+   "latitude": 64.2967,
+   "longitude": 24.4467,
+   "codigo_re": "14",
+   "population": 1134,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 742,
+   "nome": "Savukoski",
+   "latitude": 67.2917,
+   "longitude": 28.1667,
+   "codigo_re": "10",
+   "population": 1061,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 72,
+   "nome": "Hailuoto",
+   "latitude": 65.0167,
+   "longitude": 24.7167,
+   "codigo_re": "14",
+   "population": 993,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 583,
+   "nome": "Pelkosenniemi",
+   "latitude": 67.1083,
+   "longitude": 27.5167,
+   "codigo_re": "10",
+   "population": 958,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 43,
+   "nome": "Eckerö",
+   "latitude": 60.2167,
+   "longitude": 19.55,
+   "codigo_re": "01",
+   "population": 935,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 304,
+   "nome": "Kustavi",
+   "latitude": 60.5467,
+   "longitude": 21.3583,
+   "codigo_re": "FI-19 ",
+   "population": 895,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 421,
+   "nome": "Lestijärvi",
+   "latitude": 63.525,
+   "longitude": 24.6653,
+   "codigo_re": "07",
+   "population": 798,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 435,
+   "nome": "Luhanka",
+   "latitude": 61.8,
+   "longitude": 25.7,
+   "codigo_re": "08",
+   "population": 761,
+   "admin_name": "Keski-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 35,
+   "nome": "Brändö",
+   "latitude": 60.4117,
+   "longitude": 21.0453,
+   "codigo_re": "01",
+   "population": 515,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 65,
+   "nome": "Geta",
+   "latitude": 60.375,
+   "longitude": 19.85,
+   "codigo_re": "01",
+   "population": 495,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 941,
+   "nome": "Vårdö",
+   "latitude": 60.2417,
+   "longitude": 20.375,
+   "codigo_re": "01",
+   "population": 441,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 438,
+   "nome": "Lumparland",
+   "latitude": 60.1167,
+   "longitude": 20.2583,
+   "codigo_re": "01",
+   "population": 398,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 295,
+   "nome": "Kumlinge",
+   "latitude": 60.2583,
+   "longitude": 20.7783,
+   "codigo_re": "01",
+   "population": 317,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 766,
+   "nome": "Sottunga",
+   "latitude": 60.1333,
+   "longitude": 20.6667,
+   "codigo_re": "01",
+   "population": 92,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 165,
+   "nome": "Janakkala",
+   "latitude": 60.9167,
+   "longitude": 24.6333,
+   "codigo_re": "06",
+   "population": 16340,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 82,
+   "nome": "Hattula",
+   "latitude": 61.05,
+   "longitude": 24.3667,
+   "codigo_re": "06",
+   "population": 9398,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 86,
+   "nome": "Hausjärvi",
+   "latitude": 60.7833,
+   "longitude": 25.0333,
+   "codigo_re": "06",
+   "population": 8144,
+   "admin_name": "Kanta-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 60,
+   "nome": "Finström",
+   "latitude": 60.23,
+   "longitude": 19.9881,
+   "codigo_re": "01",
+   "population": 2642,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 316,
+   "nome": "Kärkölä",
+   "latitude": 60.868,
+   "longitude": 25.273,
+   "codigo_re": "16",
+   "population": 4349,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 624,
+   "nome": "Pyhtää",
+   "latitude": 60.4958,
+   "longitude": 26.7097,
+   "codigo_re": "09",
+   "population": 5118,
+   "admin_name": "Kymenlaakso",
+   "capital": "minor"
+ },
+ {
+   "codigo": 16,
+   "nome": "Asikkala",
+   "latitude": 61.1722,
+   "longitude": 25.5472,
+   "codigo_re": "16",
+   "population": 8043,
+   "admin_name": "Päijät-Häme",
+   "capital": "minor"
+ },
+ {
+   "codigo": 736,
+   "nome": "Saltvik",
+   "latitude": 60.3073,
+   "longitude": 19.9862,
+   "codigo_re": "01",
+   "population": 1810,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 599,
+   "nome": "Pedersöre",
+   "latitude": 63.6,
+   "longitude": 22.7917,
+   "codigo_re": "12",
+   "population": 11171,
+   "admin_name": "Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 236,
+   "nome": "Kaustinen",
+   "latitude": 63.5481,
+   "longitude": 23.6999,
+   "codigo_re": "07",
+   "population": 4266,
+   "admin_name": "Keski-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 918,
+   "nome": "Vehmaa",
+   "latitude": 60.6833,
+   "longitude": 21.7167,
+   "codigo_re": "FI-19 ",
+   "population": null,
+   "admin_name": "Varsinais-Suomi",
+   "capital": "minor"
+ },
+ {
+   "codigo": 689,
+   "nome": "Rautjärvi",
+   "latitude": 61.4333,
+   "longitude": 29.367,
+   "codigo_re": "02",
+   "population": 3092,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 771,
+   "nome": "Sund",
+   "latitude": 60.2572,
+   "longitude": 20.1342,
+   "codigo_re": "01",
+   "population": 1020,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 177,
+   "nome": "Juupajoki",
+   "latitude": 61.8,
+   "longitude": 24.3667,
+   "codigo_re": "11",
+   "population": 1780,
+   "admin_name": "Pirkanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 441,
+   "nome": "Luumäki",
+   "latitude": 60.9167,
+   "longitude": 27.5667,
+   "codigo_re": "02",
+   "population": 4476,
+   "admin_name": "Etelä-Karjala",
+   "capital": "minor"
+ },
+ {
+   "codigo": 62,
+   "nome": "Föglö",
+   "latitude": 60,
+   "longitude": 20.4333,
+   "codigo_re": "01",
+   "population": 501,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 626,
+   "nome": "Pyhäjärvi",
+   "latitude": 63.6833,
+   "longitude": 25.9833,
+   "codigo_re": "14",
+   "population": 5088,
+   "admin_name": "Pohjois-Pohjanmaa",
+   "capital": "minor"
+ },
+ {
+   "codigo": 318,
+   "nome": "Kökar",
+   "latitude": 59.9167,
+   "longitude": 20.9,
+   "codigo_re": "01",
+   "population": 224,
+   "admin_name": "Åland",
+   "capital": "minor"
+ },
+ {
+   "codigo": 273,
+   "nome": "Kolari",
+   "latitude": 67.3317,
+   "longitude": 23.7913,
+   "codigo_re": "10",
+   "population": 3875,
+   "admin_name": "Lappi",
+   "capital": "minor"
+ }
+]

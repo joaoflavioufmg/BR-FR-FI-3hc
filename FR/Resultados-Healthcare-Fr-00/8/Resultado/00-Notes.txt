@@ -1,0 +1,79 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  16862894774.32
+Primary   Care Cost:	  16352269210.00
+Secondary Care Cost:	    219488500.00
+Tertiary  Care Cost:	    144596586.00
+Add Infrastruc Cost:	    145951873.00
+Populat ExtLog Cost:	       588605.32
+HC Cost per capita (now):	     1446.51
+HC Cost per capita (fut):	     1459.19
+----------------------------------------
+
+-----------------------------------
+State population:	11556374
+Max municipa pop:	2148271
+Min municipa pop:	1008
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 696 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 696 mun >  17 mun (100.00% coverage)
+Care Level [2]:  17 mun >   3 mun
+Care Level [3]:   3 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6443983	Guerville                :	23495367.50
+    1	3035419	Bagneaux-sur-Loing       :	5988704.50
+    1	6451175	Chailly-en-Brie          :	5193333.00
+    1	6454716	Chenoise                 :	4620116.50
+    1	3030085	Brières-les-Scellés    :	6797235.50
+    1	3036902	Armentières-en-Brie     :	25184311.50
+    1	2994131	Achères-la-Forêt       :	2689349.00
+    1	6443599	Châtenay-sur-Seine      :	6396790.50
+    1	2973069	Tessancourt-sur-Aubette  :	46278141.00
+    1	2974717	Seugy                    :	10931441.00
+    1	2989432	Orcemont                 :	8377083.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6612921	Éragny                  :	7942.70
+    1	2994396	Mériel                  :	2240.85
+    1	6443893	Veneux-les-Sablons       :	2053.68
+    1	6443831	Saint-Mammès            :	1476.41
+    1	3027836	Cerny                    :	1466.79
+    1	2991898	Morainvilliers           :	1323.78
+    1	3023948	Condé-sur-Vesgre        :	534.41
+    2	3015689	Gonesse                  :	26752.97
+    2	6446140	Fontenay-lès-Briis      :	3987.90
+    2	6443983	Guerville                :	44161.37
+    2	3035419	Bagneaux-sur-Loing       :	31443.69
+    2	6451175	Chailly-en-Brie          :	61611.38
+    2	6454716	Chenoise                 :	58524.38
+    2	3030085	Brières-les-Scellés    :	51119.78
+    2	3036902	Armentières-en-Brie     :	45346.81
+    2	2994131	Achères-la-Forêt       :	543.19
+    2	6443599	Châtenay-sur-Seine      :	21365.77
+    2	2973069	Tessancourt-sur-Aubette  :	4998.88
+    2	2974717	Seugy                    :	18071.73
+    2	2989432	Orcemont                 :	41091.50
+    3	3013657	Garches                  :	162547.37
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

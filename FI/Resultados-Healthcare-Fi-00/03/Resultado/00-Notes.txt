@@ -1,0 +1,72 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    825328462.40
+Primary   Care Cost:	    235808652.00
+Secondary Care Cost:	    361462480.00
+Tertiary  Care Cost:	    191226906.00
+Add Infrastruc Cost:	     36158241.20
+Populat ExtLog Cost:	       672183.20
+HC Cost per capita (now):	     4407.13
+HC Cost per capita (fut):	     4612.99
+----------------------------------------
+
+-----------------------------------
+State population:	178914
+Max municipa pop:	68050
+Min municipa pop:	1010
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.10
+[3]			18000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 17 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  17 mun >  13 mun (100.00% coverage)
+Care Level [2]:  13 mun >   6 mun
+Care Level [3]:   6 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	233	Kauhava                  :	1778113.80
+    1	408	Lapua                    :	1756498.60
+    1	232	Kauhajoki                :	1527825.60
+    1	145	Ilmajoki                 :	4043096.80
+    1	10	Alavus                   :	1331180.00
+    1	300	Kuortane                 :	422287.20
+    1	934	Vimpeli                  :	1396025.60
+    1	52	Evijärvi                :	605621.00
+    1	759	Soini                    :	221292.20
+    1	151	Isojoki                  :	219315.20
+    1	218	Karijoki                 :	686678.00
+    2	233	Kauhava                  :	5332396.80
+    2	408	Lapua                    :	3966115.20
+    2	232	Kauhajoki                :	4245561.60
+    2	145	Ilmajoki                 :	3711964.80
+    2	10	Alavus                   :	4914268.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	989	Ähtäri                 :	3682.02
+    2	300	Kuortane                 :	54296.09
+    2	934	Vimpeli                  :	75542.98
+    2	52	Evijärvi                :	50199.91
+    2	759	Soini                    :	108209.87
+    2	151	Isojoki                  :	46568.71
+    2	218	Karijoki                 :	4602.57
+    3	232	Kauhajoki                :	285006.85
+    3	10	Alavus                   :	44074.21
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

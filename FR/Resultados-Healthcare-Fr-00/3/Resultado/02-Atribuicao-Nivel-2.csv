@@ -1,0 +1,76 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2992292,Montluçon,2992292,Montluçon,0.00,2
+3027880,Cérilly,2992292,Montluçon,0.88,2
+2979705,Saint-Gervais-d’Auvergne,2992292,Montluçon,0.96,2
+3033677,Bellenaves,2992292,Montluçon,1.00,2
+2972742,Thonon-les-Bains,2972742,Thonon-les-Bains,0.00,2
+6451052,Contamine-sur-Arve,2972742,Thonon-les-Bains,0.70,2
+3025274,Chevry,2972742,Thonon-les-Bains,0.87,2
+3000902,Les Gets,2972742,Thonon-les-Bains,0.68,2
+6456430,Les Villards-sur-Thônes,2972742,Thonon-les-Bains,1.28,2
+3027847,Cernex,2972742,Thonon-les-Bains,1.16,2
+6430196,Romans-sur-Isère,6430196,Romans-sur-Isère,0.00,2
+6430138,Montéléger,6430196,Romans-sur-Isère,0.59,2
+2994806,Méaudre,6430196,Romans-sur-Isère,0.96,2
+2993323,Monestier-de-Clermont,6430196,Romans-sur-Isère,1.20,2
+6430201,Saillans,6430196,Romans-sur-Isère,1.01,2
+2973493,Talencieux,6430196,Romans-sur-Isère,0.72,2
+2969280,Vienne,2969280,Vienne,0.00,2
+2979985,Saint-Genis-Laval,2969280,Vienne,0.51,2
+3015823,Gleizé,2969280,Vienne,1.34,2
+2977350,Saint-Priest-en-Jarez,2969280,Vienne,0.98,2
+2987922,Pérouges,2969280,Vienne,1.21,2
+6448959,Boisset-lès-Montrond,2969280,Vienne,1.32,2
+2977132,Saint-Romain-Lachalm,2969280,Vienne,1.28,2
+6454096,Virieu,2969280,Vienne,1.17,2
+6433169,Chozeau,2969280,Vienne,0.80,2
+2979986,Saint-Genis-l’Argentière,2969280,Vienne,0.91,2
+6433205,Gillonnay,2969280,Vienne,0.90,2
+3036016,Aurillac,3036016,Aurillac,0.00,2
+2991179,Murat,3036016,Aurillac,0.98,2
+2978623,Saint-Mamet-la-Salvetat,3036016,Aurillac,0.32,2
+2990587,Neuvéglise,3036016,Aurillac,1.07,2
+2981224,Saint-Cernin,3036016,Aurillac,0.37,2
+6615931,Champs sur Tarentaine,3036016,Aurillac,1.33,2
+2983489,Riom,2983489,Riom,0.00,2
+3003517,Le Mayet-de-Montagne,2983489,Riom,1.18,2
+6614502,Lempdes-sur-Allagnon,2983489,Riom,1.45,2
+3004433,Le Crest,2983489,Riom,0.58,2
+6434284,Saint-Just-en-Chevalet,2983489,Riom,1.42,2
+2977050,Saint-Sauves-d’Auvergne,2983489,Riom,1.15,2
+3022100,Culhat,2983489,Riom,0.44,2
+2967166,Yzeure,2967166,Yzeure,0.00,2
+2972868,Thiel-sur-Acolin,2967166,Yzeure,0.45,2
+3026398,Chassenard,2967166,Yzeure,1.25,2
+2996796,Magnet,2967166,Yzeure,1.02,2
+2970831,Bellegarde-sur-Valserine,2970831,Bellegarde-sur-Valserine,0.00,2
+6424578,Malafretaz,2970831,Bellegarde-sur-Valserine,1.44,2
+6424542,Groissiat,2970831,Bellegarde-sur-Valserine,0.53,2
+2967945,Virieu-le-Grand,2970831,Bellegarde-sur-Valserine,0.79,2
+3001357,Montcel,2970831,Bellegarde-sur-Valserine,1.11,2
+3019238,Eybens,3019238,Eybens,0.00,2
+3010460,La Chambre,3019238,Eybens,1.23,2
+2992777,Mont-de-Lans,3019238,Eybens,0.81,2
+6442904,Saint-Thibaud-de-Couz,3019238,Eybens,1.00,2
+2970899,Valloire,3019238,Eybens,1.33,2
+6457196,Les Adrets,3019238,Eybens,0.54,2
+2993277,Monistrol-sur-Loire,2993277,Monistrol-sur-Loire,0.00,2
+3007730,Langeac,2993277,Monistrol-sur-Loire,1.43,2
+3036723,Arsac-en-Velay,2993277,Monistrol-sur-Loire,0.95,2
+3012329,Job,2993277,Monistrol-sur-Loire,1.23,2
+2977760,Saint-Pal-de-Chalencon,2993277,Monistrol-sur-Loire,0.46,2
+3021729,Dardilly,3021729,Dardilly,0.00,2
+2985835,Pouilly-lès-Feurs,3021729,Dardilly,1.01,2
+6424514,Dompierre-sur-Veyle,3021729,Dardilly,1.14,2
+3022800,Coutouvre,3021729,Dardilly,1.28,2
+3007921,Lancié,3021729,Dardilly,1.02,2
+3027301,Chamonix-Mont-Blanc,3027301,Chamonix-Mont-Blanc,0.00,2
+2996874,Mâcot-la-Plagne,3027301,Chamonix-Mont-Blanc,1.09,2
+2971074,Val-d’Isère,3027301,Chamonix-Mont-Blanc,1.33,2
+6442840,Notre-Dame-des-Millières,3027301,Chamonix-Mont-Blanc,1.31,2
+2985290,Privas,2985290,Privas,0.00,2
+6455737,La Garde-Adhémar,2985290,Privas,1.00,2
+2978326,Saint-Martin-de-Valamas,2985290,Privas,0.72,2
+2968019,Vinsobres,2985290,Privas,1.44,2
+3011217,La Bâtie-Rolland,2985290,Privas,0.73,2
+3005992,Laurac-en-Vivarais,2985290,Privas,0.88,2

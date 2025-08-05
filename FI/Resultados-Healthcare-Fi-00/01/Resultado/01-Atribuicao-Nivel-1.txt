@@ -1,0 +1,17 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+478	                     Mariehamn	478	                     Mariehamn	    0.00
+170	                        Jomala	170	                        Jomala	    0.00
+417	                       Lemland	417	                       Lemland	    0.00
+76	                    Hammarland	76	                    Hammarland	    0.00
+43	                       Eckerö	43	                       Eckerö	    0.00
+35	                      Brändö	35	                      Brändö	    0.00
+65	                          Geta	65	                          Geta	    0.00
+941	                       Vårdö	941	                       Vårdö	    0.00
+438	                    Lumparland	438	                    Lumparland	    0.00
+295	                      Kumlinge	766	                      Sottunga	    0.38
+766	                      Sottunga	766	                      Sottunga	    0.00
+60	                     Finström	60	                     Finström	    0.00
+736	                       Saltvik	736	                       Saltvik	    0.00
+771	                          Sund	771	                          Sund	    0.00
+62	                       Föglö	62	                       Föglö	    0.00
+318	                        Kökar	318	                        Kökar	    0.00

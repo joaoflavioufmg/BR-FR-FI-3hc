@@ -1,0 +1,39 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6508863,Le Mans,6508863,Le Mans,0.00
+3029775,Brûlon,6508863,Le Mans,0.81
+3003653,Le Luart,6508863,Le Mans,0.74
+2982188,Ruillé-sur-Loir,6508863,Le Mans,1.06
+6442669,Requeil,6508863,Le Mans,0.62
+2990679,Neufchâtel-en-Saosnois,6508863,Le Mans,1.03
+3025053,Cholet,3025053,Cholet,0.00
+3007004,La Regrippière,3025053,Cholet,0.66
+2977659,Saint-Paul-en-Pareds,3025053,Cholet,0.69
+2979590,Saint-Herblain,2979590,Saint-Herblain,0.00
+2981146,Saint-Christophe-du-Ligneron,2979590,Saint-Herblain,1.10
+3031220,Bouin,2979590,Saint-Herblain,0.94
+3010044,La Chevallerais,2979590,Saint-Herblain,0.71
+2985490,Préfailles,2979590,Saint-Herblain,1.09
+2976839,Saint-Sulpice-le-Verdon,2979590,Saint-Herblain,0.99
+2999908,Les Ponts-de-Cé,2999908,Les Ponts-de-Cé,0.00
+2977600,Saint-Philbert-du-Peuple,2999908,Les Ponts-de-Cé,0.91
+2989820,Nyoiseau,2999908,Les Ponts-de-Cé,1.09
+2975467,Sceaux-d’Anjou,2999908,Les Ponts-de-Cé,0.57
+3006640,La Rouxière,2999908,Les Ponts-de-Cé,1.02
+2970534,Vaudelnay,2999908,Les Ponts-de-Cé,1.00
+3026808,Chanzeaux,2999908,Les Ponts-de-Cé,0.50
+2999825,Les Rairies,2999908,Les Ponts-de-Cé,0.87
+3019259,Évron,3019259,Évron,0.00
+6436516,Villaines-la-Juhel,3019259,Évron,0.57
+2997855,Loiron,3019259,Évron,1.02
+2980905,Saint-Denis-de-Gastines,3019259,Évron,0.99
+3014683,Grez-en-Bouère,3019259,Évron,0.81
+3026823,Chantonnay,3026823,Chantonnay,0.00
+3004763,Le Champ-Saint-Père,3026823,Chantonnay,0.75
+2979928,Saint-Georges-de-Pointindoux,3026823,Chantonnay,1.10
+3017456,Foussais-Payré,3026823,Chantonnay,0.82
+3003726,Le Langon,3026823,Chantonnay,0.72
+2992206,Montoir-de-Bretagne,2992206,Montoir-de-Bretagne,0.00
+3036512,Assérac,2992206,Montoir-de-Bretagne,0.53
+2974701,Sévérac,2992206,Montoir-de-Bretagne,0.63
+2973748,Sucé-sur-Erdre,2973748,Sucé-sur-Erdre,0.00
+2997433,Louisfert,2973748,Sucé-sur-Erdre,0.97

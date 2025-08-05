@@ -1,0 +1,64 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Pirkanmaa (11)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	4617	# Q1
+3	8254	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+837	11	61.4981	23.7608	268502	0	'Tampere'	
+536	11	61.4767	23.5053	36680	0	'Nokia'	
+980	11	61.55	23.5833	34423	1	'Ylöjärvi'	
+211	11	61.4639	24.065	34456	0	'Kangasala'	
+790	11	61.3417	22.9083	21791	0	'Sastamala'	
+418	11	61.3139	23.7528	25520	1	'Lempäälä'	
+908	11	61.2667	24.0306	19536	0	'Valkeakoski'	
+604	11	61.4667	23.65	21288	1	'Pirkkala'	
+020	11	61.1667	23.8681	15326	1	'Akaa'	
+108	11	61.6333	23.2	9755	1	'Hämeenkyrö'	
+562	11	61.6778	24.3569	8305	1	'Orivesi'	
+143	11	61.7694	23.0681	6364	1	'Ikaalinen'	
+508	11	62.0292	24.6236	8202	1	'Mänttä-Vilppula'	
+936	11	62.2403	23.7708	5685	1	'Virrat'	
+581	11	62.0097	23.025	5683	1	'Parkano'	
+635	11	61.3389	24.2681	5960	1	'Pälkäne'	
+887	11	61.0833	23.55	4195	1	'Urjala'	
+702	11	61.9833	24.0833	3606	1	'Ruovesi'	
+922	11	61.3167	23.6167	4262	1	'Vesilahti'	
+619	11	61.1117	23.105	2336	1	'Punkalaidun'	
+250	11	62.2083	23.1792	1487	1	'Kihniö'	
+177	11	61.8	24.3667	1538	1	'Juupajoki'				
+;
+
+
+end;

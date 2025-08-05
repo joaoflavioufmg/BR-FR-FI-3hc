@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	272	Kokkola	65348.00	32.66	118.54	37.93	0.00	42.67	0.79	0.63	0.42	0.21

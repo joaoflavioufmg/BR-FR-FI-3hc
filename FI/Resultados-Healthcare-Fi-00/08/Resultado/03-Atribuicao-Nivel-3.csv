@@ -1,0 +1,5 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+179,"Jyväskylä",179,"Jyväskylä",0,3
+182,"Jämsä",179,"Jyväskylä",1.25,3
+992,"Äänekoski",179,"Jyväskylä",1.03,3
+410,"Laukaa",179,"Jyväskylä",0.58,3

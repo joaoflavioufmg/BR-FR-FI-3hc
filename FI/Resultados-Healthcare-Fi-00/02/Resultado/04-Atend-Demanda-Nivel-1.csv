@@ -1,0 +1,7 @@
+NIVEL,CODIGO,DESTINO,POP_ATENDIDA,Physicians,Nurses,OtherCadres,CommunityBased,Beds,CTScanner,MRIUnit,Mammography,Radiotherapy
+1,405,"Lappeenranta",79082,10.2807,49.8217,28.4696,27.6786,0,0,0,0,0
+1,153,"Imatra",22939,2.9821,14.4516,8.258,8.0286,0,0,0,0,0
+1,700,"Ruokolahti",4277,0.556,2.6945,1.5397,1.4969,0,0,0,0,0
+1,580,"Parikkala",6418,0.8343,4.0433,2.3105,2.2463,0,0,0,0,0
+1,739,"Savitaipale",2858,0.3715,1.8005,1.0289,1.0003,0,0,0,0,0
+1,441,"Luumäki",4017,0.5222,2.5307,1.4461,1.4059,0,0,0,0,0

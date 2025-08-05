@@ -1,0 +1,68 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Uusimaa (18)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	6378	# Q1
+3	25655	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+091	18	60.1756	24.9342	703540	0	'Helsinki'	
+049	18	60.21	24.66	331612	0	'Espoo'	
+092	18	60.3	25.0333	268791	0	'Vantaa'	
+638	18	60.3931	25.6639	52037	1	'Porvoo'	
+444	18	60.25	24.0667	43691	1	'Lohja'	
+106	18	60.6306	24.8597	47409	1	'Hyvinkää'	
+543	18	60.4667	24.8083	47039	1	'Nurmijärvi'	
+186	18	60.4722	25.0889	50377	1	'Järvenpää'	
+257	18	60.1167	24.4167	43050	1	'Kirkkonummi'	
+858	18	60.4028	25.0292	39854	1	'Tuusula'	
+245	18	60.4028	25.1	40261	1	'Kerava'	
+927	18	60.4167	24.3331	29556	1	'Vihti'	
+710	18	59.975	23.4361	26057	1	'Raasepori'	
+505	18	60.6331	25.3167	21127	1	'Mäntsälä'	
+753	18	60.3764	25.2722	25253	1	'Sipoo'	
+434	18	60.4569	26.225	13874	1	'Loviisa'	
+235	18	60.2097	24.7264	11358	1	'Kauniainen'	
+224	18	60.5347	24.2097	8260	1	'Karkkila'	
+078	18	59.8236	22.9681	6829	1	'Hanko'	
+755	18	60.1333	24.2167	6228	1	'Siuntio'	
+149	18	60.0458	24.0056	5059	1	'Ingå'	
+611	18	60.475	25.375	5126	1	'Pornainen'	
+018	18	60.5278	25.6	4598	1	'Askola'	
+407	18	60.6167	26.2	2433	1	'Lapinjärvi'	
+616	18	60.645	25.5833	1684	1	'Pukkila'	
+504	18	60.6667	25.85	1713	1	'Myrskylä'	
+;
+
+
+end;

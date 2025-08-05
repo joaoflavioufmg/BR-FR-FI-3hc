@@ -1,0 +1,442 @@
+NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
+1,6508863,Le Mans,1,Physicians,295375,38.40
+1,6508863,Le Mans,2,Nurses,295375,186.09
+1,6508863,Le Mans,3,OtherCadres,295375,106.34
+1,6508863,Le Mans,4,CommunityBased,295375,103.38
+1,6508863,Le Mans,5,Beds,295375,0.00
+1,6508863,Le Mans,6,CTScanner,295375,0.00
+1,6508863,Le Mans,7,MRIUnit,295375,0.00
+1,6508863,Le Mans,8,Mammography,295375,0.00
+1,6508863,Le Mans,9,Radiotherapy,295375,0.00
+1,3025053,Cholet,1,Physicians,173721,22.58
+1,3025053,Cholet,2,Nurses,173721,109.44
+1,3025053,Cholet,3,OtherCadres,173721,62.54
+1,3025053,Cholet,4,CommunityBased,173721,60.80
+1,3025053,Cholet,5,Beds,173721,0.00
+1,3025053,Cholet,6,CTScanner,173721,0.00
+1,3025053,Cholet,7,MRIUnit,173721,0.00
+1,3025053,Cholet,8,Mammography,173721,0.00
+1,3025053,Cholet,9,Radiotherapy,173721,0.00
+1,2979590,Saint-Herblain,1,Physicians,761798,99.03
+1,2979590,Saint-Herblain,2,Nurses,761798,479.93
+1,2979590,Saint-Herblain,3,OtherCadres,761798,274.25
+1,2979590,Saint-Herblain,4,CommunityBased,761798,266.63
+1,2979590,Saint-Herblain,5,Beds,761798,0.00
+1,2979590,Saint-Herblain,6,CTScanner,761798,0.00
+1,2979590,Saint-Herblain,7,MRIUnit,761798,0.00
+1,2979590,Saint-Herblain,8,Mammography,761798,0.00
+1,2979590,Saint-Herblain,9,Radiotherapy,761798,0.00
+1,2999908,Les Ponts-de-Cé,1,Physicians,341977,44.46
+1,2999908,Les Ponts-de-Cé,2,Nurses,341977,215.45
+1,2999908,Les Ponts-de-Cé,3,OtherCadres,341977,123.11
+1,2999908,Les Ponts-de-Cé,4,CommunityBased,341977,119.69
+1,2999908,Les Ponts-de-Cé,5,Beds,341977,0.00
+1,2999908,Les Ponts-de-Cé,6,CTScanner,341977,0.00
+1,2999908,Les Ponts-de-Cé,7,MRIUnit,341977,0.00
+1,2999908,Les Ponts-de-Cé,8,Mammography,341977,0.00
+1,2999908,Les Ponts-de-Cé,9,Radiotherapy,341977,0.00
+1,3019259,Évron,1,Physicians,26226,3.41
+1,3019259,Évron,2,Nurses,26226,16.52
+1,3019259,Évron,3,OtherCadres,26226,9.44
+1,3019259,Évron,4,CommunityBased,26226,9.18
+1,3019259,Évron,5,Beds,26226,0.00
+1,3019259,Évron,6,CTScanner,26226,0.00
+1,3019259,Évron,7,MRIUnit,26226,0.00
+1,3019259,Évron,8,Mammography,26226,0.00
+1,3019259,Évron,9,Radiotherapy,26226,0.00
+1,3026823,Chantonnay,1,Physicians,66928,8.70
+1,3026823,Chantonnay,2,Nurses,66928,42.16
+1,3026823,Chantonnay,3,OtherCadres,66928,24.09
+1,3026823,Chantonnay,4,CommunityBased,66928,23.42
+1,3026823,Chantonnay,5,Beds,66928,0.00
+1,3026823,Chantonnay,6,CTScanner,66928,0.00
+1,3026823,Chantonnay,7,MRIUnit,66928,0.00
+1,3026823,Chantonnay,8,Mammography,66928,0.00
+1,3026823,Chantonnay,9,Radiotherapy,66928,0.00
+1,2992206,Montoir-de-Bretagne,1,Physicians,101008,13.13
+1,2992206,Montoir-de-Bretagne,2,Nurses,101008,63.63
+1,2992206,Montoir-de-Bretagne,3,OtherCadres,101008,36.36
+1,2992206,Montoir-de-Bretagne,4,CommunityBased,101008,35.35
+1,2992206,Montoir-de-Bretagne,5,Beds,101008,0.00
+1,2992206,Montoir-de-Bretagne,6,CTScanner,101008,0.00
+1,2992206,Montoir-de-Bretagne,7,MRIUnit,101008,0.00
+1,2992206,Montoir-de-Bretagne,8,Mammography,101008,0.00
+1,2992206,Montoir-de-Bretagne,9,Radiotherapy,101008,0.00
+1,2973748,Sucé-sur-Erdre,1,Physicians,76017,9.88
+1,2973748,Sucé-sur-Erdre,2,Nurses,76017,47.89
+1,2973748,Sucé-sur-Erdre,3,OtherCadres,76017,27.37
+1,2973748,Sucé-sur-Erdre,4,CommunityBased,76017,26.61
+1,2973748,Sucé-sur-Erdre,5,Beds,76017,0.00
+1,2973748,Sucé-sur-Erdre,6,CTScanner,76017,0.00
+1,2973748,Sucé-sur-Erdre,7,MRIUnit,76017,0.00
+1,2973748,Sucé-sur-Erdre,8,Mammography,76017,0.00
+1,2973748,Sucé-sur-Erdre,9,Radiotherapy,76017,0.00
+1,6436516,Villaines-la-Juhel,1,Physicians,8814,1.15
+1,6436516,Villaines-la-Juhel,2,Nurses,8814,5.55
+1,6436516,Villaines-la-Juhel,3,OtherCadres,8814,3.17
+1,6436516,Villaines-la-Juhel,4,CommunityBased,8814,3.08
+1,6436516,Villaines-la-Juhel,5,Beds,8814,0.00
+1,6436516,Villaines-la-Juhel,6,CTScanner,8814,0.00
+1,6436516,Villaines-la-Juhel,7,MRIUnit,8814,0.00
+1,6436516,Villaines-la-Juhel,8,Mammography,8814,0.00
+1,6436516,Villaines-la-Juhel,9,Radiotherapy,8814,0.00
+1,2981146,Saint-Christophe-du-Ligneron,1,Physicians,57640,7.49
+1,2981146,Saint-Christophe-du-Ligneron,2,Nurses,57640,36.31
+1,2981146,Saint-Christophe-du-Ligneron,3,OtherCadres,57640,20.75
+1,2981146,Saint-Christophe-du-Ligneron,4,CommunityBased,57640,20.17
+1,2981146,Saint-Christophe-du-Ligneron,5,Beds,57640,0.00
+1,2981146,Saint-Christophe-du-Ligneron,6,CTScanner,57640,0.00
+1,2981146,Saint-Christophe-du-Ligneron,7,MRIUnit,57640,0.00
+1,2981146,Saint-Christophe-du-Ligneron,8,Mammography,57640,0.00
+1,2981146,Saint-Christophe-du-Ligneron,9,Radiotherapy,57640,0.00
+1,3031220,Bouin,1,Physicians,83245,10.82
+1,3031220,Bouin,2,Nurses,83245,52.44
+1,3031220,Bouin,3,OtherCadres,83245,29.97
+1,3031220,Bouin,4,CommunityBased,83245,29.14
+1,3031220,Bouin,5,Beds,83245,0.00
+1,3031220,Bouin,6,CTScanner,83245,0.00
+1,3031220,Bouin,7,MRIUnit,83245,0.00
+1,3031220,Bouin,8,Mammography,83245,0.00
+1,3031220,Bouin,9,Radiotherapy,83245,0.00
+1,3004763,Le Champ-Saint-Père,1,Physicians,31608,4.11
+1,3004763,Le Champ-Saint-Père,2,Nurses,31608,19.91
+1,3004763,Le Champ-Saint-Père,3,OtherCadres,31608,11.38
+1,3004763,Le Champ-Saint-Père,4,CommunityBased,31608,11.06
+1,3004763,Le Champ-Saint-Père,5,Beds,31608,0.00
+1,3004763,Le Champ-Saint-Père,6,CTScanner,31608,0.00
+1,3004763,Le Champ-Saint-Père,7,MRIUnit,31608,0.00
+1,3004763,Le Champ-Saint-Père,8,Mammography,31608,0.00
+1,3004763,Le Champ-Saint-Père,9,Radiotherapy,31608,0.00
+1,3036512,Assérac,1,Physicians,75852,9.86
+1,3036512,Assérac,2,Nurses,75852,47.79
+1,3036512,Assérac,3,OtherCadres,75852,27.31
+1,3036512,Assérac,4,CommunityBased,75852,26.55
+1,3036512,Assérac,5,Beds,75852,0.00
+1,3036512,Assérac,6,CTScanner,75852,0.00
+1,3036512,Assérac,7,MRIUnit,75852,0.00
+1,3036512,Assérac,8,Mammography,75852,0.00
+1,3036512,Assérac,9,Radiotherapy,75852,0.00
+1,2997855,Loiron,1,Physicians,99959,12.99
+1,2997855,Loiron,2,Nurses,99959,62.97
+1,2997855,Loiron,3,OtherCadres,99959,35.99
+1,2997855,Loiron,4,CommunityBased,99959,34.99
+1,2997855,Loiron,5,Beds,99959,0.00
+1,2997855,Loiron,6,CTScanner,99959,0.00
+1,2997855,Loiron,7,MRIUnit,99959,0.00
+1,2997855,Loiron,8,Mammography,99959,0.00
+1,2997855,Loiron,9,Radiotherapy,99959,0.00
+1,2979928,Saint-Georges-de-Pointindoux,1,Physicians,216245,28.11
+1,2979928,Saint-Georges-de-Pointindoux,2,Nurses,216245,136.23
+1,2979928,Saint-Georges-de-Pointindoux,3,OtherCadres,216245,77.85
+1,2979928,Saint-Georges-de-Pointindoux,4,CommunityBased,216245,75.69
+1,2979928,Saint-Georges-de-Pointindoux,5,Beds,216245,0.00
+1,2979928,Saint-Georges-de-Pointindoux,6,CTScanner,216245,0.00
+1,2979928,Saint-Georges-de-Pointindoux,7,MRIUnit,216245,0.00
+1,2979928,Saint-Georges-de-Pointindoux,8,Mammography,216245,0.00
+1,2979928,Saint-Georges-de-Pointindoux,9,Radiotherapy,216245,0.00
+1,2974701,Sévérac,1,Physicians,47063,6.12
+1,2974701,Sévérac,2,Nurses,47063,29.65
+1,2974701,Sévérac,3,OtherCadres,47063,16.94
+1,2974701,Sévérac,4,CommunityBased,47063,16.47
+1,2974701,Sévérac,5,Beds,47063,0.00
+1,2974701,Sévérac,6,CTScanner,47063,0.00
+1,2974701,Sévérac,7,MRIUnit,47063,0.00
+1,2974701,Sévérac,8,Mammography,47063,0.00
+1,2974701,Sévérac,9,Radiotherapy,47063,0.00
+1,3029775,Brûlon,1,Physicians,12325,1.60
+1,3029775,Brûlon,2,Nurses,12325,7.76
+1,3029775,Brûlon,3,OtherCadres,12325,4.44
+1,3029775,Brûlon,4,CommunityBased,12325,4.31
+1,3029775,Brûlon,5,Beds,12325,0.00
+1,3029775,Brûlon,6,CTScanner,12325,0.00
+1,3029775,Brûlon,7,MRIUnit,12325,0.00
+1,3029775,Brûlon,8,Mammography,12325,0.00
+1,3029775,Brûlon,9,Radiotherapy,12325,0.00
+1,3010044,La Chevallerais,1,Physicians,36172,4.70
+1,3010044,La Chevallerais,2,Nurses,36172,22.79
+1,3010044,La Chevallerais,3,OtherCadres,36172,13.02
+1,3010044,La Chevallerais,4,CommunityBased,36172,12.66
+1,3010044,La Chevallerais,5,Beds,36172,0.00
+1,3010044,La Chevallerais,6,CTScanner,36172,0.00
+1,3010044,La Chevallerais,7,MRIUnit,36172,0.00
+1,3010044,La Chevallerais,8,Mammography,36172,0.00
+1,3010044,La Chevallerais,9,Radiotherapy,36172,0.00
+1,3007004,La Regrippière,1,Physicians,91350,11.88
+1,3007004,La Regrippière,2,Nurses,91350,57.55
+1,3007004,La Regrippière,3,OtherCadres,91350,32.89
+1,3007004,La Regrippière,4,CommunityBased,91350,31.97
+1,3007004,La Regrippière,5,Beds,91350,0.00
+1,3007004,La Regrippière,6,CTScanner,91350,0.00
+1,3007004,La Regrippière,7,MRIUnit,91350,0.00
+1,3007004,La Regrippière,8,Mammography,91350,0.00
+1,3007004,La Regrippière,9,Radiotherapy,91350,0.00
+1,2980905,Saint-Denis-de-Gastines,1,Physicians,41696,5.42
+1,2980905,Saint-Denis-de-Gastines,2,Nurses,41696,26.27
+1,2980905,Saint-Denis-de-Gastines,3,OtherCadres,41696,15.01
+1,2980905,Saint-Denis-de-Gastines,4,CommunityBased,41696,14.59
+1,2980905,Saint-Denis-de-Gastines,5,Beds,41696,0.00
+1,2980905,Saint-Denis-de-Gastines,6,CTScanner,41696,0.00
+1,2980905,Saint-Denis-de-Gastines,7,MRIUnit,41696,0.00
+1,2980905,Saint-Denis-de-Gastines,8,Mammography,41696,0.00
+1,2980905,Saint-Denis-de-Gastines,9,Radiotherapy,41696,0.00
+1,3003653,Le Luart,1,Physicians,33876,4.40
+1,3003653,Le Luart,2,Nurses,33876,21.34
+1,3003653,Le Luart,3,OtherCadres,33876,12.20
+1,3003653,Le Luart,4,CommunityBased,33876,11.86
+1,3003653,Le Luart,5,Beds,33876,0.00
+1,3003653,Le Luart,6,CTScanner,33876,0.00
+1,3003653,Le Luart,7,MRIUnit,33876,0.00
+1,3003653,Le Luart,8,Mammography,33876,0.00
+1,3003653,Le Luart,9,Radiotherapy,33876,0.00
+1,2977659,Saint-Paul-en-Pareds,1,Physicians,29413,3.82
+1,2977659,Saint-Paul-en-Pareds,2,Nurses,29413,18.53
+1,2977659,Saint-Paul-en-Pareds,3,OtherCadres,29413,10.59
+1,2977659,Saint-Paul-en-Pareds,4,CommunityBased,29413,10.29
+1,2977659,Saint-Paul-en-Pareds,5,Beds,29413,0.00
+1,2977659,Saint-Paul-en-Pareds,6,CTScanner,29413,0.00
+1,2977659,Saint-Paul-en-Pareds,7,MRIUnit,29413,0.00
+1,2977659,Saint-Paul-en-Pareds,8,Mammography,29413,0.00
+1,2977659,Saint-Paul-en-Pareds,9,Radiotherapy,29413,0.00
+1,2977600,Saint-Philbert-du-Peuple,1,Physicians,61459,7.99
+1,2977600,Saint-Philbert-du-Peuple,2,Nurses,61459,38.72
+1,2977600,Saint-Philbert-du-Peuple,3,OtherCadres,61459,22.13
+1,2977600,Saint-Philbert-du-Peuple,4,CommunityBased,61459,21.51
+1,2977600,Saint-Philbert-du-Peuple,5,Beds,61459,0.00
+1,2977600,Saint-Philbert-du-Peuple,6,CTScanner,61459,0.00
+1,2977600,Saint-Philbert-du-Peuple,7,MRIUnit,61459,0.00
+1,2977600,Saint-Philbert-du-Peuple,8,Mammography,61459,0.00
+1,2977600,Saint-Philbert-du-Peuple,9,Radiotherapy,61459,0.00
+1,2985490,Préfailles,1,Physicians,102096,13.27
+1,2985490,Préfailles,2,Nurses,102096,64.32
+1,2985490,Préfailles,3,OtherCadres,102096,36.75
+1,2985490,Préfailles,4,CommunityBased,102096,35.73
+1,2985490,Préfailles,5,Beds,102096,0.00
+1,2985490,Préfailles,6,CTScanner,102096,0.00
+1,2985490,Préfailles,7,MRIUnit,102096,0.00
+1,2985490,Préfailles,8,Mammography,102096,0.00
+1,2985490,Préfailles,9,Radiotherapy,102096,0.00
+1,2982188,Ruillé-sur-Loir,1,Physicians,12344,1.60
+1,2982188,Ruillé-sur-Loir,2,Nurses,12344,7.78
+1,2982188,Ruillé-sur-Loir,3,OtherCadres,12344,4.44
+1,2982188,Ruillé-sur-Loir,4,CommunityBased,12344,4.32
+1,2982188,Ruillé-sur-Loir,5,Beds,12344,0.00
+1,2982188,Ruillé-sur-Loir,6,CTScanner,12344,0.00
+1,2982188,Ruillé-sur-Loir,7,MRIUnit,12344,0.00
+1,2982188,Ruillé-sur-Loir,8,Mammography,12344,0.00
+1,2982188,Ruillé-sur-Loir,9,Radiotherapy,12344,0.00
+1,2989820,Nyoiseau,1,Physicians,39320,5.11
+1,2989820,Nyoiseau,2,Nurses,39320,24.77
+1,2989820,Nyoiseau,3,OtherCadres,39320,14.16
+1,2989820,Nyoiseau,4,CommunityBased,39320,13.76
+1,2989820,Nyoiseau,5,Beds,39320,0.00
+1,2989820,Nyoiseau,6,CTScanner,39320,0.00
+1,2989820,Nyoiseau,7,MRIUnit,39320,0.00
+1,2989820,Nyoiseau,8,Mammography,39320,0.00
+1,2989820,Nyoiseau,9,Radiotherapy,39320,0.00
+1,2975467,Sceaux-d’Anjou,1,Physicians,16446,2.14
+1,2975467,Sceaux-d’Anjou,2,Nurses,16446,10.36
+1,2975467,Sceaux-d’Anjou,3,OtherCadres,16446,5.92
+1,2975467,Sceaux-d’Anjou,4,CommunityBased,16446,5.76
+1,2975467,Sceaux-d’Anjou,5,Beds,16446,0.00
+1,2975467,Sceaux-d’Anjou,6,CTScanner,16446,0.00
+1,2975467,Sceaux-d’Anjou,7,MRIUnit,16446,0.00
+1,2975467,Sceaux-d’Anjou,8,Mammography,16446,0.00
+1,2975467,Sceaux-d’Anjou,9,Radiotherapy,16446,0.00
+1,3006640,La Rouxière,1,Physicians,56580,7.36
+1,3006640,La Rouxière,2,Nurses,56580,35.65
+1,3006640,La Rouxière,3,OtherCadres,56580,20.37
+1,3006640,La Rouxière,4,CommunityBased,56580,19.80
+1,3006640,La Rouxière,5,Beds,56580,0.00
+1,3006640,La Rouxière,6,CTScanner,56580,0.00
+1,3006640,La Rouxière,7,MRIUnit,56580,0.00
+1,3006640,La Rouxière,8,Mammography,56580,0.00
+1,3006640,La Rouxière,9,Radiotherapy,56580,0.00
+1,6442669,Requeil,1,Physicians,51818,6.74
+1,6442669,Requeil,2,Nurses,51818,32.65
+1,6442669,Requeil,3,OtherCadres,51818,18.65
+1,6442669,Requeil,4,CommunityBased,51818,18.14
+1,6442669,Requeil,5,Beds,51818,0.00
+1,6442669,Requeil,6,CTScanner,51818,0.00
+1,6442669,Requeil,7,MRIUnit,51818,0.00
+1,6442669,Requeil,8,Mammography,51818,0.00
+1,6442669,Requeil,9,Radiotherapy,51818,0.00
+1,3017456,Foussais-Payré,1,Physicians,32768,4.26
+1,3017456,Foussais-Payré,2,Nurses,32768,20.64
+1,3017456,Foussais-Payré,3,OtherCadres,32768,11.80
+1,3017456,Foussais-Payré,4,CommunityBased,32768,11.47
+1,3017456,Foussais-Payré,5,Beds,32768,0.00
+1,3017456,Foussais-Payré,6,CTScanner,32768,0.00
+1,3017456,Foussais-Payré,7,MRIUnit,32768,0.00
+1,3017456,Foussais-Payré,8,Mammography,32768,0.00
+1,3017456,Foussais-Payré,9,Radiotherapy,32768,0.00
+1,2970534,Vaudelnay,1,Physicians,28169,3.66
+1,2970534,Vaudelnay,2,Nurses,28169,17.75
+1,2970534,Vaudelnay,3,OtherCadres,28169,10.14
+1,2970534,Vaudelnay,4,CommunityBased,28169,9.86
+1,2970534,Vaudelnay,5,Beds,28169,0.00
+1,2970534,Vaudelnay,6,CTScanner,28169,0.00
+1,2970534,Vaudelnay,7,MRIUnit,28169,0.00
+1,2970534,Vaudelnay,8,Mammography,28169,0.00
+1,2970534,Vaudelnay,9,Radiotherapy,28169,0.00
+1,3026808,Chanzeaux,1,Physicians,15439,2.01
+1,3026808,Chanzeaux,2,Nurses,15439,9.73
+1,3026808,Chanzeaux,3,OtherCadres,15439,5.56
+1,3026808,Chanzeaux,4,CommunityBased,15439,5.40
+1,3026808,Chanzeaux,5,Beds,15439,0.00
+1,3026808,Chanzeaux,6,CTScanner,15439,0.00
+1,3026808,Chanzeaux,7,MRIUnit,15439,0.00
+1,3026808,Chanzeaux,8,Mammography,15439,0.00
+1,3026808,Chanzeaux,9,Radiotherapy,15439,0.00
+1,2976839,Saint-Sulpice-le-Verdon,1,Physicians,109506,14.24
+1,2976839,Saint-Sulpice-le-Verdon,2,Nurses,109506,68.99
+1,2976839,Saint-Sulpice-le-Verdon,3,OtherCadres,109506,39.42
+1,2976839,Saint-Sulpice-le-Verdon,4,CommunityBased,109506,38.33
+1,2976839,Saint-Sulpice-le-Verdon,5,Beds,109506,0.00
+1,2976839,Saint-Sulpice-le-Verdon,6,CTScanner,109506,0.00
+1,2976839,Saint-Sulpice-le-Verdon,7,MRIUnit,109506,0.00
+1,2976839,Saint-Sulpice-le-Verdon,8,Mammography,109506,0.00
+1,2976839,Saint-Sulpice-le-Verdon,9,Radiotherapy,109506,0.00
+1,2990679,Neufchâtel-en-Saosnois,1,Physicians,20995,2.73
+1,2990679,Neufchâtel-en-Saosnois,2,Nurses,20995,13.23
+1,2990679,Neufchâtel-en-Saosnois,3,OtherCadres,20995,7.56
+1,2990679,Neufchâtel-en-Saosnois,4,CommunityBased,20995,7.35
+1,2990679,Neufchâtel-en-Saosnois,5,Beds,20995,0.00
+1,2990679,Neufchâtel-en-Saosnois,6,CTScanner,20995,0.00
+1,2990679,Neufchâtel-en-Saosnois,7,MRIUnit,20995,0.00
+1,2990679,Neufchâtel-en-Saosnois,8,Mammography,20995,0.00
+1,2990679,Neufchâtel-en-Saosnois,9,Radiotherapy,20995,0.00
+1,2999825,Les Rairies,1,Physicians,21151,2.75
+1,2999825,Les Rairies,2,Nurses,21151,13.33
+1,2999825,Les Rairies,3,OtherCadres,21151,7.61
+1,2999825,Les Rairies,4,CommunityBased,21151,7.40
+1,2999825,Les Rairies,5,Beds,21151,0.00
+1,2999825,Les Rairies,6,CTScanner,21151,0.00
+1,2999825,Les Rairies,7,MRIUnit,21151,0.00
+1,2999825,Les Rairies,8,Mammography,21151,0.00
+1,2999825,Les Rairies,9,Radiotherapy,21151,0.00
+1,3003726,Le Langon,1,Physicians,24122,3.14
+1,3003726,Le Langon,2,Nurses,24122,15.20
+1,3003726,Le Langon,3,OtherCadres,24122,8.68
+1,3003726,Le Langon,4,CommunityBased,24122,8.44
+1,3003726,Le Langon,5,Beds,24122,0.00
+1,3003726,Le Langon,6,CTScanner,24122,0.00
+1,3003726,Le Langon,7,MRIUnit,24122,0.00
+1,3003726,Le Langon,8,Mammography,24122,0.00
+1,3003726,Le Langon,9,Radiotherapy,24122,0.00
+1,2997433,Louisfert,1,Physicians,43364,5.64
+1,2997433,Louisfert,2,Nurses,43364,27.32
+1,2997433,Louisfert,3,OtherCadres,43364,15.61
+1,2997433,Louisfert,4,CommunityBased,43364,15.18
+1,2997433,Louisfert,5,Beds,43364,0.00
+1,2997433,Louisfert,6,CTScanner,43364,0.00
+1,2997433,Louisfert,7,MRIUnit,43364,0.00
+1,2997433,Louisfert,8,Mammography,43364,0.00
+1,2997433,Louisfert,9,Radiotherapy,43364,0.00
+1,3014683,Grez-en-Bouère,1,Physicians,46568,6.05
+1,3014683,Grez-en-Bouère,2,Nurses,46568,29.34
+1,3014683,Grez-en-Bouère,3,OtherCadres,46568,16.76
+1,3014683,Grez-en-Bouère,4,CommunityBased,46568,16.30
+1,3014683,Grez-en-Bouère,5,Beds,46568,0.00
+1,3014683,Grez-en-Bouère,6,CTScanner,46568,0.00
+1,3014683,Grez-en-Bouère,7,MRIUnit,46568,0.00
+1,3014683,Grez-en-Bouère,8,Mammography,46568,0.00
+1,3014683,Grez-en-Bouère,9,Radiotherapy,46568,0.00
+2,6508863,Le Mans,1,Physicians,426733,77.66
+2,6508863,Le Mans,2,Nurses,426733,44.80
+2,6508863,Le Mans,3,OtherCadres,426733,107.53
+2,6508863,Le Mans,4,CommunityBased,426733,0.00
+2,6508863,Le Mans,5,Beds,426733,177.72
+2,6508863,Le Mans,6,CTScanner,426733,0.75
+2,6508863,Le Mans,7,MRIUnit,426733,0.54
+2,6508863,Le Mans,8,Mammography,426733,0.24
+2,6508863,Le Mans,9,Radiotherapy,426733,0.01
+2,3025053,Cholet,1,Physicians,294484,29.52
+2,3025053,Cholet,2,Nurses,294484,17.03
+2,3025053,Cholet,3,OtherCadres,294484,40.88
+2,3025053,Cholet,4,CommunityBased,294484,0.00
+2,3025053,Cholet,5,Beds,294484,67.57
+2,3025053,Cholet,6,CTScanner,294484,0.28
+2,3025053,Cholet,7,MRIUnit,294484,0.20
+2,3025053,Cholet,8,Mammography,294484,0.09
+2,3025053,Cholet,9,Radiotherapy,294484,0.01
+2,2979590,Saint-Herblain,1,Physicians,1150457,28.54
+2,2979590,Saint-Herblain,2,Nurses,1150457,16.46
+2,2979590,Saint-Herblain,3,OtherCadres,1150457,39.51
+2,2979590,Saint-Herblain,4,CommunityBased,1150457,0.00
+2,2979590,Saint-Herblain,5,Beds,1150457,65.30
+2,2979590,Saint-Herblain,6,CTScanner,1150457,0.27
+2,2979590,Saint-Herblain,7,MRIUnit,1150457,0.20
+2,2979590,Saint-Herblain,8,Mammography,1150457,0.09
+2,2979590,Saint-Herblain,9,Radiotherapy,1150457,0.01
+2,2999908,Les Ponts-de-Cé,1,Physicians,580541,10.92
+2,2999908,Les Ponts-de-Cé,2,Nurses,580541,6.30
+2,2999908,Les Ponts-de-Cé,3,OtherCadres,580541,15.12
+2,2999908,Les Ponts-de-Cé,4,CommunityBased,580541,0.00
+2,2999908,Les Ponts-de-Cé,5,Beds,580541,24.99
+2,2999908,Les Ponts-de-Cé,6,CTScanner,580541,0.11
+2,2999908,Les Ponts-de-Cé,7,MRIUnit,580541,0.08
+2,2999908,Les Ponts-de-Cé,8,Mammography,580541,0.03
+2,2999908,Les Ponts-de-Cé,9,Radiotherapy,580541,0.00
+2,3019259,Évron,1,Physicians,223263,8.09
+2,3019259,Évron,2,Nurses,223263,4.67
+2,3019259,Évron,3,OtherCadres,223263,11.21
+2,3019259,Évron,4,CommunityBased,223263,0.00
+2,3019259,Évron,5,Beds,223263,18.52
+2,3019259,Évron,6,CTScanner,223263,0.08
+2,3019259,Évron,7,MRIUnit,223263,0.06
+2,3019259,Évron,8,Mammography,223263,0.03
+2,3019259,Évron,9,Radiotherapy,223263,0.00
+2,3026823,Chantonnay,1,Physicians,371671,7.29
+2,3026823,Chantonnay,2,Nurses,371671,4.21
+2,3026823,Chantonnay,3,OtherCadres,371671,10.09
+2,3026823,Chantonnay,4,CommunityBased,371671,0.00
+2,3026823,Chantonnay,5,Beds,371671,16.68
+2,3026823,Chantonnay,6,CTScanner,371671,0.07
+2,3026823,Chantonnay,7,MRIUnit,371671,0.05
+2,3026823,Chantonnay,8,Mammography,371671,0.02
+2,3026823,Chantonnay,9,Radiotherapy,371671,0.00
+2,2992206,Montoir-de-Bretagne,1,Physicians,223923,5.51
+2,2992206,Montoir-de-Bretagne,2,Nurses,223923,3.18
+2,2992206,Montoir-de-Bretagne,3,OtherCadres,223923,7.63
+2,2992206,Montoir-de-Bretagne,4,CommunityBased,223923,0.00
+2,2992206,Montoir-de-Bretagne,5,Beds,223923,12.61
+2,2992206,Montoir-de-Bretagne,6,CTScanner,223923,0.05
+2,2992206,Montoir-de-Bretagne,7,MRIUnit,223923,0.04
+2,2992206,Montoir-de-Bretagne,8,Mammography,223923,0.02
+2,2992206,Montoir-de-Bretagne,9,Radiotherapy,223923,0.00
+2,2973748,Sucé-sur-Erdre,1,Physicians,119381,4.21
+2,2973748,Sucé-sur-Erdre,2,Nurses,119381,2.43
+2,2973748,Sucé-sur-Erdre,3,OtherCadres,119381,5.83
+2,2973748,Sucé-sur-Erdre,4,CommunityBased,119381,0.00
+2,2973748,Sucé-sur-Erdre,5,Beds,119381,9.63
+2,2973748,Sucé-sur-Erdre,6,CTScanner,119381,0.04
+2,2973748,Sucé-sur-Erdre,7,MRIUnit,119381,0.03
+2,2973748,Sucé-sur-Erdre,8,Mammography,119381,0.01
+2,2973748,Sucé-sur-Erdre,9,Radiotherapy,119381,0.00
+3,6508863,Le Mans,1,Physicians,649996,93.96
+3,6508863,Le Mans,2,Nurses,649996,340.99
+3,6508863,Le Mans,3,OtherCadres,649996,109.12
+3,6508863,Le Mans,4,CommunityBased,649996,0.00
+3,6508863,Le Mans,5,Beds,649996,122.76
+3,6508863,Le Mans,6,CTScanner,649996,2.27
+3,6508863,Le Mans,7,MRIUnit,649996,1.80
+3,6508863,Le Mans,8,Mammography,649996,1.21
+3,6508863,Le Mans,9,Radiotherapy,649996,0.61
+3,3025053,Cholet,1,Physicians,1246696,46.55
+3,3025053,Cholet,2,Nurses,1246696,168.93
+3,3025053,Cholet,3,OtherCadres,1246696,54.06
+3,3025053,Cholet,4,CommunityBased,1246696,0.00
+3,3025053,Cholet,5,Beds,1246696,60.82
+3,3025053,Cholet,6,CTScanner,1246696,1.13
+3,3025053,Cholet,7,MRIUnit,1246696,0.89
+3,3025053,Cholet,8,Mammography,1246696,0.60
+3,3025053,Cholet,9,Radiotherapy,1246696,0.30
+3,2979590,Saint-Herblain,1,Physicians,1493761,37.51
+3,2979590,Saint-Herblain,2,Nurses,1493761,136.13
+3,2979590,Saint-Herblain,3,OtherCadres,1493761,43.56
+3,2979590,Saint-Herblain,4,CommunityBased,1493761,0.00
+3,2979590,Saint-Herblain,5,Beds,1493761,49.01
+3,2979590,Saint-Herblain,6,CTScanner,1493761,0.91
+3,2979590,Saint-Herblain,7,MRIUnit,1493761,0.72
+3,2979590,Saint-Herblain,8,Mammography,1493761,0.48
+3,2979590,Saint-Herblain,9,Radiotherapy,1493761,0.24

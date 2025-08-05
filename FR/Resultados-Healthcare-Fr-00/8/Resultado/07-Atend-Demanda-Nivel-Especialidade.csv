@@ -1,0 +1,190 @@
+NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
+1,6454724,Melun,1,Physicians,313292,40.73
+1,6454724,Melun,2,Nurses,313292,197.37
+1,6454724,Melun,3,OtherCadres,313292,112.78
+1,6454724,Melun,4,CommunityBased,313292,109.65
+1,6454724,Melun,5,Beds,313292,0.00
+1,6454724,Melun,6,CTScanner,313292,0.00
+1,6454724,Melun,7,MRIUnit,313292,0.00
+1,6454724,Melun,8,Mammography,313292,0.00
+1,6454724,Melun,9,Radiotherapy,313292,0.00
+1,3015689,Gonesse,1,Physicians,1634840,212.53
+1,3015689,Gonesse,2,Nurses,1634840,1029.95
+1,3015689,Gonesse,3,OtherCadres,1634840,588.54
+1,3015689,Gonesse,4,CommunityBased,1634840,572.19
+1,3015689,Gonesse,5,Beds,1634840,0.00
+1,3015689,Gonesse,6,CTScanner,1634840,0.00
+1,3015689,Gonesse,7,MRIUnit,1634840,0.00
+1,3015689,Gonesse,8,Mammography,1634840,0.00
+1,3015689,Gonesse,9,Radiotherapy,1634840,0.00
+1,3013657,Garches,1,Physicians,2556045,332.29
+1,3013657,Garches,2,Nurses,2556045,1610.31
+1,3013657,Garches,3,OtherCadres,2556045,920.18
+1,3013657,Garches,4,CommunityBased,2556045,894.61
+1,3013657,Garches,5,Beds,2556045,0.00
+1,3013657,Garches,6,CTScanner,2556045,0.00
+1,3013657,Garches,7,MRIUnit,2556045,0.00
+1,3013657,Garches,8,Mammography,2556045,0.00
+1,3013657,Garches,9,Radiotherapy,2556045,0.00
+1,3007102,La Queue-en-Brie,1,Physicians,4317160,561.23
+1,3007102,La Queue-en-Brie,2,Nurses,4317160,2719.81
+1,3007102,La Queue-en-Brie,3,OtherCadres,4317160,1554.18
+1,3007102,La Queue-en-Brie,4,CommunityBased,4317160,1511.00
+1,3007102,La Queue-en-Brie,5,Beds,4317160,0.00
+1,3007102,La Queue-en-Brie,6,CTScanner,4317160,0.00
+1,3007102,La Queue-en-Brie,7,MRIUnit,4317160,0.00
+1,3007102,La Queue-en-Brie,8,Mammography,4317160,0.00
+1,3007102,La Queue-en-Brie,9,Radiotherapy,4317160,0.00
+1,6446140,Fontenay-lès-Briis,1,Physicians,1176314,152.92
+1,6446140,Fontenay-lès-Briis,2,Nurses,1176314,741.08
+1,6446140,Fontenay-lès-Briis,3,OtherCadres,1176314,423.47
+1,6446140,Fontenay-lès-Briis,4,CommunityBased,1176314,411.71
+1,6446140,Fontenay-lès-Briis,5,Beds,1176314,0.00
+1,6446140,Fontenay-lès-Briis,6,CTScanner,1176314,0.00
+1,6446140,Fontenay-lès-Briis,7,MRIUnit,1176314,0.00
+1,6446140,Fontenay-lès-Briis,8,Mammography,1176314,0.00
+1,6446140,Fontenay-lès-Briis,9,Radiotherapy,1176314,0.00
+1,6443983,Guerville,1,Physicians,166045,21.59
+1,6443983,Guerville,2,Nurses,166045,104.61
+1,6443983,Guerville,3,OtherCadres,166045,59.78
+1,6443983,Guerville,4,CommunityBased,166045,58.12
+1,6443983,Guerville,5,Beds,166045,0.00
+1,6443983,Guerville,6,CTScanner,166045,0.00
+1,6443983,Guerville,7,MRIUnit,166045,0.00
+1,6443983,Guerville,8,Mammography,166045,0.00
+1,6443983,Guerville,9,Radiotherapy,166045,0.00
+1,3023389,Coubert,1,Physicians,527261,68.54
+1,3023389,Coubert,2,Nurses,527261,332.17
+1,3023389,Coubert,3,OtherCadres,527261,189.81
+1,3023389,Coubert,4,CommunityBased,527261,184.54
+1,3023389,Coubert,5,Beds,527261,0.00
+1,3023389,Coubert,6,CTScanner,527261,0.00
+1,3023389,Coubert,7,MRIUnit,527261,0.00
+1,3023389,Coubert,8,Mammography,527261,0.00
+1,3023389,Coubert,9,Radiotherapy,527261,0.00
+1,3035419,Bagneaux-sur-Loing,1,Physicians,42323,5.50
+1,3035419,Bagneaux-sur-Loing,2,Nurses,42323,26.66
+1,3035419,Bagneaux-sur-Loing,3,OtherCadres,42323,15.24
+1,3035419,Bagneaux-sur-Loing,4,CommunityBased,42323,14.81
+1,3035419,Bagneaux-sur-Loing,5,Beds,42323,0.00
+1,3035419,Bagneaux-sur-Loing,6,CTScanner,42323,0.00
+1,3035419,Bagneaux-sur-Loing,7,MRIUnit,42323,0.00
+1,3035419,Bagneaux-sur-Loing,8,Mammography,42323,0.00
+1,3035419,Bagneaux-sur-Loing,9,Radiotherapy,42323,0.00
+1,6451175,Chailly-en-Brie,1,Physicians,36702,4.77
+1,6451175,Chailly-en-Brie,2,Nurses,36702,23.12
+1,6451175,Chailly-en-Brie,3,OtherCadres,36702,13.21
+1,6451175,Chailly-en-Brie,4,CommunityBased,36702,12.85
+1,6451175,Chailly-en-Brie,5,Beds,36702,0.00
+1,6451175,Chailly-en-Brie,6,CTScanner,36702,0.00
+1,6451175,Chailly-en-Brie,7,MRIUnit,36702,0.00
+1,6451175,Chailly-en-Brie,8,Mammography,36702,0.00
+1,6451175,Chailly-en-Brie,9,Radiotherapy,36702,0.00
+1,6454716,Chenoise,1,Physicians,32651,4.24
+1,6454716,Chenoise,2,Nurses,32651,20.57
+1,6454716,Chenoise,3,OtherCadres,32651,11.75
+1,6454716,Chenoise,4,CommunityBased,32651,11.43
+1,6454716,Chenoise,5,Beds,32651,0.00
+1,6454716,Chenoise,6,CTScanner,32651,0.00
+1,6454716,Chenoise,7,MRIUnit,32651,0.00
+1,6454716,Chenoise,8,Mammography,32651,0.00
+1,6454716,Chenoise,9,Radiotherapy,32651,0.00
+1,3030085,Brières-les-Scellés,1,Physicians,48037,6.24
+1,3030085,Brières-les-Scellés,2,Nurses,48037,30.26
+1,3030085,Brières-les-Scellés,3,OtherCadres,48037,17.29
+1,3030085,Brières-les-Scellés,4,CommunityBased,48037,16.81
+1,3030085,Brières-les-Scellés,5,Beds,48037,0.00
+1,3030085,Brières-les-Scellés,6,CTScanner,48037,0.00
+1,3030085,Brières-les-Scellés,7,MRIUnit,48037,0.00
+1,3030085,Brières-les-Scellés,8,Mammography,48037,0.00
+1,3030085,Brières-les-Scellés,9,Radiotherapy,48037,0.00
+1,3036902,Armentières-en-Brie,1,Physicians,177981,23.14
+1,3036902,Armentières-en-Brie,2,Nurses,177981,112.13
+1,3036902,Armentières-en-Brie,3,OtherCadres,177981,64.07
+1,3036902,Armentières-en-Brie,4,CommunityBased,177981,62.29
+1,3036902,Armentières-en-Brie,5,Beds,177981,0.00
+1,3036902,Armentières-en-Brie,6,CTScanner,177981,0.00
+1,3036902,Armentières-en-Brie,7,MRIUnit,177981,0.00
+1,3036902,Armentières-en-Brie,8,Mammography,177981,0.00
+1,3036902,Armentières-en-Brie,9,Radiotherapy,177981,0.00
+1,2994131,Achères-la-Forêt,1,Physicians,19006,2.47
+1,2994131,Achères-la-Forêt,2,Nurses,19006,11.97
+1,2994131,Achères-la-Forêt,3,OtherCadres,19006,6.84
+1,2994131,Achères-la-Forêt,4,CommunityBased,19006,6.65
+1,2994131,Achères-la-Forêt,5,Beds,19006,0.00
+1,2994131,Achères-la-Forêt,6,CTScanner,19006,0.00
+1,2994131,Achères-la-Forêt,7,MRIUnit,19006,0.00
+1,2994131,Achères-la-Forêt,8,Mammography,19006,0.00
+1,2994131,Achères-la-Forêt,9,Radiotherapy,19006,0.00
+1,6443599,Châtenay-sur-Seine,1,Physicians,45207,5.88
+1,6443599,Châtenay-sur-Seine,2,Nurses,45207,28.48
+1,6443599,Châtenay-sur-Seine,3,OtherCadres,45207,16.27
+1,6443599,Châtenay-sur-Seine,4,CommunityBased,45207,15.82
+1,6443599,Châtenay-sur-Seine,5,Beds,45207,0.00
+1,6443599,Châtenay-sur-Seine,6,CTScanner,45207,0.00
+1,6443599,Châtenay-sur-Seine,7,MRIUnit,45207,0.00
+1,6443599,Châtenay-sur-Seine,8,Mammography,45207,0.00
+1,6443599,Châtenay-sur-Seine,9,Radiotherapy,45207,0.00
+1,2973069,Tessancourt-sur-Aubette,1,Physicians,327054,42.52
+1,2973069,Tessancourt-sur-Aubette,2,Nurses,327054,206.04
+1,2973069,Tessancourt-sur-Aubette,3,OtherCadres,327054,117.74
+1,2973069,Tessancourt-sur-Aubette,4,CommunityBased,327054,114.47
+1,2973069,Tessancourt-sur-Aubette,5,Beds,327054,0.00
+1,2973069,Tessancourt-sur-Aubette,6,CTScanner,327054,0.00
+1,2973069,Tessancourt-sur-Aubette,7,MRIUnit,327054,0.00
+1,2973069,Tessancourt-sur-Aubette,8,Mammography,327054,0.00
+1,2973069,Tessancourt-sur-Aubette,9,Radiotherapy,327054,0.00
+1,2974717,Seugy,1,Physicians,77254,10.04
+1,2974717,Seugy,2,Nurses,77254,48.67
+1,2974717,Seugy,3,OtherCadres,77254,27.81
+1,2974717,Seugy,4,CommunityBased,77254,27.04
+1,2974717,Seugy,5,Beds,77254,0.00
+1,2974717,Seugy,6,CTScanner,77254,0.00
+1,2974717,Seugy,7,MRIUnit,77254,0.00
+1,2974717,Seugy,8,Mammography,77254,0.00
+1,2974717,Seugy,9,Radiotherapy,77254,0.00
+1,2989432,Orcemont,1,Physicians,59202,7.70
+1,2989432,Orcemont,2,Nurses,59202,37.30
+1,2989432,Orcemont,3,OtherCadres,59202,21.31
+1,2989432,Orcemont,4,CommunityBased,59202,20.72
+1,2989432,Orcemont,5,Beds,59202,0.00
+1,2989432,Orcemont,6,CTScanner,59202,0.00
+1,2989432,Orcemont,7,MRIUnit,59202,0.00
+1,2989432,Orcemont,8,Mammography,59202,0.00
+1,2989432,Orcemont,9,Radiotherapy,59202,0.00
+2,6454724,Melun,1,Physicians,1027777,25.10
+2,6454724,Melun,2,Nurses,1027777,14.48
+2,6454724,Melun,3,OtherCadres,1027777,34.76
+2,6454724,Melun,4,CommunityBased,1027777,0.00
+2,6454724,Melun,5,Beds,1027777,57.44
+2,6454724,Melun,6,CTScanner,1027777,0.24
+2,6454724,Melun,7,MRIUnit,1027777,0.17
+2,6454724,Melun,8,Mammography,1027777,0.08
+2,6454724,Melun,9,Radiotherapy,1027777,0.00
+2,3013657,Garches,1,Physicians,4361914,13.09
+2,3013657,Garches,2,Nurses,4361914,7.55
+2,3013657,Garches,3,OtherCadres,4361914,18.12
+2,3013657,Garches,4,CommunityBased,4361914,0.00
+2,3013657,Garches,5,Beds,4361914,29.95
+2,3013657,Garches,6,CTScanner,4361914,0.13
+2,3013657,Garches,7,MRIUnit,4361914,0.09
+2,3013657,Garches,8,Mammography,4361914,0.04
+2,3013657,Garches,9,Radiotherapy,4361914,0.00
+2,3007102,La Queue-en-Brie,1,Physicians,6166683,21.10
+2,3007102,La Queue-en-Brie,2,Nurses,6166683,12.17
+2,3007102,La Queue-en-Brie,3,OtherCadres,6166683,29.22
+2,3007102,La Queue-en-Brie,4,CommunityBased,6166683,0.00
+2,3007102,La Queue-en-Brie,5,Beds,6166683,48.29
+2,3007102,La Queue-en-Brie,6,CTScanner,6166683,0.20
+2,3007102,La Queue-en-Brie,7,MRIUnit,6166683,0.15
+2,3007102,La Queue-en-Brie,8,Mammography,6166683,0.07
+2,3007102,La Queue-en-Brie,9,Radiotherapy,6166683,0.00
+3,6454724,Melun,1,Physicians,11556374,43.16
+3,6454724,Melun,2,Nurses,11556374,156.64
+3,6454724,Melun,3,OtherCadres,11556374,50.12
+3,6454724,Melun,4,CommunityBased,11556374,0.00
+3,6454724,Melun,5,Beds,11556374,56.39
+3,6454724,Melun,6,CTScanner,11556374,1.04
+3,6454724,Melun,7,MRIUnit,11556374,0.83
+3,6454724,Melun,8,Mammography,11556374,0.56
+3,6454724,Melun,9,Radiotherapy,11556374,0.28

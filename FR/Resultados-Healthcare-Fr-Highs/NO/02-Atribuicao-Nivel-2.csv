@@ -1,0 +1,85 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6484156,"Rouen",6484156,"Rouen",0,2
+3002964,"Le Havre",3002964,"Le Havre",0,2
+6427109,"Caen",6427109,"Caen",0,2
+3019265,"Évreux",3019265,"Évreux",0,2
+3021411,"Dieppe",3021411,"Dieppe",0,2
+2981533,"Saint-Aubin-sur-Scie",3021411,"Dieppe",0.14,2
+2974153,"Sotteville-lès-Rouen",2974153,"Sotteville-lès-Rouen",0,2
+6430619,"Saint-Ouen-du-Tilleul",2974153,"Sotteville-lès-Rouen",0.41,2
+6455763,"Les Damps",2974153,"Sotteville-lès-Rouen",0.33,2
+2980236,"Saint-Étienne-du-Rouvray",2980236,"Saint-Étienne-du-Rouvray",0,2
+6452432,"Alençon",6452432,"Alençon",0,2
+6453910,"Vernon",6453910,"Vernon",0,2
+6427260,"Hérouville-Saint-Clair",6427260,"Hérouville-Saint-Clair",0,2
+6456462,"Le Petit-Quevilly",6456462,"Le Petit-Quevilly",0,2
+2979422,"Lisieux",2979422,"Lisieux",0,2
+2992003,"Mont-Saint-Aignan",2992003,"Mont-Saint-Aignan",0,2
+2978757,"Saint-Lô",2978757,"Saint-Lô",0,2
+3028186,"Caumont-l’Éventé",2978757,"Saint-Lô",0.53,2
+2997336,"Louviers",2997336,"Louviers",0,2
+3018794,"Fécamp",3018794,"Fécamp",0,2
+6454686,"Elbeuf",6454686,"Elbeuf",0,2
+3231095,"Tourlaville",3231095,"Tourlaville",0,2
+6439093,"Flers",6439093,"Flers",0,2
+8296353,"Bois-Guillaume",8296353,"Bois-Guillaume",0,2
+3037051,"Argentan",3037051,"Argentan",0,2
+3034483,"Bayeux",3034483,"Bayeux",0,2
+6612581,"Granville",6612581,"Granville",0,2
+6451100,"Barentin",6451100,"Barentin",0,2
+6443376,"Oissel",6443376,"Oissel",0,2
+2971635,"Gisors",2971635,"Gisors",0,2
+6443597,"Yvetot",6443597,"Yvetot",0,2
+3031871,"Bolbec",3031871,"Bolbec",0,2
+3019962,"Équemauville",3031871,"Bolbec",0.69,2
+3012903,"Ifs",3012903,"Ifs",0,2
+2967972,"Vire",2967972,"Vire",0,2
+3035639,"Avranches",3035639,"Avranches",0,2
+3028214,"Caudebec-lès-Elbeuf",3028214,"Caudebec-lès-Elbeuf",0,2
+6453900,"Pont-Audemer",6453900,"Pont-Audemer",0,2
+3033308,"Bernay",3033308,"Bernay",0,2
+3021717,"Darnétal",3021717,"Darnétal",0,2
+3015267,"Grand-Couronne",3015267,"Grand-Couronne",0,2
+2989013,"Ouistreham",2989013,"Ouistreham",0,2
+2998322,"Lillebonne",2998322,"Lillebonne",0,2
+3022826,"Coutances",3022826,"Coutances",0,2
+2988017,"Percy",3022826,"Coutances",0.59,2
+2998664,"Harfleur",2998664,"Harfleur",0,2
+3032025,"Bihorel",3032025,"Bihorel",0,2
+3002172,"Les Andelys",3002172,"Les Andelys",0,2
+8289772,"Falaise",8289772,"Falaise",0,2
+2980795,"Sainte-Adresse",2980795,"Sainte-Adresse",0,2
+2970860,"Valognes",2970860,"Valognes",0,2
+3019329,"Eu",3019329,"Eu",0,2
+6443244,"Gournay-en-Bray",6443244,"Gournay-en-Bray",0,2
+2989753,"Octeville-sur-Mer",2989753,"Octeville-sur-Mer",0,2
+3009486,"La Ferté-Macé",3009486,"La Ferté-Macé",0,2
+3028037,"Céaucé",3009486,"La Ferté-Macé",0.56,2
+6443142,"Cléon",6443142,"Cléon",0,2
+2979401,"Saint-James",2979401,"Saint-James",0,2
+2978378,"Saint-Martin-de-Landelles",2979401,"Saint-James",0.29,2
+2990680,"Neufchâtel-en-Bray",2990680,"Neufchâtel-en-Bray",0,2
+2980470,"Aumale",2990680,"Neufchâtel-en-Bray",0.57,2
+6455786,"Le Neubourg",6455786,"Le Neubourg",0,2
+6454473,"Sées",6454473,"Sées",0,2
+6439247,"Sainte-Gauburge-Sainte-Colombe",6454473,"Sées",0.56,2
+2977146,"Saint-Romain-de-Colbosc",2977146,"Saint-Romain-de-Colbosc",0,2
+6430282,"Bourg-Achard",6430282,"Bourg-Achard",0,2
+2978981,"Mortagne-au-Perche",2978981,"Mortagne-au-Perche",0,2
+6443294,"Isneauville",6443294,"Isneauville",0,2
+2968072,"Vimoutiers",2968072,"Vimoutiers",0,2
+6443213,"Fontaine-la-Mallet",6443213,"Fontaine-la-Mallet",0,2
+6443230,"Gainneville",6443230,"Gainneville",0,2
+3023951,"Condé-sur-Sarthe",3023951,"Condé-sur-Sarthe",0,2
+3028610,"Carentan",2977007,"Saint-Sauveur-le-Vicomte",0.56,2
+2977007,"Saint-Sauveur-le-Vicomte",2977007,"Saint-Sauveur-le-Vicomte",0,2
+2973655,"Surtainville",2977007,"Saint-Sauveur-le-Vicomte",0.55,2
+2972882,"Thiberville",2972882,"Thiberville",0,2
+2970610,"Vassy",2970610,"Vassy",0,2
+6616280,"Breteuil-sur-Iton",3036850,"Arnières-sur-Iton",0.56,2
+3009804,"La Couture-Boussey",3036850,"Arnières-sur-Iton",0.61,2
+3036850,"Arnières-sur-Iton",3036850,"Arnières-sur-Iton",0,2
+2995371,"Martin-Église",2995371,"Martin-Église",0,2
+6455205,"Bellême",6455205,"Bellême",0,2
+3023958,"Condé-sur-Huisne",6455205,"Bellême",0.54,2
+6443361,"Néville",6443361,"Néville",0,2

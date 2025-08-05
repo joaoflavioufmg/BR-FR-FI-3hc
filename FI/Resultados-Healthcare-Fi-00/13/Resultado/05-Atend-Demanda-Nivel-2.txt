@@ -1,0 +1,4 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+2	167	Joensuu	118425.00	57.20	33.00	79.20	0.00	130.89	0.55	0.40	0.18	0.01
+2	276	Kontiolahti	22958.00	11.94	6.89	16.53	0.00	27.32	0.11	0.08	0.04	0.00
+2	426	Liperi	11314.00	5.88	3.39	8.15	0.00	13.46	0.06	0.04	0.02	0.00

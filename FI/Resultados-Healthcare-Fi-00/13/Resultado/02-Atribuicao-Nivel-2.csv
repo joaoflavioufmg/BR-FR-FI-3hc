@@ -1,0 +1,12 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+167,"Joensuu",167,"Joensuu",0,2
+422,"Lieksa",167,"Joensuu",2.02,2
+309,"Outokumpu",167,"Joensuu",1.02,2
+146,"Ilomantsi",167,"Joensuu",1.51,2
+176,"Juuka",167,"Joensuu",1.9,2
+848,"Tohmajärvi",167,"Joensuu",1.27,2
+607,"Polvijärvi",167,"Joensuu",0.87,2
+707,"Rääkkylä",167,"Joensuu",0.82,2
+276,"Kontiolahti",276,"Kontiolahti",0,2
+541,"Nurmes",276,"Kontiolahti",2.34,2
+426,"Liperi",426,"Liperi",0,2

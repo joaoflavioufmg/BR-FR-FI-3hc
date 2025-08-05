@@ -1,0 +1,60 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Åland (01)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	4000
+# 3	10000
+2	442	# Q1
+3	777	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.7 
+3 1.5; 
+
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+478	01	60.0986	19.9444	12047	0	'Mariehamn'	
+170	01	60.15	19.95	6521	1	'Jomala'	
+417	01	60.0806	20.1	2321	1	'Lemland'	
+076	01	60.2167	19.7403	1686	1	'Hammarland'	
+043	01	60.2167	19.55	1016	1	'Eckerö'	
+035	01	60.4117	21.0453	461	1	'Brändö'	
+065	01	60.375	19.85	565	1	'Geta'	
+941	01	60.2417	20.375	518	1	'Vårdö'	
+438	01	60.1167	20.2583	385	1	'Lumparland'	
+295	01	60.2583	20.7783	313	1	'Kumlinge'	
+766	01	60.1333	20.6667	113	1	'Sottunga'	
+060	01	60.23	19.9881	2700	0	'Finström'	
+736	01	60.3073	19.9862	1790	1	'Saltvik'	
+771	01	60.2572	20.1342	989	1	'Sund'	
+062	01	60	20.4333	546	1	'Föglö'	
+318	01	59.9167	20.9	226	1	'Kökar'	
+			
+;
+
+
+end;

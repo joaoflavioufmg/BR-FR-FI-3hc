@@ -1,0 +1,50 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Central Ostrobothnia (07)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	5000
+# 3	25000
+2	1881	# Q1
+3	2502	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+272	07	63.8376	23.132	47598	0	'Kokkola'	
+217	07	63.9017	23.9151	5087	1	'Kannus'	
+849	07	63.775	24.25	2371	1	'Toholampi'	
+924	07	63.4753	23.7886	2632	1	'Veteli'	
+584	07	63.2167	24.4167	2212	1	'Perho'	
+074	07	63.4633	24.1667	888	1	'Halsua'	
+421	07	63.525	24.6653	634	1	'Lestijärvi'	
+236	07	63.5481	23.6999	3926	1	'Kaustinen'	
+;
+
+
+end;

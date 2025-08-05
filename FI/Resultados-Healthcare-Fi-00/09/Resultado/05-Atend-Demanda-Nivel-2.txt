@@ -1,0 +1,4 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+2	286	Kouvola	73577.00	38.26	22.07	52.98	0.00	87.56	0.37	0.26	0.12	0.01
+2	285	Kotka	52141.00	24.65	14.22	34.14	0.00	56.42	0.24	0.17	0.08	0.00
+2	75	Hamina	22315.00	10.19	5.88	14.12	0.00	23.33	0.10	0.07	0.03	0.00

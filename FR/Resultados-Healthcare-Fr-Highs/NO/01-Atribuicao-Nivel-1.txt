@@ -1,0 +1,580 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6484156	                         Rouen	6484156	                         Rouen	    0.00
+3002964	                      Le Havre	3002964	                      Le Havre	    0.00
+3021668	           Deauville-les-Bains	3002964	                      Le Havre	    0.37
+6427109	                          Caen	6427109	                          Caen	    0.00
+6427222	          Fontaine-Étoupefour	6427109	                          Caen	    0.18
+3019267	                       Évrecy	6427109	                          Caen	    0.33
+6427321	                  May-sur-Orne	6427109	                          Caen	    0.22
+3017918	           Fontenay-le-Marmion	6427109	                          Caen	    0.24
+2978617	                 Saint-Manvieu	6427109	                          Caen	    0.24
+2972560	             Tilly-sur-Seulles	6427109	                          Caen	    0.47
+2991558	                         Mouen	6427109	                          Caen	    0.22
+6427173	                       Creully	6427109	                          Caen	    0.42
+3019647	             Esquay-Notre-Dame	6427109	                          Caen	    0.26
+6615897	         Feuguerolles-sur-Orne	6427109	                          Caen	    0.19
+3025383	                         Cheux	6427109	                          Caen	    0.29
+2980537	        Sainte-Honorine-du-Fay	6427109	                          Caen	    0.36
+3024588	           Clinchamps-sur-Orne	6427109	                          Caen	    0.28
+2989883	                 Noyers-Bocage	6427109	                          Caen	    0.39
+3017917	            Fontenay-le-Pesnel	6427109	                          Caen	    0.38
+2972160	            Tourville-sur-Odon	6427109	                          Caen	    0.26
+3036231	                       Audrieu	6427109	                          Caen	    0.41
+3015397	           Grainville-sur-Odon	6427109	                          Caen	    0.31
+2996325	                        Maltot	6427109	                          Caen	    0.17
+3037961	               Amayé-sur-Orne	6427109	                          Caen	    0.29
+3019265	                       Évreux	3019265	                       Évreux	    0.00
+2976986	   Saint-Sébastien-de-Morsent	3019265	                       Évreux	    0.12
+2988848	                 Pacy-sur-Eure	3019265	                       Évreux	    0.42
+3024026	              Conches-en-Ouche	3019265	                       Évreux	    0.41
+2981755	      Saint-André-de-l’Eure	3019265	                       Évreux	    0.39
+6430419	                      Gravigny	3019265	                       Évreux	    0.08
+6616275	                 La Bonneville	3019265	                       Évreux	    0.22
+3021795	                      Damville	3019265	                       Évreux	    0.44
+2994542	                     Ménilles	3019265	                       Évreux	    0.39
+2982038	                  Sacquenville	3019265	                       Évreux	    0.23
+3018632	       Ferrières-Haut-Clocher	3019265	                       Évreux	    0.31
+2990107	                   Normanville	3019265	                       Évreux	    0.17
+3035663	                        Aviron	3019265	                       Évreux	    0.12
+3024705	                      Claville	3019265	                       Évreux	    0.25
+2999366	                    Les Ventes	3019265	                       Évreux	    0.23
+3021411	                        Dieppe	3021411	                        Dieppe	    0.00
+2974153	         Sotteville-lès-Rouen	2974153	         Sotteville-lès-Rouen	    0.00
+2980236	     Saint-Étienne-du-Rouvray	2980236	     Saint-Étienne-du-Rouvray	    0.00
+6452432	                      Alençon	6452432	                      Alençon	    0.00
+2979796	     Saint-Germain-du-Corbéis	6452432	                      Alençon	    0.06
+6439332	                   Valframbert	6452432	                      Alençon	    0.10
+6612705	       Saint-Denis-sur-Sarthon	6452432	                      Alençon	    0.28
+6453910	                        Vernon	6453910	                        Vernon	    0.00
+3016564	                         Gasny	6453910	                        Vernon	    0.21
+3016637	             Garennes-sur-Eure	6453910	                        Vernon	    0.51
+3029655	                         Bueil	6453910	                        Vernon	    0.45
+3030195	                    Breuilpont	6453910	                        Vernon	    0.37
+6427260	       Hérouville-Saint-Clair	6427260	       Hérouville-Saint-Clair	    0.00
+6456462	             Le Petit-Quevilly	6456462	             Le Petit-Quevilly	    0.00
+2979422	                       Lisieux	2979422	                       Lisieux	    0.00
+6427383	             Pont-l’Évêque	2979422	                       Lisieux	    0.39
+2998081	                       Livarot	2979422	                       Lisieux	    0.42
+3005630	                 Orbec-en-Auge	2979422	                       Lisieux	    0.48
+2980861	                  Saint-Désir	2979422	                       Lisieux	    0.05
+2991280	                        Moyaux	2979422	                       Lisieux	    0.26
+3029027	                     Cambremer	2979422	                       Lisieux	    0.33
+6447215	                    Beuvillers	2979422	                       Lisieux	    0.07
+3023647	                    Cormeilles	2979422	                       Lisieux	    0.38
+3004989	             Le Breuil-en-Auge	2979422	                       Lisieux	    0.21
+2992003	             Mont-Saint-Aignan	2992003	             Mont-Saint-Aignan	    0.00
+2980457	 Sainte-Marguerite-sur-Duclair	2992003	             Mont-Saint-Aignan	    0.46
+2978757	                     Saint-Lô	2978757	                     Saint-Lô	    0.00
+3038611	                       Agneaux	2978757	                     Saint-Lô	    0.04
+6435379	               Condé-sur-Vire	2978757	                     Saint-Lô	    0.20
+2995734	                       Marigny	2978757	                     Saint-Lô	    0.27
+2972427	              Torigni-sur-Vire	2978757	                     Saint-Lô	    0.30
+6435562	                   Saint-Amand	2978757	                     Saint-Lô	    0.31
+2986181	                  Pont-Hébert	2978757	                     Saint-Lô	    0.16
+3028819	                        Canisy	2978757	                     Saint-Lô	    0.19
+2973058	                Tessy-sur-Vire	2978757	                     Saint-Lô	    0.39
+2979289	       Saint-Jean-des-Baisants	2978757	                     Saint-Lô	    0.22
+6612582	                  Guilberville	2978757	                     Saint-Lô	    0.44
+3013609	                  Hébécrevon	2978757	                     Saint-Lô	    0.14
+2991262	                         Moyon	2978757	                     Saint-Lô	    0.32
+3027868	              Cerisy-la-Forêt	2978757	                     Saint-Lô	    0.36
+3008193	                    La Meauffe	2978757	                     Saint-Lô	    0.18
+3027867	               Cerisy-la-Salle	2978757	                     Saint-Lô	    0.43
+3011331	           La Barre-de-Semilly	2978757	                     Saint-Lô	    0.11
+3021185	                       Domjean	2978757	                     Saint-Lô	    0.37
+2997336	                      Louviers	2997336	                      Louviers	    0.00
+3036371	                      Aubevoye	2997336	                      Louviers	    0.33
+3018794	                       Fécamp	3018794	                       Fécamp	    0.00
+6454686	                        Elbeuf	6454686	                        Elbeuf	    0.00
+3231149	                     Cherbourg	3231095	                   Tourlaville	    0.04
+3231095	                   Tourlaville	3231095	                   Tourlaville	    0.00
+6456111	                   La Glacerie	3231095	                   Tourlaville	    0.09
+6435542	                  Querqueville	3231095	                   Tourlaville	    0.22
+3030120	                    Bricquebec	3231095	                   Tourlaville	    0.48
+3029967	                          Brix	3231095	                   Tourlaville	    0.27
+2971321	           Urville-Nacqueville	3231095	                   Tourlaville	    0.30
+2977453	          Saint-Pierre-Église	3231095	                   Tourlaville	    0.32
+3021376	                    Digosville	3231095	                   Tourlaville	    0.10
+6435680	                     Tollevast	3231095	                   Tourlaville	    0.20
+2974155	                     Sottevast	3231095	                   Tourlaville	    0.33
+3034158	                Beaumont-Hague	3231095	                   Tourlaville	    0.47
+2995363	                    Martinvast	3231095	                   Tourlaville	    0.20
+6435402	                   Fermanville	3231095	                   Tourlaville	    0.28
+3022774	                      Couville	3231095	                   Tourlaville	    0.31
+2967188	                 Yvetot-Bocage	3231095	                   Tourlaville	    0.44
+6435694	                    Vasteville	3231095	                   Tourlaville	    0.37
+2984354	             Rauville-la-Bigot	3231095	                   Tourlaville	    0.39
+3231573	                   Bretteville	3231095	                   Tourlaville	    0.11
+2973039	           Teurthéville-Hague	3231095	                   Tourlaville	    0.31
+6439093	                         Flers	6439093	                         Flers	    0.00
+6439080	                      Domfront	6439093	                         Flers	    0.46
+2997635	             Lonlay-l’Abbaye	6439093	                         Flers	    0.38
+2981358	       Saint-Bômer-les-Forges	6439093	                         Flers	    0.31
+8296353	                Bois-Guillaume	8296353	                Bois-Guillaume	    0.00
+3037051	                      Argentan	3037051	                      Argentan	    0.00
+2971406	                     Écouché	3037051	                      Argentan	    0.21
+2991661	                      Mortrée	3037051	                      Argentan	    0.34
+2976044	                      Sarceaux	3037051	                      Argentan	    0.08
+3034483	                        Bayeux	3034483	                        Bayeux	    0.00
+3003316	               Le Molay-Littry	3034483	                        Bayeux	    0.32
+2976637	          Saint-Vigor-le-Grand	3034483	                        Bayeux	    0.03
+6427384	        Port-en-Bessin-Huppain	3034483	                        Bayeux	    0.20
+2969657	                   Ver-sur-Mer	3034483	                        Bayeux	    0.35
+3037760	                    Anctoville	3034483	                        Bayeux	    0.48
+6612581	                     Granville	6612581	                     Granville	    0.00
+2977774	            Saint-Pair-sur-Mer	6612581	                     Granville	    0.07
+3021067	            Donville-les-Bains	6612581	                     Granville	    0.03
+2967213	                       Yquelon	6612581	                     Granville	    0.06
+6451100	                      Barentin	6451100	                      Barentin	    0.00
+6456469	                      Le Trait	6451100	                      Barentin	    0.31
+2967242	                      Yerville	6451100	                      Barentin	    0.36
+3028215	              Caudebec-en-Caux	6451100	                      Barentin	    0.41
+3008353	       La Mailleraye-sur-Seine	6451100	                      Barentin	    0.37
+2980427	       Sainte-Marie-des-Champs	6451100	                      Barentin	    0.38
+2972381	                        Tôtes	6451100	                      Barentin	    0.41
+2998296	                       Limésy	6451100	                      Barentin	    0.20
+2976558	       Saint-Wandrille-Rançon	6451100	                      Barentin	    0.34
+2970593	                    Vatteville	6451100	                      Barentin	    0.50
+3002532	                      Auzebosc	6451100	                      Barentin	    0.43
+6443376	                        Oissel	6443376	                        Oissel	    0.00
+2971635	                        Gisors	2971635	                        Gisors	    0.00
+3032818	             Bézu-Saint-Éloi	2971635	                        Gisors	    0.14
+6430507	         Neaufles-Saint-Martin	2971635	                        Gisors	    0.10
+6424470	                         Écos	2971635	                        Gisors	    0.46
+6443597	                        Yvetot	6443597	                        Yvetot	    0.00
+3031871	                        Bolbec	3031871	                        Bolbec	    0.00
+3018928	              Fauville-en-Caux	3031871	                        Bolbec	    0.31
+2970901	                Valliquerville	3031871	                        Bolbec	    0.41
+2981634	                 Saint-Arnoult	3031871	                        Bolbec	    0.37
+3017022	                   Froberville	3031871	                        Bolbec	    0.49
+3038072	         Allouville-Bellefosse	3031871	                        Bolbec	    0.38
+3012903	                           Ifs	3012903	                           Ifs	    0.00
+6427517	                Thury-Harcourt	3012903	                           Ifs	    0.48
+3028796	                         Canon	3012903	                           Ifs	    0.51
+2967972	                          Vire	2967972	                          Vire	    0.00
+2973949	                     Sourdeval	2967972	                          Vire	    0.33
+2976939	          Saint-Sever-Calvados	2967972	                          Vire	    0.29
+2978355	      Saint-Martin-des-Besaces	2967972	                          Vire	    0.49
+3035639	                     Avranches	3035639	                     Avranches	    0.00
+6517892	         Villedieu-les-Poëles	3035639	                     Avranches	    0.49
+6616899	          Jullouville-les-Pins	3035639	                     Avranches	    0.46
+2975924	                      Sartilly	3035639	                     Avranches	    0.26
+2979287	         Saint-Jean-des-Champs	3035639	                     Avranches	    0.44
+2977397	               Saint-Planchers	3035639	                     Avranches	    0.49
+3008753	                La Haye-Pesnel	3035639	                     Avranches	    0.32
+3013242	                      Folligny	3035639	                     Avranches	    0.40
+3028214	          Caudebec-lès-Elbeuf	3028214	          Caudebec-lès-Elbeuf	    0.00
+3038681	                      Acquigny	3028214	          Caudebec-lès-Elbeuf	    0.41
+3037745	                         Andé	3028214	          Caudebec-lès-Elbeuf	    0.42
+2977454	       Saint-Pierre-du-Vauvray	3028214	          Caudebec-lès-Elbeuf	    0.39
+3013336	          Heudreville-sur-Eure	3028214	          Caudebec-lès-Elbeuf	    0.49
+6453900	                  Pont-Audemer	6453900	                  Pont-Audemer	    0.00
+2979724	         Saint-Germain-Village	6453900	                  Pont-Audemer	    0.00
+3020094	                     Épaignes	6453900	                  Pont-Audemer	    0.25
+6430477	          Manneville-sur-Risle	6453900	                  Pont-Audemer	    0.05
+3023590	          Corneville-sur-Risle	6453900	                  Pont-Audemer	    0.15
+3028940	                      Campigny	6453900	                  Pont-Audemer	    0.14
+3030903	                   Bourneville	6453900	                  Pont-Audemer	    0.22
+6447932	           Appeville-Annebault	6453900	                  Pont-Audemer	    0.24
+3033308	                        Bernay	3033308	                        Bernay	    0.00
+3034153	             Beaumont-le-Roger	3033308	                        Bernay	    0.33
+2974867	                     Serquigny	3033308	                        Bernay	    0.22
+2998443	                       Lieurey	3033308	                        Bernay	    0.43
+2994529	                      Menneval	3033308	                        Bernay	    0.05
+2990902	                    Nassandres	3033308	                        Bernay	    0.27
+3034996	                          Barc	3033308	                        Bernay	    0.41
+3029951	                       Broglie	3033308	                        Bernay	    0.26
+3021717	                     Darnétal	3021717	                     Darnétal	    0.00
+3015267	                Grand-Couronne	3015267	                Grand-Couronne	    0.00
+6427331	                    Mondeville	2989013	                    Ouistreham	    0.31
+2989013	                    Ouistreham	2989013	                    Ouistreham	    0.00
+6427149	                   Colombelles	2989013	                    Ouistreham	    0.22
+3032452	           Blainville-sur-Orne	2989013	                    Ouistreham	    0.16
+6427189	                 Dives-sur-Mer	2989013	                    Ouistreham	    0.29
+6427192	        Douvres-la-Délivrande	2989013	                    Ouistreham	    0.22
+3018275	               Fleury-sur-Orne	2989013	                    Ouistreham	    0.43
+3016113	                    Giberville	2989013	                    Ouistreham	    0.27
+3022947	           Courseulles-sur-Mer	2989013	                    Ouistreham	    0.39
+6427102	          Bretteville-sur-Odon	2989013	                    Ouistreham	    0.41
+3037059	                      Argences	2989013	                    Ouistreham	    0.46
+6427551	                        Verson	2989013	                    Ouistreham	    0.49
+6427108	                       Cabourg	2989013	                    Ouistreham	    0.26
+2971641	                        Troarn	2989013	                    Ouistreham	    0.30
+2997204	                   Luc-sur-Mer	2989013	                    Ouistreham	    0.20
+3021609	                   Démouville	2989013	                    Ouistreham	    0.27
+3030238	  Bretteville-l’Orgueilleuse	2989013	                    Ouistreham	    0.50
+6427258	           Hermanville-sur-Mer	2989013	                    Ouistreham	    0.10
+6427123	                     Carpiquet	2989013	                    Ouistreham	    0.43
+2997325	                      Louvigny	2989013	                    Ouistreham	    0.42
+2991446	                         Moult	2989013	                    Ouistreham	    0.49
+2978394	      Saint-Martin-de-Fontenay	2989013	                    Ouistreham	    0.49
+2981018	                 Saint-Contest	2989013	                    Ouistreham	    0.32
+2998187	                  Lion-sur-Mer	2989013	                    Ouistreham	    0.13
+6427148	         Colleville-Montgomery	2989013	                    Ouistreham	    0.08
+6427403	                          Rots	2989013	                    Ouistreham	    0.45
+2981536	           Saint-Aubin-sur-Mer	2989013	                    Ouistreham	    0.28
+6427439	Saint-Germain-la-Blanche-Herbe	2989013	                    Ouistreham	    0.37
+3033272	            Bernières-sur-Mer	2989013	                    Ouistreham	    0.33
+6427193	                       Dozulé	2989013	                    Ouistreham	    0.41
+6427320	                       Mathieu	2989013	                    Ouistreham	    0.22
+6427183	                    Cuverville	2989013	                    Ouistreham	    0.25
+6427322	    Merville-Franceville-Plage	2989013	                    Ouistreham	    0.10
+3030945	                   Bourguébus	2989013	                    Ouistreham	    0.44
+6427508	                       Soliers	2989013	                    Ouistreham	    0.41
+3033458	                   Bénouville	2989013	                    Ouistreham	    0.11
+3029178	                        Cairon	2989013	                    Ouistreham	    0.36
+3029223	                         Cagny	2989013	                    Ouistreham	    0.37
+2976182	                   Sannerville	2989013	                    Ouistreham	    0.28
+3007673	              Langrune-sur-Mer	2989013	                    Ouistreham	    0.24
+3034509	                        Bavent	2989013	                    Ouistreham	    0.19
+2984417	                      Ranville	2989013	                    Ouistreham	    0.13
+2981714	         Saint-André-sur-Orne	2989013	                    Ouistreham	    0.50
+3013091	                      Houlgate	2989013	                    Ouistreham	    0.33
+3029051	              Cambes-en-Plaine	2989013	                    Ouistreham	    0.26
+2973009	                         Thaon	2989013	                    Ouistreham	    0.36
+3019969	                        Épron	2989013	                    Ouistreham	    0.26
+3019414	                    Éterville	2989013	                    Ouistreham	    0.48
+3035951	                        Authie	2989013	                    Ouistreham	    0.38
+6447208	                Bellengreville	2989013	                    Ouistreham	    0.44
+3037863	                   Amfréville	2989013	                    Ouistreham	    0.10
+3013402	                Hérouvillette	2989013	                    Ouistreham	    0.16
+3022549	                    Cresserons	2989013	                    Ouistreham	    0.18
+3034733	                         Basly	2989013	                    Ouistreham	    0.30
+2981592	      Saint-Aubin-d’Arquenay	2989013	                    Ouistreham	    0.07
+2998322	                    Lillebonne	2998322	                    Lillebonne	    0.00
+3022826	                     Coutances	3022826	                     Coutances	    0.00
+3030405	                       Bréhal	3022826	                     Coutances	    0.43
+3015458	              Gouville-sur-Mer	3022826	                     Coutances	    0.29
+2984771	       Quettreville-sur-Sienne	3022826	                     Coutances	    0.21
+3038590	             Agon-Coutainville	3022826	                     Coutances	    0.24
+2987986	                      Périers	3022826	                     Coutances	    0.40
+3022641	                     Créances	3022826	                     Coutances	    0.49
+3027891	                     Cérences	3022826	                     Coutances	    0.36
+2977010	        Saint-Sauveur-Lendelin	3022826	                     Coutances	    0.24
+3032453	            Blainville-sur-Mer	3022826	                     Coutances	    0.26
+6435531	                         Pirou	3022826	                     Coutances	    0.40
+3016474	                        Gavray	3022826	                     Coutances	    0.42
+2992266	            Montmartin-sur-Mer	3022826	                     Coutances	    0.21
+3030116	          Bricqueville-sur-Mer	3022826	                     Coutances	    0.39
+3014023	                        Hambye	3022826	                     Coutances	    0.43
+2998222	                   Lingreville	3022826	                     Coutances	    0.30
+2998664	                      Harfleur	2998664	                      Harfleur	    0.00
+6456448	             Le Grand-Quevilly	3032025	                       Bihorel	    0.18
+8296360	                      Canteleu	3032025	                       Bihorel	    0.15
+6443319	                       Maromme	3032025	                       Bihorel	    0.15
+3021484	           Déville-lès-Rouen	3032025	                       Bihorel	    0.13
+6617650	             Le Petit-Couronne	3032025	                       Bihorel	    0.25
+3032025	                       Bihorel	3032025	                       Bihorel	    0.00
+6443367	      Notre-Dame-de-Bondeville	3032025	                       Bihorel	    0.16
+2988305	                       Pavilly	3032025	                       Bihorel	    0.43
+2996492	                      Malaunay	3032025	                       Bihorel	    0.24
+2991911	                      Monville	3032025	                       Bihorel	    0.27
+6454685	                       Duclair	3032025	                       Bihorel	    0.44
+3003773	                     Le Houlme	3032025	                       Bihorel	    0.21
+3031612	                          Boos	3032025	                       Bihorel	    0.24
+6443464	   Saint-Léger-du-Bourg-Denis	3032025	                       Bihorel	    0.08
+6452520	         Amfreville-la-Mi-Voie	3032025	                       Bihorel	    0.15
+2982973	           Romilly-sur-Andelle	3032025	                       Bihorel	    0.43
+6443400	                   Quincampoix	3032025	                       Bihorel	    0.23
+2979408	   Saint-Jacques-sur-Darnétal	3032025	                       Bihorel	    0.16
+3013080	                   Houppeville	3032025	                       Bihorel	    0.17
+2986999	                        Pitres	3032025	                       Bihorel	    0.42
+2972163	         Tourville-la-Rivière	3032025	                       Bihorel	    0.35
+2977808	    Saint-Ouen-de-Thouberville	3032025	                       Bihorel	    0.50
+2977477	  Saint-Pierre-de-Varengeville	3032025	                       Bihorel	    0.36
+6617648	   La Neuville-Champ-d’Oisel	3032025	                       Bihorel	    0.33
+3033811	                       Belbeuf	3032025	                       Bihorel	    0.19
+3002247	                         Léry	3032025	                       Bihorel	    0.50
+3018277	            Fleury-sur-Andelle	3032025	                       Bihorel	    0.50
+6454701	                       Préaux	3032025	                       Bihorel	    0.20
+6430521	          Perriers-sur-Andelle	3032025	                       Bihorel	    0.47
+6443214	             Fontaine-le-Bourg	3032025	                       Bihorel	    0.31
+2968401	              Villers-Écalles	3032025	                       Bihorel	    0.43
+3012885	                      Igoville	3032025	                       Bihorel	    0.38
+6443478	        Saint-Martin-du-Vivier	3032025	                       Bihorel	    0.09
+6443196	                      Eslettes	3032025	                       Bihorel	    0.28
+3038185	                        Alizay	3032025	                       Bihorel	    0.39
+2978412	  Saint-Martin-de-Boscherville	3032025	                       Bihorel	    0.28
+2982530	                       Roumare	3032025	                       Bihorel	    0.30
+3031479	                  Bosc-le-Hard	3032025	                       Bihorel	    0.49
+3022447	          Criquebeuf-sur-Seine	3032025	                       Bihorel	    0.42
+6443143	                       Cléres	3032025	                       Bihorel	    0.40
+2979250	       Saint-Jean-du-Cardonnay	3032025	                       Bihorel	    0.24
+2977777	                   Saint-Paër	3032025	                       Bihorel	    0.46
+3013512	                   Hénouville	3032025	                       Bihorel	    0.29
+2992282	                      Montmain	3032025	                       Bihorel	    0.25
+2987007	                Pissy-Pôville	3032025	                       Bihorel	    0.30
+6457080	Les Authieux-sur-le-Port-Saint-Ouen	3032025	                       Bihorel	    0.32
+3032455	             Blainville-Crevon	3032025	                       Bihorel	    0.36
+3037524	         Anneville-Ambourville	3032025	                       Bihorel	    0.42
+6453901	                         Poses	3032025	                       Bihorel	    0.48
+2982946	                  Roncherolles	3032025	                       Bihorel	    0.13
+2967230	                         Ymare	3032025	                       Bihorel	    0.31
+2986105	             Pont-Saint-Pierre	3032025	                       Bihorel	    0.44
+2974781	        Servaville-Salmonville	3032025	                       Bihorel	    0.29
+2981595	        Saint-Aubin-Celloville	3032025	                       Bihorel	    0.26
+3005736	                La Vaupalière	3032025	                       Bihorel	    0.24
+3028190	                       Caumont	3032025	                       Bihorel	    0.47
+6443339	                  Mesnil-Raoul	3032025	                       Bihorel	    0.33
+2974603	                     Sierville	3032025	                       Bihorel	    0.40
+8286754	           Morgny-la-Pommeraye	3032025	                       Bihorel	    0.30
+6613915	            Saint-Aubin-Epinay	3032025	                       Bihorel	    0.14
+6617637	                   Fresquienne	3032025	                       Bihorel	    0.36
+3003453	                        Grugny	3032025	                       Bihorel	    0.46
+6443398	       Quévreville-la-Poterie	3032025	                       Bihorel	    0.31
+3002172	                   Les Andelys	3002172	                   Les Andelys	    0.00
+3019363	                   Étrépagny	3002172	                   Les Andelys	    0.40
+2981538	       Saint-Aubin-sur-Gaillon	3002172	                   Les Andelys	    0.31
+6430444	              Houlbec-Cocherel	3002172	                   Les Andelys	    0.49
+3009717	        La Croix-Saint-Leufroy	3002172	                   Les Andelys	    0.49
+3010285	        La Chapelle-Réanville	3002172	                   Les Andelys	    0.42
+8289772	                       Falaise	8289772	                       Falaise	    0.00
+2977411	        Saint-Pierre-sur-Dives	8289772	                       Falaise	    0.45
+6427385	                       Potigny	8289772	                       Falaise	    0.23
+3030234	         Bretteville-sur-Laize	8289772	                       Falaise	    0.47
+2978392	       Saint-Martin-de-Fresnay	8289772	                       Falaise	    0.48
+2976830	                 Saint-Sylvain	8289772	                       Falaise	    0.44
+2971521	                          Trun	8289772	                       Falaise	    0.45
+2980795	                Sainte-Adresse	2980795	                Sainte-Adresse	    0.00
+3009338	         Criquetot-l’Esneval	2980795	                Sainte-Adresse	    0.50
+2979158	          Saint-Jouin-Bruneval	2980795	                Sainte-Adresse	    0.41
+3028144	                      Cauville	2980795	                Sainte-Adresse	    0.26
+2971446	                      Turretot	2980795	                Sainte-Adresse	    0.38
+3037649	         Angerville-l’Orcher	2980795	                Sainte-Adresse	    0.42
+3015677	          Gonneville-la-Mallet	2980795	                Sainte-Adresse	    0.45
+2977025	Saint-Sauveur-d’Émalleville	2980795	                Sainte-Adresse	    0.50
+3019471	                     Étainhus	2980795	                Sainte-Adresse	    0.45
+2983055	                    Rolleville	2980795	                Sainte-Adresse	    0.31
+2970860	                      Valognes	2970860	                      Valognes	    0.00
+6435529	                    Picauville	2970860	                      Valognes	    0.37
+2984774	                     Quettehou	2970860	                      Valognes	    0.38
+2976712	         Saint-Vaast-la-Hougue	2970860	                      Valognes	    0.42
+2983810	                      Réville	2970860	                      Valognes	    0.49
+3019329	                            Eu	3019329	                            Eu	    0.00
+6614571	                   Le Tréport	3019329	                            Eu	    0.09
+3032349	             Blangy-sur-Bresle	3019329	                            Eu	    0.49
+3012814	                    Incheville	3019329	                            Eu	    0.17
+2977451	           Saint-Pierre-en-Val	3019329	                            Eu	    0.09
+3019461	                    Étalondes	3019329	                            Eu	    0.08
+6443244	               Gournay-en-Bray	6443244	               Gournay-en-Bray	    0.00
+6443217	               Forges-les-Eaux	6443244	               Gournay-en-Bray	    0.49
+6443207	            Ferrières-en-Bray	6443244	               Gournay-en-Bray	    0.04
+6456442	                   La Feuillie	6443244	               Gournay-en-Bray	    0.38
+2989753	             Octeville-sur-Mer	2989753	             Octeville-sur-Mer	    0.00
+3028610	                      Carentan	3028610	                      Carentan	    0.00
+3012712	                Isigny-sur-Mer	3028610	                      Carentan	    0.27
+6615902	           Grandcamp-les-Bains	3028610	                      Carentan	    0.44
+6435596	      Saint-Hilaire-Petitville	3028610	                      Carentan	    0.04
+3009486	               La Ferté-Macé	3009486	               La Ferté-Macé	    0.00
+3035404	          Bagnoles-de-l’Orne	3009486	               La Ferté-Macé	    0.14
+2994193	          Messei-Saint-Gervais	3009486	               La Ferté-Macé	    0.47
+3009508	      La Ferrière-aux-Étangs	3009486	               La Ferté-Macé	    0.36
+3029991	                       Briouze	3009486	               La Ferté-Macé	    0.30
+2996757	              Magny-le-Désert	3009486	               La Ferté-Macé	    0.08
+3033604	              Bellou-en-Houlme	3009486	               La Ferté-Macé	    0.32
+2970245	                      Couterne	3009486	               La Ferté-Macé	    0.25
+2984441	                        Rânes	3009486	               La Ferté-Macé	    0.30
+6443142	                        Cléon	6443142	                        Cléon	    0.00
+2979401	                   Saint-James	2979401	                   Saint-James	    0.00
+2986136	                     Pontorson	2979401	                   Saint-James	    0.35
+3012713	                Isigny-le-Buat	2979401	                   Saint-James	    0.39
+3020722	                         Ducey	2979401	                   Saint-James	    0.28
+6435650	   Saint-Senier-sous-Avranches	2979401	                   Saint-James	    0.45
+2996039	            Marcey-les-Grèves	2979401	                   Saint-James	    0.50
+2990680	           Neufchâtel-en-Bray	2990680	           Neufchâtel-en-Bray	    0.00
+3029677	                         Buchy	2990680	           Neufchâtel-en-Bray	    0.44
+6443507	                  Saint-Saëns	2990680	           Neufchâtel-en-Bray	    0.33
+2997784	                  Londinières	2990680	           Neufchâtel-en-Bray	    0.28
+3016812	                Gaillefontaine	2990680	           Neufchâtel-en-Bray	    0.39
+2969799	             Verneuil-sur-Avre	6616280	             Breteuil-sur-Iton	    0.27
+6616280	             Breteuil-sur-Iton	6616280	             Breteuil-sur-Iton	    0.00
+2982200	                        Rugles	6616280	             Breteuil-sur-Iton	    0.38
+2976836	       Saint-Sulpice-sur-Risle	6616280	             Breteuil-sur-Iton	    0.50
+3030857	                        Bourth	6616280	             Breteuil-sur-Iton	    0.27
+6430662	           Tillières-sur-Avre	6616280	             Breteuil-sur-Iton	    0.34
+3004242	                  Le Fidelaire	6616280	             Breteuil-sur-Iton	    0.36
+6455786	                   Le Neubourg	6455786	                   Le Neubourg	    0.00
+6454473	                         Sées	6454473	                         Sées	    0.00
+2997629	                        Lonrai	6454473	                         Sées	    0.47
+2990056	      Notre-Dame-de-Gravenchon	2977146	       Saint-Romain-de-Colbosc	    0.40
+2977146	       Saint-Romain-de-Colbosc	2977146	       Saint-Romain-de-Colbosc	    0.00
+3014490	            Gruchet-le-Valasse	2977146	       Saint-Romain-de-Colbosc	    0.24
+3015765	                    Goderville	2977146	       Saint-Romain-de-Colbosc	    0.32
+6614452	                    La Frenaye	2977146	       Saint-Romain-de-Colbosc	    0.39
+2977883	    Saint-Nicolas-de-la-Taille	2977146	       Saint-Romain-de-Colbosc	    0.22
+2990240	                       Nointot	2977146	       Saint-Romain-de-Colbosc	    0.29
+3030448	                     Bréauté	2977146	       Saint-Romain-de-Colbosc	    0.28
+3006995	                    La Remuée	2977146	       Saint-Romain-de-Colbosc	    0.08
+2967251	                     Yébleron	2977146	       Saint-Romain-de-Colbosc	    0.43
+3231391	                   Tancarville	2977146	       Saint-Romain-de-Colbosc	    0.21
+3032892	         Beuzeville-la-Grenier	2977146	       Saint-Romain-de-Colbosc	    0.21
+6443444	      Saint-Eustache-la-Forêt	2977146	       Saint-Romain-de-Colbosc	    0.18
+3007560	                     Lanquetot	2977146	       Saint-Romain-de-Colbosc	    0.34
+3000465	                     Les Loges	2977146	       Saint-Romain-de-Colbosc	    0.49
+2987596	                     Petiville	2977146	       Saint-Romain-de-Colbosc	    0.46
+2981668	       Saint-Antoine-la-Forêt	2977146	       Saint-Romain-de-Colbosc	    0.21
+6443317	          Manneville-la-Goupil	2977146	       Saint-Romain-de-Colbosc	    0.22
+3019973	                    Épreville	2977146	       Saint-Romain-de-Colbosc	    0.49
+6430282	                  Bourg-Achard	6430282	                  Bourg-Achard	    0.00
+2978981	            Mortagne-au-Perche	2978981	            Mortagne-au-Perche	    0.00
+2972201	                     Tourouvre	2978981	            Mortagne-au-Perche	    0.27
+2997704	              Longny-au-Perche	2978981	            Mortagne-au-Perche	    0.38
+6443294	                   Isneauville	6443294	                   Isneauville	    0.00
+2978233	       Saint-Martin-Osmonville	6443294	                   Isneauville	    0.48
+2968072	                    Vimoutiers	2968072	                    Vimoutiers	    0.00
+3016853	                         Gacé	2968072	                    Vimoutiers	    0.42
+6443213	            Fontaine-la-Mallet	6443213	            Fontaine-la-Mallet	    0.00
+3019355	                      Étretat	6443213	            Fontaine-la-Mallet	    0.49
+6443230	                   Gainneville	6443230	                   Gainneville	    0.00
+3021859	                       Damigni	3023951	             Condé-sur-Sarthe	    0.08
+3023951	             Condé-sur-Sarthe	3023951	             Condé-sur-Sarthe	    0.00
+2984582	                         Radon	3023951	             Condé-sur-Sarthe	    0.23
+6430370	                 Ézy-sur-Eure	3009804	            La Couture-Boussey	    0.09
+2969575	              Ivry-la-Bataille	3009804	            La Couture-Boussey	    0.11
+3009804	            La Couture-Boussey	3009804	            La Couture-Boussey	    0.00
+6615063	                    Nonancourt	3009804	            La Couture-Boussey	    0.51
+2995943	             Marcilly-sur-Eure	3009804	            La Couture-Boussey	    0.22
+3022285	                         Croth	3009804	            La Couture-Boussey	    0.15
+6430591	        Saint-Germain-sur-Avre	3009804	            La Couture-Boussey	    0.45
+2990158	    La Madeleine-de-Nonancourt	3009804	            La Couture-Boussey	    0.51
+2988017	                         Percy	2988017	                         Percy	    0.00
+2980397	          Sainte-Mère-Église	2977007	      Saint-Sauveur-le-Vicomte	    0.39
+3034886	            Barneville-sur-Mer	2977007	      Saint-Sauveur-le-Vicomte	    0.40
+2999619	                        Lessay	2977007	      Saint-Sauveur-le-Vicomte	    0.47
+2992744	                    Montebourg	2977007	      Saint-Sauveur-le-Vicomte	    0.39
+2977007	      Saint-Sauveur-le-Vicomte	2977007	      Saint-Sauveur-le-Vicomte	    0.00
+2986038	                      Portbail	2977007	      Saint-Sauveur-le-Vicomte	    0.33
+3008758	              La Haye-du-Puits	2977007	      Saint-Sauveur-le-Vicomte	    0.27
+2980470	                        Aumale	2980470	                        Aumale	    0.00
+2972882	                   Thiberville	2972882	                   Thiberville	    0.00
+3020752	            Condé-sur-Noireau	2970610	                         Vassy	    0.23
+3036081	                Aunay-sur-Odon	2970610	                         Vassy	    0.47
+2979920	 Saint-Georges-des-Groseillers	2970610	                         Vassy	    0.30
+2972555	                    Tinchebray	2970610	                         Vassy	    0.27
+6617245	                         Athis	2970610	                         Vassy	    0.34
+2979802	   Saint-Germain-de-Tallevende	2970610	                         Vassy	    0.44
+3008532	                La Lande-Patry	2970610	                         Vassy	    0.29
+2970610	                         Vassy	2970610	                         Vassy	    0.00
+3006439	             La Selle-la-Forge	2970610	                         Vassy	    0.41
+2970495	                        Vaudry	2970610	                         Vassy	    0.33
+2977456	        Saint-Pierre-du-Regard	2970610	                         Vassy	    0.24
+3024695	                        Clécy	2970610	                         Vassy	    0.39
+3026816	                         Chanu	2970610	                         Vassy	    0.34
+3008907	                   La Graverie	2970610	                         Vassy	    0.39
+3005311	               Le Bény-Bocage	2970610	                         Vassy	    0.38
+3036850	            Arnières-sur-Iton	3036850	            Arnières-sur-Iton	    0.00
+2995949	          Marcilly-la-Campagne	3036850	            Arnières-sur-Iton	    0.48
+2991899	           Boissy-sur-Damville	3036850	            Arnières-sur-Iton	    0.46
+2977428	      Saint-Pierre-lès-Elbeuf	6430619	         Saint-Ouen-du-Tilleul	    0.17
+2981547	       Saint-Aubin-lès-Elbeuf	6430619	         Saint-Ouen-du-Tilleul	    0.12
+3037860	              Le Mesnil-Esnard	6430619	         Saint-Ouen-du-Tilleul	    0.48
+3032198	                    Bonsecours	6430619	         Saint-Ouen-du-Tilleul	    0.49
+3030007	                       Brionne	6430619	         Saint-Ouen-du-Tilleul	    0.50
+6430529	             Pont-de-l’Arche	6430619	         Saint-Ouen-du-Tilleul	    0.37
+2990020	                  Le Vaudreuil	6430619	         Saint-Ouen-du-Tilleul	    0.48
+6456806	      Le Bosc-Roger-en-Roumois	6430619	         Saint-Ouen-du-Tilleul	    0.04
+2999170	               Le Thuit-Signol	6430619	         Saint-Ouen-du-Tilleul	    0.08
+3008437	                      La Londe	6430619	         Saint-Ouen-du-Tilleul	    0.04
+3006502	                   La Saussaye	6430619	         Saint-Ouen-du-Tilleul	    0.12
+3012066	                     Jumièges	6430619	         Saint-Ouen-du-Tilleul	    0.45
+6430619	         Saint-Ouen-du-Tilleul	6430619	         Saint-Ouen-du-Tilleul	    0.00
+6613802	                        Routot	6430619	         Saint-Ouen-du-Tilleul	    0.45
+2977488	       Saint-Pierre-des-Fleurs	6430619	         Saint-Ouen-du-Tilleul	    0.12
+3012817	                    Incarville	6430619	         Saint-Ouen-du-Tilleul	    0.45
+3008754	              La Haye-Malherbe	6430619	         Saint-Ouen-du-Tilleul	    0.29
+6455782	                     Le Manoir	6430619	         Saint-Ouen-du-Tilleul	    0.47
+3013644	                      Hauville	6430619	         Saint-Ouen-du-Tilleul	    0.43
+2992431	                      Montigny	6430619	         Saint-Ouen-du-Tilleul	    0.47
+2981996	                        Sahurs	6430619	         Saint-Ouen-du-Tilleul	    0.18
+6430669	         Tourville-la-Campagne	6430619	         Saint-Ouen-du-Tilleul	    0.20
+3013948	                      Harcourt	6430619	         Saint-Ouen-du-Tilleul	    0.46
+2982588	                 Rougemontiers	6430619	         Saint-Ouen-du-Tilleul	    0.45
+2967256	                     Yainville	6430619	         Saint-Ouen-du-Tilleul	    0.49
+3031103	                     Bouquetot	6430619	         Saint-Ouen-du-Tilleul	    0.36
+6430496	                      Montaure	6430619	         Saint-Ouen-du-Tilleul	    0.30
+3003898	                 Le Gros-Theil	6430619	         Saint-Ouen-du-Tilleul	    0.27
+2977470	   Saint-Pierre-du-Bosguérard	6430619	         Saint-Ouen-du-Tilleul	    0.14
+2990537	          Neuville-lès-Dieppe	2995371	                Martin-Église	    0.10
+6443485	   Saint-Nicolas-d’Aliermont	2995371	                Martin-Église	    0.16
+2989715	                   Offranville	2995371	                Martin-Église	    0.19
+3022461	                 Criel-sur-Mer	2995371	                Martin-Église	    0.45
+3036797	            Arques-la-Bataille	2995371	                Martin-Église	    0.06
+3004907	                       Luneray	2995371	                Martin-Église	    0.45
+3020108	                      Envermeu	2995371	                Martin-Église	    0.22
+3035471	           Bacqueville-en-Caux	2995371	                Martin-Église	    0.41
+3013673	                Hautot-sur-Mer	2995371	                Martin-Église	    0.19
+6443417	         Rouxmesnil-Bouteilles	2995371	                Martin-Église	    0.09
+3000826	            Les Grandes-Ventes	2995371	                Martin-Église	    0.36
+2995371	                Martin-Église	2995371	                Martin-Église	    0.00
+6451118	             Berneval-le-Grand	2995371	                Martin-Église	    0.18
+2978279	      Saint-Martin-en-Campagne	2995371	                Martin-Église	    0.21
+2972161	          Tourville-sur-Arques	2995371	                Martin-Église	    0.14
+3033638	            Belleville-sur-Mer	2995371	                Martin-Église	    0.14
+3035629	                    Avremesnil	2995371	                Martin-Église	    0.41
+6617268	           Le Theil-sur-Huisne	6455205	                      Bellême	    0.39
+6455205	                      Bellême	6455205	                      Bellême	    0.00
+2984087	                     Rémalard	6455205	                      Bellême	    0.42
+3020921	                   Berd’huis	6455205	                      Bellême	    0.35
+2992367	                 Montivilliers	3019962	                 Équemauville	    0.43
+6443239	        Gonfreville-l’Orcher	3019962	                 Équemauville	    0.32
+3013173	                      Honfleur	3019962	                 Équemauville	    0.08
+3032896	                    Beuzeville	3019962	                 Équemauville	    0.28
+2971555	             Trouville-sur-Mer	3019962	                 Équemauville	    0.24
+2972307	                       Touques	3019962	                 Équemauville	    0.24
+2982653	                      Rouelles	3019962	                 Équemauville	    0.37
+3019981	                    Épouville	3019962	                 Équemauville	    0.47
+6427562	               Villers-sur-Mer	3019962	                 Équemauville	    0.44
+3006885	     La Rivière-Saint-Sauveur	3019962	                 Équemauville	    0.12
+2981542	            Saint-Aubin-Routot	3019962	                 Équemauville	    0.42
+3032202	             Blonville-sur-Mer	3019962	                 Équemauville	    0.36
+2983135	                    Rogerville	3019962	                 Équemauville	    0.32
+2978299	        Saint-Martin-du-Manoir	3019962	                 Équemauville	    0.39
+2978940	   Saint-Laurent-de-Brévedent	3019962	                 Équemauville	    0.38
+3019962	                 Équemauville	3019962	                 Équemauville	    0.00
+3017926	                      Fontenay	3019962	                 Équemauville	    0.47
+6614931	        Saint-Gâtien-des-Bois	3019962	                 Équemauville	    0.13
+6430671	                  Toutainville	3019962	                 Équemauville	    0.47
+3010515	                  La Cerlangue	3019962	                 Équemauville	    0.49
+2996232	                    Manéglise	3019962	                 Équemauville	    0.48
+3038755	                         Ablon	3019962	                 Équemauville	    0.16
+3031145	                   Boulleville	3019962	                 Équemauville	    0.34
+2976617	     Saint-Vigor-d’Ymonville	3019962	                 Équemauville	    0.40
+3023837	                    Conteville	3019962	                 Équemauville	    0.34
+3016807	                       Gaillon	6455763	                     Les Damps	    0.49
+3023085	          Courcelles-sur-Seine	6455763	                     Les Damps	    0.47
+6455763	                     Les Damps	6455763	                     Les Damps	    0.00
+3018076	            Fontaine-Bellenger	6455763	                     Les Damps	    0.36
+6427560	                Villers-Bocage	3028186	          Caumont-l’Éventé	    0.27
+3029221	                      Cahagnes	3028186	          Caumont-l’Éventé	    0.09
+3028186	          Caumont-l’Éventé	3028186	          Caumont-l’Éventé	    0.00
+6443514	         Saint-Valéry-en-Caux	6443361	                      Néville	    0.11
+3028754	                 Cany-Barville	6443361	                      Néville	    0.16
+6443175	                    Doudeville	6443361	                      Néville	    0.32
+6443361	                      Néville	6443361	                      Néville	    0.00
+2988958	              Ourville-en-Caux	6443361	                      Néville	    0.32
+3015398	    Grainville-la-Teinturière	6443361	                      Néville	    0.24
+3037650	          Angerville-la-Martel	6443361	                      Néville	    0.41
+6443521	        Sassetot-le-Mauconduit	6443361	                      Néville	    0.32
+3027758	                         Ceton	3023958	             Condé-sur-Huisne	    0.47
+3030254	                  Bretoncelles	3023958	             Condé-sur-Huisne	    0.16
+3023958	             Condé-sur-Huisne	3023958	             Condé-sur-Huisne	    0.00
+2999251	                   Le Teilleul	3028037	                      Céaucé	    0.47
+3028037	                      Céaucé	3028037	                      Céaucé	    0.00
+3034950	                      Barenton	3028037	                      Céaucé	    0.48
+2999982	                     Les Pieux	2973655	                  Surtainville	    0.15
+3018409	                   Flamanville	2973655	                  Surtainville	    0.22
+2973655	                  Surtainville	2973655	                  Surtainville	    0.00
+2979531	    Saint-Hilaire-du-Harcouët	2978378	     Saint-Martin-de-Landelles	    0.17
+6455152	                       Brécey	2978378	     Saint-Martin-de-Landelles	    0.50
+2998963	            Le Val-Saint-Père	2978378	     Saint-Martin-de-Landelles	    0.50
+2988511	                       Parigny	2978378	     Saint-Martin-de-Landelles	    0.22
+2991699	                       Mortain	2978378	     Saint-Martin-de-Landelles	    0.51
+2977261	    Saint-Quentin-sur-le-Homme	2978378	     Saint-Martin-de-Landelles	    0.39
+2978378	     Saint-Martin-de-Landelles	2978378	     Saint-Martin-de-Landelles	    0.00
+3000458	             Les Loges-Marchis	2978378	     Saint-Martin-de-Landelles	    0.15
+3036222	                        Auffay	2981533	          Saint-Aubin-sur-Scie	    0.43
+2981533	          Saint-Aubin-sur-Scie	2981533	          Saint-Aubin-sur-Scie	    0.00
+6613857	                     L’Aigle	6439247	Sainte-Gauburge-Sainte-Colombe	    0.39
+2984532	                 Rai-sur-Rîle	6439247	Sainte-Gauburge-Sainte-Colombe	    0.29
+3036380	                Aube-sur-Rîle	6439247	Sainte-Gauburge-Sainte-Colombe	    0.22
+6439247	Sainte-Gauburge-Sainte-Colombe	6439247	Sainte-Gauburge-Sainte-Colombe	    0.00

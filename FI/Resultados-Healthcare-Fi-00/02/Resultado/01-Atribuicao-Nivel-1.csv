@@ -1,0 +1,10 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+405,"Lappeenranta",405,"Lappeenranta",0,1
+831,"Taipalsaari",405,"Lappeenranta",0.33,1
+416,"Lemi",405,"Lappeenranta",0.51,1
+153,"Imatra",153,"Imatra",0,1
+700,"Ruokolahti",700,"Ruokolahti",0,1
+580,"Parikkala",580,"Parikkala",0,1
+689,"Rautjärvi",580,"Parikkala",0.37,1
+739,"Savitaipale",739,"Savitaipale",0,1
+441,"Luumäki",441,"Luumäki",0,1

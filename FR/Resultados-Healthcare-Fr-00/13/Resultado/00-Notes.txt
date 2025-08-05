@@ -1,0 +1,113 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   8198590883.39
+Primary   Care Cost:	   6846805780.00
+Secondary Care Cost:	    423222800.00
+Tertiary  Care Cost:	    365477228.00
+Add Infrastruc Cost:	    559618416.00
+Populat ExtLog Cost:	      3466659.39
+HC Cost per capita (now):	     1578.00
+HC Cost per capita (fut):	     1694.37
+----------------------------------------
+
+-----------------------------------
+State population:	4838732
+Max municipa pop:	868277
+Min municipa pop:	1007
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.50
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 437 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 437 mun >  34 mun (100.00% coverage)
+Care Level [2]:  34 mun >   6 mun
+Care Level [3]:   6 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3037352	Apt                      :	1558056.50
+    1	3003650	Le Luc                   :	4859676.00
+    1	3002357	Le Revest-les-Eaux       :	75897487.00
+    1	2980711	Sainte-Cécile-les-Vignes:	14600536.00
+    1	2986891	Plan-d’Aups-Sainte-Baume:	32184033.50
+    1	3029248	Cadolive                 :	164856556.00
+    1	2980325	Saintes-Maries-de-la-Mer :	305215.50
+    1	6446679	Breil-sur-Roya           :	5794849.50
+    1	2988609	Paradou                  :	20344445.50
+    1	3009193	La Garde-Freinet         :	12532372.00
+    1	2977662	Saint-Paul-en-Forêt     :	24246874.00
+    1	3012282	Jonquerettes             :	51452371.50
+    1	2980247	Saint-Étienne-de-Tinée :	214089.50
+    1	3008116	La Môle                 :	4744353.50
+    1	2992583	Montfort-sur-Argens      :	12616140.00
+    1	3023576	Cornillon-Confoux        :	13855538.50
+    1	2974831	Serres                   :	682313.00
+    1	2968290	Villes-sur-Auzon         :	3330202.50
+    1	3007506	Lantosque                :	4329900.00
+    1	3023736	Corbières-en-Provence   :	3322986.00
+    1	3010787	La Brillanne             :	9750340.50
+    1	3012406	Jausiers                 :	524399.00
+    1	2981375	Saint-Blaise             :	65032834.00
+    1	3002132	Mison                    :	1437498.50
+    1	3001268	Crots                    :	485486.50
+    1	8288944	Savines-le-Lac           :	1396039.00
+    1	3003297	Le Monêtier-les-Bains   :	2629211.50
+    1	2997384	Lourmarin                :	12724953.50
+    1	3037512	Annot                    :	764100.00
+    1	2970408	Vauvenargues             :	5263375.50
+    2	3037352	Apt                      :	3781239.00
+    2	3003650	Le Luc                   :	4100943.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3008432	La Londe-les-Maures      :	4543.37
+    1	2975120	Sénas                   :	3030.66
+    1	2979209	Saint-Jeannet            :	1817.96
+    1	2969516	Veynes                   :	1399.00
+    1	6618140	L’Argentière-la-Bessée:	991.85
+    2	3002357	Le Revest-les-Eaux       :	79777.85
+    2	2980711	Sainte-Cécile-les-Vignes:	285922.78
+    2	2986891	Plan-d’Aups-Sainte-Baume:	193309.30
+    2	3029248	Cadolive                 :	48702.53
+    2	2980325	Saintes-Maries-de-la-Mer :	134611.45
+    2	6446679	Breil-sur-Roya           :	221686.14
+    2	2988609	Paradou                  :	48862.01
+    2	3009193	La Garde-Freinet         :	146685.19
+    2	2977662	Saint-Paul-en-Forêt     :	71.29
+    2	3012282	Jonquerettes             :	25206.13
+    2	2980247	Saint-Étienne-de-Tinée :	169780.68
+    2	3008116	La Môle                 :	743.97
+    2	2974831	Serres                   :	8577.20
+    2	2968290	Villes-sur-Auzon         :	659.59
+    2	3007506	Lantosque                :	55331.30
+    2	3023736	Corbières-en-Provence   :	96968.05
+    2	3010787	La Brillanne             :	8812.53
+    2	3012406	Jausiers                 :	91698.05
+    2	2981375	Saint-Blaise             :	5925.48
+    2	3002132	Mison                    :	13058.88
+    2	3001268	Crots                    :	5752.43
+    2	8288944	Savines-le-Lac           :	1336.86
+    2	3003297	Le Monêtier-les-Bains   :	115216.92
+    2	2997384	Lourmarin                :	48799.83
+    2	3037512	Annot                    :	16166.91
+    2	2970408	Vauvenargues             :	50773.95
+    3	6618043	Digne-les-Bains          :	405704.30
+    3	3037352	Apt                      :	675568.38
+    3	3003650	Le Luc                   :	499166.57
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

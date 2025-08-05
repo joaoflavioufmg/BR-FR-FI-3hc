@@ -1,0 +1,9 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+905,"Vaasa",905,"Vaasa",0,2
+475,"Malax",905,"Vaasa",0.45,2
+152,"Isokyrö",905,"Vaasa",0.92,2
+280,"Korsnäs",905,"Vaasa",1.04,2
+231,"Kaskinen",905,"Vaasa",2.05,2
+598,"Jakobstad",598,"Jakobstad",0,2
+499,"Korsholm",499,"Korsholm",0,2
+599,"Pedersöre",599,"Pedersöre",0,2

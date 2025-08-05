@@ -1,0 +1,69 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Southwest Finland (19)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	30000
+2	2607	# Q1
+3	7721	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.0
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+853	19	60.4517	22.27	206909	0	'Turku'	
+734	19	60.3831	23.1331	47619	0	'Salo'	
+202	19	60.4069	22.3722	38669	1	'Kaarina'	
+680	19	60.4861	22.1694	24809	1	'Raisio'	
+423	19	60.5	22.4497	21480	1	'Lieto'	
+529	19	60.4681	22.0264	20140	1	'Naantali'	
+430	19	60.8514	23.0583	14549	0	'Loimaa'	
+895	19	60.7833	21.4167	14540	0	'Uusikaupunki'	
+445	19	60.3	22.3	14443	1	'Pargas'	
+577	19	60.4569	22.6861	11362	1	'Paimio'	
+481	19	60.5708	22.1	9397	1	'Masku'	
+761	19	60.6292	23.5139	7898	1	'Somero'	
+400	19	60.8792	21.6931	8198	1	'Laitila'	
+503	19	60.6833	21.9833	7255	1	'Mynämäki'	
+704	19	60.5417	22.2222	6885	1	'Rusko'	
+538	19	60.6	22.0833	4527	1	'Nousiainen'	
+019	19	60.6472	22.5903	3995	1	'Aura'	
+322	19	60.1639	22.7278	6129	1	'Kimitoön'	
+738	19	60.3417	22.6917	2861	1	'Sauvo'	
+284	19	60.6542	23.1403	2083	1	'Koski Tl'	
+631	19	60.95	21.4417	1783	1	'Pyhäranta'	
+480	19	60.5833	22.9	1948	1	'Marttila'	
+636	19	60.5833	22.7333	7721	1	'Pöytyä'	
+833	19	60.5617	21.6083	1698	1	'Taivassalo'	
+561	19	60.8556	22.6972	1288	1	'Oripää'	
+304	19	60.5467	21.3583	1098	1	'Kustavi'	
+918	19	60.6833	21.7167	2353	1	'Vehmaa'	
+;
+
+
+end;

@@ -1,0 +1,70 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  32754597923.26
+Primary   Care Cost:	   8783238830.00
+Secondary Care Cost:	  11711473879.00
+Tertiary  Care Cost:	  12251445114.25
+Add Infrastruc Cost:	      8192754.20
+Populat ExtLog Cost:	       247345.81
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4467.60
+----------------------------------------
+
+----------------------------------------
+State population:	7331585
+Max municipa pop:	687985
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	2026   		0.86
+Care Level [3]	1091   		0.72
+----------------------------------------
+
+
+Demand met by level: (Estate has 1410 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 1410 mun > 195 mun (100.00% coverage)
+Care Level [2]: 195 mun > 165 mun
+Care Level [3]: 165 mun > 163 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	2977365	Saint-Pourçain-sur-Sioule:	751505.40
+    1	2970685	Varennes-sur-Allier      :	806733.20
+    1	3021133	Dompierre-sur-Besbre     :	726706.80
+    1	3031089	Bourbon-l’Archambault  :	814041.00
+    1	3023478	Cosne-d’Allier         :	426488.00
+    1	2971074	Val-d’Isère           :	188924.60
+    1	3038745	Abondance                :	321663.00
+    1	3013022	Huez                     :	517056.80
+    1	3020569	Ébreuil                 :	273263.80
+    1	6434284	Saint-Just-en-Chevalet   :	136332.40
+    1	3004337	Le Donjon                :	264278.80
+    1	3026398	Chassenard               :	120758.40
+    2	2977365	Saint-Pourçain-sur-Sioule:	1226998.80
+    2	3021133	Dompierre-sur-Besbre     :	1618003.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3005091	Le Bourg-d’Oisans      :	4380.05
+    1	2970889	Vallon-en-Sully          :	2658.14
+    2	2970685	Varennes-sur-Allier      :	1642.00
+    2	3031089	Bourbon-l’Archambault  :	3048.31
+    2	3023478	Cosne-d’Allier         :	690.59
+    2	3010882	La Bourboule             :	64329.46
+    2	2971074	Val-d’Isère           :	21150.31
+    2	6616783	Aiguilhe                 :	1128.92
+    2	3038745	Abondance                :	5415.68
+    2	3013022	Huez                     :	4809.46
+    2	3020569	Ébreuil                 :	1748.48
+    2	6434284	Saint-Just-en-Chevalet   :	2116.61
+    2	3004337	Le Donjon                :	206.42
+    2	3026398	Chassenard               :	134021.38
+----------------------------------------------------------------

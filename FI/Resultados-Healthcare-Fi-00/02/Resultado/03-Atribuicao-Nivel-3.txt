@@ -1,0 +1,3 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+405	                  Lappeenranta	153	                        Imatra	    0.88
+153	                        Imatra	153	                        Imatra	    0.00

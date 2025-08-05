@@ -1,0 +1,73 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   6044643985.99
+Primary   Care Cost:	   2420923488.00
+Secondary Care Cost:	   2192198480.00
+Tertiary  Care Cost:	   1274054652.00
+Add Infrastruc Cost:	    154099851.34
+Populat ExtLog Cost:	      3367514.65
+HC Cost per capita (now):	     3205.10
+HC Cost per capita (fut):	     3290.83
+----------------------------------------
+
+-----------------------------------
+State population:	1836816
+Max municipa pop:	703540
+Min municipa pop:	1684
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 26 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  26 mun >  13 mun (100.00% coverage)
+Care Level [2]:  13 mun >   8 mun
+Care Level [3]:   8 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	638	Porvoo                   :	7534083.40
+    1	444	Lohja                    :	5758473.80
+    1	106	Hyvinkää               :	6248506.20
+    1	543	Nurmijärvi              :	6199740.20
+    1	257	Kirkkonummi              :	5673990.00
+    1	710	Raasepori                :	3434312.60
+    1	224	Karkkila                 :	4984148.80
+    1	78	Hanko                    :	900062.20
+    1	149	Ingå                    :	1487626.60
+    1	407	Lapinjärvi              :	2375036.00
+    1	616	Pukkila                  :	3612506.20
+    2	638	Porvoo                   :	16711430.40
+    2	444	Lohja                    :	16966176.00
+    2	106	Hyvinkää               :	14108918.40
+    2	543	Nurmijärvi              :	13998806.40
+    2	257	Kirkkonummi              :	12811680.00
+    2	710	Raasepori                :	9786873.60
+    3	257	Kirkkonummi              :	21507480.54
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	224	Karkkila                 :	135455.33
+    2	78	Hanko                    :	81558.65
+    2	149	Ingå                    :	2759.55
+    2	407	Lapinjärvi              :	96523.10
+    2	616	Pukkila                  :	10297.72
+    3	444	Lohja                    :	1321772.95
+    3	106	Hyvinkää               :	444430.93
+    3	710	Raasepori                :	1274716.42
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

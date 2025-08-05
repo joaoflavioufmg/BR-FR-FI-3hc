@@ -1,0 +1,5 @@
+NIVEL,CODIGO,DESTINO,POP_ATENDIDA,Physicians,Nurses,OtherCadres,CommunityBased,Beds,CTScanner,MRIUnit,Mammography,Radiotherapy
+1,109,"Hämeenlinna",92113,11.9747,58.0312,33.1608,32.2396,0,0,0,0,0
+1,694,"Riihimäki",42540,5.5303,26.8003,15.3144,14.889,0,0,0,0,0
+1,61,"Forssa",27778,3.6112,17.5002,10.0001,9.7223,0,0,0,0,0
+1,103,"Humppila",1966,0.2556,1.2386,0.7078,0.6881,0,0,0,0,0

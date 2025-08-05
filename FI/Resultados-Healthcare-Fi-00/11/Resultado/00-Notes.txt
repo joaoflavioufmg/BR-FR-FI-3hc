@@ -1,0 +1,69 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   2658719575.71
+Primary   Care Cost:	    718178200.00
+Secondary Care Cost:	   1218014800.00
+Tertiary  Care Cost:	    676138788.00
+Add Infrastruc Cost:	     41988056.60
+Populat ExtLog Cost:	      4399731.11
+HC Cost per capita (now):	     4794.15
+HC Cost per capita (fut):	     4879.28
+----------------------------------------
+
+-----------------------------------
+State population:	544900
+Max municipa pop:	268502
+Min municipa pop:	1487
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.00
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 22 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  22 mun >  16 mun (100.00% coverage)
+Care Level [2]:  16 mun >   8 mun
+Care Level [3]:   8 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	980	Ylöjärvi               :	4536951.40
+    1	418	Lempäälä              :	3363536.00
+    1	20	Akaa                     :	2572867.80
+    1	143	Ikaalinen                :	2124484.20
+    1	508	Mänttä-Vilppula        :	1081023.60
+    1	936	Virrat                   :	749283.00
+    1	581	Parkano                  :	749019.40
+    1	702	Ruovesi                  :	475270.80
+    1	619	Punkalaidun              :	307884.80
+    1	250	Kihniö                  :	195986.60
+    1	177	Juupajoki                :	1297307.40
+    2	980	Ylöjärvi               :	12378672.00
+    2	418	Lempäälä              :	7594752.00
+    2	20	Akaa                     :	4561017.60
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	143	Ikaalinen                :	103574.10
+    2	508	Mänttä-Vilppula        :	1428543.18
+    2	936	Virrat                   :	1460632.10
+    2	581	Parkano                  :	733889.17
+    2	702	Ruovesi                  :	274099.73
+    2	619	Punkalaidun              :	3788.00
+    2	250	Kihniö                  :	367589.88
+    2	177	Juupajoki                :	27614.95
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

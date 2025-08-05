@@ -1,0 +1,14 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+743	                    Seinäjoki	743	                    Seinäjoki	    0.00
+300	                      Kuortane	743	                    Seinäjoki	    0.85
+233	                       Kauhava	233	                       Kauhava	    0.00
+934	                       Vimpeli	233	                       Kauhava	    0.96
+52	                     Evijärvi	233	                       Kauhava	    0.90
+408	                         Lapua	408	                         Lapua	    0.00
+232	                     Kauhajoki	232	                     Kauhajoki	    0.00
+151	                       Isojoki	232	                     Kauhajoki	    0.93
+218	                      Karijoki	232	                     Kauhajoki	    0.70
+145	                      Ilmajoki	145	                      Ilmajoki	    0.00
+10	                        Alavus	10	                        Alavus	    0.00
+989	                      Ähtäri	10	                        Alavus	    0.59
+759	                         Soini	10	                        Alavus	    1.10

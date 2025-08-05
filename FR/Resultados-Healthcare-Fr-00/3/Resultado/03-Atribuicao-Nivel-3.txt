@@ -1,0 +1,14 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+2992292,Montluçon,2992292,Montluçon,0.00
+2983489,Riom,2992292,Montluçon,1.58
+2967166,Yzeure,2992292,Montluçon,1.57
+2972742,Thonon-les-Bains,2972742,Thonon-les-Bains,0.00
+2970831,Bellegarde-sur-Valserine,2972742,Thonon-les-Bains,1.44
+3027301,Chamonix-Mont-Blanc,2972742,Thonon-les-Bains,1.44
+6430196,Romans-sur-Isère,6430196,Romans-sur-Isère,0.00
+3019238,Eybens,6430196,Romans-sur-Isère,1.40
+2985290,Privas,6430196,Romans-sur-Isère,1.24
+2969280,Vienne,2969280,Vienne,0.00
+2993277,Monistrol-sur-Loire,2969280,Vienne,1.52
+3021729,Dardilly,2969280,Vienne,0.82
+3036016,Aurillac,3036016,Aurillac,0.00

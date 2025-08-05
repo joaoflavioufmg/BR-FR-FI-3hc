@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	478	Mariehamn	32197.00	11.51	41.78	13.37	0.00	15.04	0.28	0.22	0.15	0.07

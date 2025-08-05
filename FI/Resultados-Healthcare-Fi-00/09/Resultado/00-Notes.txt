@@ -1,0 +1,51 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    758584117.66
+Primary   Care Cost:	    195107494.00
+Secondary Care Cost:	    348670640.00
+Tertiary  Care Cost:	    206017266.00
+Add Infrastruc Cost:	      8775565.00
+Populat ExtLog Cost:	        13152.66
+HC Cost per capita (now):	     5065.06
+HC Cost per capita (fut):	     5124.43
+----------------------------------------
+
+-----------------------------------
+State population:	148033
+Max municipa pop:	73577
+Min municipa pop:	1580
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 6 municipalities).
+----------------------------------------------------------------
+Care Level [1]:   6 mun >   4 mun (100.00% coverage)
+Care Level [2]:   4 mun >   3 mun
+Care Level [3]:   3 mun >   2 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	75	Hamina                   :	2375695.00
+    1	489	Miehikkälä             :	565422.00
+    2	75	Hamina                   :	5834448.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	489	Miehikkälä             :	13152.66
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

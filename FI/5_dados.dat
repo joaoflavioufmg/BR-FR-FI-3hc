@@ -1,0 +1,51 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Kainuu (05)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	6000
+# 3	25000
+2	2049	# Q1
+3	2835	# Q2 
+;
+
+param DurUpper:=
+1 1.0 
+2 1.5
+3 2.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+205	05	64.225	27.7333	34732	0	'Kajaani'	
+765	05	64.1333	28.3833	9798	1	'Sotkamo'	
+290	05	64.125	29.5167	6738	1	'Kuhmo'	
+777	05	64.8833	28.9167	6365	1	'Suomussalmi'	
+578	05	64.4083	27.8417	2835	1	'Paltamo'	
+785	05	64.55	26.8333	2257	1	'Vaala'	
+620	05	64.8681	27.6708	2049	1	'Puolanka'	
+105	05	64.675	28.4917	1858	1	'Hyrynsalmi'	
+697	05	64.5056	28.2139	1119	1	'Ristijärvi'	
+;
+
+
+end;

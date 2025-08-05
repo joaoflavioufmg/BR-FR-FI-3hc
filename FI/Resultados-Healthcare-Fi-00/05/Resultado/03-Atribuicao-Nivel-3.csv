@@ -1,0 +1,5 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+205,"Kajaani",205,"Kajaani",0,3
+765,"Sotkamo",205,"Kajaani",0.83,3
+290,"Kuhmo",205,"Kajaani",2.18,3
+777,"Suomussalmi",205,"Kajaani",2.31,3

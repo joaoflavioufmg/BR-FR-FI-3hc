@@ -1,0 +1,7 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+205,"Kajaani",205,"Kajaani",0,2
+785,"Vaala",205,"Kajaani",1.41,2
+765,"Sotkamo",765,"Sotkamo",0,2
+290,"Kuhmo",290,"Kuhmo",0,2
+777,"Suomussalmi",777,"Suomussalmi",0,2
+620,"Puolanka",777,"Suomussalmi",1.47,2

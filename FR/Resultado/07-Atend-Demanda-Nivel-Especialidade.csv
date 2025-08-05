@@ -1,0 +1,2377 @@
+NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP_ATENDIDA,ATEND_FTE
+1,2988800,"Nice",1,"Physicians",1006402,412.6248
+1,2988800,"Nice",2,"Nurses",1006402,2546.1971
+1,2988800,"Nice",3,"OtherCadres",1006402,1258.0025
+1,2988800,"Nice",4,"CommunityBased",1006402,4911.2418
+1,2988800,"Nice",5,"Beds",1006402,0
+1,2988800,"Nice",6,"CTScanner",1006402,0
+1,2988800,"Nice",7,"MRIUnit",1006402,0
+1,2988800,"Nice",8,"Mammography",1006402,0
+1,2988800,"Nice",9,"Radiotherapy",1006402,0
+1,2969187,"Marseille",1,"Physicians",870018,356.7074
+1,2969187,"Marseille",2,"Nurses",870018,2201.1455
+1,2969187,"Marseille",3,"OtherCadres",870018,1087.5225
+1,2969187,"Marseille",4,"CommunityBased",870018,4245.6878
+1,2969187,"Marseille",5,"Beds",870018,0
+1,2969187,"Marseille",6,"CTScanner",870018,0
+1,2969187,"Marseille",7,"MRIUnit",870018,0
+1,2969187,"Marseille",8,"Mammography",870018,0
+1,2969187,"Marseille",9,"Radiotherapy",870018,0
+1,2980772,"Toulon",1,"Physicians",171953,70.5007
+1,2980772,"Toulon",2,"Nurses",171953,435.0411
+1,2980772,"Toulon",3,"OtherCadres",171953,214.9413
+1,2980772,"Toulon",4,"CommunityBased",171953,839.1306
+1,2980772,"Toulon",5,"Beds",171953,0
+1,2980772,"Toulon",6,"CTScanner",171953,0
+1,2980772,"Toulon",7,"MRIUnit",171953,0
+1,2980772,"Toulon",8,"Mammography",171953,0
+1,2980772,"Toulon",9,"Radiotherapy",171953,0
+1,3038354,"Aix-en-Provence",1,"Physicians",166254,68.1642
+1,3038354,"Aix-en-Provence",2,"Nurses",166254,420.6226
+1,3038354,"Aix-en-Provence",3,"OtherCadres",166254,207.8175
+1,3038354,"Aix-en-Provence",4,"CommunityBased",166254,811.3195
+1,3038354,"Aix-en-Provence",5,"Beds",166254,0
+1,3038354,"Aix-en-Provence",6,"CTScanner",166254,0
+1,3038354,"Aix-en-Provence",7,"MRIUnit",166254,0
+1,3038354,"Aix-en-Provence",8,"Mammography",166254,0
+1,3038354,"Aix-en-Provence",9,"Radiotherapy",166254,0
+1,3035681,"Avignon",1,"Physicians",93671,38.4051
+1,3035681,"Avignon",2,"Nurses",93671,236.9876
+1,3035681,"Avignon",3,"OtherCadres",93671,117.0888
+1,3035681,"Avignon",4,"CommunityBased",93671,457.1145
+1,3035681,"Avignon",5,"Beds",93671,0
+1,3035681,"Avignon",6,"CTScanner",93671,0
+1,3035681,"Avignon",7,"MRIUnit",93671,0
+1,3035681,"Avignon",8,"Mammography",93671,0
+1,3035681,"Avignon",9,"Radiotherapy",93671,0
+1,3028808,"Cannes",1,"Physicians",73868,30.2859
+1,3028808,"Cannes",2,"Nurses",73868,186.886
+1,3028808,"Cannes",3,"OtherCadres",73868,92.335
+1,3028808,"Cannes",4,"CommunityBased",73868,360.4758
+1,3028808,"Cannes",5,"Beds",73868,0
+1,3028808,"Cannes",6,"CTScanner",73868,0
+1,3028808,"Cannes",7,"MRIUnit",73868,0
+1,3028808,"Cannes",8,"Mammography",73868,0
+1,3028808,"Cannes",9,"Radiotherapy",73868,0
+1,2977162,"Antibes",1,"Physicians",72999,29.9296
+1,2977162,"Antibes",2,"Nurses",72999,184.6875
+1,2977162,"Antibes",3,"OtherCadres",72999,91.2488
+1,2977162,"Antibes",4,"CommunityBased",72999,356.2351
+1,2977162,"Antibes",5,"Beds",72999,0
+1,2977162,"Antibes",6,"CTScanner",72999,0
+1,2977162,"Antibes",7,"MRIUnit",72999,0
+1,2977162,"Antibes",8,"Mammography",72999,0
+1,2977162,"Antibes",9,"Radiotherapy",72999,0
+1,2974657,"La Seyne-sur-Mer",1,"Physicians",63936,26.2138
+1,2974657,"La Seyne-sur-Mer",2,"Nurses",63936,161.7581
+1,2974657,"La Seyne-sur-Mer",3,"OtherCadres",63936,79.92
+1,2974657,"La Seyne-sur-Mer",4,"CommunityBased",63936,312.0077
+1,2974657,"La Seyne-sur-Mer",5,"Beds",63936,0
+1,2974657,"La Seyne-sur-Mer",6,"CTScanner",63936,0
+1,2974657,"La Seyne-sur-Mer",7,"MRIUnit",63936,0
+1,2974657,"La Seyne-sur-Mer",8,"Mammography",63936,0
+1,2974657,"La Seyne-sur-Mer",9,"Radiotherapy",63936,0
+1,3012937,"Hyères",1,"Physicians",55588,22.7911
+1,3012937,"Hyères",2,"Nurses",55588,140.6376
+1,3012937,"Hyères",3,"OtherCadres",55588,69.485
+1,3012937,"Hyères",4,"CommunityBased",55588,271.2694
+1,3012937,"Hyères",5,"Beds",55588,0
+1,3012937,"Hyères",6,"CTScanner",55588,0
+1,3012937,"Hyères",7,"MRIUnit",55588,0
+1,3012937,"Hyères",8,"Mammography",55588,0
+1,3012937,"Hyères",9,"Radiotherapy",55588,0
+1,3017253,"Fréjus",1,"Physicians",52672,21.5955
+1,3017253,"Fréjus",2,"Nurses",52672,133.2602
+1,3017253,"Fréjus",3,"OtherCadres",52672,65.84
+1,3017253,"Fréjus",4,"CommunityBased",52672,257.0394
+1,3017253,"Fréjus",5,"Beds",52672,0
+1,3017253,"Fréjus",6,"CTScanner",52672,0
+1,3017253,"Fréjus",7,"MRIUnit",52672,0
+1,3017253,"Fréjus",8,"Mammography",52672,0
+1,3017253,"Fréjus",9,"Radiotherapy",52672,0
+1,3036938,"Arles",1,"Physicians",69506,28.4975
+1,3036938,"Arles",2,"Nurses",69506,175.8501
+1,3036938,"Arles",3,"OtherCadres",69506,86.8825
+1,3036938,"Arles",4,"CommunityBased",69506,339.1892
+1,3036938,"Arles",5,"Beds",69506,0
+1,3036938,"Arles",6,"CTScanner",69506,0
+1,3036938,"Arles",7,"MRIUnit",69506,0
+1,3036938,"Arles",8,"Mammography",69506,0
+1,3036938,"Arles",9,"Radiotherapy",69506,0
+1,3029227,"Cagnes-sur-Mer",1,"Physicians",50928,20.8805
+1,3029227,"Cagnes-sur-Mer",2,"Nurses",50928,128.8478
+1,3029227,"Cagnes-sur-Mer",3,"OtherCadres",50928,63.66
+1,3029227,"Cagnes-sur-Mer",4,"CommunityBased",50928,248.5286
+1,3029227,"Cagnes-sur-Mer",5,"Beds",50928,0
+1,3029227,"Cagnes-sur-Mer",6,"CTScanner",50928,0
+1,3029227,"Cagnes-sur-Mer",7,"MRIUnit",50928,0
+1,3029227,"Cagnes-sur-Mer",8,"Mammography",50928,0
+1,3029227,"Cagnes-sur-Mer",9,"Radiotherapy",50928,0
+1,3014856,"Grasse",1,"Physicians",50396,20.6624
+1,3014856,"Grasse",2,"Nurses",50396,127.5019
+1,3014856,"Grasse",3,"OtherCadres",50396,62.995
+1,3014856,"Grasse",4,"CommunityBased",50396,245.9325
+1,3014856,"Grasse",5,"Beds",50396,0
+1,3014856,"Grasse",6,"CTScanner",50396,0
+1,3014856,"Grasse",7,"MRIUnit",50396,0
+1,3014856,"Grasse",8,"Mammography",50396,0
+1,3014856,"Grasse",9,"Radiotherapy",50396,0
+1,6454958,"Martigues",1,"Physicians",98683,40.46
+1,6454958,"Martigues",2,"Nurses",98683,249.668
+1,6454958,"Martigues",3,"OtherCadres",98683,123.3538
+1,6454958,"Martigues",4,"CommunityBased",98683,481.573
+1,6454958,"Martigues",5,"Beds",98683,0
+1,6454958,"Martigues",6,"CTScanner",98683,0
+1,6454958,"Martigues",7,"MRIUnit",98683,0
+1,6454958,"Martigues",8,"Mammography",98683,0
+1,6454958,"Martigues",9,"Radiotherapy",98683,0
+1,3036433,"Aubagne",1,"Physicians",69691,28.5734
+1,3036433,"Aubagne",2,"Nurses",69691,176.3182
+1,3036433,"Aubagne",3,"OtherCadres",69691,87.1138
+1,3036433,"Aubagne",4,"CommunityBased",69691,340.0921
+1,3036433,"Aubagne",5,"Beds",69691,0
+1,3036433,"Aubagne",6,"CTScanner",69691,0
+1,3036433,"Aubagne",7,"MRIUnit",69691,0
+1,3036433,"Aubagne",8,"Mammography",69691,0
+1,3036433,"Aubagne",9,"Radiotherapy",69691,0
+1,2976341,"Salon-de-Provence",1,"Physicians",54943,22.5266
+1,2976341,"Salon-de-Provence",2,"Nurses",54943,139.0057
+1,2976341,"Salon-de-Provence",3,"OtherCadres",54943,68.6788
+1,2976341,"Salon-de-Provence",4,"CommunityBased",54943,268.1218
+1,2976341,"Salon-de-Provence",5,"Beds",54943,0
+1,2976341,"Salon-de-Provence",6,"CTScanner",54943,0
+1,2976341,"Salon-de-Provence",7,"MRIUnit",54943,0
+1,2976341,"Salon-de-Provence",8,"Mammography",54943,0
+1,2976341,"Salon-de-Provence",9,"Radiotherapy",54943,0
+1,3012647,"Istres",1,"Physicians",43133,17.6845
+1,3012647,"Istres",2,"Nurses",43133,109.1265
+1,3012647,"Istres",3,"OtherCadres",43133,53.9163
+1,3012647,"Istres",4,"CommunityBased",43133,210.489
+1,3012647,"Istres",5,"Beds",43133,0
+1,3012647,"Istres",6,"CTScanner",43133,0
+1,3012647,"Istres",7,"MRIUnit",43133,0
+1,3012647,"Istres",8,"Mammography",43133,0
+1,3012647,"Istres",9,"Radiotherapy",43133,0
+1,3004871,"Le Cannet",1,"Physicians",41471,17.0031
+1,3004871,"Le Cannet",2,"Nurses",41471,104.9216
+1,3004871,"Le Cannet",3,"OtherCadres",41471,51.8388
+1,3004871,"Le Cannet",4,"CommunityBased",41471,202.3785
+1,3004871,"Le Cannet",5,"Beds",41471,0
+1,3004871,"Le Cannet",6,"CTScanner",41471,0
+1,3004871,"Le Cannet",7,"MRIUnit",41471,0
+1,3004871,"Le Cannet",8,"Mammography",41471,0
+1,3004871,"Le Cannet",9,"Radiotherapy",41471,0
+1,3016702,"Gap",1,"Physicians",45487,18.6497
+1,3016702,"Gap",2,"Nurses",45487,115.0821
+1,3016702,"Gap",3,"OtherCadres",45487,56.8588
+1,3016702,"Gap",4,"CommunityBased",45487,221.9765
+1,3016702,"Gap",5,"Beds",45487,0
+1,3016702,"Gap",6,"CTScanner",45487,0
+1,3016702,"Gap",7,"MRIUnit",45487,0
+1,3016702,"Gap",8,"Mammography",45487,0
+1,3016702,"Gap",9,"Radiotherapy",45487,0
+1,3020850,"Draguignan",1,"Physicians",39340,16.1294
+1,3020850,"Draguignan",2,"Nurses",39340,99.5302
+1,3020850,"Draguignan",3,"OtherCadres",39340,49.175
+1,3020850,"Draguignan",4,"CommunityBased",39340,191.9792
+1,3020850,"Draguignan",5,"Beds",39340,0
+1,3020850,"Draguignan",6,"CTScanner",39340,0
+1,3020850,"Draguignan",7,"MRIUnit",39340,0
+1,3020850,"Draguignan",8,"Mammography",39340,0
+1,3020850,"Draguignan",9,"Radiotherapy",39340,0
+1,6456718,"La Ciotat",1,"Physicians",35174,14.4213
+1,6456718,"La Ciotat",2,"Nurses",35174,88.9902
+1,6456718,"La Ciotat",3,"OtherCadres",35174,43.9675
+1,6456718,"La Ciotat",4,"CommunityBased",35174,171.6491
+1,6456718,"La Ciotat",5,"Beds",35174,0
+1,6456718,"La Ciotat",6,"CTScanner",35174,0
+1,6456718,"La Ciotat",7,"MRIUnit",35174,0
+1,6456718,"La Ciotat",8,"Mammography",35174,0
+1,6456718,"La Ciotat",9,"Radiotherapy",35174,0
+1,6445063,"Saint-Raphaël",1,"Physicians",37979,15.5714
+1,6445063,"Saint-Raphaël",2,"Nurses",37979,96.0869
+1,6445063,"Saint-Raphaël",3,"OtherCadres",37979,47.4738
+1,6445063,"Saint-Raphaël",4,"CommunityBased",37979,185.3376
+1,6445063,"Saint-Raphaël",5,"Beds",37979,0
+1,6445063,"Saint-Raphaël",6,"CTScanner",37979,0
+1,6445063,"Saint-Raphaël",7,"MRIUnit",37979,0
+1,6445063,"Saint-Raphaël",8,"Mammography",37979,0
+1,6445063,"Saint-Raphaël",9,"Radiotherapy",37979,0
+1,2967870,"Vitrolles",1,"Physicians",103034,42.2441
+1,2967870,"Vitrolles",2,"Nurses",103034,260.6761
+1,2967870,"Vitrolles",3,"OtherCadres",103034,128.7927
+1,2967870,"Vitrolles",4,"CommunityBased",103034,502.806
+1,2967870,"Vitrolles",5,"Beds",103034,0
+1,2967870,"Vitrolles",6,"CTScanner",103034,0
+1,2967870,"Vitrolles",7,"MRIUnit",103034,0
+1,2967870,"Vitrolles",8,"Mammography",103034,0
+1,2967870,"Vitrolles",9,"Radiotherapy",103034,0
+1,2995750,"Marignane",1,"Physicians",32920,13.4972
+1,2995750,"Marignane",2,"Nurses",32920,83.2876
+1,2995750,"Marignane",3,"OtherCadres",32920,41.15
+1,2995750,"Marignane",4,"CommunityBased",32920,160.6496
+1,2995750,"Marignane",5,"Beds",32920,0
+1,2995750,"Marignane",6,"CTScanner",32920,0
+1,2995750,"Marignane",7,"MRIUnit",32920,0
+1,2995750,"Marignane",8,"Mammography",32920,0
+1,2995750,"Marignane",9,"Radiotherapy",32920,0
+1,2989460,"Orange",1,"Physicians",48602,19.9268
+1,2989460,"Orange",2,"Nurses",48602,122.9631
+1,2989460,"Orange",3,"OtherCadres",48602,60.7526
+1,2989460,"Orange",4,"CommunityBased",48602,237.1777
+1,2989460,"Orange",5,"Beds",48602,0
+1,2989460,"Orange",6,"CTScanner",48602,0
+1,2989460,"Orange",7,"MRIUnit",48602,0
+1,2989460,"Orange",8,"Mammography",48602,0
+1,2989460,"Orange",9,"Radiotherapy",48602,0
+1,2978891,"Saint-Laurent-du-Var",1,"Physicians",28453,11.6657
+1,2978891,"Saint-Laurent-du-Var",2,"Nurses",28453,71.9861
+1,2978891,"Saint-Laurent-du-Var",3,"OtherCadres",28453,35.5662
+1,2978891,"Saint-Laurent-du-Var",4,"CommunityBased",28453,138.8506
+1,2978891,"Saint-Laurent-du-Var",5,"Beds",28453,0
+1,2978891,"Saint-Laurent-du-Var",6,"CTScanner",28453,0
+1,2978891,"Saint-Laurent-du-Var",7,"MRIUnit",28453,0
+1,2978891,"Saint-Laurent-du-Var",8,"Mammography",28453,0
+1,2978891,"Saint-Laurent-du-Var",9,"Radiotherapy",28453,0
+1,3028542,"Carpentras",1,"Physicians",28309,11.6067
+1,3028542,"Carpentras",2,"Nurses",28309,71.6218
+1,3028542,"Carpentras",3,"OtherCadres",28309,35.3862
+1,3028542,"Carpentras",4,"CommunityBased",28309,138.1479
+1,3028542,"Carpentras",5,"Beds",28309,0
+1,3028542,"Carpentras",6,"CTScanner",28309,0
+1,3028542,"Carpentras",7,"MRIUnit",28309,0
+1,3028542,"Carpentras",8,"Mammography",28309,0
+1,3028542,"Carpentras",9,"Radiotherapy",28309,0
+1,6425695,"Vallauris",1,"Physicians",26672,10.9355
+1,6425695,"Vallauris",2,"Nurses",26672,67.4802
+1,6425695,"Vallauris",3,"OtherCadres",26672,33.34
+1,6425695,"Vallauris",4,"CommunityBased",26672,130.1594
+1,6425695,"Vallauris",5,"Beds",26672,0
+1,6425695,"Vallauris",6,"CTScanner",26672,0
+1,6425695,"Vallauris",7,"MRIUnit",26672,0
+1,6425695,"Vallauris",8,"Mammography",26672,0
+1,6425695,"Vallauris",9,"Radiotherapy",26672,0
+1,6614137,"Cavaillon",1,"Physicians",84918,34.8165
+1,6614137,"Cavaillon",2,"Nurses",84918,214.8426
+1,6614137,"Cavaillon",3,"OtherCadres",84918,106.1478
+1,6614137,"Cavaillon",4,"CommunityBased",84918,414.3999
+1,6614137,"Cavaillon",5,"Beds",84918,0
+1,6614137,"Cavaillon",6,"CTScanner",84918,0
+1,6614137,"Cavaillon",7,"MRIUnit",84918,0
+1,6614137,"Cavaillon",8,"Mammography",84918,0
+1,6614137,"Cavaillon",9,"Radiotherapy",84918,0
+1,3009198,"La Garde",1,"Physicians",25126,10.3017
+1,3009198,"La Garde",2,"Nurses",25126,63.5688
+1,3009198,"La Garde",3,"OtherCadres",25126,31.4075
+1,3009198,"La Garde",4,"CommunityBased",25126,122.6149
+1,3009198,"La Garde",5,"Beds",25126,0
+1,3009198,"La Garde",6,"CTScanner",25126,0
+1,3009198,"La Garde",7,"MRIUnit",25126,0
+1,3009198,"La Garde",8,"Mammography",25126,0
+1,3009198,"La Garde",9,"Radiotherapy",25126,0
+1,2996255,"Mandelieu-la-Napoule",1,"Physicians",55382,22.7065
+1,2996255,"Mandelieu-la-Napoule",2,"Nurses",55382,140.1166
+1,2996255,"Mandelieu-la-Napoule",3,"OtherCadres",55382,69.2278
+1,2996255,"Mandelieu-la-Napoule",4,"CommunityBased",55382,270.2642
+1,2996255,"Mandelieu-la-Napoule",5,"Beds",55382,0
+1,2996255,"Mandelieu-la-Napoule",6,"CTScanner",55382,0
+1,2996255,"Mandelieu-la-Napoule",7,"MRIUnit",55382,0
+1,2996255,"Mandelieu-la-Napoule",8,"Mammography",55382,0
+1,2996255,"Mandelieu-la-Napoule",9,"Radiotherapy",55382,0
+1,6425528,"Manosque",1,"Physicians",29271,12.0011
+1,6425528,"Manosque",2,"Nurses",29271,74.0557
+1,6425528,"Manosque",3,"OtherCadres",29271,36.589
+1,6425528,"Manosque",4,"CommunityBased",29271,142.8423
+1,6425528,"Manosque",5,"Beds",29271,0
+1,6425528,"Manosque",6,"CTScanner",29271,0
+1,6425528,"Manosque",7,"MRIUnit",29271,0
+1,6425528,"Manosque",8,"Mammography",29271,0
+1,6425528,"Manosque",9,"Radiotherapy",29271,0
+1,3038159,"Allauch",1,"Physicians",21187,8.6867
+1,3038159,"Allauch",2,"Nurses",21187,53.6031
+1,3038159,"Allauch",3,"OtherCadres",21187,26.4838
+1,3038159,"Allauch",4,"CommunityBased",21187,103.3926
+1,3038159,"Allauch",5,"Beds",21187,0
+1,3038159,"Allauch",6,"CTScanner",21187,0
+1,3038159,"Allauch",7,"MRIUnit",21187,0
+1,3038159,"Allauch",8,"Mammography",21187,0
+1,3038159,"Allauch",9,"Radiotherapy",21187,0
+1,3016667,"Gardanne",1,"Physicians",20794,8.5255
+1,3016667,"Gardanne",2,"Nurses",20794,52.6088
+1,3016667,"Gardanne",3,"OtherCadres",20794,25.9925
+1,3016667,"Gardanne",4,"CommunityBased",20794,101.4747
+1,3016667,"Gardanne",5,"Beds",20794,0
+1,3016667,"Gardanne",6,"CTScanner",20794,0
+1,3016667,"Gardanne",7,"MRIUnit",20794,0
+1,3016667,"Gardanne",8,"Mammography",20794,0
+1,3016667,"Gardanne",9,"Radiotherapy",20794,0
+1,2987825,"Pertuis",1,"Physicians",20380,8.3558
+1,2987825,"Pertuis",2,"Nurses",20380,51.5614
+1,2987825,"Pertuis",3,"OtherCadres",20380,25.475
+1,2987825,"Pertuis",4,"CommunityBased",20380,99.4544
+1,2987825,"Pertuis",5,"Beds",20380,0
+1,2987825,"Pertuis",6,"CTScanner",20380,0
+1,2987825,"Pertuis",7,"MRIUnit",20380,0
+1,2987825,"Pertuis",8,"Mammography",20380,0
+1,2987825,"Pertuis",9,"Radiotherapy",20380,0
+1,2991551,"Mougins",1,"Physicians",19489,7.9905
+1,2991551,"Mougins",2,"Nurses",19489,49.3072
+1,2991551,"Mougins",3,"OtherCadres",19489,24.3612
+1,2991551,"Mougins",4,"CommunityBased",19489,95.1063
+1,2991551,"Mougins",5,"Beds",19489,0
+1,2991551,"Mougins",6,"CTScanner",19489,0
+1,2991551,"Mougins",7,"MRIUnit",19489,0
+1,2991551,"Mougins",8,"Mammography",19489,0
+1,2991551,"Mougins",9,"Radiotherapy",19489,0
+1,2974188,"Sorgues",1,"Physicians",22958,9.4128
+1,2974188,"Sorgues",2,"Nurses",22958,58.0838
+1,2974188,"Sorgues",3,"OtherCadres",22958,28.6975
+1,2974188,"Sorgues",4,"CommunityBased",22958,112.0351
+1,2974188,"Sorgues",5,"Beds",22958,0
+1,2974188,"Sorgues",6,"CTScanner",22958,0
+1,2974188,"Sorgues",7,"MRIUnit",22958,0
+1,2974188,"Sorgues",8,"Mammography",22958,0
+1,2974188,"Sorgues",9,"Radiotherapy",22958,0
+1,2970148,"Vence",1,"Physicians",172924,70.899
+1,2970148,"Vence",2,"Nurses",172924,437.4979
+1,2970148,"Vence",3,"OtherCadres",172924,216.1557
+1,2970148,"Vence",4,"CommunityBased",172924,843.8692
+1,2970148,"Vence",5,"Beds",172924,0
+1,2970148,"Vence",6,"CTScanner",172924,0
+1,2970148,"Vence",7,"MRIUnit",172924,0
+1,2970148,"Vence",8,"Mammography",172924,0
+1,2970148,"Vence",9,"Radiotherapy",172924,0
+1,2999891,"La Crau",1,"Physicians",36715,15.0532
+1,2999891,"La Crau",2,"Nurses",36715,92.889
+1,2999891,"La Crau",3,"OtherCadres",36715,45.8938
+1,2999891,"La Crau",4,"CommunityBased",36715,179.1692
+1,2999891,"La Crau",5,"Beds",36715,0
+1,2999891,"La Crau",6,"CTScanner",36715,0
+1,2999891,"La Crau",7,"MRIUnit",36715,0
+1,2999891,"La Crau",8,"Mammography",36715,0
+1,2999891,"La Crau",9,"Radiotherapy",36715,0
+1,3030057,"Brignoles",1,"Physicians",46909,19.2326
+1,3030057,"Brignoles",2,"Nurses",46909,118.6798
+1,3030057,"Brignoles",3,"OtherCadres",46909,58.6366
+1,3030057,"Brignoles",4,"CommunityBased",46909,228.9159
+1,3030057,"Brignoles",5,"Beds",46909,0
+1,3030057,"Brignoles",6,"CTScanner",46909,0
+1,3030057,"Brignoles",7,"MRIUnit",46909,0
+1,3030057,"Brignoles",8,"Mammography",46909,0
+1,3030057,"Brignoles",9,"Radiotherapy",46909,0
+1,2976258,"Sanary-sur-Mer",1,"Physicians",16696,6.8454
+1,2976258,"Sanary-sur-Mer",2,"Nurses",16696,42.2409
+1,2976258,"Sanary-sur-Mer",3,"OtherCadres",16696,20.87
+1,2976258,"Sanary-sur-Mer",4,"CommunityBased",16696,81.4765
+1,2976258,"Sanary-sur-Mer",5,"Beds",16696,0
+1,2976258,"Sanary-sur-Mer",6,"CTScanner",16696,0
+1,2976258,"Sanary-sur-Mer",7,"MRIUnit",16696,0
+1,2976258,"Sanary-sur-Mer",8,"Mammography",16696,0
+1,2976258,"Sanary-sur-Mer",9,"Radiotherapy",16696,0
+1,6618043,"Digne-les-Bains",1,"Physicians",18794,7.7055
+1,6618043,"Digne-les-Bains",2,"Nurses",18794,47.5489
+1,6618043,"Digne-les-Bains",3,"OtherCadres",18794,23.4925
+1,6618043,"Digne-les-Bains",4,"CommunityBased",18794,91.7147
+1,6618043,"Digne-les-Bains",5,"Beds",18794,0
+1,6618043,"Digne-les-Bains",6,"CTScanner",18794,0
+1,6618043,"Digne-les-Bains",7,"MRIUnit",18794,0
+1,6618043,"Digne-les-Bains",8,"Mammography",18794,0
+1,6618043,"Digne-les-Bains",9,"Radiotherapy",18794,0
+1,2973393,"Tarascon",1,"Physicians",38700,15.8672
+1,2973393,"Tarascon",2,"Nurses",38700,97.911
+1,2973393,"Tarascon",3,"OtherCadres",38700,48.3751
+1,2973393,"Tarascon",4,"CommunityBased",38700,188.856
+1,2973393,"Tarascon",5,"Beds",38700,0
+1,2973393,"Tarascon",6,"CTScanner",38700,0
+1,2973393,"Tarascon",7,"MRIUnit",38700,0
+1,2973393,"Tarascon",8,"Mammography",38700,0
+1,2973393,"Tarascon",9,"Radiotherapy",38700,0
+1,3031387,"Bouc-Bel-Air",1,"Physicians",196070,80.3888
+1,3031387,"Bouc-Bel-Air",2,"Nurses",196070,496.0571
+1,3031387,"Bouc-Bel-Air",3,"OtherCadres",196070,245.0881
+1,3031387,"Bouc-Bel-Air",4,"CommunityBased",196070,956.8217
+1,3031387,"Bouc-Bel-Air",5,"Beds",196070,0
+1,3031387,"Bouc-Bel-Air",6,"CTScanner",196070,0
+1,3031387,"Bouc-Bel-Air",7,"MRIUnit",196070,0
+1,3031387,"Bouc-Bel-Air",8,"Mammography",196070,0
+1,3031387,"Bouc-Bel-Air",9,"Radiotherapy",196070,0
+1,2982875,"Roquebrune-sur-Argens",1,"Physicians",34836,14.2828
+1,2982875,"Roquebrune-sur-Argens",2,"Nurses",34836,88.1351
+1,2982875,"Roquebrune-sur-Argens",3,"OtherCadres",34836,43.5451
+1,2982875,"Roquebrune-sur-Argens",4,"CommunityBased",34836,169.9997
+1,2982875,"Roquebrune-sur-Argens",5,"Beds",34836,0
+1,2982875,"Roquebrune-sur-Argens",6,"CTScanner",34836,0
+1,2982875,"Roquebrune-sur-Argens",7,"MRIUnit",34836,0
+1,2982875,"Roquebrune-sur-Argens",8,"Mammography",34836,0
+1,2982875,"Roquebrune-sur-Argens",9,"Radiotherapy",34836,0
+1,2989590,"Ollioules",1,"Physicians",13771,5.6461
+1,2989590,"Ollioules",2,"Nurses",13771,34.8406
+1,2989590,"Ollioules",3,"OtherCadres",13771,17.2138
+1,2989590,"Ollioules",4,"CommunityBased",13771,67.2025
+1,2989590,"Ollioules",5,"Beds",13771,0
+1,2989590,"Ollioules",6,"CTScanner",13771,0
+1,2989590,"Ollioules",7,"MRIUnit",13771,0
+1,2989590,"Ollioules",8,"Mammography",13771,0
+1,2989590,"Ollioules",9,"Radiotherapy",13771,0
+1,3003188,"Cogolin",1,"Physicians",47701,19.5575
+1,3003188,"Cogolin",2,"Nurses",47701,120.6836
+1,3003188,"Cogolin",3,"OtherCadres",47701,59.6265
+1,3003188,"Cogolin",4,"CommunityBased",47701,232.7808
+1,3003188,"Cogolin",5,"Beds",47701,0
+1,3003188,"Cogolin",6,"CTScanner",47701,0
+1,3003188,"Cogolin",7,"MRIUnit",47701,0
+1,3003188,"Cogolin",8,"Mammography",47701,0
+1,3003188,"Cogolin",9,"Radiotherapy",47701,0
+1,3030142,"Briançon",1,"Physicians",18581,7.6183
+1,3030142,"Briançon",2,"Nurses",18581,47.0099
+1,3030142,"Briançon",3,"OtherCadres",18581,23.2263
+1,3030142,"Briançon",4,"CommunityBased",18581,90.6753
+1,3030142,"Briançon",5,"Beds",18581,0
+1,3030142,"Briançon",6,"CTScanner",18581,0
+1,3030142,"Briançon",7,"MRIUnit",18581,0
+1,3030142,"Briançon",8,"Mammography",18581,0
+1,3030142,"Briançon",9,"Radiotherapy",18581,0
+1,3037352,"Apt",1,"Physicians",33123,13.5804
+1,3037352,"Apt",2,"Nurses",33123,83.8013
+1,3037352,"Apt",3,"OtherCadres",33123,41.4041
+1,3037352,"Apt",4,"CommunityBased",33123,161.6403
+1,3037352,"Apt",5,"Beds",33123,0
+1,3037352,"Apt",6,"CTScanner",33123,0
+1,3037352,"Apt",7,"MRIUnit",33123,0
+1,3037352,"Apt",8,"Mammography",33123,0
+1,3037352,"Apt",9,"Radiotherapy",33123,0
+1,3003650,"Le Luc",1,"Physicians",33885,13.8927
+1,3003650,"Le Luc",2,"Nurses",33885,85.7289
+1,3003650,"Le Luc",3,"OtherCadres",33885,42.3564
+1,3003650,"Le Luc",4,"CommunityBased",33885,165.3588
+1,3003650,"Le Luc",5,"Beds",33885,0
+1,3003650,"Le Luc",6,"CTScanner",33885,0
+1,3003650,"Le Luc",7,"MRIUnit",33885,0
+1,3003650,"Le Luc",8,"Mammography",33885,0
+1,3003650,"Le Luc",9,"Radiotherapy",33885,0
+1,2977214,"Saint-Rémy-de-Provence",1,"Physicians",9829,4.0299
+1,2977214,"Saint-Rémy-de-Provence",2,"Nurses",9829,24.8674
+1,2977214,"Saint-Rémy-de-Provence",3,"OtherCadres",9829,12.2863
+1,2977214,"Saint-Rémy-de-Provence",4,"CommunityBased",9829,47.9655
+1,2977214,"Saint-Rémy-de-Provence",5,"Beds",9829,0
+1,2977214,"Saint-Rémy-de-Provence",6,"CTScanner",9829,0
+1,2977214,"Saint-Rémy-de-Provence",7,"MRIUnit",9829,0
+1,2977214,"Saint-Rémy-de-Provence",8,"Mammography",9829,0
+1,2977214,"Saint-Rémy-de-Provence",9,"Radiotherapy",9829,0
+1,3028534,"Carqueiranne",1,"Physicians",9555,3.9176
+1,3028534,"Carqueiranne",2,"Nurses",9555,24.1741
+1,3028534,"Carqueiranne",3,"OtherCadres",9555,11.9438
+1,3028534,"Carqueiranne",4,"CommunityBased",9555,46.6284
+1,3028534,"Carqueiranne",5,"Beds",9555,0
+1,3028534,"Carqueiranne",6,"CTScanner",9555,0
+1,3028534,"Carqueiranne",7,"MRIUnit",9555,0
+1,3028534,"Carqueiranne",8,"Mammography",9555,0
+1,3028534,"Carqueiranne",9,"Radiotherapy",9555,0
+1,6615256,"Valréas",1,"Physicians",13131,5.3837
+1,6615256,"Valréas",2,"Nurses",13131,33.2215
+1,6615256,"Valréas",3,"OtherCadres",13131,16.4138
+1,6615256,"Valréas",4,"CommunityBased",13131,64.0793
+1,6615256,"Valréas",5,"Beds",13131,0
+1,6615256,"Valréas",6,"CTScanner",13131,0
+1,6615256,"Valréas",7,"MRIUnit",13131,0
+1,6615256,"Valréas",8,"Mammography",13131,0
+1,6615256,"Valréas",9,"Radiotherapy",13131,0
+1,6447163,"Roquevaire",1,"Physicians",8858,3.6318
+1,6447163,"Roquevaire",2,"Nurses",8858,22.4107
+1,6447163,"Roquevaire",3,"OtherCadres",8858,11.0725
+1,6447163,"Roquevaire",4,"CommunityBased",8858,43.227
+1,6447163,"Roquevaire",5,"Beds",8858,0
+1,6447163,"Roquevaire",6,"CTScanner",8858,0
+1,6447163,"Roquevaire",7,"MRIUnit",8858,0
+1,6447163,"Roquevaire",8,"Mammography",8858,0
+1,6447163,"Roquevaire",9,"Radiotherapy",8858,0
+1,2988220,"Pégomas",1,"Physicians",7992,3.2767
+1,2988220,"Pégomas",2,"Nurses",7992,20.2198
+1,2988220,"Pégomas",3,"OtherCadres",7992,9.99
+1,2988220,"Pégomas",4,"CommunityBased",7992,39.001
+1,2988220,"Pégomas",5,"Beds",7992,0
+1,2988220,"Pégomas",6,"CTScanner",7992,0
+1,2988220,"Pégomas",7,"MRIUnit",7992,0
+1,2988220,"Pégomas",8,"Mammography",7992,0
+1,2988220,"Pégomas",9,"Radiotherapy",7992,0
+1,6447121,"Éguilles",1,"Physicians",30844,12.646
+1,6447121,"Éguilles",2,"Nurses",30844,78.0353
+1,6447121,"Éguilles",3,"OtherCadres",30844,38.555
+1,6447121,"Éguilles",4,"CommunityBased",30844,150.5187
+1,6447121,"Éguilles",5,"Beds",30844,0
+1,6447121,"Éguilles",6,"CTScanner",30844,0
+1,6447121,"Éguilles",7,"MRIUnit",30844,0
+1,6447121,"Éguilles",8,"Mammography",30844,0
+1,6447121,"Éguilles",9,"Radiotherapy",30844,0
+1,2974446,"Sisteron",1,"Physicians",25708,10.5402
+1,2974446,"Sisteron",2,"Nurses",25708,65.0413
+1,2974446,"Sisteron",3,"OtherCadres",25708,32.1352
+1,2974446,"Sisteron",4,"CommunityBased",25708,125.455
+1,2974446,"Sisteron",5,"Beds",25708,0
+1,2974446,"Sisteron",6,"CTScanner",25708,0
+1,2974446,"Sisteron",7,"MRIUnit",25708,0
+1,2974446,"Sisteron",8,"Mammography",25708,0
+1,2974446,"Sisteron",9,"Radiotherapy",25708,0
+1,3023842,"Contes",1,"Physicians",7429,3.0459
+1,3023842,"Contes",2,"Nurses",7429,18.7954
+1,3023842,"Contes",3,"OtherCadres",7429,9.2863
+1,3023842,"Contes",4,"CommunityBased",7429,36.2535
+1,3023842,"Contes",5,"Beds",7429,0
+1,3023842,"Contes",6,"CTScanner",7429,0
+1,3023842,"Contes",7,"MRIUnit",7429,0
+1,3023842,"Contes",8,"Mammography",7429,0
+1,3023842,"Contes",9,"Radiotherapy",7429,0
+1,3019219,"Eyguières",1,"Physicians",6926,2.8397
+1,3019219,"Eyguières",2,"Nurses",6926,17.5228
+1,3019219,"Eyguières",3,"OtherCadres",6926,8.6575
+1,3019219,"Eyguières",4,"CommunityBased",6926,33.7989
+1,3019219,"Eyguières",5,"Beds",6926,0
+1,3019219,"Eyguières",6,"CTScanner",6926,0
+1,3019219,"Eyguières",7,"MRIUnit",6926,0
+1,3019219,"Eyguières",8,"Mammography",6926,0
+1,3019219,"Eyguières",9,"Radiotherapy",6926,0
+1,2976656,"Saint-Victoret",1,"Physicians",23202,9.5128
+1,2976656,"Saint-Victoret",2,"Nurses",23202,58.7011
+1,2976656,"Saint-Victoret",3,"OtherCadres",23202,29.0026
+1,2976656,"Saint-Victoret",4,"CommunityBased",23202,113.2257
+1,2976656,"Saint-Victoret",5,"Beds",23202,0
+1,2976656,"Saint-Victoret",6,"CTScanner",23202,0
+1,2976656,"Saint-Victoret",7,"MRIUnit",23202,0
+1,2976656,"Saint-Victoret",8,"Mammography",23202,0
+1,2976656,"Saint-Victoret",9,"Radiotherapy",23202,0
+1,3007401,"La Penne-sur-Huveaune",1,"Physicians",6446,2.6429
+1,3007401,"La Penne-sur-Huveaune",2,"Nurses",6446,16.3084
+1,3007401,"La Penne-sur-Huveaune",3,"OtherCadres",6446,8.0575
+1,3007401,"La Penne-sur-Huveaune",4,"CommunityBased",6446,31.4565
+1,3007401,"La Penne-sur-Huveaune",5,"Beds",6446,0
+1,3007401,"La Penne-sur-Huveaune",6,"CTScanner",6446,0
+1,3007401,"La Penne-sur-Huveaune",7,"MRIUnit",6446,0
+1,3007401,"La Penne-sur-Huveaune",8,"Mammography",6446,0
+1,3007401,"La Penne-sur-Huveaune",9,"Radiotherapy",6446,0
+1,3000866,"La Bouilladisse",1,"Physicians",6254,2.5641
+1,3000866,"La Bouilladisse",2,"Nurses",6254,15.8226
+1,3000866,"La Bouilladisse",3,"OtherCadres",6254,7.8175
+1,3000866,"La Bouilladisse",4,"CommunityBased",6254,30.5195
+1,3000866,"La Bouilladisse",5,"Beds",6254,0
+1,3000866,"La Bouilladisse",6,"CTScanner",6254,0
+1,3000866,"La Bouilladisse",7,"MRIUnit",6254,0
+1,3000866,"La Bouilladisse",8,"Mammography",6254,0
+1,3000866,"La Bouilladisse",9,"Radiotherapy",6254,0
+1,6446638,"Embrun",1,"Physicians",10860,4.4526
+1,6446638,"Embrun",2,"Nurses",10860,27.4758
+1,6446638,"Embrun",3,"OtherCadres",10860,13.5751
+1,6446638,"Embrun",4,"CommunityBased",10860,52.9968
+1,6446638,"Embrun",5,"Beds",10860,0
+1,6446638,"Embrun",6,"CTScanner",10860,0
+1,6446638,"Embrun",7,"MRIUnit",10860,0
+1,6446638,"Embrun",8,"Mammography",10860,0
+1,6446638,"Embrun",9,"Radiotherapy",10860,0
+1,2994901,"Mazan",1,"Physicians",6127,2.5121
+1,2994901,"Mazan",2,"Nurses",6127,15.5013
+1,2994901,"Mazan",3,"OtherCadres",6127,7.6588
+1,2994901,"Mazan",4,"CommunityBased",6127,29.8998
+1,2994901,"Mazan",5,"Beds",6127,0
+1,2994901,"Mazan",6,"CTScanner",6127,0
+1,2994901,"Mazan",7,"MRIUnit",6127,0
+1,2994901,"Mazan",8,"Mammography",6127,0
+1,2994901,"Mazan",9,"Radiotherapy",6127,0
+1,2975953,"Sarrians",1,"Physicians",184275,75.5527
+1,2975953,"Sarrians",2,"Nurses",184275,466.2153
+1,2975953,"Sarrians",3,"OtherCadres",184275,230.3445
+1,2975953,"Sarrians",4,"CommunityBased",184275,899.2618
+1,2975953,"Sarrians",5,"Beds",184275,0
+1,2975953,"Sarrians",6,"CTScanner",184275,0
+1,2975953,"Sarrians",7,"MRIUnit",184275,0
+1,2975953,"Sarrians",8,"Mammography",184275,0
+1,2975953,"Sarrians",9,"Radiotherapy",184275,0
+1,2987297,"Pierrefeu-du-Var",1,"Physicians",6065,2.4866
+1,2987297,"Pierrefeu-du-Var",2,"Nurses",6065,15.3444
+1,2987297,"Pierrefeu-du-Var",3,"OtherCadres",6065,7.5813
+1,2987297,"Pierrefeu-du-Var",4,"CommunityBased",6065,29.5972
+1,2987297,"Pierrefeu-du-Var",5,"Beds",6065,0
+1,2987297,"Pierrefeu-du-Var",6,"CTScanner",6065,0
+1,2987297,"Pierrefeu-du-Var",7,"MRIUnit",6065,0
+1,2987297,"Pierrefeu-du-Var",8,"Mammography",6065,0
+1,2987297,"Pierrefeu-du-Var",9,"Radiotherapy",6065,0
+1,2971154,"Vaison-la-Romaine",1,"Physicians",5953,2.4407
+1,2971154,"Vaison-la-Romaine",2,"Nurses",5953,15.0611
+1,2971154,"Vaison-la-Romaine",3,"OtherCadres",5953,7.4413
+1,2971154,"Vaison-la-Romaine",4,"CommunityBased",5953,29.0506
+1,2971154,"Vaison-la-Romaine",5,"Beds",5953,0
+1,2971154,"Vaison-la-Romaine",6,"CTScanner",5953,0
+1,2971154,"Vaison-la-Romaine",7,"MRIUnit",5953,0
+1,2971154,"Vaison-la-Romaine",8,"Mammography",5953,0
+1,2971154,"Vaison-la-Romaine",9,"Radiotherapy",5953,0
+1,3002443,"Le Puy-Sainte-Réparade",1,"Physicians",10077,4.1315
+1,3002443,"Le Puy-Sainte-Réparade",2,"Nurses",10077,25.4948
+1,3002443,"Le Puy-Sainte-Réparade",3,"OtherCadres",10077,12.5963
+1,3002443,"Le Puy-Sainte-Réparade",4,"CommunityBased",10077,49.1757
+1,3002443,"Le Puy-Sainte-Réparade",5,"Beds",10077,0
+1,3002443,"Le Puy-Sainte-Réparade",6,"CTScanner",10077,0
+1,3002443,"Le Puy-Sainte-Réparade",7,"MRIUnit",10077,0
+1,3002443,"Le Puy-Sainte-Réparade",8,"Mammography",10077,0
+1,3002443,"Le Puy-Sainte-Réparade",9,"Radiotherapy",10077,0
+1,2974337,"Solliès-Toucas",1,"Physicians",5696,2.3354
+1,2974337,"Solliès-Toucas",2,"Nurses",5696,14.4109
+1,2974337,"Solliès-Toucas",3,"OtherCadres",5696,7.12
+1,2974337,"Solliès-Toucas",4,"CommunityBased",5696,27.7965
+1,2974337,"Solliès-Toucas",5,"Beds",5696,0
+1,2974337,"Solliès-Toucas",6,"CTScanner",5696,0
+1,2974337,"Solliès-Toucas",7,"MRIUnit",5696,0
+1,2974337,"Solliès-Toucas",8,"Mammography",5696,0
+1,2974337,"Solliès-Toucas",9,"Radiotherapy",5696,0
+1,6618146,"Saint-André-de-la-Roche",1,"Physicians",5577,2.2866
+1,6618146,"Saint-André-de-la-Roche",2,"Nurses",5577,14.1098
+1,6618146,"Saint-André-de-la-Roche",3,"OtherCadres",5577,6.9713
+1,6618146,"Saint-André-de-la-Roche",4,"CommunityBased",5577,27.2158
+1,6618146,"Saint-André-de-la-Roche",5,"Beds",5577,0
+1,6618146,"Saint-André-de-la-Roche",6,"CTScanner",5577,0
+1,6618146,"Saint-André-de-la-Roche",7,"MRIUnit",5577,0
+1,6618146,"Saint-André-de-la-Roche",8,"Mammography",5577,0
+1,6618146,"Saint-André-de-la-Roche",9,"Radiotherapy",5577,0
+1,2987547,"Peypin",1,"Physicians",5547,2.2743
+1,2987547,"Peypin",2,"Nurses",5547,14.0339
+1,2987547,"Peypin",3,"OtherCadres",5547,6.9338
+1,2987547,"Peypin",4,"CommunityBased",5547,27.0694
+1,2987547,"Peypin",5,"Beds",5547,0
+1,2987547,"Peypin",6,"CTScanner",5547,0
+1,2987547,"Peypin",7,"MRIUnit",5547,0
+1,2987547,"Peypin",8,"Mammography",5547,0
+1,2987547,"Peypin",9,"Radiotherapy",5547,0
+1,3017798,"Forcalquier",1,"Physicians",7743,3.1746
+1,3017798,"Forcalquier",2,"Nurses",7743,19.5898
+1,3017798,"Forcalquier",3,"OtherCadres",7743,9.6788
+1,3017798,"Forcalquier",4,"CommunityBased",7743,37.7858
+1,3017798,"Forcalquier",5,"Beds",7743,0
+1,3017798,"Forcalquier",6,"CTScanner",7743,0
+1,3017798,"Forcalquier",7,"MRIUnit",7743,0
+1,3017798,"Forcalquier",8,"Mammography",7743,0
+1,3017798,"Forcalquier",9,"Radiotherapy",7743,0
+1,2990987,"Nans-les-Pins",1,"Physicians",36774,15.0773
+1,2990987,"Nans-les-Pins",2,"Nurses",36774,93.0383
+1,2990987,"Nans-les-Pins",3,"OtherCadres",36774,45.9676
+1,2990987,"Nans-les-Pins",4,"CommunityBased",36774,179.4572
+1,2990987,"Nans-les-Pins",5,"Beds",36774,0
+1,2990987,"Nans-les-Pins",6,"CTScanner",36774,0
+1,2990987,"Nans-les-Pins",7,"MRIUnit",36774,0
+1,2990987,"Nans-les-Pins",8,"Mammography",36774,0
+1,2990987,"Nans-les-Pins",9,"Radiotherapy",36774,0
+1,2998916,"Levens",1,"Physicians",4726,1.9377
+1,2998916,"Levens",2,"Nurses",4726,11.9568
+1,2998916,"Levens",3,"OtherCadres",4726,5.9075
+1,2998916,"Levens",4,"CommunityBased",4726,23.0629
+1,2998916,"Levens",5,"Beds",4726,0
+1,2998916,"Levens",6,"CTScanner",4726,0
+1,2998916,"Levens",7,"MRIUnit",4726,0
+1,2998916,"Levens",8,"Mammography",4726,0
+1,2998916,"Levens",9,"Radiotherapy",4726,0
+1,3027745,"Ceyreste",1,"Physicians",4656,1.909
+1,3027745,"Ceyreste",2,"Nurses",4656,11.7797
+1,3027745,"Ceyreste",3,"OtherCadres",4656,5.82
+1,3027745,"Ceyreste",4,"CommunityBased",4656,22.7213
+1,3027745,"Ceyreste",5,"Beds",4656,0
+1,3027745,"Ceyreste",6,"CTScanner",4656,0
+1,3027745,"Ceyreste",7,"MRIUnit",4656,0
+1,3027745,"Ceyreste",8,"Mammography",4656,0
+1,3027745,"Ceyreste",9,"Radiotherapy",4656,0
+1,2993832,"Mimet",1,"Physicians",4348,1.7827
+1,2993832,"Mimet",2,"Nurses",4348,11.0004
+1,2993832,"Mimet",3,"OtherCadres",4348,5.435
+1,2993832,"Mimet",4,"CommunityBased",4348,21.2182
+1,2993832,"Mimet",5,"Beds",4348,0
+1,2993832,"Mimet",6,"CTScanner",4348,0
+1,2993832,"Mimet",7,"MRIUnit",4348,0
+1,2993832,"Mimet",8,"Mammography",4348,0
+1,2993832,"Mimet",9,"Radiotherapy",4348,0
+1,3002357,"Le Revest-les-Eaux",1,"Physicians",31025,12.7202
+1,3002357,"Le Revest-les-Eaux",2,"Nurses",31025,78.4933
+1,3002357,"Le Revest-les-Eaux",3,"OtherCadres",31025,38.7813
+1,3002357,"Le Revest-les-Eaux",4,"CommunityBased",31025,151.402
+1,3002357,"Le Revest-les-Eaux",5,"Beds",31025,0
+1,3002357,"Le Revest-les-Eaux",6,"CTScanner",31025,0
+1,3002357,"Le Revest-les-Eaux",7,"MRIUnit",31025,0
+1,3002357,"Le Revest-les-Eaux",8,"Mammography",31025,0
+1,3002357,"Le Revest-les-Eaux",9,"Radiotherapy",31025,0
+1,2974162,"Sospel",1,"Physicians",71892,29.4759
+1,2974162,"Sospel",2,"Nurses",71892,181.8867
+1,2974162,"Sospel",3,"OtherCadres",71892,89.8654
+1,2974162,"Sospel",4,"CommunityBased",71892,350.8331
+1,2974162,"Sospel",5,"Beds",71892,0
+1,2974162,"Sospel",6,"CTScanner",71892,0
+1,2974162,"Sospel",7,"MRIUnit",71892,0
+1,2974162,"Sospel",8,"Mammography",71892,0
+1,2974162,"Sospel",9,"Radiotherapy",71892,0
+1,6451561,"Lapalud",1,"Physicians",3817,1.565
+1,6451561,"Lapalud",2,"Nurses",3817,9.657
+1,6451561,"Lapalud",3,"OtherCadres",3817,4.7713
+1,6451561,"Lapalud",4,"CommunityBased",3817,18.627
+1,6451561,"Lapalud",5,"Beds",3817,0
+1,6451561,"Lapalud",6,"CTScanner",3817,0
+1,6451561,"Lapalud",7,"MRIUnit",3817,0
+1,6451561,"Lapalud",8,"Mammography",3817,0
+1,6451561,"Lapalud",9,"Radiotherapy",3817,0
+1,3009663,"La Destrousse",1,"Physicians",27875,11.4287
+1,3009663,"La Destrousse",2,"Nurses",27875,70.5237
+1,3009663,"La Destrousse",3,"OtherCadres",27875,34.844
+1,3009663,"La Destrousse",4,"CommunityBased",27875,136.03
+1,3009663,"La Destrousse",5,"Beds",27875,0
+1,3009663,"La Destrousse",6,"CTScanner",27875,0
+1,3009663,"La Destrousse",7,"MRIUnit",27875,0
+1,3009663,"La Destrousse",8,"Mammography",27875,0
+1,3009663,"La Destrousse",9,"Radiotherapy",27875,0
+1,3007082,"Laragne-Montéglin",1,"Physicians",5947,2.4384
+1,3007082,"Laragne-Montéglin",2,"Nurses",5947,15.0459
+1,3007082,"Laragne-Montéglin",3,"OtherCadres",5947,7.4339
+1,3007082,"Laragne-Montéglin",4,"CommunityBased",5947,29.0214
+1,3007082,"Laragne-Montéglin",5,"Beds",5947,0
+1,3007082,"Laragne-Montéglin",6,"CTScanner",5947,0
+1,3007082,"Laragne-Montéglin",7,"MRIUnit",5947,0
+1,3007082,"Laragne-Montéglin",8,"Mammography",5947,0
+1,3007082,"Laragne-Montéglin",9,"Radiotherapy",5947,0
+1,3014717,"Gréoux-les-Bains",1,"Physicians",34147,14.0004
+1,3014717,"Gréoux-les-Bains",2,"Nurses",34147,86.392
+1,3014717,"Gréoux-les-Bains",3,"OtherCadres",34147,42.684
+1,3014717,"Gréoux-les-Bains",4,"CommunityBased",34147,166.6374
+1,3014717,"Gréoux-les-Bains",5,"Beds",34147,0
+1,3014717,"Gréoux-les-Bains",6,"CTScanner",34147,0
+1,3014717,"Gréoux-les-Bains",7,"MRIUnit",34147,0
+1,3014717,"Gréoux-les-Bains",8,"Mammography",34147,0
+1,3014717,"Gréoux-les-Bains",9,"Radiotherapy",34147,0
+1,3018513,"Figanières",1,"Physicians",16250,6.6626
+1,3018513,"Figanières",2,"Nurses",16250,41.1125
+1,3018513,"Figanières",3,"OtherCadres",16250,20.3125
+1,3018513,"Figanières",4,"CommunityBased",16250,79.3
+1,3018513,"Figanières",5,"Beds",16250,0
+1,3018513,"Figanières",6,"CTScanner",16250,0
+1,3018513,"Figanières",7,"MRIUnit",16250,0
+1,3018513,"Figanières",8,"Mammography",16250,0
+1,3018513,"Figanières",9,"Radiotherapy",16250,0
+1,3034991,"Barcelonnette",1,"Physicians",3706,1.5195
+1,3034991,"Barcelonnette",2,"Nurses",3706,9.3761
+1,3034991,"Barcelonnette",3,"OtherCadres",3706,4.6326
+1,3034991,"Barcelonnette",4,"CommunityBased",3706,18.0853
+1,3034991,"Barcelonnette",5,"Beds",3706,0
+1,3034991,"Barcelonnette",6,"CTScanner",3706,0
+1,3034991,"Barcelonnette",7,"MRIUnit",3706,0
+1,3034991,"Barcelonnette",8,"Mammography",3706,0
+1,3034991,"Barcelonnette",9,"Radiotherapy",3706,0
+1,2999179,"Le Thoronet",1,"Physicians",2507,1.0279
+1,2999179,"Le Thoronet",2,"Nurses",2507,6.3427
+1,2999179,"Le Thoronet",3,"OtherCadres",2507,3.1338
+1,2999179,"Le Thoronet",4,"CommunityBased",2507,12.2342
+1,2999179,"Le Thoronet",5,"Beds",2507,0
+1,2999179,"Le Thoronet",6,"CTScanner",2507,0
+1,2999179,"Le Thoronet",7,"MRIUnit",2507,0
+1,2999179,"Le Thoronet",8,"Mammography",2507,0
+1,2999179,"Le Thoronet",9,"Radiotherapy",2507,0
+1,2980759,"Évenos",1,"Physicians",152779,62.6393
+1,2980759,"Évenos",2,"Nurses",152779,386.5308
+1,2980759,"Évenos",3,"OtherCadres",152779,190.9741
+1,2980759,"Évenos",4,"CommunityBased",152779,745.5614
+1,2980759,"Évenos",5,"Beds",152779,0
+1,2980759,"Évenos",6,"CTScanner",152779,0
+1,2980759,"Évenos",7,"MRIUnit",152779,0
+1,2980759,"Évenos",8,"Mammography",152779,0
+1,2980759,"Évenos",9,"Radiotherapy",152779,0
+1,3036067,"Aups",1,"Physicians",3677,1.5076
+1,3036067,"Aups",2,"Nurses",3677,9.3029
+1,3036067,"Aups",3,"OtherCadres",3677,4.5963
+1,3036067,"Aups",4,"CommunityBased",3677,17.9438
+1,3036067,"Aups",5,"Beds",3677,0
+1,3036067,"Aups",6,"CTScanner",3677,0
+1,3036067,"Aups",7,"MRIUnit",3677,0
+1,3036067,"Aups",8,"Mammography",3677,0
+1,3036067,"Aups",9,"Radiotherapy",3677,0
+1,2973485,"Tallard",1,"Physicians",8500,3.4851
+1,2973485,"Tallard",2,"Nurses",8500,21.5051
+1,2973485,"Tallard",3,"OtherCadres",8500,10.6251
+1,2973485,"Tallard",4,"CommunityBased",8500,41.48
+1,2973485,"Tallard",5,"Beds",8500,0
+1,2973485,"Tallard",6,"CTScanner",8500,0
+1,2973485,"Tallard",7,"MRIUnit",8500,0
+1,2973485,"Tallard",8,"Mammography",8500,0
+1,2973485,"Tallard",9,"Radiotherapy",8500,0
+1,2973180,"Tende",1,"Physicians",2179,0.8934
+1,2973180,"Tende",2,"Nurses",2179,5.5129
+1,2973180,"Tende",3,"OtherCadres",2179,2.7238
+1,2973180,"Tende",4,"CommunityBased",2179,10.6335
+1,2973180,"Tende",5,"Beds",2179,0
+1,2973180,"Tende",6,"CTScanner",2179,0
+1,2973180,"Tende",7,"MRIUnit",2179,0
+1,2973180,"Tende",8,"Mammography",2179,0
+1,2973180,"Tende",9,"Radiotherapy",2179,0
+1,2980325,"Saintes-Maries-de-la-Mer",1,"Physicians",2157,0.8844
+1,2980325,"Saintes-Maries-de-la-Mer",2,"Nurses",2157,5.4572
+1,2980325,"Saintes-Maries-de-la-Mer",3,"OtherCadres",2157,2.6963
+1,2980325,"Saintes-Maries-de-la-Mer",4,"CommunityBased",2157,10.5262
+1,2980325,"Saintes-Maries-de-la-Mer",5,"Beds",2157,0
+1,2980325,"Saintes-Maries-de-la-Mer",6,"CTScanner",2157,0
+1,2980325,"Saintes-Maries-de-la-Mer",7,"MRIUnit",2157,0
+1,2980325,"Saintes-Maries-de-la-Mer",8,"Mammography",2157,0
+1,2980325,"Saintes-Maries-de-la-Mer",9,"Radiotherapy",2157,0
+1,3029125,"Callas",1,"Physicians",77068,31.5976
+1,3029125,"Callas",2,"Nurses",77068,194.982
+1,3029125,"Callas",3,"OtherCadres",77068,96.3355
+1,3029125,"Callas",4,"CommunityBased",77068,376.0918
+1,3029125,"Callas",5,"Beds",77068,0
+1,3029125,"Callas",6,"CTScanner",77068,0
+1,3029125,"Callas",7,"MRIUnit",77068,0
+1,3029125,"Callas",8,"Mammography",77068,0
+1,3029125,"Callas",9,"Radiotherapy",77068,0
+1,2991750,"Mormoiron",1,"Physicians",3237,1.3271
+1,2991750,"Mormoiron",2,"Nurses",3237,8.1896
+1,2991750,"Mormoiron",3,"OtherCadres",3237,4.0463
+1,2991750,"Mormoiron",4,"CommunityBased",3237,15.7965
+1,2991750,"Mormoiron",5,"Beds",3237,0
+1,2991750,"Mormoiron",6,"CTScanner",3237,0
+1,2991750,"Mormoiron",7,"MRIUnit",3237,0
+1,2991750,"Mormoiron",8,"Mammography",3237,0
+1,2991750,"Mormoiron",9,"Radiotherapy",3237,0
+1,2985142,"Puget-Théniers",1,"Physicians",1860,0.7626
+1,2985142,"Puget-Théniers",2,"Nurses",1860,4.7058
+1,2985142,"Puget-Théniers",3,"OtherCadres",1860,2.325
+1,2985142,"Puget-Théniers",4,"CommunityBased",1860,9.0768
+1,2985142,"Puget-Théniers",5,"Beds",1860,0
+1,2985142,"Puget-Théniers",6,"CTScanner",1860,0
+1,2985142,"Puget-Théniers",7,"MRIUnit",1860,0
+1,2985142,"Puget-Théniers",8,"Mammography",1860,0
+1,2985142,"Puget-Théniers",9,"Radiotherapy",1860,0
+1,2982881,"Roquebillière",1,"Physicians",3263,1.3379
+1,2982881,"Roquebillière",2,"Nurses",3263,8.2554
+1,2982881,"Roquebillière",3,"OtherCadres",3263,4.0788
+1,2982881,"Roquebillière",4,"CommunityBased",3263,15.9235
+1,2982881,"Roquebillière",5,"Beds",3263,0
+1,2982881,"Roquebillière",6,"CTScanner",3263,0
+1,2982881,"Roquebillière",7,"MRIUnit",3263,0
+1,2982881,"Roquebillière",8,"Mammography",3263,0
+1,2982881,"Roquebillière",9,"Radiotherapy",3263,0
+1,2983580,"Riez",1,"Physicians",17038,6.9857
+1,2983580,"Riez",2,"Nurses",17038,43.1061
+1,2983580,"Riez",3,"OtherCadres",17038,21.2976
+1,2983580,"Riez",4,"CommunityBased",17038,83.1455
+1,2983580,"Riez",5,"Beds",17038,0
+1,2983580,"Riez",6,"CTScanner",17038,0
+1,2983580,"Riez",7,"MRIUnit",17038,0
+1,2983580,"Riez",8,"Mammography",17038,0
+1,2983580,"Riez",9,"Radiotherapy",17038,0
+1,3015661,"Gordes",1,"Physicians",39029,16.0017
+1,3015661,"Gordes",2,"Nurses",39029,98.7433
+1,3015661,"Gordes",3,"OtherCadres",39029,48.7865
+1,3015661,"Gordes",4,"CommunityBased",39029,190.4616
+1,3015661,"Gordes",5,"Beds",39029,0
+1,3015661,"Gordes",6,"CTScanner",39029,0
+1,3015661,"Gordes",7,"MRIUnit",39029,0
+1,3015661,"Gordes",8,"Mammography",39029,0
+1,3015661,"Gordes",9,"Radiotherapy",39029,0
+1,2980247,"Saint-Étienne-de-Tinée",1,"Physicians",1513,0.6203
+1,2980247,"Saint-Étienne-de-Tinée",2,"Nurses",1513,3.8279
+1,2980247,"Saint-Étienne-de-Tinée",3,"OtherCadres",1513,1.8913
+1,2980247,"Saint-Étienne-de-Tinée",4,"CommunityBased",1513,7.3834
+1,2980247,"Saint-Étienne-de-Tinée",5,"Beds",1513,0
+1,2980247,"Saint-Étienne-de-Tinée",6,"CTScanner",1513,0
+1,2980247,"Saint-Étienne-de-Tinée",7,"MRIUnit",1513,0
+1,2980247,"Saint-Étienne-de-Tinée",8,"Mammography",1513,0
+1,2980247,"Saint-Étienne-de-Tinée",9,"Radiotherapy",1513,0
+1,3028382,"Castellane",1,"Physicians",3540,1.4515
+1,3028382,"Castellane",2,"Nurses",3540,8.9562
+1,3028382,"Castellane",3,"OtherCadres",3540,4.4251
+1,3028382,"Castellane",4,"CommunityBased",3540,17.2753
+1,3028382,"Castellane",5,"Beds",3540,0
+1,3028382,"Castellane",6,"CTScanner",3540,0
+1,3028382,"Castellane",7,"MRIUnit",3540,0
+1,3028382,"Castellane",8,"Mammography",3540,0
+1,3028382,"Castellane",9,"Radiotherapy",3540,0
+1,3006511,"La Saulce",1,"Physicians",4660,1.9106
+1,3006511,"La Saulce",2,"Nurses",4660,11.7898
+1,3006511,"La Saulce",3,"OtherCadres",4660,5.825
+1,3006511,"La Saulce",4,"CommunityBased",4660,22.7408
+1,3006511,"La Saulce",5,"Beds",4660,0
+1,3006511,"La Saulce",6,"CTScanner",4660,0
+1,3006511,"La Saulce",7,"MRIUnit",4660,0
+1,3006511,"La Saulce",8,"Mammography",4660,0
+1,3006511,"La Saulce",9,"Radiotherapy",4660,0
+1,2974661,"Seyne",1,"Physicians",2437,0.9992
+1,2974661,"Seyne",2,"Nurses",2437,6.1656
+1,2974661,"Seyne",3,"OtherCadres",2437,3.0463
+1,2974661,"Seyne",4,"CommunityBased",2437,11.8926
+1,2974661,"Seyne",5,"Beds",2437,0
+1,2974661,"Seyne",6,"CTScanner",2437,0
+1,2974661,"Seyne",7,"MRIUnit",2437,0
+1,2974661,"Seyne",8,"Mammography",2437,0
+1,2974661,"Seyne",9,"Radiotherapy",2437,0
+2,2988800,"Nice",1,"Physicians",1006402,1680.69134
+2,2988800,"Nice",2,"Nurses",1006402,1207.6824
+2,2988800,"Nice",3,"OtherCadres",1006402,2526.06902
+2,2988800,"Nice",4,"CommunityBased",1006402,0
+2,2988800,"Nice",5,"Beds",1006402,2687.09334
+2,2988800,"Nice",6,"CTScanner",1006402,6.6422532
+2,2988800,"Nice",7,"MRIUnit",1006402,5.03201
+2,2988800,"Nice",8,"Mammography",1006402,3.1198462
+2,2988800,"Nice",9,"Radiotherapy",1006402,0.3019206
+2,2969187,"Marseille",1,"Physicians",870018,1452.93006
+2,2969187,"Marseille",2,"Nurses",870018,1044.0216
+2,2969187,"Marseille",3,"OtherCadres",870018,2183.74518
+2,2969187,"Marseille",4,"CommunityBased",870018,0
+2,2969187,"Marseille",5,"Beds",870018,2322.94806
+2,2969187,"Marseille",6,"CTScanner",870018,5.7421188
+2,2969187,"Marseille",7,"MRIUnit",870018,4.35009
+2,2969187,"Marseille",8,"Mammography",870018,2.6970558
+2,2969187,"Marseille",9,"Radiotherapy",870018,0.2610054
+2,2980772,"Toulon",1,"Physicians",171953,287.16151
+2,2980772,"Toulon",2,"Nurses",171953,206.3436
+2,2980772,"Toulon",3,"OtherCadres",171953,431.60203
+2,2980772,"Toulon",4,"CommunityBased",171953,0
+2,2980772,"Toulon",5,"Beds",171953,459.11451
+2,2980772,"Toulon",6,"CTScanner",171953,1.1348898
+2,2980772,"Toulon",7,"MRIUnit",171953,0.859765
+2,2980772,"Toulon",8,"Mammography",171953,0.5330543
+2,2980772,"Toulon",9,"Radiotherapy",171953,0.0515859
+2,3038354,"Aix-en-Provence",1,"Physicians",166254,277.64418
+2,3038354,"Aix-en-Provence",2,"Nurses",166254,199.5048
+2,3038354,"Aix-en-Provence",3,"OtherCadres",166254,417.29754
+2,3038354,"Aix-en-Provence",4,"CommunityBased",166254,0
+2,3038354,"Aix-en-Provence",5,"Beds",166254,443.89818
+2,3038354,"Aix-en-Provence",6,"CTScanner",166254,1.0972764
+2,3038354,"Aix-en-Provence",7,"MRIUnit",166254,0.83127
+2,3038354,"Aix-en-Provence",8,"Mammography",166254,0.5153874
+2,3038354,"Aix-en-Provence",9,"Radiotherapy",166254,0.0498762
+2,3035681,"Avignon",1,"Physicians",93671,156.43057
+2,3035681,"Avignon",2,"Nurses",93671,112.4052
+2,3035681,"Avignon",3,"OtherCadres",93671,235.11421
+2,3035681,"Avignon",4,"CommunityBased",93671,0
+2,3035681,"Avignon",5,"Beds",93671,250.10157
+2,3035681,"Avignon",6,"CTScanner",93671,0.6182286
+2,3035681,"Avignon",7,"MRIUnit",93671,0.468355
+2,3035681,"Avignon",8,"Mammography",93671,0.2903801
+2,3035681,"Avignon",9,"Radiotherapy",93671,0.0281013
+2,3028808,"Cannes",1,"Physicians",73868,123.35956
+2,3028808,"Cannes",2,"Nurses",73868,88.6416
+2,3028808,"Cannes",3,"OtherCadres",73868,185.40868
+2,3028808,"Cannes",4,"CommunityBased",73868,0
+2,3028808,"Cannes",5,"Beds",73868,197.22756
+2,3028808,"Cannes",6,"CTScanner",73868,0.4875288
+2,3028808,"Cannes",7,"MRIUnit",73868,0.36934
+2,3028808,"Cannes",8,"Mammography",73868,0.2289908
+2,3028808,"Cannes",9,"Radiotherapy",73868,0.0221604
+2,2977162,"Antibes",1,"Physicians",72999,121.90833
+2,2977162,"Antibes",2,"Nurses",72999,87.5988
+2,2977162,"Antibes",3,"OtherCadres",72999,183.22749
+2,2977162,"Antibes",4,"CommunityBased",72999,0
+2,2977162,"Antibes",5,"Beds",72999,194.90733
+2,2977162,"Antibes",6,"CTScanner",72999,0.4817934
+2,2977162,"Antibes",7,"MRIUnit",72999,0.364995
+2,2977162,"Antibes",8,"Mammography",72999,0.2262969
+2,2977162,"Antibes",9,"Radiotherapy",72999,0.0218997
+2,2974657,"La Seyne-sur-Mer",1,"Physicians",63936,106.77312
+2,2974657,"La Seyne-sur-Mer",2,"Nurses",63936,76.7232
+2,2974657,"La Seyne-sur-Mer",3,"OtherCadres",63936,160.47936
+2,2974657,"La Seyne-sur-Mer",4,"CommunityBased",63936,0
+2,2974657,"La Seyne-sur-Mer",5,"Beds",63936,170.70912
+2,2974657,"La Seyne-sur-Mer",6,"CTScanner",63936,0.4219776
+2,2974657,"La Seyne-sur-Mer",7,"MRIUnit",63936,0.31968
+2,2974657,"La Seyne-sur-Mer",8,"Mammography",63936,0.1982016
+2,2974657,"La Seyne-sur-Mer",9,"Radiotherapy",63936,0.0191808
+2,3012937,"Hyères",1,"Physicians",55588,92.83196
+2,3012937,"Hyères",2,"Nurses",55588,66.7056
+2,3012937,"Hyères",3,"OtherCadres",55588,139.52588
+2,3012937,"Hyères",4,"CommunityBased",55588,0
+2,3012937,"Hyères",5,"Beds",55588,148.41996
+2,3012937,"Hyères",6,"CTScanner",55588,0.3668808
+2,3012937,"Hyères",7,"MRIUnit",55588,0.27794
+2,3012937,"Hyères",8,"Mammography",55588,0.1723228
+2,3012937,"Hyères",9,"Radiotherapy",55588,0.0166764
+2,3017253,"Fréjus",1,"Physicians",52672,87.96224
+2,3017253,"Fréjus",2,"Nurses",52672,63.2064
+2,3017253,"Fréjus",3,"OtherCadres",52672,132.20672
+2,3017253,"Fréjus",4,"CommunityBased",52672,0
+2,3017253,"Fréjus",5,"Beds",52672,140.63424
+2,3017253,"Fréjus",6,"CTScanner",52672,0.3476352
+2,3017253,"Fréjus",7,"MRIUnit",52672,0.26336
+2,3017253,"Fréjus",8,"Mammography",52672,0.1632832
+2,3017253,"Fréjus",9,"Radiotherapy",52672,0.0158016
+2,3036938,"Arles",1,"Physicians",69506,116.07502
+2,3036938,"Arles",2,"Nurses",69506,83.4072
+2,3036938,"Arles",3,"OtherCadres",69506,174.46006
+2,3036938,"Arles",4,"CommunityBased",69506,0
+2,3036938,"Arles",5,"Beds",69506,185.58102
+2,3036938,"Arles",6,"CTScanner",69506,0.4587396
+2,3036938,"Arles",7,"MRIUnit",69506,0.34753
+2,3036938,"Arles",8,"Mammography",69506,0.2154686
+2,3036938,"Arles",9,"Radiotherapy",69506,0.0208518
+2,3029227,"Cagnes-sur-Mer",1,"Physicians",50928,85.04976
+2,3029227,"Cagnes-sur-Mer",2,"Nurses",50928,61.1136
+2,3029227,"Cagnes-sur-Mer",3,"OtherCadres",50928,127.82928
+2,3029227,"Cagnes-sur-Mer",4,"CommunityBased",50928,0
+2,3029227,"Cagnes-sur-Mer",5,"Beds",50928,135.97776
+2,3029227,"Cagnes-sur-Mer",6,"CTScanner",50928,0.3361248
+2,3029227,"Cagnes-sur-Mer",7,"MRIUnit",50928,0.25464
+2,3029227,"Cagnes-sur-Mer",8,"Mammography",50928,0.1578768
+2,3029227,"Cagnes-sur-Mer",9,"Radiotherapy",50928,0.0152784
+2,3014856,"Grasse",1,"Physicians",50396,84.16132
+2,3014856,"Grasse",2,"Nurses",50396,60.4752
+2,3014856,"Grasse",3,"OtherCadres",50396,126.49396
+2,3014856,"Grasse",4,"CommunityBased",50396,0
+2,3014856,"Grasse",5,"Beds",50396,134.55732
+2,3014856,"Grasse",6,"CTScanner",50396,0.3326136
+2,3014856,"Grasse",7,"MRIUnit",50396,0.25198
+2,3014856,"Grasse",8,"Mammography",50396,0.1562276
+2,3014856,"Grasse",9,"Radiotherapy",50396,0.0151188
+2,6454958,"Martigues",1,"Physicians",98683,164.80061
+2,6454958,"Martigues",2,"Nurses",98683,118.4196
+2,6454958,"Martigues",3,"OtherCadres",98683,247.69433
+2,6454958,"Martigues",4,"CommunityBased",98683,0
+2,6454958,"Martigues",5,"Beds",98683,263.48361
+2,6454958,"Martigues",6,"CTScanner",98683,0.6513078
+2,6454958,"Martigues",7,"MRIUnit",98683,0.493415
+2,6454958,"Martigues",8,"Mammography",98683,0.3059173
+2,6454958,"Martigues",9,"Radiotherapy",98683,0.0296049
+2,3036433,"Aubagne",1,"Physicians",69691,116.38397
+2,3036433,"Aubagne",2,"Nurses",69691,83.6292
+2,3036433,"Aubagne",3,"OtherCadres",69691,174.92441
+2,3036433,"Aubagne",4,"CommunityBased",69691,0
+2,3036433,"Aubagne",5,"Beds",69691,186.07497
+2,3036433,"Aubagne",6,"CTScanner",69691,0.4599606
+2,3036433,"Aubagne",7,"MRIUnit",69691,0.348455
+2,3036433,"Aubagne",8,"Mammography",69691,0.2160421
+2,3036433,"Aubagne",9,"Radiotherapy",69691,0.0209073
+2,2976341,"Salon-de-Provence",1,"Physicians",54943,91.75481
+2,2976341,"Salon-de-Provence",2,"Nurses",54943,65.9316
+2,2976341,"Salon-de-Provence",3,"OtherCadres",54943,137.90693
+2,2976341,"Salon-de-Provence",4,"CommunityBased",54943,0
+2,2976341,"Salon-de-Provence",5,"Beds",54943,146.69781
+2,2976341,"Salon-de-Provence",6,"CTScanner",54943,0.3626238
+2,2976341,"Salon-de-Provence",7,"MRIUnit",54943,0.274715
+2,2976341,"Salon-de-Provence",8,"Mammography",54943,0.1703233
+2,2976341,"Salon-de-Provence",9,"Radiotherapy",54943,0.0164829
+2,3012647,"Istres",1,"Physicians",43133,72.03211
+2,3012647,"Istres",2,"Nurses",43133,51.7596
+2,3012647,"Istres",3,"OtherCadres",43133,108.26383
+2,3012647,"Istres",4,"CommunityBased",43133,0
+2,3012647,"Istres",5,"Beds",43133,115.16511
+2,3012647,"Istres",6,"CTScanner",43133,0.2846778
+2,3012647,"Istres",7,"MRIUnit",43133,0.215665
+2,3012647,"Istres",8,"Mammography",43133,0.1337123
+2,3012647,"Istres",9,"Radiotherapy",43133,0.0129399
+2,3004871,"Le Cannet",1,"Physicians",41471,69.25657
+2,3004871,"Le Cannet",2,"Nurses",41471,49.7652
+2,3004871,"Le Cannet",3,"OtherCadres",41471,104.09221
+2,3004871,"Le Cannet",4,"CommunityBased",41471,0
+2,3004871,"Le Cannet",5,"Beds",41471,110.72757
+2,3004871,"Le Cannet",6,"CTScanner",41471,0.2737086
+2,3004871,"Le Cannet",7,"MRIUnit",41471,0.207355
+2,3004871,"Le Cannet",8,"Mammography",41471,0.1285601
+2,3004871,"Le Cannet",9,"Radiotherapy",41471,0.0124413
+2,3016702,"Gap",1,"Physicians",50147,83.74549
+2,3016702,"Gap",2,"Nurses",50147,60.1764
+2,3016702,"Gap",3,"OtherCadres",50147,125.86897
+2,3016702,"Gap",4,"CommunityBased",50147,0
+2,3016702,"Gap",5,"Beds",50147,133.89249
+2,3016702,"Gap",6,"CTScanner",50147,0.3309702
+2,3016702,"Gap",7,"MRIUnit",50147,0.250735
+2,3016702,"Gap",8,"Mammography",50147,0.1554557
+2,3016702,"Gap",9,"Radiotherapy",50147,0.0150441
+2,3020850,"Draguignan",1,"Physicians",39340,65.6978
+2,3020850,"Draguignan",2,"Nurses",39340,47.208
+2,3020850,"Draguignan",3,"OtherCadres",39340,98.7434
+2,3020850,"Draguignan",4,"CommunityBased",39340,0
+2,3020850,"Draguignan",5,"Beds",39340,105.0378
+2,3020850,"Draguignan",6,"CTScanner",39340,0.259644
+2,3020850,"Draguignan",7,"MRIUnit",39340,0.1967
+2,3020850,"Draguignan",8,"Mammography",39340,0.121954
+2,3020850,"Draguignan",9,"Radiotherapy",39340,0.011802
+2,6456718,"La Ciotat",1,"Physicians",35174,58.74058
+2,6456718,"La Ciotat",2,"Nurses",35174,42.2088
+2,6456718,"La Ciotat",3,"OtherCadres",35174,88.28674
+2,6456718,"La Ciotat",4,"CommunityBased",35174,0
+2,6456718,"La Ciotat",5,"Beds",35174,93.91458
+2,6456718,"La Ciotat",6,"CTScanner",35174,0.2321484
+2,6456718,"La Ciotat",7,"MRIUnit",35174,0.17587
+2,6456718,"La Ciotat",8,"Mammography",35174,0.1090394
+2,6456718,"La Ciotat",9,"Radiotherapy",35174,0.0105522
+2,6445063,"Saint-Raphaël",1,"Physicians",37979,63.42493
+2,6445063,"Saint-Raphaël",2,"Nurses",37979,45.5748
+2,6445063,"Saint-Raphaël",3,"OtherCadres",37979,95.32729
+2,6445063,"Saint-Raphaël",4,"CommunityBased",37979,0
+2,6445063,"Saint-Raphaël",5,"Beds",37979,101.40393
+2,6445063,"Saint-Raphaël",6,"CTScanner",37979,0.2506614
+2,6445063,"Saint-Raphaël",7,"MRIUnit",37979,0.189895
+2,6445063,"Saint-Raphaël",8,"Mammography",37979,0.1177349
+2,6445063,"Saint-Raphaël",9,"Radiotherapy",37979,0.0113937
+2,2967870,"Vitrolles",1,"Physicians",103034,172.06678
+2,2967870,"Vitrolles",2,"Nurses",103034,123.6408
+2,2967870,"Vitrolles",3,"OtherCadres",103034,258.61534
+2,2967870,"Vitrolles",4,"CommunityBased",103034,0
+2,2967870,"Vitrolles",5,"Beds",103034,275.10078
+2,2967870,"Vitrolles",6,"CTScanner",103034,0.6800244
+2,2967870,"Vitrolles",7,"MRIUnit",103034,0.51517
+2,2967870,"Vitrolles",8,"Mammography",103034,0.3194054
+2,2967870,"Vitrolles",9,"Radiotherapy",103034,0.0309102
+2,2995750,"Marignane",1,"Physicians",32920,54.9764
+2,2995750,"Marignane",2,"Nurses",32920,39.504
+2,2995750,"Marignane",3,"OtherCadres",32920,82.6292
+2,2995750,"Marignane",4,"CommunityBased",32920,0
+2,2995750,"Marignane",5,"Beds",32920,87.8964
+2,2995750,"Marignane",6,"CTScanner",32920,0.217272
+2,2995750,"Marignane",7,"MRIUnit",32920,0.1646
+2,2995750,"Marignane",8,"Mammography",32920,0.102052
+2,2995750,"Marignane",9,"Radiotherapy",32920,0.009876
+2,2989460,"Orange",1,"Physicians",52419,87.53973
+2,2989460,"Orange",2,"Nurses",52419,62.9028
+2,2989460,"Orange",3,"OtherCadres",52419,131.57169
+2,2989460,"Orange",4,"CommunityBased",52419,0
+2,2989460,"Orange",5,"Beds",52419,139.95873
+2,2989460,"Orange",6,"CTScanner",52419,0.3459654
+2,2989460,"Orange",7,"MRIUnit",52419,0.262095
+2,2989460,"Orange",8,"Mammography",52419,0.1624989
+2,2989460,"Orange",9,"Radiotherapy",52419,0.0157257
+2,2978891,"Saint-Laurent-du-Var",1,"Physicians",28453,47.51651
+2,2978891,"Saint-Laurent-du-Var",2,"Nurses",28453,34.1436
+2,2978891,"Saint-Laurent-du-Var",3,"OtherCadres",28453,71.41703
+2,2978891,"Saint-Laurent-du-Var",4,"CommunityBased",28453,0
+2,2978891,"Saint-Laurent-du-Var",5,"Beds",28453,75.96951
+2,2978891,"Saint-Laurent-du-Var",6,"CTScanner",28453,0.1877898
+2,2978891,"Saint-Laurent-du-Var",7,"MRIUnit",28453,0.142265
+2,2978891,"Saint-Laurent-du-Var",8,"Mammography",28453,0.0882043
+2,2978891,"Saint-Laurent-du-Var",9,"Radiotherapy",28453,0.0085359
+2,3028542,"Carpentras",1,"Physicians",67338,112.45446
+2,3028542,"Carpentras",2,"Nurses",67338,80.8056
+2,3028542,"Carpentras",3,"OtherCadres",67338,169.01838
+2,3028542,"Carpentras",4,"CommunityBased",67338,0
+2,3028542,"Carpentras",5,"Beds",67338,179.79246
+2,3028542,"Carpentras",6,"CTScanner",67338,0.4444308
+2,3028542,"Carpentras",7,"MRIUnit",67338,0.33669
+2,3028542,"Carpentras",8,"Mammography",67338,0.2087478
+2,3028542,"Carpentras",9,"Radiotherapy",67338,0.0202014
+2,6425695,"Vallauris",1,"Physicians",26672,44.54224
+2,6425695,"Vallauris",2,"Nurses",26672,32.0064
+2,6425695,"Vallauris",3,"OtherCadres",26672,66.94672
+2,6425695,"Vallauris",4,"CommunityBased",26672,0
+2,6425695,"Vallauris",5,"Beds",26672,71.21424
+2,6425695,"Vallauris",6,"CTScanner",26672,0.1760352
+2,6425695,"Vallauris",7,"MRIUnit",26672,0.13336
+2,6425695,"Vallauris",8,"Mammography",26672,0.0826832
+2,6425695,"Vallauris",9,"Radiotherapy",26672,0.0080016
+2,6614137,"Cavaillon",1,"Physicians",84918,141.81306
+2,6614137,"Cavaillon",2,"Nurses",84918,101.9016
+2,6614137,"Cavaillon",3,"OtherCadres",84918,213.14418
+2,6614137,"Cavaillon",4,"CommunityBased",84918,0
+2,6614137,"Cavaillon",5,"Beds",84918,226.73106
+2,6614137,"Cavaillon",6,"CTScanner",84918,0.5604588
+2,6614137,"Cavaillon",7,"MRIUnit",84918,0.42459
+2,6614137,"Cavaillon",8,"Mammography",84918,0.2632458
+2,6614137,"Cavaillon",9,"Radiotherapy",84918,0.0254754
+2,3009198,"La Garde",1,"Physicians",25126,41.96042
+2,3009198,"La Garde",2,"Nurses",25126,30.1512
+2,3009198,"La Garde",3,"OtherCadres",25126,63.06626
+2,3009198,"La Garde",4,"CommunityBased",25126,0
+2,3009198,"La Garde",5,"Beds",25126,67.08642
+2,3009198,"La Garde",6,"CTScanner",25126,0.1658316
+2,3009198,"La Garde",7,"MRIUnit",25126,0.12563
+2,3009198,"La Garde",8,"Mammography",25126,0.0778906
+2,3009198,"La Garde",9,"Radiotherapy",25126,0.0075378
+2,2996255,"Mandelieu-la-Napoule",1,"Physicians",55382,92.48794
+2,2996255,"Mandelieu-la-Napoule",2,"Nurses",55382,66.4584
+2,2996255,"Mandelieu-la-Napoule",3,"OtherCadres",55382,139.00882
+2,2996255,"Mandelieu-la-Napoule",4,"CommunityBased",55382,0
+2,2996255,"Mandelieu-la-Napoule",5,"Beds",55382,147.86994
+2,2996255,"Mandelieu-la-Napoule",6,"CTScanner",55382,0.3655212
+2,2996255,"Mandelieu-la-Napoule",7,"MRIUnit",55382,0.27691
+2,2996255,"Mandelieu-la-Napoule",8,"Mammography",55382,0.1716842
+2,2996255,"Mandelieu-la-Napoule",9,"Radiotherapy",55382,0.0166146
+2,6425528,"Manosque",1,"Physicians",29271,48.88257
+2,6425528,"Manosque",2,"Nurses",29271,35.1252
+2,6425528,"Manosque",3,"OtherCadres",29271,73.47021
+2,6425528,"Manosque",4,"CommunityBased",29271,0
+2,6425528,"Manosque",5,"Beds",29271,78.15357
+2,6425528,"Manosque",6,"CTScanner",29271,0.1931886
+2,6425528,"Manosque",7,"MRIUnit",29271,0.146355
+2,6425528,"Manosque",8,"Mammography",29271,0.0907401
+2,6425528,"Manosque",9,"Radiotherapy",29271,0.0087813
+2,3038159,"Allauch",1,"Physicians",21187,35.38229
+2,3038159,"Allauch",2,"Nurses",21187,25.4244
+2,3038159,"Allauch",3,"OtherCadres",21187,53.17937
+2,3038159,"Allauch",4,"CommunityBased",21187,0
+2,3038159,"Allauch",5,"Beds",21187,56.56929
+2,3038159,"Allauch",6,"CTScanner",21187,0.1398342
+2,3038159,"Allauch",7,"MRIUnit",21187,0.105935
+2,3038159,"Allauch",8,"Mammography",21187,0.0656797
+2,3038159,"Allauch",9,"Radiotherapy",21187,0.0063561
+2,3016667,"Gardanne",1,"Physicians",20794,34.72598
+2,3016667,"Gardanne",2,"Nurses",20794,24.9528
+2,3016667,"Gardanne",3,"OtherCadres",20794,52.19294
+2,3016667,"Gardanne",4,"CommunityBased",20794,0
+2,3016667,"Gardanne",5,"Beds",20794,55.51998
+2,3016667,"Gardanne",6,"CTScanner",20794,0.1372404
+2,3016667,"Gardanne",7,"MRIUnit",20794,0.10397
+2,3016667,"Gardanne",8,"Mammography",20794,0.0644614
+2,3016667,"Gardanne",9,"Radiotherapy",20794,0.0062382
+2,2987825,"Pertuis",1,"Physicians",20380,34.0346
+2,2987825,"Pertuis",2,"Nurses",20380,24.456
+2,2987825,"Pertuis",3,"OtherCadres",20380,51.1538
+2,2987825,"Pertuis",4,"CommunityBased",20380,0
+2,2987825,"Pertuis",5,"Beds",20380,54.4146
+2,2987825,"Pertuis",6,"CTScanner",20380,0.134508
+2,2987825,"Pertuis",7,"MRIUnit",20380,0.1019
+2,2987825,"Pertuis",8,"Mammography",20380,0.063178
+2,2987825,"Pertuis",9,"Radiotherapy",20380,0.006114
+2,2991551,"Mougins",1,"Physicians",19489,32.54663
+2,2991551,"Mougins",2,"Nurses",19489,23.3868
+2,2991551,"Mougins",3,"OtherCadres",19489,48.91739
+2,2991551,"Mougins",4,"CommunityBased",19489,0
+2,2991551,"Mougins",5,"Beds",19489,52.03563
+2,2991551,"Mougins",6,"CTScanner",19489,0.1286274
+2,2991551,"Mougins",7,"MRIUnit",19489,0.097445
+2,2991551,"Mougins",8,"Mammography",19489,0.0604159
+2,2991551,"Mougins",9,"Radiotherapy",19489,0.0058467
+2,2974188,"Sorgues",1,"Physicians",22958,38.33986
+2,2974188,"Sorgues",2,"Nurses",22958,27.5496
+2,2974188,"Sorgues",3,"OtherCadres",22958,57.62458
+2,2974188,"Sorgues",4,"CommunityBased",22958,0
+2,2974188,"Sorgues",5,"Beds",22958,61.29786
+2,2974188,"Sorgues",6,"CTScanner",22958,0.1515228
+2,2974188,"Sorgues",7,"MRIUnit",22958,0.11479
+2,2974188,"Sorgues",8,"Mammography",22958,0.0711698
+2,2974188,"Sorgues",9,"Radiotherapy",22958,0.0068874
+2,2970148,"Vence",1,"Physicians",172924,288.78308
+2,2970148,"Vence",2,"Nurses",172924,207.5088
+2,2970148,"Vence",3,"OtherCadres",172924,434.03924
+2,2970148,"Vence",4,"CommunityBased",172924,0
+2,2970148,"Vence",5,"Beds",172924,461.70708
+2,2970148,"Vence",6,"CTScanner",172924,1.1412984
+2,2970148,"Vence",7,"MRIUnit",172924,0.86462
+2,2970148,"Vence",8,"Mammography",172924,0.5360644
+2,2970148,"Vence",9,"Radiotherapy",172924,0.0518772
+2,2999891,"La Crau",1,"Physicians",36715,61.31405
+2,2999891,"La Crau",2,"Nurses",36715,44.058
+2,2999891,"La Crau",3,"OtherCadres",36715,92.15465
+2,2999891,"La Crau",4,"CommunityBased",36715,0
+2,2999891,"La Crau",5,"Beds",36715,98.02905
+2,2999891,"La Crau",6,"CTScanner",36715,0.242319
+2,2999891,"La Crau",7,"MRIUnit",36715,0.183575
+2,2999891,"La Crau",8,"Mammography",36715,0.1138165
+2,2999891,"La Crau",9,"Radiotherapy",36715,0.0110145
+2,3030057,"Brignoles",1,"Physicians",46909,78.33803
+2,3030057,"Brignoles",2,"Nurses",46909,56.2908
+2,3030057,"Brignoles",3,"OtherCadres",46909,117.74159
+2,3030057,"Brignoles",4,"CommunityBased",46909,0
+2,3030057,"Brignoles",5,"Beds",46909,125.24703
+2,3030057,"Brignoles",6,"CTScanner",46909,0.3095994
+2,3030057,"Brignoles",7,"MRIUnit",46909,0.234545
+2,3030057,"Brignoles",8,"Mammography",46909,0.1454179
+2,3030057,"Brignoles",9,"Radiotherapy",46909,0.0140727
+2,2976258,"Sanary-sur-Mer",1,"Physicians",16696,27.88232
+2,2976258,"Sanary-sur-Mer",2,"Nurses",16696,20.0352
+2,2976258,"Sanary-sur-Mer",3,"OtherCadres",16696,41.90696
+2,2976258,"Sanary-sur-Mer",4,"CommunityBased",16696,0
+2,2976258,"Sanary-sur-Mer",5,"Beds",16696,44.57832
+2,2976258,"Sanary-sur-Mer",6,"CTScanner",16696,0.1101936
+2,2976258,"Sanary-sur-Mer",7,"MRIUnit",16696,0.08348
+2,2976258,"Sanary-sur-Mer",8,"Mammography",16696,0.0517576
+2,2976258,"Sanary-sur-Mer",9,"Radiotherapy",16696,0.0050088
+2,6618043,"Digne-les-Bains",1,"Physicians",18794,31.38598
+2,6618043,"Digne-les-Bains",2,"Nurses",18794,22.5528
+2,6618043,"Digne-les-Bains",3,"OtherCadres",18794,47.17294
+2,6618043,"Digne-les-Bains",4,"CommunityBased",18794,0
+2,6618043,"Digne-les-Bains",5,"Beds",18794,50.17998
+2,6618043,"Digne-les-Bains",6,"CTScanner",18794,0.1240404
+2,6618043,"Digne-les-Bains",7,"MRIUnit",18794,0.09397
+2,6618043,"Digne-les-Bains",8,"Mammography",18794,0.0582614
+2,6618043,"Digne-les-Bains",9,"Radiotherapy",18794,0.0056382
+2,2973393,"Tarascon",1,"Physicians",38700,64.629
+2,2973393,"Tarascon",2,"Nurses",38700,46.44
+2,2973393,"Tarascon",3,"OtherCadres",38700,97.137
+2,2973393,"Tarascon",4,"CommunityBased",38700,0
+2,2973393,"Tarascon",5,"Beds",38700,103.329
+2,2973393,"Tarascon",6,"CTScanner",38700,0.25542
+2,2973393,"Tarascon",7,"MRIUnit",38700,0.1935
+2,2973393,"Tarascon",8,"Mammography",38700,0.11997
+2,2973393,"Tarascon",9,"Radiotherapy",38700,0.01161
+2,3031387,"Bouc-Bel-Air",1,"Physicians",196070,327.4369
+2,3031387,"Bouc-Bel-Air",2,"Nurses",196070,235.284
+2,3031387,"Bouc-Bel-Air",3,"OtherCadres",196070,492.1357
+2,3031387,"Bouc-Bel-Air",4,"CommunityBased",196070,0
+2,3031387,"Bouc-Bel-Air",5,"Beds",196070,523.5069
+2,3031387,"Bouc-Bel-Air",6,"CTScanner",196070,1.294062
+2,3031387,"Bouc-Bel-Air",7,"MRIUnit",196070,0.98035
+2,3031387,"Bouc-Bel-Air",8,"Mammography",196070,0.607817
+2,3031387,"Bouc-Bel-Air",9,"Radiotherapy",196070,0.058821
+2,2982875,"Roquebrune-sur-Argens",1,"Physicians",34836,58.17612
+2,2982875,"Roquebrune-sur-Argens",2,"Nurses",34836,41.8032
+2,2982875,"Roquebrune-sur-Argens",3,"OtherCadres",34836,87.43836
+2,2982875,"Roquebrune-sur-Argens",4,"CommunityBased",34836,0
+2,2982875,"Roquebrune-sur-Argens",5,"Beds",34836,93.01212
+2,2982875,"Roquebrune-sur-Argens",6,"CTScanner",34836,0.2299176
+2,2982875,"Roquebrune-sur-Argens",7,"MRIUnit",34836,0.17418
+2,2982875,"Roquebrune-sur-Argens",8,"Mammography",34836,0.1079916
+2,2982875,"Roquebrune-sur-Argens",9,"Radiotherapy",34836,0.0104508
+2,2989590,"Ollioules",1,"Physicians",13771,22.99757
+2,2989590,"Ollioules",2,"Nurses",13771,16.5252
+2,2989590,"Ollioules",3,"OtherCadres",13771,34.56521
+2,2989590,"Ollioules",4,"CommunityBased",13771,0
+2,2989590,"Ollioules",5,"Beds",13771,36.76857
+2,2989590,"Ollioules",6,"CTScanner",13771,0.0908886
+2,2989590,"Ollioules",7,"MRIUnit",13771,0.068855
+2,2989590,"Ollioules",8,"Mammography",13771,0.0426901
+2,2989590,"Ollioules",9,"Radiotherapy",13771,0.0041313
+2,3003188,"Cogolin",1,"Physicians",47701,79.66067
+2,3003188,"Cogolin",2,"Nurses",47701,57.2412
+2,3003188,"Cogolin",3,"OtherCadres",47701,119.72951
+2,3003188,"Cogolin",4,"CommunityBased",47701,0
+2,3003188,"Cogolin",5,"Beds",47701,127.36167
+2,3003188,"Cogolin",6,"CTScanner",47701,0.3148266
+2,3003188,"Cogolin",7,"MRIUnit",47701,0.238505
+2,3003188,"Cogolin",8,"Mammography",47701,0.1478731
+2,3003188,"Cogolin",9,"Radiotherapy",47701,0.0143103
+2,3030142,"Briançon",1,"Physicians",18581,31.03027
+2,3030142,"Briançon",2,"Nurses",18581,22.2972
+2,3030142,"Briançon",3,"OtherCadres",18581,46.63831
+2,3030142,"Briançon",4,"CommunityBased",18581,0
+2,3030142,"Briançon",5,"Beds",18581,49.61127
+2,3030142,"Briançon",6,"CTScanner",18581,0.1226346
+2,3030142,"Briançon",7,"MRIUnit",18581,0.092905
+2,3030142,"Briançon",8,"Mammography",18581,0.0576011
+2,3030142,"Briançon",9,"Radiotherapy",18581,0.0055743
+2,3037352,"Apt",1,"Physicians",33123,55.31541
+2,3037352,"Apt",2,"Nurses",33123,39.7476
+2,3037352,"Apt",3,"OtherCadres",33123,83.13873
+2,3037352,"Apt",4,"CommunityBased",33123,0
+2,3037352,"Apt",5,"Beds",33123,88.43841
+2,3037352,"Apt",6,"CTScanner",33123,0.2186118
+2,3037352,"Apt",7,"MRIUnit",33123,0.165615
+2,3037352,"Apt",8,"Mammography",33123,0.1026813
+2,3037352,"Apt",9,"Radiotherapy",33123,0.0099369
+2,3003650,"Le Luc",1,"Physicians",33885,56.58795
+2,3003650,"Le Luc",2,"Nurses",33885,40.662
+2,3003650,"Le Luc",3,"OtherCadres",33885,85.05135
+2,3003650,"Le Luc",4,"CommunityBased",33885,0
+2,3003650,"Le Luc",5,"Beds",33885,90.47295
+2,3003650,"Le Luc",6,"CTScanner",33885,0.223641
+2,3003650,"Le Luc",7,"MRIUnit",33885,0.169425
+2,3003650,"Le Luc",8,"Mammography",33885,0.1050435
+2,3003650,"Le Luc",9,"Radiotherapy",33885,0.0101655
+2,2977214,"Saint-Rémy-de-Provence",1,"Physicians",9829,16.41443
+2,2977214,"Saint-Rémy-de-Provence",2,"Nurses",9829,11.7948
+2,2977214,"Saint-Rémy-de-Provence",3,"OtherCadres",9829,24.67079
+2,2977214,"Saint-Rémy-de-Provence",4,"CommunityBased",9829,0
+2,2977214,"Saint-Rémy-de-Provence",5,"Beds",9829,26.24343
+2,2977214,"Saint-Rémy-de-Provence",6,"CTScanner",9829,0.0648714
+2,2977214,"Saint-Rémy-de-Provence",7,"MRIUnit",9829,0.049145
+2,2977214,"Saint-Rémy-de-Provence",8,"Mammography",9829,0.0304699
+2,2977214,"Saint-Rémy-de-Provence",9,"Radiotherapy",9829,0.0029487
+2,3028534,"Carqueiranne",1,"Physicians",9555,15.95685
+2,3028534,"Carqueiranne",2,"Nurses",9555,11.466
+2,3028534,"Carqueiranne",3,"OtherCadres",9555,23.98305
+2,3028534,"Carqueiranne",4,"CommunityBased",9555,0
+2,3028534,"Carqueiranne",5,"Beds",9555,25.51185
+2,3028534,"Carqueiranne",6,"CTScanner",9555,0.063063
+2,3028534,"Carqueiranne",7,"MRIUnit",9555,0.047775
+2,3028534,"Carqueiranne",8,"Mammography",9555,0.0296205
+2,3028534,"Carqueiranne",9,"Radiotherapy",9555,0.0028665
+2,6615256,"Valréas",1,"Physicians",13131,21.92877
+2,6615256,"Valréas",2,"Nurses",13131,15.7572
+2,6615256,"Valréas",3,"OtherCadres",13131,32.95881
+2,6615256,"Valréas",4,"CommunityBased",13131,0
+2,6615256,"Valréas",5,"Beds",13131,35.05977
+2,6615256,"Valréas",6,"CTScanner",13131,0.0866646
+2,6615256,"Valréas",7,"MRIUnit",13131,0.065655
+2,6615256,"Valréas",8,"Mammography",13131,0.0407061
+2,6615256,"Valréas",9,"Radiotherapy",13131,0.0039393
+2,6447163,"Roquevaire",1,"Physicians",8858,14.79286
+2,6447163,"Roquevaire",2,"Nurses",8858,10.6296
+2,6447163,"Roquevaire",3,"OtherCadres",8858,22.23358
+2,6447163,"Roquevaire",4,"CommunityBased",8858,0
+2,6447163,"Roquevaire",5,"Beds",8858,23.65086
+2,6447163,"Roquevaire",6,"CTScanner",8858,0.0584628
+2,6447163,"Roquevaire",7,"MRIUnit",8858,0.04429
+2,6447163,"Roquevaire",8,"Mammography",8858,0.0274598
+2,6447163,"Roquevaire",9,"Radiotherapy",8858,0.0026574
+2,2988220,"Pégomas",1,"Physicians",7992,13.34664
+2,2988220,"Pégomas",2,"Nurses",7992,9.5904
+2,2988220,"Pégomas",3,"OtherCadres",7992,20.05992
+2,2988220,"Pégomas",4,"CommunityBased",7992,0
+2,2988220,"Pégomas",5,"Beds",7992,21.33864
+2,2988220,"Pégomas",6,"CTScanner",7992,0.0527472
+2,2988220,"Pégomas",7,"MRIUnit",7992,0.03996
+2,2988220,"Pégomas",8,"Mammography",7992,0.0247752
+2,2988220,"Pégomas",9,"Radiotherapy",7992,0.0023976
+2,6447121,"Éguilles",1,"Physicians",30844,51.50948
+2,6447121,"Éguilles",2,"Nurses",30844,37.0128
+2,6447121,"Éguilles",3,"OtherCadres",30844,77.41844
+2,6447121,"Éguilles",4,"CommunityBased",30844,0
+2,6447121,"Éguilles",5,"Beds",30844,82.35348
+2,6447121,"Éguilles",6,"CTScanner",30844,0.2035704
+2,6447121,"Éguilles",7,"MRIUnit",30844,0.15422
+2,6447121,"Éguilles",8,"Mammography",30844,0.0956164
+2,6447121,"Éguilles",9,"Radiotherapy",30844,0.0092532
+2,2974446,"Sisteron",1,"Physicians",31655,52.86385
+2,2974446,"Sisteron",2,"Nurses",31655,37.986
+2,2974446,"Sisteron",3,"OtherCadres",31655,79.45405
+2,2974446,"Sisteron",4,"CommunityBased",31655,0
+2,2974446,"Sisteron",5,"Beds",31655,84.51885
+2,2974446,"Sisteron",6,"CTScanner",31655,0.208923
+2,2974446,"Sisteron",7,"MRIUnit",31655,0.158275
+2,2974446,"Sisteron",8,"Mammography",31655,0.0981305
+2,2974446,"Sisteron",9,"Radiotherapy",31655,0.0094965
+2,3023842,"Contes",1,"Physicians",7429,12.40643
+2,3023842,"Contes",2,"Nurses",7429,8.9148
+2,3023842,"Contes",3,"OtherCadres",7429,18.64679
+2,3023842,"Contes",4,"CommunityBased",7429,0
+2,3023842,"Contes",5,"Beds",7429,19.83543
+2,3023842,"Contes",6,"CTScanner",7429,0.0490314
+2,3023842,"Contes",7,"MRIUnit",7429,0.037145
+2,3023842,"Contes",8,"Mammography",7429,0.0230299
+2,3023842,"Contes",9,"Radiotherapy",7429,0.0022287
+2,3019219,"Eyguières",1,"Physicians",6926,11.56642
+2,3019219,"Eyguières",2,"Nurses",6926,8.3112
+2,3019219,"Eyguières",3,"OtherCadres",6926,17.38426
+2,3019219,"Eyguières",4,"CommunityBased",6926,0
+2,3019219,"Eyguières",5,"Beds",6926,18.49242
+2,3019219,"Eyguières",6,"CTScanner",6926,0.0457116
+2,3019219,"Eyguières",7,"MRIUnit",6926,0.03463
+2,3019219,"Eyguières",8,"Mammography",6926,0.0214706
+2,3019219,"Eyguières",9,"Radiotherapy",6926,0.0020778
+2,2976656,"Saint-Victoret",1,"Physicians",23202,38.74734
+2,2976656,"Saint-Victoret",2,"Nurses",23202,27.8424
+2,2976656,"Saint-Victoret",3,"OtherCadres",23202,58.23702
+2,2976656,"Saint-Victoret",4,"CommunityBased",23202,0
+2,2976656,"Saint-Victoret",5,"Beds",23202,61.94934
+2,2976656,"Saint-Victoret",6,"CTScanner",23202,0.1531332
+2,2976656,"Saint-Victoret",7,"MRIUnit",23202,0.11601
+2,2976656,"Saint-Victoret",8,"Mammography",23202,0.0719262
+2,2976656,"Saint-Victoret",9,"Radiotherapy",23202,0.0069606
+2,3007401,"La Penne-sur-Huveaune",1,"Physicians",6446,10.76482
+2,3007401,"La Penne-sur-Huveaune",2,"Nurses",6446,7.7352
+2,3007401,"La Penne-sur-Huveaune",3,"OtherCadres",6446,16.17946
+2,3007401,"La Penne-sur-Huveaune",4,"CommunityBased",6446,0
+2,3007401,"La Penne-sur-Huveaune",5,"Beds",6446,17.21082
+2,3007401,"La Penne-sur-Huveaune",6,"CTScanner",6446,0.0425436
+2,3007401,"La Penne-sur-Huveaune",7,"MRIUnit",6446,0.03223
+2,3007401,"La Penne-sur-Huveaune",8,"Mammography",6446,0.0199826
+2,3007401,"La Penne-sur-Huveaune",9,"Radiotherapy",6446,0.0019338
+2,3000866,"La Bouilladisse",1,"Physicians",6254,10.44418
+2,3000866,"La Bouilladisse",2,"Nurses",6254,7.5048
+2,3000866,"La Bouilladisse",3,"OtherCadres",6254,15.69754
+2,3000866,"La Bouilladisse",4,"CommunityBased",6254,0
+2,3000866,"La Bouilladisse",5,"Beds",6254,16.69818
+2,3000866,"La Bouilladisse",6,"CTScanner",6254,0.0412764
+2,3000866,"La Bouilladisse",7,"MRIUnit",6254,0.03127
+2,3000866,"La Bouilladisse",8,"Mammography",6254,0.0193874
+2,3000866,"La Bouilladisse",9,"Radiotherapy",6254,0.0018762
+2,6446638,"Embrun",1,"Physicians",10860,18.1362
+2,6446638,"Embrun",2,"Nurses",10860,13.032
+2,6446638,"Embrun",3,"OtherCadres",10860,27.2586
+2,6446638,"Embrun",4,"CommunityBased",10860,0
+2,6446638,"Embrun",5,"Beds",10860,28.9962
+2,6446638,"Embrun",6,"CTScanner",10860,0.071676
+2,6446638,"Embrun",7,"MRIUnit",10860,0.0543
+2,6446638,"Embrun",8,"Mammography",10860,0.033666
+2,6446638,"Embrun",9,"Radiotherapy",10860,0.003258
+2,2994901,"Mazan",1,"Physicians",9364,15.63788
+2,2994901,"Mazan",2,"Nurses",9364,11.2368
+2,2994901,"Mazan",3,"OtherCadres",9364,23.50364
+2,2994901,"Mazan",4,"CommunityBased",9364,0
+2,2994901,"Mazan",5,"Beds",9364,25.00188
+2,2994901,"Mazan",6,"CTScanner",9364,0.0618024
+2,2994901,"Mazan",7,"MRIUnit",9364,0.04682
+2,2994901,"Mazan",8,"Mammography",9364,0.0290284
+2,2994901,"Mazan",9,"Radiotherapy",9364,0.0028092
+2,2975953,"Sarrians",1,"Physicians",184275,307.73925
+2,2975953,"Sarrians",2,"Nurses",184275,221.13
+2,2975953,"Sarrians",3,"OtherCadres",184275,462.53025
+2,2975953,"Sarrians",4,"CommunityBased",184275,0
+2,2975953,"Sarrians",5,"Beds",184275,492.01425
+2,2975953,"Sarrians",6,"CTScanner",184275,1.216215
+2,2975953,"Sarrians",7,"MRIUnit",184275,0.921375
+2,2975953,"Sarrians",8,"Mammography",184275,0.5712525
+2,2975953,"Sarrians",9,"Radiotherapy",184275,0.0552825
+2,2987297,"Pierrefeu-du-Var",1,"Physicians",6065,10.12855
+2,2987297,"Pierrefeu-du-Var",2,"Nurses",6065,7.278
+2,2987297,"Pierrefeu-du-Var",3,"OtherCadres",6065,15.22315
+2,2987297,"Pierrefeu-du-Var",4,"CommunityBased",6065,0
+2,2987297,"Pierrefeu-du-Var",5,"Beds",6065,16.19355
+2,2987297,"Pierrefeu-du-Var",6,"CTScanner",6065,0.040029
+2,2987297,"Pierrefeu-du-Var",7,"MRIUnit",6065,0.030325
+2,2987297,"Pierrefeu-du-Var",8,"Mammography",6065,0.0188015
+2,2987297,"Pierrefeu-du-Var",9,"Radiotherapy",6065,0.0018195
+2,2971154,"Vaison-la-Romaine",1,"Physicians",5953,9.94151
+2,2971154,"Vaison-la-Romaine",2,"Nurses",5953,7.1436
+2,2971154,"Vaison-la-Romaine",3,"OtherCadres",5953,14.94203
+2,2971154,"Vaison-la-Romaine",4,"CommunityBased",5953,0
+2,2971154,"Vaison-la-Romaine",5,"Beds",5953,15.89451
+2,2971154,"Vaison-la-Romaine",6,"CTScanner",5953,0.0392898
+2,2971154,"Vaison-la-Romaine",7,"MRIUnit",5953,0.029765
+2,2971154,"Vaison-la-Romaine",8,"Mammography",5953,0.0184543
+2,2971154,"Vaison-la-Romaine",9,"Radiotherapy",5953,0.0017859
+2,3002443,"Le Puy-Sainte-Réparade",1,"Physicians",10077,16.82859
+2,3002443,"Le Puy-Sainte-Réparade",2,"Nurses",10077,12.0924
+2,3002443,"Le Puy-Sainte-Réparade",3,"OtherCadres",10077,25.29327
+2,3002443,"Le Puy-Sainte-Réparade",4,"CommunityBased",10077,0
+2,3002443,"Le Puy-Sainte-Réparade",5,"Beds",10077,26.90559
+2,3002443,"Le Puy-Sainte-Réparade",6,"CTScanner",10077,0.0665082
+2,3002443,"Le Puy-Sainte-Réparade",7,"MRIUnit",10077,0.050385
+2,3002443,"Le Puy-Sainte-Réparade",8,"Mammography",10077,0.0312387
+2,3002443,"Le Puy-Sainte-Réparade",9,"Radiotherapy",10077,0.0030231
+2,2974337,"Solliès-Toucas",1,"Physicians",5696,9.51232
+2,2974337,"Solliès-Toucas",2,"Nurses",5696,6.8352
+2,2974337,"Solliès-Toucas",3,"OtherCadres",5696,14.29696
+2,2974337,"Solliès-Toucas",4,"CommunityBased",5696,0
+2,2974337,"Solliès-Toucas",5,"Beds",5696,15.20832
+2,2974337,"Solliès-Toucas",6,"CTScanner",5696,0.0375936
+2,2974337,"Solliès-Toucas",7,"MRIUnit",5696,0.02848
+2,2974337,"Solliès-Toucas",8,"Mammography",5696,0.0176576
+2,2974337,"Solliès-Toucas",9,"Radiotherapy",5696,0.0017088
+2,6618146,"Saint-André-de-la-Roche",1,"Physicians",5577,9.31359
+2,6618146,"Saint-André-de-la-Roche",2,"Nurses",5577,6.6924
+2,6618146,"Saint-André-de-la-Roche",3,"OtherCadres",5577,13.99827
+2,6618146,"Saint-André-de-la-Roche",4,"CommunityBased",5577,0
+2,6618146,"Saint-André-de-la-Roche",5,"Beds",5577,14.89059
+2,6618146,"Saint-André-de-la-Roche",6,"CTScanner",5577,0.0368082
+2,6618146,"Saint-André-de-la-Roche",7,"MRIUnit",5577,0.027885
+2,6618146,"Saint-André-de-la-Roche",8,"Mammography",5577,0.0172887
+2,6618146,"Saint-André-de-la-Roche",9,"Radiotherapy",5577,0.0016731
+2,2987547,"Peypin",1,"Physicians",5547,9.26349
+2,2987547,"Peypin",2,"Nurses",5547,6.6564
+2,2987547,"Peypin",3,"OtherCadres",5547,13.92297
+2,2987547,"Peypin",4,"CommunityBased",5547,0
+2,2987547,"Peypin",5,"Beds",5547,14.81049
+2,2987547,"Peypin",6,"CTScanner",5547,0.0366102
+2,2987547,"Peypin",7,"MRIUnit",5547,0.027735
+2,2987547,"Peypin",8,"Mammography",5547,0.0171957
+2,2987547,"Peypin",9,"Radiotherapy",5547,0.0016641
+2,3017798,"Forcalquier",1,"Physicians",7743,12.93081
+2,3017798,"Forcalquier",2,"Nurses",7743,9.2916
+2,3017798,"Forcalquier",3,"OtherCadres",7743,19.43493
+2,3017798,"Forcalquier",4,"CommunityBased",7743,0
+2,3017798,"Forcalquier",5,"Beds",7743,20.67381
+2,3017798,"Forcalquier",6,"CTScanner",7743,0.0511038
+2,3017798,"Forcalquier",7,"MRIUnit",7743,0.038715
+2,3017798,"Forcalquier",8,"Mammography",7743,0.0240033
+2,3017798,"Forcalquier",9,"Radiotherapy",7743,0.0023229
+2,2990987,"Nans-les-Pins",1,"Physicians",64649,107.96383
+2,2990987,"Nans-les-Pins",2,"Nurses",64649,77.5788
+2,2990987,"Nans-les-Pins",3,"OtherCadres",64649,162.26899
+2,2990987,"Nans-les-Pins",4,"CommunityBased",64649,0
+2,2990987,"Nans-les-Pins",5,"Beds",64649,172.61283
+2,2990987,"Nans-les-Pins",6,"CTScanner",64649,0.4266834
+2,2990987,"Nans-les-Pins",7,"MRIUnit",64649,0.323245
+2,2990987,"Nans-les-Pins",8,"Mammography",64649,0.2004119
+2,2990987,"Nans-les-Pins",9,"Radiotherapy",64649,0.0193947
+2,2998916,"Levens",1,"Physicians",6586,10.99862
+2,2998916,"Levens",2,"Nurses",6586,7.9032
+2,2998916,"Levens",3,"OtherCadres",6586,16.53086
+2,2998916,"Levens",4,"CommunityBased",6586,0
+2,2998916,"Levens",5,"Beds",6586,17.58462
+2,2998916,"Levens",6,"CTScanner",6586,0.0434676
+2,2998916,"Levens",7,"MRIUnit",6586,0.03293
+2,2998916,"Levens",8,"Mammography",6586,0.0204166
+2,2998916,"Levens",9,"Radiotherapy",6586,0.0019758
+2,3027745,"Ceyreste",1,"Physicians",4656,7.77552
+2,3027745,"Ceyreste",2,"Nurses",4656,5.5872
+2,3027745,"Ceyreste",3,"OtherCadres",4656,11.68656
+2,3027745,"Ceyreste",4,"CommunityBased",4656,0
+2,3027745,"Ceyreste",5,"Beds",4656,12.43152
+2,3027745,"Ceyreste",6,"CTScanner",4656,0.0307296
+2,3027745,"Ceyreste",7,"MRIUnit",4656,0.02328
+2,3027745,"Ceyreste",8,"Mammography",4656,0.0144336
+2,3027745,"Ceyreste",9,"Radiotherapy",4656,0.0013968
+2,2993832,"Mimet",1,"Physicians",4348,7.26116
+2,2993832,"Mimet",2,"Nurses",4348,5.2176
+2,2993832,"Mimet",3,"OtherCadres",4348,10.91348
+2,2993832,"Mimet",4,"CommunityBased",4348,0
+2,2993832,"Mimet",5,"Beds",4348,11.60916
+2,2993832,"Mimet",6,"CTScanner",4348,0.0286968
+2,2993832,"Mimet",7,"MRIUnit",4348,0.02174
+2,2993832,"Mimet",8,"Mammography",4348,0.0134788
+2,2993832,"Mimet",9,"Radiotherapy",4348,0.0013044
+2,3002357,"Le Revest-les-Eaux",1,"Physicians",31025,51.81175
+2,3002357,"Le Revest-les-Eaux",2,"Nurses",31025,37.23
+2,3002357,"Le Revest-les-Eaux",3,"OtherCadres",31025,77.87275
+2,3002357,"Le Revest-les-Eaux",4,"CommunityBased",31025,0
+2,3002357,"Le Revest-les-Eaux",5,"Beds",31025,82.83675
+2,3002357,"Le Revest-les-Eaux",6,"CTScanner",31025,0.204765
+2,3002357,"Le Revest-les-Eaux",7,"MRIUnit",31025,0.155125
+2,3002357,"Le Revest-les-Eaux",8,"Mammography",31025,0.0961775
+2,3002357,"Le Revest-les-Eaux",9,"Radiotherapy",31025,0.0093075
+2,2974162,"Sospel",1,"Physicians",75155,125.50885
+2,2974162,"Sospel",2,"Nurses",75155,90.186
+2,2974162,"Sospel",3,"OtherCadres",75155,188.63905
+2,2974162,"Sospel",4,"CommunityBased",75155,0
+2,2974162,"Sospel",5,"Beds",75155,200.66385
+2,2974162,"Sospel",6,"CTScanner",75155,0.496023
+2,2974162,"Sospel",7,"MRIUnit",75155,0.375775
+2,2974162,"Sospel",8,"Mammography",75155,0.2329805
+2,2974162,"Sospel",9,"Radiotherapy",75155,0.0225465
+2,3014717,"Gréoux-les-Bains",1,"Physicians",51185,85.47895
+2,3014717,"Gréoux-les-Bains",2,"Nurses",51185,61.422
+2,3014717,"Gréoux-les-Bains",3,"OtherCadres",51185,128.47435
+2,3014717,"Gréoux-les-Bains",4,"CommunityBased",51185,0
+2,3014717,"Gréoux-les-Bains",5,"Beds",51185,136.66395
+2,3014717,"Gréoux-les-Bains",6,"CTScanner",51185,0.337821
+2,3014717,"Gréoux-les-Bains",7,"MRIUnit",51185,0.255925
+2,3014717,"Gréoux-les-Bains",8,"Mammography",51185,0.1586735
+2,3014717,"Gréoux-les-Bains",9,"Radiotherapy",51185,0.0153555
+2,3018513,"Figanières",1,"Physicians",96858,161.75286
+2,3018513,"Figanières",2,"Nurses",96858,116.2296
+2,3018513,"Figanières",3,"OtherCadres",96858,243.11358
+2,3018513,"Figanières",4,"CommunityBased",96858,0
+2,3018513,"Figanières",5,"Beds",96858,258.61086
+2,3018513,"Figanières",6,"CTScanner",96858,0.6392628
+2,3018513,"Figanières",7,"MRIUnit",96858,0.48429
+2,3018513,"Figanières",8,"Mammography",96858,0.3002598
+2,3018513,"Figanières",9,"Radiotherapy",96858,0.0290574
+2,3034991,"Barcelonnette",1,"Physicians",7656,12.78552
+2,3034991,"Barcelonnette",2,"Nurses",7656,9.1872
+2,3034991,"Barcelonnette",3,"OtherCadres",7656,19.21656
+2,3034991,"Barcelonnette",4,"CommunityBased",7656,0
+2,3034991,"Barcelonnette",5,"Beds",7656,20.44152
+2,3034991,"Barcelonnette",6,"CTScanner",7656,0.0505296
+2,3034991,"Barcelonnette",7,"MRIUnit",7656,0.03828
+2,3034991,"Barcelonnette",8,"Mammography",7656,0.0237336
+2,3034991,"Barcelonnette",9,"Radiotherapy",7656,0.0022968
+2,2999179,"Le Thoronet",1,"Physicians",6184,10.32728
+2,2999179,"Le Thoronet",2,"Nurses",6184,7.4208
+2,2999179,"Le Thoronet",3,"OtherCadres",6184,15.52184
+2,2999179,"Le Thoronet",4,"CommunityBased",6184,0
+2,2999179,"Le Thoronet",5,"Beds",6184,16.51128
+2,2999179,"Le Thoronet",6,"CTScanner",6184,0.0408144
+2,2999179,"Le Thoronet",7,"MRIUnit",6184,0.03092
+2,2999179,"Le Thoronet",8,"Mammography",6184,0.0191704
+2,2999179,"Le Thoronet",9,"Radiotherapy",6184,0.0018552
+2,2980759,"Évenos",1,"Physicians",152779,255.14093
+2,2980759,"Évenos",2,"Nurses",152779,183.3348
+2,2980759,"Évenos",3,"OtherCadres",152779,383.47529
+2,2980759,"Évenos",4,"CommunityBased",152779,0
+2,2980759,"Évenos",5,"Beds",152779,407.91993
+2,2980759,"Évenos",6,"CTScanner",152779,1.0083414
+2,2980759,"Évenos",7,"MRIUnit",152779,0.763895
+2,2980759,"Évenos",8,"Mammography",152779,0.4736149
+2,2980759,"Évenos",9,"Radiotherapy",152779,0.0458337
+2,2973485,"Tallard",1,"Physicians",8500,14.195
+2,2973485,"Tallard",2,"Nurses",8500,10.2
+2,2973485,"Tallard",3,"OtherCadres",8500,21.335
+2,2973485,"Tallard",4,"CommunityBased",8500,0
+2,2973485,"Tallard",5,"Beds",8500,22.695
+2,2973485,"Tallard",6,"CTScanner",8500,0.0561
+2,2973485,"Tallard",7,"MRIUnit",8500,0.0425
+2,2973485,"Tallard",8,"Mammography",8500,0.02635
+2,2973485,"Tallard",9,"Radiotherapy",8500,0.00255
+2,2973180,"Tende",1,"Physicians",2179,3.63893
+2,2973180,"Tende",2,"Nurses",2179,2.6148
+2,2973180,"Tende",3,"OtherCadres",2179,5.46929
+2,2973180,"Tende",4,"CommunityBased",2179,0
+2,2973180,"Tende",5,"Beds",2179,5.81793
+2,2973180,"Tende",6,"CTScanner",2179,0.0143814
+2,2973180,"Tende",7,"MRIUnit",2179,0.010895
+2,2973180,"Tende",8,"Mammography",2179,0.0067549
+2,2973180,"Tende",9,"Radiotherapy",2179,0.0006537
+2,2980325,"Saintes-Maries-de-la-Mer",1,"Physicians",2157,3.60219
+2,2980325,"Saintes-Maries-de-la-Mer",2,"Nurses",2157,2.5884
+2,2980325,"Saintes-Maries-de-la-Mer",3,"OtherCadres",2157,5.41407
+2,2980325,"Saintes-Maries-de-la-Mer",4,"CommunityBased",2157,0
+2,2980325,"Saintes-Maries-de-la-Mer",5,"Beds",2157,5.75919
+2,2980325,"Saintes-Maries-de-la-Mer",6,"CTScanner",2157,0.0142362
+2,2980325,"Saintes-Maries-de-la-Mer",7,"MRIUnit",2157,0.010785
+2,2980325,"Saintes-Maries-de-la-Mer",8,"Mammography",2157,0.0066867
+2,2980325,"Saintes-Maries-de-la-Mer",9,"Radiotherapy",2157,0.0006471
+2,2980247,"Saint-Étienne-de-Tinée",1,"Physicians",0,0
+2,2980247,"Saint-Étienne-de-Tinée",2,"Nurses",0,0
+2,2980247,"Saint-Étienne-de-Tinée",3,"OtherCadres",0,0
+2,2980247,"Saint-Étienne-de-Tinée",4,"CommunityBased",0,0
+2,2980247,"Saint-Étienne-de-Tinée",5,"Beds",0,0
+2,2980247,"Saint-Étienne-de-Tinée",6,"CTScanner",0,0
+2,2980247,"Saint-Étienne-de-Tinée",7,"MRIUnit",0,0
+2,2980247,"Saint-Étienne-de-Tinée",8,"Mammography",0,0
+2,2980247,"Saint-Étienne-de-Tinée",9,"Radiotherapy",0,0
+3,2988800,"Nice",1,"Physicians",1006402,2002.73998
+3,2988800,"Nice",2,"Nurses",1006402,9037.48996
+3,2988800,"Nice",3,"OtherCadres",1006402,2526.06902
+3,2988800,"Nice",4,"CommunityBased",1006402,0
+3,2988800,"Nice",5,"Beds",1006402,1831.65164
+3,2988800,"Nice",6,"CTScanner",1006402,20.0273998
+3,2988800,"Nice",7,"MRIUnit",1006402,16.9075536
+3,2988800,"Nice",8,"Mammography",1006402,15.6998712
+3,2988800,"Nice",9,"Radiotherapy",1006402,10.2653004
+3,2969187,"Marseille",1,"Physicians",870018,1731.33582
+3,2969187,"Marseille",2,"Nurses",870018,7812.76164
+3,2969187,"Marseille",3,"OtherCadres",870018,2183.74518
+3,2969187,"Marseille",4,"CommunityBased",870018,0
+3,2969187,"Marseille",5,"Beds",870018,1583.43276
+3,2969187,"Marseille",6,"CTScanner",870018,17.3133582
+3,2969187,"Marseille",7,"MRIUnit",870018,14.6163024
+3,2969187,"Marseille",8,"Mammography",870018,13.5722808
+3,2969187,"Marseille",9,"Radiotherapy",870018,8.8741836
+3,2980772,"Toulon",1,"Physicians",171953,342.18647
+3,2980772,"Toulon",2,"Nurses",171953,1544.13794
+3,2980772,"Toulon",3,"OtherCadres",171953,431.60203
+3,2980772,"Toulon",4,"CommunityBased",171953,0
+3,2980772,"Toulon",5,"Beds",171953,312.95446
+3,2980772,"Toulon",6,"CTScanner",171953,3.4218647
+3,2980772,"Toulon",7,"MRIUnit",171953,2.8888104
+3,2980772,"Toulon",8,"Mammography",171953,2.6824668
+3,2980772,"Toulon",9,"Radiotherapy",171953,1.7539206
+3,3038354,"Aix-en-Provence",1,"Physicians",166254,330.84546
+3,3038354,"Aix-en-Provence",2,"Nurses",166254,1492.96092
+3,3038354,"Aix-en-Provence",3,"OtherCadres",166254,417.29754
+3,3038354,"Aix-en-Provence",4,"CommunityBased",166254,0
+3,3038354,"Aix-en-Provence",5,"Beds",166254,302.58228
+3,3038354,"Aix-en-Provence",6,"CTScanner",166254,3.3084546
+3,3038354,"Aix-en-Provence",7,"MRIUnit",166254,2.7930672
+3,3038354,"Aix-en-Provence",8,"Mammography",166254,2.5935624
+3,3038354,"Aix-en-Provence",9,"Radiotherapy",166254,1.6957908
+3,3035681,"Avignon",1,"Physicians",93671,186.40529
+3,3035681,"Avignon",2,"Nurses",93671,841.16558
+3,3035681,"Avignon",3,"OtherCadres",93671,235.11421
+3,3035681,"Avignon",4,"CommunityBased",93671,0
+3,3035681,"Avignon",5,"Beds",93671,170.48122
+3,3035681,"Avignon",6,"CTScanner",93671,1.8640529
+3,3035681,"Avignon",7,"MRIUnit",93671,1.5736728
+3,3035681,"Avignon",8,"Mammography",93671,1.4612676
+3,3035681,"Avignon",9,"Radiotherapy",93671,0.9554442
+3,3028808,"Cannes",1,"Physicians",73868,146.99732
+3,3028808,"Cannes",2,"Nurses",73868,663.33464
+3,3028808,"Cannes",3,"OtherCadres",73868,185.40868
+3,3028808,"Cannes",4,"CommunityBased",73868,0
+3,3028808,"Cannes",5,"Beds",73868,134.43976
+3,3028808,"Cannes",6,"CTScanner",73868,1.4699732
+3,3028808,"Cannes",7,"MRIUnit",73868,1.2409824
+3,3028808,"Cannes",8,"Mammography",73868,1.1523408
+3,3028808,"Cannes",9,"Radiotherapy",73868,0.7534536
+3,2977162,"Antibes",1,"Physicians",72999,145.26801
+3,2977162,"Antibes",2,"Nurses",72999,655.53102
+3,2977162,"Antibes",3,"OtherCadres",72999,183.22749
+3,2977162,"Antibes",4,"CommunityBased",72999,0
+3,2977162,"Antibes",5,"Beds",72999,132.85818
+3,2977162,"Antibes",6,"CTScanner",72999,1.4526801
+3,2977162,"Antibes",7,"MRIUnit",72999,1.2263832
+3,2977162,"Antibes",8,"Mammography",72999,1.1387844
+3,2977162,"Antibes",9,"Radiotherapy",72999,0.7445898
+3,2974657,"La Seyne-sur-Mer",1,"Physicians",63936,127.23264
+3,2974657,"La Seyne-sur-Mer",2,"Nurses",63936,574.14528
+3,2974657,"La Seyne-sur-Mer",3,"OtherCadres",63936,160.47936
+3,2974657,"La Seyne-sur-Mer",4,"CommunityBased",63936,0
+3,2974657,"La Seyne-sur-Mer",5,"Beds",63936,116.36352
+3,2974657,"La Seyne-sur-Mer",6,"CTScanner",63936,1.2723264
+3,2974657,"La Seyne-sur-Mer",7,"MRIUnit",63936,1.0741248
+3,2974657,"La Seyne-sur-Mer",8,"Mammography",63936,0.9974016
+3,2974657,"La Seyne-sur-Mer",9,"Radiotherapy",63936,0.6521472
+3,3012937,"Hyères",1,"Physicians",55588,110.62012
+3,3012937,"Hyères",2,"Nurses",55588,499.18024
+3,3012937,"Hyères",3,"OtherCadres",55588,139.52588
+3,3012937,"Hyères",4,"CommunityBased",55588,0
+3,3012937,"Hyères",5,"Beds",55588,101.17016
+3,3012937,"Hyères",6,"CTScanner",55588,1.1062012
+3,3012937,"Hyères",7,"MRIUnit",55588,0.9338784
+3,3012937,"Hyères",8,"Mammography",55588,0.8671728
+3,3012937,"Hyères",9,"Radiotherapy",55588,0.5669976
+3,3017253,"Fréjus",1,"Physicians",52672,104.81728
+3,3017253,"Fréjus",2,"Nurses",52672,472.99456
+3,3017253,"Fréjus",3,"OtherCadres",52672,132.20672
+3,3017253,"Fréjus",4,"CommunityBased",52672,0
+3,3017253,"Fréjus",5,"Beds",52672,95.86304
+3,3017253,"Fréjus",6,"CTScanner",52672,1.0481728
+3,3017253,"Fréjus",7,"MRIUnit",52672,0.8848896
+3,3017253,"Fréjus",8,"Mammography",52672,0.8216832
+3,3017253,"Fréjus",9,"Radiotherapy",52672,0.5372544
+3,3036938,"Arles",1,"Physicians",71663,142.60937
+3,3036938,"Arles",2,"Nurses",71663,643.53374
+3,3036938,"Arles",3,"OtherCadres",71663,179.87413
+3,3036938,"Arles",4,"CommunityBased",71663,0
+3,3036938,"Arles",5,"Beds",71663,130.42666
+3,3036938,"Arles",6,"CTScanner",71663,1.4260937
+3,3036938,"Arles",7,"MRIUnit",71663,1.2039384
+3,3036938,"Arles",8,"Mammography",71663,1.1179428
+3,3036938,"Arles",9,"Radiotherapy",71663,0.7309626
+3,3029227,"Cagnes-sur-Mer",1,"Physicians",50928,101.34672
+3,3029227,"Cagnes-sur-Mer",2,"Nurses",50928,457.33344
+3,3029227,"Cagnes-sur-Mer",3,"OtherCadres",50928,127.82928
+3,3029227,"Cagnes-sur-Mer",4,"CommunityBased",50928,0
+3,3029227,"Cagnes-sur-Mer",5,"Beds",50928,92.68896
+3,3029227,"Cagnes-sur-Mer",6,"CTScanner",50928,1.0134672
+3,3029227,"Cagnes-sur-Mer",7,"MRIUnit",50928,0.8555904
+3,3029227,"Cagnes-sur-Mer",8,"Mammography",50928,0.7944768
+3,3029227,"Cagnes-sur-Mer",9,"Radiotherapy",50928,0.5194656
+3,3014856,"Grasse",1,"Physicians",50396,100.28804
+3,3014856,"Grasse",2,"Nurses",50396,452.55608
+3,3014856,"Grasse",3,"OtherCadres",50396,126.49396
+3,3014856,"Grasse",4,"CommunityBased",50396,0
+3,3014856,"Grasse",5,"Beds",50396,91.72072
+3,3014856,"Grasse",6,"CTScanner",50396,1.0028804
+3,3014856,"Grasse",7,"MRIUnit",50396,0.8466528
+3,3014856,"Grasse",8,"Mammography",50396,0.7861776
+3,3014856,"Grasse",9,"Radiotherapy",50396,0.5140392
+3,6454958,"Martigues",1,"Physicians",98683,196.37917
+3,6454958,"Martigues",2,"Nurses",98683,886.17334
+3,6454958,"Martigues",3,"OtherCadres",98683,247.69433
+3,6454958,"Martigues",4,"CommunityBased",98683,0
+3,6454958,"Martigues",5,"Beds",98683,179.60306
+3,6454958,"Martigues",6,"CTScanner",98683,1.9637917
+3,6454958,"Martigues",7,"MRIUnit",98683,1.6578744
+3,6454958,"Martigues",8,"Mammography",98683,1.5394548
+3,6454958,"Martigues",9,"Radiotherapy",98683,1.0065666
+3,3036433,"Aubagne",1,"Physicians",69691,138.68509
+3,3036433,"Aubagne",2,"Nurses",69691,625.82518
+3,3036433,"Aubagne",3,"OtherCadres",69691,174.92441
+3,3036433,"Aubagne",4,"CommunityBased",69691,0
+3,3036433,"Aubagne",5,"Beds",69691,126.83762
+3,3036433,"Aubagne",6,"CTScanner",69691,1.3868509
+3,3036433,"Aubagne",7,"MRIUnit",69691,1.1708088
+3,3036433,"Aubagne",8,"Mammography",69691,1.0871796
+3,3036433,"Aubagne",9,"Radiotherapy",69691,0.7108482
+3,2976341,"Salon-de-Provence",1,"Physicians",54943,109.33657
+3,2976341,"Salon-de-Provence",2,"Nurses",54943,493.38814
+3,2976341,"Salon-de-Provence",3,"OtherCadres",54943,137.90693
+3,2976341,"Salon-de-Provence",4,"CommunityBased",54943,0
+3,2976341,"Salon-de-Provence",5,"Beds",54943,99.99626
+3,2976341,"Salon-de-Provence",6,"CTScanner",54943,1.0933657
+3,2976341,"Salon-de-Provence",7,"MRIUnit",54943,0.9230424
+3,2976341,"Salon-de-Provence",8,"Mammography",54943,0.8571108
+3,2976341,"Salon-de-Provence",9,"Radiotherapy",54943,0.5604186
+3,3012647,"Istres",1,"Physicians",43133,85.83467
+3,3012647,"Istres",2,"Nurses",43133,387.33434
+3,3012647,"Istres",3,"OtherCadres",43133,108.26383
+3,3012647,"Istres",4,"CommunityBased",43133,0
+3,3012647,"Istres",5,"Beds",43133,78.50206
+3,3012647,"Istres",6,"CTScanner",43133,0.8583467
+3,3012647,"Istres",7,"MRIUnit",43133,0.7246344
+3,3012647,"Istres",8,"Mammography",43133,0.6728748
+3,3012647,"Istres",9,"Radiotherapy",43133,0.4399566
+3,3004871,"Le Cannet",1,"Physicians",41471,82.52729
+3,3004871,"Le Cannet",2,"Nurses",41471,372.40958
+3,3004871,"Le Cannet",3,"OtherCadres",41471,104.09221
+3,3004871,"Le Cannet",4,"CommunityBased",41471,0
+3,3004871,"Le Cannet",5,"Beds",41471,75.47722
+3,3004871,"Le Cannet",6,"CTScanner",41471,0.8252729
+3,3004871,"Le Cannet",7,"MRIUnit",41471,0.6967128
+3,3004871,"Le Cannet",8,"Mammography",41471,0.6469476
+3,3004871,"Le Cannet",9,"Radiotherapy",41471,0.4230042
+3,3016702,"Gap",1,"Physicians",58647,116.70753
+3,3016702,"Gap",2,"Nurses",58647,526.65006
+3,3016702,"Gap",3,"OtherCadres",58647,147.20397
+3,3016702,"Gap",4,"CommunityBased",58647,0
+3,3016702,"Gap",5,"Beds",58647,106.73754
+3,3016702,"Gap",6,"CTScanner",58647,1.1670753
+3,3016702,"Gap",7,"MRIUnit",58647,0.9852696
+3,3016702,"Gap",8,"Mammography",58647,0.9148932
+3,3016702,"Gap",9,"Radiotherapy",58647,0.5981994
+3,3020850,"Draguignan",1,"Physicians",39340,78.2866
+3,3020850,"Draguignan",2,"Nurses",39340,353.2732
+3,3020850,"Draguignan",3,"OtherCadres",39340,98.7434
+3,3020850,"Draguignan",4,"CommunityBased",39340,0
+3,3020850,"Draguignan",5,"Beds",39340,71.5988
+3,3020850,"Draguignan",6,"CTScanner",39340,0.782866
+3,3020850,"Draguignan",7,"MRIUnit",39340,0.660912
+3,3020850,"Draguignan",8,"Mammography",39340,0.613704
+3,3020850,"Draguignan",9,"Radiotherapy",39340,0.401268
+3,6456718,"La Ciotat",1,"Physicians",187953,374.02647
+3,6456718,"La Ciotat",2,"Nurses",187953,1687.81794
+3,6456718,"La Ciotat",3,"OtherCadres",187953,471.76203
+3,6456718,"La Ciotat",4,"CommunityBased",187953,0
+3,6456718,"La Ciotat",5,"Beds",187953,342.07446
+3,6456718,"La Ciotat",6,"CTScanner",187953,3.7402647
+3,6456718,"La Ciotat",7,"MRIUnit",187953,3.1576104
+3,6456718,"La Ciotat",8,"Mammography",187953,2.9320668
+3,6456718,"La Ciotat",9,"Radiotherapy",187953,1.9171206
+3,6445063,"Saint-Raphaël",1,"Physicians",44163,87.88437
+3,6445063,"Saint-Raphaël",2,"Nurses",44163,396.58374
+3,6445063,"Saint-Raphaël",3,"OtherCadres",44163,110.84913
+3,6445063,"Saint-Raphaël",4,"CommunityBased",44163,0
+3,6445063,"Saint-Raphaël",5,"Beds",44163,80.37666
+3,6445063,"Saint-Raphaël",6,"CTScanner",44163,0.8788437
+3,6445063,"Saint-Raphaël",7,"MRIUnit",44163,0.7419384
+3,6445063,"Saint-Raphaël",8,"Mammography",44163,0.6889428
+3,6445063,"Saint-Raphaël",9,"Radiotherapy",44163,0.4504626
+3,2967870,"Vitrolles",1,"Physicians",103034,205.03766
+3,2967870,"Vitrolles",2,"Nurses",103034,925.24532
+3,2967870,"Vitrolles",3,"OtherCadres",103034,258.61534
+3,2967870,"Vitrolles",4,"CommunityBased",103034,0
+3,2967870,"Vitrolles",5,"Beds",103034,187.52188
+3,2967870,"Vitrolles",6,"CTScanner",103034,2.0503766
+3,2967870,"Vitrolles",7,"MRIUnit",103034,1.7309712
+3,2967870,"Vitrolles",8,"Mammography",103034,1.6073304
+3,2967870,"Vitrolles",9,"Radiotherapy",103034,1.0509468
+3,2995750,"Marignane",1,"Physicians",32920,65.5108
+3,2995750,"Marignane",2,"Nurses",32920,295.6216
+3,2995750,"Marignane",3,"OtherCadres",32920,82.6292
+3,2995750,"Marignane",4,"CommunityBased",32920,0
+3,2995750,"Marignane",5,"Beds",32920,59.9144
+3,2995750,"Marignane",6,"CTScanner",32920,0.655108
+3,2995750,"Marignane",7,"MRIUnit",32920,0.553056
+3,2995750,"Marignane",8,"Mammography",32920,0.513552
+3,2995750,"Marignane",9,"Radiotherapy",32920,0.335784
+3,2989460,"Orange",1,"Physicians",52419,104.31381
+3,2989460,"Orange",2,"Nurses",52419,470.72262
+3,2989460,"Orange",3,"OtherCadres",52419,131.57169
+3,2989460,"Orange",4,"CommunityBased",52419,0
+3,2989460,"Orange",5,"Beds",52419,95.40258
+3,2989460,"Orange",6,"CTScanner",52419,1.0431381
+3,2989460,"Orange",7,"MRIUnit",52419,0.8806392
+3,2989460,"Orange",8,"Mammography",52419,0.8177364
+3,2989460,"Orange",9,"Radiotherapy",52419,0.5346738
+3,2978891,"Saint-Laurent-du-Var",1,"Physicians",28453,56.62147
+3,2978891,"Saint-Laurent-du-Var",2,"Nurses",28453,255.50794
+3,2978891,"Saint-Laurent-du-Var",3,"OtherCadres",28453,71.41703
+3,2978891,"Saint-Laurent-du-Var",4,"CommunityBased",28453,0
+3,2978891,"Saint-Laurent-du-Var",5,"Beds",28453,51.78446
+3,2978891,"Saint-Laurent-du-Var",6,"CTScanner",28453,0.5662147
+3,2978891,"Saint-Laurent-du-Var",7,"MRIUnit",28453,0.4780104
+3,2978891,"Saint-Laurent-du-Var",8,"Mammography",28453,0.4438668
+3,2978891,"Saint-Laurent-du-Var",9,"Radiotherapy",28453,0.2902206
+3,3028542,"Carpentras",1,"Physicians",67338,134.00262
+3,3028542,"Carpentras",2,"Nurses",67338,604.69524
+3,3028542,"Carpentras",3,"OtherCadres",67338,169.01838
+3,3028542,"Carpentras",4,"CommunityBased",67338,0
+3,3028542,"Carpentras",5,"Beds",67338,122.55516
+3,3028542,"Carpentras",6,"CTScanner",67338,1.3400262
+3,3028542,"Carpentras",7,"MRIUnit",67338,1.1312784
+3,3028542,"Carpentras",8,"Mammography",67338,1.0504728
+3,3028542,"Carpentras",9,"Radiotherapy",67338,0.6868476
+3,6425695,"Vallauris",1,"Physicians",26672,53.07728
+3,6425695,"Vallauris",2,"Nurses",26672,239.51456
+3,6425695,"Vallauris",3,"OtherCadres",26672,66.94672
+3,6425695,"Vallauris",4,"CommunityBased",26672,0
+3,6425695,"Vallauris",5,"Beds",26672,48.54304
+3,6425695,"Vallauris",6,"CTScanner",26672,0.5307728
+3,6425695,"Vallauris",7,"MRIUnit",26672,0.4480896
+3,6425695,"Vallauris",8,"Mammography",26672,0.4160832
+3,6425695,"Vallauris",9,"Radiotherapy",26672,0.2720544
+3,6614137,"Cavaillon",1,"Physicians",84918,168.98682
+3,6614137,"Cavaillon",2,"Nurses",84918,762.56364
+3,6614137,"Cavaillon",3,"OtherCadres",84918,213.14418
+3,6614137,"Cavaillon",4,"CommunityBased",84918,0
+3,6614137,"Cavaillon",5,"Beds",84918,154.55076
+3,6614137,"Cavaillon",6,"CTScanner",84918,1.6898682
+3,6614137,"Cavaillon",7,"MRIUnit",84918,1.4266224
+3,6614137,"Cavaillon",8,"Mammography",84918,1.3247208
+3,6614137,"Cavaillon",9,"Radiotherapy",84918,0.8661636
+3,3009198,"La Garde",1,"Physicians",25126,50.00074
+3,3009198,"La Garde",2,"Nurses",25126,225.63148
+3,3009198,"La Garde",3,"OtherCadres",25126,63.06626
+3,3009198,"La Garde",4,"CommunityBased",25126,0
+3,3009198,"La Garde",5,"Beds",25126,45.72932
+3,3009198,"La Garde",6,"CTScanner",25126,0.5000074
+3,3009198,"La Garde",7,"MRIUnit",25126,0.4221168
+3,3009198,"La Garde",8,"Mammography",25126,0.3919656
+3,3009198,"La Garde",9,"Radiotherapy",25126,0.2562852
+3,2996255,"Mandelieu-la-Napoule",1,"Physicians",55382,110.21018
+3,2996255,"Mandelieu-la-Napoule",2,"Nurses",55382,497.33036
+3,2996255,"Mandelieu-la-Napoule",3,"OtherCadres",55382,139.00882
+3,2996255,"Mandelieu-la-Napoule",4,"CommunityBased",55382,0
+3,2996255,"Mandelieu-la-Napoule",5,"Beds",55382,100.79524
+3,2996255,"Mandelieu-la-Napoule",6,"CTScanner",55382,1.1021018
+3,2996255,"Mandelieu-la-Napoule",7,"MRIUnit",55382,0.9304176
+3,2996255,"Mandelieu-la-Napoule",8,"Mammography",55382,0.8639592
+3,2996255,"Mandelieu-la-Napoule",9,"Radiotherapy",55382,0.5648964
+3,6425528,"Manosque",1,"Physicians",29271,58.24929
+3,6425528,"Manosque",2,"Nurses",29271,262.85358
+3,6425528,"Manosque",3,"OtherCadres",29271,73.47021
+3,6425528,"Manosque",4,"CommunityBased",29271,0
+3,6425528,"Manosque",5,"Beds",29271,53.27322
+3,6425528,"Manosque",6,"CTScanner",29271,0.5824929
+3,6425528,"Manosque",7,"MRIUnit",29271,0.4917528
+3,6425528,"Manosque",8,"Mammography",29271,0.4566276
+3,6425528,"Manosque",9,"Radiotherapy",29271,0.2985642
+3,3038159,"Allauch",1,"Physicians",21187,42.16213
+3,3038159,"Allauch",2,"Nurses",21187,190.25926
+3,3038159,"Allauch",3,"OtherCadres",21187,53.17937
+3,3038159,"Allauch",4,"CommunityBased",21187,0
+3,3038159,"Allauch",5,"Beds",21187,38.56034
+3,3038159,"Allauch",6,"CTScanner",21187,0.4216213
+3,3038159,"Allauch",7,"MRIUnit",21187,0.3559416
+3,3038159,"Allauch",8,"Mammography",21187,0.3305172
+3,3038159,"Allauch",9,"Radiotherapy",21187,0.2161074
+3,3016667,"Gardanne",1,"Physicians",20794,41.38006
+3,3016667,"Gardanne",2,"Nurses",20794,186.73012
+3,3016667,"Gardanne",3,"OtherCadres",20794,52.19294
+3,3016667,"Gardanne",4,"CommunityBased",20794,0
+3,3016667,"Gardanne",5,"Beds",20794,37.84508
+3,3016667,"Gardanne",6,"CTScanner",20794,0.4138006
+3,3016667,"Gardanne",7,"MRIUnit",20794,0.3493392
+3,3016667,"Gardanne",8,"Mammography",20794,0.3243864
+3,3016667,"Gardanne",9,"Radiotherapy",20794,0.2120988
+3,2987825,"Pertuis",1,"Physicians",20380,40.5562
+3,2987825,"Pertuis",2,"Nurses",20380,183.0124
+3,2987825,"Pertuis",3,"OtherCadres",20380,51.1538
+3,2987825,"Pertuis",4,"CommunityBased",20380,0
+3,2987825,"Pertuis",5,"Beds",20380,37.0916
+3,2987825,"Pertuis",6,"CTScanner",20380,0.405562
+3,2987825,"Pertuis",7,"MRIUnit",20380,0.342384
+3,2987825,"Pertuis",8,"Mammography",20380,0.317928
+3,2987825,"Pertuis",9,"Radiotherapy",20380,0.207876
+3,2991551,"Mougins",1,"Physicians",19489,38.78311
+3,2991551,"Mougins",2,"Nurses",19489,175.01122
+3,2991551,"Mougins",3,"OtherCadres",19489,48.91739
+3,2991551,"Mougins",4,"CommunityBased",19489,0
+3,2991551,"Mougins",5,"Beds",19489,35.46998
+3,2991551,"Mougins",6,"CTScanner",19489,0.3878311
+3,2991551,"Mougins",7,"MRIUnit",19489,0.3274152
+3,2991551,"Mougins",8,"Mammography",19489,0.3040284
+3,2991551,"Mougins",9,"Radiotherapy",19489,0.1987878
+3,2974188,"Sorgues",1,"Physicians",22958,45.68642
+3,2974188,"Sorgues",2,"Nurses",22958,206.16284
+3,2974188,"Sorgues",3,"OtherCadres",22958,57.62458
+3,2974188,"Sorgues",4,"CommunityBased",22958,0
+3,2974188,"Sorgues",5,"Beds",22958,41.78356
+3,2974188,"Sorgues",6,"CTScanner",22958,0.4568642
+3,2974188,"Sorgues",7,"MRIUnit",22958,0.3856944
+3,2974188,"Sorgues",8,"Mammography",22958,0.3581448
+3,2974188,"Sorgues",9,"Radiotherapy",22958,0.2341716
+3,2970148,"Vence",1,"Physicians",172924,344.11876
+3,2970148,"Vence",2,"Nurses",172924,1552.85752
+3,2970148,"Vence",3,"OtherCadres",172924,434.03924
+3,2970148,"Vence",4,"CommunityBased",172924,0
+3,2970148,"Vence",5,"Beds",172924,314.72168
+3,2970148,"Vence",6,"CTScanner",172924,3.4411876
+3,2970148,"Vence",7,"MRIUnit",172924,2.9051232
+3,2970148,"Vence",8,"Mammography",172924,2.6976144
+3,2970148,"Vence",9,"Radiotherapy",172924,1.7638248
+3,2999891,"La Crau",1,"Physicians",36715,73.06285
+3,2999891,"La Crau",2,"Nurses",36715,329.7007
+3,2999891,"La Crau",3,"OtherCadres",36715,92.15465
+3,2999891,"La Crau",4,"CommunityBased",36715,0
+3,2999891,"La Crau",5,"Beds",36715,66.8213
+3,2999891,"La Crau",6,"CTScanner",36715,0.7306285
+3,2999891,"La Crau",7,"MRIUnit",36715,0.616812
+3,2999891,"La Crau",8,"Mammography",36715,0.572754
+3,2999891,"La Crau",9,"Radiotherapy",36715,0.374493
+3,3030057,"Brignoles",1,"Physicians",46909,93.34891
+3,3030057,"Brignoles",2,"Nurses",46909,421.24282
+3,3030057,"Brignoles",3,"OtherCadres",46909,117.74159
+3,3030057,"Brignoles",4,"CommunityBased",46909,0
+3,3030057,"Brignoles",5,"Beds",46909,85.37438
+3,3030057,"Brignoles",6,"CTScanner",46909,0.9334891
+3,3030057,"Brignoles",7,"MRIUnit",46909,0.7880712
+3,3030057,"Brignoles",8,"Mammography",46909,0.7317804
+3,3030057,"Brignoles",9,"Radiotherapy",46909,0.4784718
+3,2976258,"Sanary-sur-Mer",1,"Physicians",16696,33.22504
+3,2976258,"Sanary-sur-Mer",2,"Nurses",16696,149.93008
+3,2976258,"Sanary-sur-Mer",3,"OtherCadres",16696,41.90696
+3,2976258,"Sanary-sur-Mer",4,"CommunityBased",16696,0
+3,2976258,"Sanary-sur-Mer",5,"Beds",16696,30.38672
+3,2976258,"Sanary-sur-Mer",6,"CTScanner",16696,0.3322504
+3,2976258,"Sanary-sur-Mer",7,"MRIUnit",16696,0.2804928
+3,2976258,"Sanary-sur-Mer",8,"Mammography",16696,0.2604576
+3,2976258,"Sanary-sur-Mer",9,"Radiotherapy",16696,0.1702992
+3,6618043,"Digne-les-Bains",1,"Physicians",18794,37.40006
+3,6618043,"Digne-les-Bains",2,"Nurses",18794,168.77012
+3,6618043,"Digne-les-Bains",3,"OtherCadres",18794,47.17294
+3,6618043,"Digne-les-Bains",4,"CommunityBased",18794,0
+3,6618043,"Digne-les-Bains",5,"Beds",18794,34.20508
+3,6618043,"Digne-les-Bains",6,"CTScanner",18794,0.3740006
+3,6618043,"Digne-les-Bains",7,"MRIUnit",18794,0.3157392
+3,6618043,"Digne-les-Bains",8,"Mammography",18794,0.2931864
+3,6618043,"Digne-les-Bains",9,"Radiotherapy",18794,0.1916988
+3,2973393,"Tarascon",1,"Physicians",38700,77.013
+3,2973393,"Tarascon",2,"Nurses",38700,347.526
+3,2973393,"Tarascon",3,"OtherCadres",38700,97.137
+3,2973393,"Tarascon",4,"CommunityBased",38700,0
+3,2973393,"Tarascon",5,"Beds",38700,70.434
+3,2973393,"Tarascon",6,"CTScanner",38700,0.77013
+3,2973393,"Tarascon",7,"MRIUnit",38700,0.65016
+3,2973393,"Tarascon",8,"Mammography",38700,0.60372
+3,2973393,"Tarascon",9,"Radiotherapy",38700,0.39474
+3,3031387,"Bouc-Bel-Air",1,"Physicians",196070,390.1793
+3,3031387,"Bouc-Bel-Air",2,"Nurses",196070,1760.7086
+3,3031387,"Bouc-Bel-Air",3,"OtherCadres",196070,492.1357
+3,3031387,"Bouc-Bel-Air",4,"CommunityBased",196070,0
+3,3031387,"Bouc-Bel-Air",5,"Beds",196070,356.8474
+3,3031387,"Bouc-Bel-Air",6,"CTScanner",196070,3.901793
+3,3031387,"Bouc-Bel-Air",7,"MRIUnit",196070,3.293976
+3,3031387,"Bouc-Bel-Air",8,"Mammography",196070,3.058692
+3,3031387,"Bouc-Bel-Air",9,"Radiotherapy",196070,1.999914
+3,2982875,"Roquebrune-sur-Argens",1,"Physicians",34836,69.32364
+3,2982875,"Roquebrune-sur-Argens",2,"Nurses",34836,312.82728
+3,2982875,"Roquebrune-sur-Argens",3,"OtherCadres",34836,87.43836
+3,2982875,"Roquebrune-sur-Argens",4,"CommunityBased",34836,0
+3,2982875,"Roquebrune-sur-Argens",5,"Beds",34836,63.40152
+3,2982875,"Roquebrune-sur-Argens",6,"CTScanner",34836,0.6932364
+3,2982875,"Roquebrune-sur-Argens",7,"MRIUnit",34836,0.5852448
+3,2982875,"Roquebrune-sur-Argens",8,"Mammography",34836,0.5434416
+3,2982875,"Roquebrune-sur-Argens",9,"Radiotherapy",34836,0.3553272
+3,2989590,"Ollioules",1,"Physicians",13771,27.40429
+3,2989590,"Ollioules",2,"Nurses",13771,123.66358
+3,2989590,"Ollioules",3,"OtherCadres",13771,34.56521
+3,2989590,"Ollioules",4,"CommunityBased",13771,0
+3,2989590,"Ollioules",5,"Beds",13771,25.06322
+3,2989590,"Ollioules",6,"CTScanner",13771,0.2740429
+3,2989590,"Ollioules",7,"MRIUnit",13771,0.2313528
+3,2989590,"Ollioules",8,"Mammography",13771,0.2148276
+3,2989590,"Ollioules",9,"Radiotherapy",13771,0.1404642
+3,3003188,"Cogolin",1,"Physicians",144559,287.67241
+3,3003188,"Cogolin",2,"Nurses",144559,1298.13982
+3,3003188,"Cogolin",3,"OtherCadres",144559,362.84309
+3,3003188,"Cogolin",4,"CommunityBased",144559,0
+3,3003188,"Cogolin",5,"Beds",144559,263.09738
+3,3003188,"Cogolin",6,"CTScanner",144559,2.8767241
+3,3003188,"Cogolin",7,"MRIUnit",144559,2.4285912
+3,3003188,"Cogolin",8,"Mammography",144559,2.2551204
+3,3003188,"Cogolin",9,"Radiotherapy",144559,1.4745018
+3,3030142,"Briançon",1,"Physicians",18581,36.97619
+3,3030142,"Briançon",2,"Nurses",18581,166.85738
+3,3030142,"Briançon",3,"OtherCadres",18581,46.63831
+3,3030142,"Briançon",4,"CommunityBased",18581,0
+3,3030142,"Briançon",5,"Beds",18581,33.81742
+3,3030142,"Briançon",6,"CTScanner",18581,0.3697619
+3,3030142,"Briançon",7,"MRIUnit",18581,0.3121608
+3,3030142,"Briançon",8,"Mammography",18581,0.2898636
+3,3030142,"Briançon",9,"Radiotherapy",18581,0.1895262
+3,3037352,"Apt",1,"Physicians",33123,65.91477
+3,3037352,"Apt",2,"Nurses",33123,297.44454
+3,3037352,"Apt",3,"OtherCadres",33123,83.13873
+3,3037352,"Apt",4,"CommunityBased",33123,0
+3,3037352,"Apt",5,"Beds",33123,60.28386
+3,3037352,"Apt",6,"CTScanner",33123,0.6591477
+3,3037352,"Apt",7,"MRIUnit",33123,0.5564664
+3,3037352,"Apt",8,"Mammography",33123,0.5167188
+3,3037352,"Apt",9,"Radiotherapy",33123,0.3378546
+3,3003650,"Le Luc",1,"Physicians",33885,67.43115
+3,3003650,"Le Luc",2,"Nurses",33885,304.2873
+3,3003650,"Le Luc",3,"OtherCadres",33885,85.05135
+3,3003650,"Le Luc",4,"CommunityBased",33885,0
+3,3003650,"Le Luc",5,"Beds",33885,61.6707
+3,3003650,"Le Luc",6,"CTScanner",33885,0.6743115
+3,3003650,"Le Luc",7,"MRIUnit",33885,0.569268
+3,3003650,"Le Luc",8,"Mammography",33885,0.528606
+3,3003650,"Le Luc",9,"Radiotherapy",33885,0.345627
+3,2977214,"Saint-Rémy-de-Provence",1,"Physicians",9829,19.55971
+3,2977214,"Saint-Rémy-de-Provence",2,"Nurses",9829,88.26442
+3,2977214,"Saint-Rémy-de-Provence",3,"OtherCadres",9829,24.67079
+3,2977214,"Saint-Rémy-de-Provence",4,"CommunityBased",9829,0
+3,2977214,"Saint-Rémy-de-Provence",5,"Beds",9829,17.88878
+3,2977214,"Saint-Rémy-de-Provence",6,"CTScanner",9829,0.1955971
+3,2977214,"Saint-Rémy-de-Provence",7,"MRIUnit",9829,0.1651272
+3,2977214,"Saint-Rémy-de-Provence",8,"Mammography",9829,0.1533324
+3,2977214,"Saint-Rémy-de-Provence",9,"Radiotherapy",9829,0.1002558
+3,3028534,"Carqueiranne",1,"Physicians",9555,19.01445
+3,3028534,"Carqueiranne",2,"Nurses",9555,85.8039
+3,3028534,"Carqueiranne",3,"OtherCadres",9555,23.98305
+3,3028534,"Carqueiranne",4,"CommunityBased",9555,0
+3,3028534,"Carqueiranne",5,"Beds",9555,17.3901
+3,3028534,"Carqueiranne",6,"CTScanner",9555,0.1901445
+3,3028534,"Carqueiranne",7,"MRIUnit",9555,0.160524
+3,3028534,"Carqueiranne",8,"Mammography",9555,0.149058
+3,3028534,"Carqueiranne",9,"Radiotherapy",9555,0.097461
+3,6615256,"Valréas",1,"Physicians",13131,26.13069
+3,6615256,"Valréas",2,"Nurses",13131,117.91638
+3,6615256,"Valréas",3,"OtherCadres",13131,32.95881
+3,6615256,"Valréas",4,"CommunityBased",13131,0
+3,6615256,"Valréas",5,"Beds",13131,23.89842
+3,6615256,"Valréas",6,"CTScanner",13131,0.2613069
+3,6615256,"Valréas",7,"MRIUnit",13131,0.2206008
+3,6615256,"Valréas",8,"Mammography",13131,0.2048436
+3,6615256,"Valréas",9,"Radiotherapy",13131,0.1339362
+3,6447163,"Roquevaire",1,"Physicians",8858,17.62742
+3,6447163,"Roquevaire",2,"Nurses",8858,79.54484
+3,6447163,"Roquevaire",3,"OtherCadres",8858,22.23358
+3,6447163,"Roquevaire",4,"CommunityBased",8858,0
+3,6447163,"Roquevaire",5,"Beds",8858,16.12156
+3,6447163,"Roquevaire",6,"CTScanner",8858,0.1762742
+3,6447163,"Roquevaire",7,"MRIUnit",8858,0.1488144
+3,6447163,"Roquevaire",8,"Mammography",8858,0.1381848
+3,6447163,"Roquevaire",9,"Radiotherapy",8858,0.0903516
+3,2988220,"Pégomas",1,"Physicians",7992,15.90408
+3,2988220,"Pégomas",2,"Nurses",7992,71.76816
+3,2988220,"Pégomas",3,"OtherCadres",7992,20.05992
+3,2988220,"Pégomas",4,"CommunityBased",7992,0
+3,2988220,"Pégomas",5,"Beds",7992,14.54544
+3,2988220,"Pégomas",6,"CTScanner",7992,0.1590408
+3,2988220,"Pégomas",7,"MRIUnit",7992,0.1342656
+3,2988220,"Pégomas",8,"Mammography",7992,0.1246752
+3,2988220,"Pégomas",9,"Radiotherapy",7992,0.0815184
+3,6447121,"Éguilles",1,"Physicians",30844,61.37956
+3,6447121,"Éguilles",2,"Nurses",30844,276.97912
+3,6447121,"Éguilles",3,"OtherCadres",30844,77.41844
+3,6447121,"Éguilles",4,"CommunityBased",30844,0
+3,6447121,"Éguilles",5,"Beds",30844,56.13608
+3,6447121,"Éguilles",6,"CTScanner",30844,0.6137956
+3,6447121,"Éguilles",7,"MRIUnit",30844,0.5181792
+3,6447121,"Éguilles",8,"Mammography",30844,0.4811664
+3,6447121,"Éguilles",9,"Radiotherapy",30844,0.3146088
+3,2974446,"Sisteron",1,"Physicians",31655,62.99345
+3,2974446,"Sisteron",2,"Nurses",31655,284.2619
+3,2974446,"Sisteron",3,"OtherCadres",31655,79.45405
+3,2974446,"Sisteron",4,"CommunityBased",31655,0
+3,2974446,"Sisteron",5,"Beds",31655,57.6121
+3,2974446,"Sisteron",6,"CTScanner",31655,0.6299345
+3,2974446,"Sisteron",7,"MRIUnit",31655,0.531804
+3,2974446,"Sisteron",8,"Mammography",31655,0.493818
+3,2974446,"Sisteron",9,"Radiotherapy",31655,0.322881
+3,3023842,"Contes",1,"Physicians",9608,19.11992
+3,3023842,"Contes",2,"Nurses",9608,86.27984
+3,3023842,"Contes",3,"OtherCadres",9608,24.11608
+3,3023842,"Contes",4,"CommunityBased",9608,0
+3,3023842,"Contes",5,"Beds",9608,17.48656
+3,3023842,"Contes",6,"CTScanner",9608,0.1911992
+3,3023842,"Contes",7,"MRIUnit",9608,0.1614144
+3,3023842,"Contes",8,"Mammography",9608,0.1498848
+3,3023842,"Contes",9,"Radiotherapy",9608,0.0980016
+3,3019219,"Eyguières",1,"Physicians",6926,13.78274
+3,3019219,"Eyguières",2,"Nurses",6926,62.19548
+3,3019219,"Eyguières",3,"OtherCadres",6926,17.38426
+3,3019219,"Eyguières",4,"CommunityBased",6926,0
+3,3019219,"Eyguières",5,"Beds",6926,12.60532
+3,3019219,"Eyguières",6,"CTScanner",6926,0.1378274
+3,3019219,"Eyguières",7,"MRIUnit",6926,0.1163568
+3,3019219,"Eyguières",8,"Mammography",6926,0.1080456
+3,3019219,"Eyguières",9,"Radiotherapy",6926,0.0706452
+3,2976656,"Saint-Victoret",1,"Physicians",23202,46.17198
+3,2976656,"Saint-Victoret",2,"Nurses",23202,208.35396
+3,2976656,"Saint-Victoret",3,"OtherCadres",23202,58.23702
+3,2976656,"Saint-Victoret",4,"CommunityBased",23202,0
+3,2976656,"Saint-Victoret",5,"Beds",23202,42.22764
+3,2976656,"Saint-Victoret",6,"CTScanner",23202,0.4617198
+3,2976656,"Saint-Victoret",7,"MRIUnit",23202,0.3897936
+3,2976656,"Saint-Victoret",8,"Mammography",23202,0.3619512
+3,2976656,"Saint-Victoret",9,"Radiotherapy",23202,0.2366604
+3,3007401,"La Penne-sur-Huveaune",1,"Physicians",6446,12.82754
+3,3007401,"La Penne-sur-Huveaune",2,"Nurses",6446,57.88508
+3,3007401,"La Penne-sur-Huveaune",3,"OtherCadres",6446,16.17946
+3,3007401,"La Penne-sur-Huveaune",4,"CommunityBased",6446,0
+3,3007401,"La Penne-sur-Huveaune",5,"Beds",6446,11.73172
+3,3007401,"La Penne-sur-Huveaune",6,"CTScanner",6446,0.1282754
+3,3007401,"La Penne-sur-Huveaune",7,"MRIUnit",6446,0.1082928
+3,3007401,"La Penne-sur-Huveaune",8,"Mammography",6446,0.1005576
+3,3007401,"La Penne-sur-Huveaune",9,"Radiotherapy",6446,0.0657492
+3,3000866,"La Bouilladisse",1,"Physicians",6254,12.44546
+3,3000866,"La Bouilladisse",2,"Nurses",6254,56.16092
+3,3000866,"La Bouilladisse",3,"OtherCadres",6254,15.69754
+3,3000866,"La Bouilladisse",4,"CommunityBased",6254,0
+3,3000866,"La Bouilladisse",5,"Beds",6254,11.38228
+3,3000866,"La Bouilladisse",6,"CTScanner",6254,0.1244546
+3,3000866,"La Bouilladisse",7,"MRIUnit",6254,0.1050672
+3,3000866,"La Bouilladisse",8,"Mammography",6254,0.0975624
+3,3000866,"La Bouilladisse",9,"Radiotherapy",6254,0.0637908
+3,6446638,"Embrun",1,"Physicians",18516,36.84684
+3,6446638,"Embrun",2,"Nurses",18516,166.27368
+3,6446638,"Embrun",3,"OtherCadres",18516,46.47516
+3,6446638,"Embrun",4,"CommunityBased",18516,0
+3,6446638,"Embrun",5,"Beds",18516,33.69912
+3,6446638,"Embrun",6,"CTScanner",18516,0.3684684
+3,6446638,"Embrun",7,"MRIUnit",18516,0.3110688
+3,6446638,"Embrun",8,"Mammography",18516,0.2888496
+3,6446638,"Embrun",9,"Radiotherapy",18516,0.1888632
+3,2994901,"Mazan",1,"Physicians",9364,18.63436
+3,2994901,"Mazan",2,"Nurses",9364,84.08872
+3,2994901,"Mazan",3,"OtherCadres",9364,23.50364
+3,2994901,"Mazan",4,"CommunityBased",9364,0
+3,2994901,"Mazan",5,"Beds",9364,17.04248
+3,2994901,"Mazan",6,"CTScanner",9364,0.1863436
+3,2994901,"Mazan",7,"MRIUnit",9364,0.1573152
+3,2994901,"Mazan",8,"Mammography",9364,0.1460784
+3,2994901,"Mazan",9,"Radiotherapy",9364,0.0955128
+3,2975953,"Sarrians",1,"Physicians",184275,366.70725
+3,2975953,"Sarrians",2,"Nurses",184275,1654.7895
+3,2975953,"Sarrians",3,"OtherCadres",184275,462.53025
+3,2975953,"Sarrians",4,"CommunityBased",184275,0
+3,2975953,"Sarrians",5,"Beds",184275,335.3805
+3,2975953,"Sarrians",6,"CTScanner",184275,3.6670725
+3,2975953,"Sarrians",7,"MRIUnit",184275,3.09582
+3,2975953,"Sarrians",8,"Mammography",184275,2.87469
+3,2975953,"Sarrians",9,"Radiotherapy",184275,1.879605
+3,2987297,"Pierrefeu-du-Var",1,"Physicians",6065,12.06935
+3,2987297,"Pierrefeu-du-Var",2,"Nurses",6065,54.4637
+3,2987297,"Pierrefeu-du-Var",3,"OtherCadres",6065,15.22315
+3,2987297,"Pierrefeu-du-Var",4,"CommunityBased",6065,0
+3,2987297,"Pierrefeu-du-Var",5,"Beds",6065,11.0383
+3,2987297,"Pierrefeu-du-Var",6,"CTScanner",6065,0.1206935
+3,2987297,"Pierrefeu-du-Var",7,"MRIUnit",6065,0.101892
+3,2987297,"Pierrefeu-du-Var",8,"Mammography",6065,0.094614
+3,2987297,"Pierrefeu-du-Var",9,"Radiotherapy",6065,0.061863
+3,2971154,"Vaison-la-Romaine",1,"Physicians",5953,11.84647
+3,2971154,"Vaison-la-Romaine",2,"Nurses",5953,53.45794
+3,2971154,"Vaison-la-Romaine",3,"OtherCadres",5953,14.94203
+3,2971154,"Vaison-la-Romaine",4,"CommunityBased",5953,0
+3,2971154,"Vaison-la-Romaine",5,"Beds",5953,10.83446
+3,2971154,"Vaison-la-Romaine",6,"CTScanner",5953,0.1184647
+3,2971154,"Vaison-la-Romaine",7,"MRIUnit",5953,0.1000104
+3,2971154,"Vaison-la-Romaine",8,"Mammography",5953,0.0928668
+3,2971154,"Vaison-la-Romaine",9,"Radiotherapy",5953,0.0607206
+3,3002443,"Le Puy-Sainte-Réparade",1,"Physicians",61262,121.91138
+3,3002443,"Le Puy-Sainte-Réparade",2,"Nurses",61262,550.13276
+3,3002443,"Le Puy-Sainte-Réparade",3,"OtherCadres",61262,153.76762
+3,3002443,"Le Puy-Sainte-Réparade",4,"CommunityBased",61262,0
+3,3002443,"Le Puy-Sainte-Réparade",5,"Beds",61262,111.49684
+3,3002443,"Le Puy-Sainte-Réparade",6,"CTScanner",61262,1.2191138
+3,3002443,"Le Puy-Sainte-Réparade",7,"MRIUnit",61262,1.0292016
+3,3002443,"Le Puy-Sainte-Réparade",8,"Mammography",61262,0.9556872
+3,3002443,"Le Puy-Sainte-Réparade",9,"Radiotherapy",61262,0.6248724
+3,2974337,"Solliès-Toucas",1,"Physicians",5696,11.33504
+3,2974337,"Solliès-Toucas",2,"Nurses",5696,51.15008
+3,2974337,"Solliès-Toucas",3,"OtherCadres",5696,14.29696
+3,2974337,"Solliès-Toucas",4,"CommunityBased",5696,0
+3,2974337,"Solliès-Toucas",5,"Beds",5696,10.36672
+3,2974337,"Solliès-Toucas",6,"CTScanner",5696,0.1133504
+3,2974337,"Solliès-Toucas",7,"MRIUnit",5696,0.0956928
+3,2974337,"Solliès-Toucas",8,"Mammography",5696,0.0888576
+3,2974337,"Solliès-Toucas",9,"Radiotherapy",5696,0.0580992
+3,6618146,"Saint-André-de-la-Roche",1,"Physicians",5577,11.09823
+3,6618146,"Saint-André-de-la-Roche",2,"Nurses",5577,50.08146
+3,6618146,"Saint-André-de-la-Roche",3,"OtherCadres",5577,13.99827
+3,6618146,"Saint-André-de-la-Roche",4,"CommunityBased",5577,0
+3,6618146,"Saint-André-de-la-Roche",5,"Beds",5577,10.15014
+3,6618146,"Saint-André-de-la-Roche",6,"CTScanner",5577,0.1109823
+3,6618146,"Saint-André-de-la-Roche",7,"MRIUnit",5577,0.0936936
+3,6618146,"Saint-André-de-la-Roche",8,"Mammography",5577,0.0870012
+3,6618146,"Saint-André-de-la-Roche",9,"Radiotherapy",5577,0.0568854
+3,2987547,"Peypin",1,"Physicians",5547,11.03853
+3,2987547,"Peypin",2,"Nurses",5547,49.81206
+3,2987547,"Peypin",3,"OtherCadres",5547,13.92297
+3,2987547,"Peypin",4,"CommunityBased",5547,0
+3,2987547,"Peypin",5,"Beds",5547,10.09554
+3,2987547,"Peypin",6,"CTScanner",5547,0.1103853
+3,2987547,"Peypin",7,"MRIUnit",5547,0.0931896
+3,2987547,"Peypin",8,"Mammography",5547,0.0865332
+3,2987547,"Peypin",9,"Radiotherapy",5547,0.0565794
+3,3017798,"Forcalquier",1,"Physicians",7743,15.40857
+3,3017798,"Forcalquier",2,"Nurses",7743,69.53214
+3,3017798,"Forcalquier",3,"OtherCadres",7743,19.43493
+3,3017798,"Forcalquier",4,"CommunityBased",7743,0
+3,3017798,"Forcalquier",5,"Beds",7743,14.09226
+3,3017798,"Forcalquier",6,"CTScanner",7743,0.1540857
+3,3017798,"Forcalquier",7,"MRIUnit",7743,0.1300824
+3,3017798,"Forcalquier",8,"Mammography",7743,0.1207908
+3,3017798,"Forcalquier",9,"Radiotherapy",7743,0.0789786
+3,2990987,"Nans-les-Pins",1,"Physicians",64649,128.65151
+3,2990987,"Nans-les-Pins",2,"Nurses",64649,580.54802
+3,2990987,"Nans-les-Pins",3,"OtherCadres",64649,162.26899
+3,2990987,"Nans-les-Pins",4,"CommunityBased",64649,0
+3,2990987,"Nans-les-Pins",5,"Beds",64649,117.66118
+3,2990987,"Nans-les-Pins",6,"CTScanner",64649,1.2865151
+3,2990987,"Nans-les-Pins",7,"MRIUnit",64649,1.0861032
+3,2990987,"Nans-les-Pins",8,"Mammography",64649,1.0085244
+3,2990987,"Nans-les-Pins",9,"Radiotherapy",64649,0.6594198
+3,2998916,"Levens",1,"Physicians",81741,162.66459
+3,2998916,"Levens",2,"Nurses",81741,734.03418
+3,2998916,"Levens",3,"OtherCadres",81741,205.16991
+3,2998916,"Levens",4,"CommunityBased",81741,0
+3,2998916,"Levens",5,"Beds",81741,148.76862
+3,2998916,"Levens",6,"CTScanner",81741,1.6266459
+3,2998916,"Levens",7,"MRIUnit",81741,1.3732488
+3,2998916,"Levens",8,"Mammography",81741,1.2751596
+3,2998916,"Levens",9,"Radiotherapy",81741,0.8337582
+3,3027745,"Ceyreste",1,"Physicians",4656,9.26544
+3,3027745,"Ceyreste",2,"Nurses",4656,41.81088
+3,3027745,"Ceyreste",3,"OtherCadres",4656,11.68656
+3,3027745,"Ceyreste",4,"CommunityBased",4656,0
+3,3027745,"Ceyreste",5,"Beds",4656,8.47392
+3,3027745,"Ceyreste",6,"CTScanner",4656,0.0926544
+3,3027745,"Ceyreste",7,"MRIUnit",4656,0.0782208
+3,3027745,"Ceyreste",8,"Mammography",4656,0.0726336
+3,3027745,"Ceyreste",9,"Radiotherapy",4656,0.0474912
+3,2993832,"Mimet",1,"Physicians",4348,8.65252
+3,2993832,"Mimet",2,"Nurses",4348,39.04504
+3,2993832,"Mimet",3,"OtherCadres",4348,10.91348
+3,2993832,"Mimet",4,"CommunityBased",4348,0
+3,2993832,"Mimet",5,"Beds",4348,7.91336
+3,2993832,"Mimet",6,"CTScanner",4348,0.0865252
+3,2993832,"Mimet",7,"MRIUnit",4348,0.0730464
+3,2993832,"Mimet",8,"Mammography",4348,0.0678288
+3,2993832,"Mimet",9,"Radiotherapy",4348,0.0443496
+3,3002357,"Le Revest-les-Eaux",1,"Physicians",31025,61.73975
+3,3002357,"Le Revest-les-Eaux",2,"Nurses",31025,278.6045
+3,3002357,"Le Revest-les-Eaux",3,"OtherCadres",31025,77.87275
+3,3002357,"Le Revest-les-Eaux",4,"CommunityBased",31025,0
+3,3002357,"Le Revest-les-Eaux",5,"Beds",31025,56.4655
+3,3002357,"Le Revest-les-Eaux",6,"CTScanner",31025,0.6173975
+3,3002357,"Le Revest-les-Eaux",7,"MRIUnit",31025,0.52122
+3,3002357,"Le Revest-les-Eaux",8,"Mammography",31025,0.48399
+3,3002357,"Le Revest-les-Eaux",9,"Radiotherapy",31025,0.316455

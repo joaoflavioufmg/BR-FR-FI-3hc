@@ -1,0 +1,580 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6427109,Caen,6427260,Hérouville-Saint-Clair,0.11,1
+6427260,Hérouville-Saint-Clair,6427260,Hérouville-Saint-Clair,0.00,1
+3012903,Ifs,6427260,Hérouville-Saint-Clair,0.19,1
+6427331,Mondeville,6427260,Hérouville-Saint-Clair,0.09,1
+2989013,Ouistreham,6427260,Hérouville-Saint-Clair,0.24,1
+6427149,Colombelles,6427260,Hérouville-Saint-Clair,0.05,1
+3032452,Blainville-sur-Orne,6427260,Hérouville-Saint-Clair,0.08,1
+6427189,Dives-sur-Mer,6427260,Hérouville-Saint-Clair,0.47,1
+6427192,Douvres-la-Délivrande,6427260,Hérouville-Saint-Clair,0.27,1
+3018275,Fleury-sur-Orne,6427260,Hérouville-Saint-Clair,0.19,1
+3016113,Giberville,6427260,Hérouville-Saint-Clair,0.10,1
+3022947,Courseulles-sur-Mer,6427260,Hérouville-Saint-Clair,0.43,1
+6427102,Bretteville-sur-Odon,6427260,Hérouville-Saint-Clair,0.19,1
+3037059,Argences,6427260,Hérouville-Saint-Clair,0.36,1
+6427551,Verson,6427260,Hérouville-Saint-Clair,0.27,1
+6427108,Cabourg,6427260,Hérouville-Saint-Clair,0.45,1
+2971641,Troarn,6427260,Hérouville-Saint-Clair,0.26,1
+2997204,Luc-sur-Mer,6427260,Hérouville-Saint-Clair,0.31,1
+3021609,Démouville,6427260,Hérouville-Saint-Clair,0.12,1
+3030238,Bretteville-l’Orgueilleuse,6427260,Hérouville-Saint-Clair,0.34,1
+6427258,Hermanville-sur-Mer,6427260,Hérouville-Saint-Clair,0.22,1
+6427123,Carpiquet,6427260,Hérouville-Saint-Clair,0.22,1
+2997325,Louvigny,6427260,Hérouville-Saint-Clair,0.18,1
+2991446,Moult,6427260,Hérouville-Saint-Clair,0.38,1
+2978394,Saint-Martin-de-Fontenay,6427260,Hérouville-Saint-Clair,0.25,1
+6427222,Fontaine-Étoupefour,6427260,Hérouville-Saint-Clair,0.28,1
+2981018,Saint-Contest,6427260,Hérouville-Saint-Clair,0.14,1
+2998187,Lion-sur-Mer,6427260,Hérouville-Saint-Clair,0.27,1
+6427148,Colleville-Montgomery,6427260,Hérouville-Saint-Clair,0.20,1
+6427403,Rots,6427260,Hérouville-Saint-Clair,0.28,1
+2981536,Saint-Aubin-sur-Mer,6427260,Hérouville-Saint-Clair,0.36,1
+6427439,Saint-Germain-la-Blanche-Herbe,6427260,Hérouville-Saint-Clair,0.16,1
+3033272,Bernières-sur-Mer,6427260,Hérouville-Saint-Clair,0.40,1
+6427320,Mathieu,6427260,Hérouville-Saint-Clair,0.17,1
+6427183,Cuverville,6427260,Hérouville-Saint-Clair,0.12,1
+6427322,Merville-Franceville-Plage,6427260,Hérouville-Saint-Clair,0.30,1
+3030945,Bourguébus,6427260,Hérouville-Saint-Clair,0.24,1
+6427508,Soliers,6427260,Hérouville-Saint-Clair,0.20,1
+3033458,Bénouville,6427260,Hérouville-Saint-Clair,0.13,1
+3029178,Cairon,6427260,Hérouville-Saint-Clair,0.24,1
+3019267,Évrecy,6427260,Hérouville-Saint-Clair,0.44,1
+6427321,May-sur-Orne,6427260,Hérouville-Saint-Clair,0.30,1
+3029223,Cagny,6427260,Hérouville-Saint-Clair,0.20,1
+3017918,Fontenay-le-Marmion,6427260,Hérouville-Saint-Clair,0.31,1
+2978617,Saint-Manvieu,6427260,Hérouville-Saint-Clair,0.33,1
+3030234,Bretteville-sur-Laize,6427260,Hérouville-Saint-Clair,0.44,1
+2976182,Sannerville,6427260,Hérouville-Saint-Clair,0.20,1
+3007673,Langrune-sur-Mer,6427260,Hérouville-Saint-Clair,0.34,1
+3034509,Bavent,6427260,Hérouville-Saint-Clair,0.26,1
+2984417,Ranville,6427260,Hérouville-Saint-Clair,0.14,1
+2981714,Saint-André-sur-Orne,6427260,Hérouville-Saint-Clair,0.26,1
+3029051,Cambes-en-Plaine,6427260,Hérouville-Saint-Clair,0.13,1
+2973009,Thaon,6427260,Hérouville-Saint-Clair,0.28,1
+3019969,Épron,6427260,Hérouville-Saint-Clair,0.10,1
+3019414,Éterville,6427260,Hérouville-Saint-Clair,0.25,1
+2991558,Mouen,6427260,Hérouville-Saint-Clair,0.33,1
+3035951,Authie,6427260,Hérouville-Saint-Clair,0.19,1
+6427173,Creully,6427260,Hérouville-Saint-Clair,0.45,1
+6447208,Bellengreville,6427260,Hérouville-Saint-Clair,0.30,1
+3019647,Esquay-Notre-Dame,6427260,Hérouville-Saint-Clair,0.37,1
+2976830,Saint-Sylvain,6427260,Hérouville-Saint-Clair,0.46,1
+6615897,Feuguerolles-sur-Orne,6427260,Hérouville-Saint-Clair,0.29,1
+3025383,Cheux,6427260,Hérouville-Saint-Clair,0.38,1
+3037863,Amfréville,6427260,Hérouville-Saint-Clair,0.21,1
+2980537,Sainte-Honorine-du-Fay,6427260,Hérouville-Saint-Clair,0.47,1
+3024588,Clinchamps-sur-Orne,6427260,Hérouville-Saint-Clair,0.37,1
+2989883,Noyers-Bocage,6427260,Hérouville-Saint-Clair,0.50,1
+3017917,Fontenay-le-Pesnel,6427260,Hérouville-Saint-Clair,0.47,1
+3022549,Cresserons,6427260,Hérouville-Saint-Clair,0.24,1
+2972160,Tourville-sur-Odon,6427260,Hérouville-Saint-Clair,0.37,1
+3034733,Basly,6427260,Hérouville-Saint-Clair,0.27,1
+2981592,Saint-Aubin-d’Arquenay,6427260,Hérouville-Saint-Clair,0.17,1
+3015397,Grainville-sur-Odon,6427260,Hérouville-Saint-Clair,0.41,1
+2996325,Maltot,6427260,Hérouville-Saint-Clair,0.27,1
+6484156,Rouen,6456462,Le Petit-Quevilly,0.07,1
+2974153,Sotteville-lès-Rouen,6456462,Le Petit-Quevilly,0.09,1
+2980236,Saint-Étienne-du-Rouvray,6456462,Le Petit-Quevilly,0.17,1
+6456448,Le Grand-Quevilly,6456462,Le Petit-Quevilly,0.07,1
+6456462,Le Petit-Quevilly,6456462,Le Petit-Quevilly,0.00,1
+2992003,Mont-Saint-Aignan,6456462,Le Petit-Quevilly,0.11,1
+6454686,Elbeuf,6456462,Le Petit-Quevilly,0.41,1
+8296353,Bois-Guillaume,6456462,Le Petit-Quevilly,0.16,1
+8296360,Canteleu,6456462,Le Petit-Quevilly,0.06,1
+6451100,Barentin,6456462,Le Petit-Quevilly,0.36,1
+6443376,Oissel,6456462,Le Petit-Quevilly,0.26,1
+6443319,Maromme,6456462,Le Petit-Quevilly,0.14,1
+3021484,Déville-lès-Rouen,6456462,Le Petit-Quevilly,0.11,1
+3028214,Caudebec-lès-Elbeuf,6456462,Le Petit-Quevilly,0.42,1
+3021717,Darnétal,6456462,Le Petit-Quevilly,0.18,1
+3015267,Grand-Couronne,6456462,Le Petit-Quevilly,0.22,1
+6617650,Le Petit-Couronne,6456462,Le Petit-Quevilly,0.14,1
+3032025,Bihorel,6456462,Le Petit-Quevilly,0.13,1
+2977428,Saint-Pierre-lès-Elbeuf,6456462,Le Petit-Quevilly,0.43,1
+2981547,Saint-Aubin-lès-Elbeuf,6456462,Le Petit-Quevilly,0.37,1
+3037860,Le Mesnil-Esnard,6456462,Le Petit-Quevilly,0.17,1
+6443367,Notre-Dame-de-Bondeville,6456462,Le Petit-Quevilly,0.16,1
+3032198,Bonsecours,6456462,Le Petit-Quevilly,0.13,1
+2988305,Pavilly,6456462,Le Petit-Quevilly,0.42,1
+2996492,Malaunay,6456462,Le Petit-Quevilly,0.27,1
+6443142,Cléon,6456462,Le Petit-Quevilly,0.32,1
+6456469,Le Trait,6456462,Le Petit-Quevilly,0.48,1
+2991911,Monville,6456462,Le Petit-Quevilly,0.32,1
+6430529,Pont-de-l’Arche,6456462,Le Petit-Quevilly,0.40,1
+6454685,Duclair,6456462,Le Petit-Quevilly,0.36,1
+3003773,Le Houlme,6456462,Le Petit-Quevilly,0.22,1
+6430282,Bourg-Achard,6456462,Le Petit-Quevilly,0.48,1
+3031612,Boos,6456462,Le Petit-Quevilly,0.30,1
+6443464,Saint-Léger-du-Bourg-Denis,6456462,Le Petit-Quevilly,0.17,1
+6452520,Amfreville-la-Mi-Voie,6456462,Le Petit-Quevilly,0.16,1
+6443294,Isneauville,6456462,Le Petit-Quevilly,0.25,1
+6456806,Le Bosc-Roger-en-Roumois,6456462,Le Petit-Quevilly,0.46,1
+2982973,Romilly-sur-Andelle,6456462,Le Petit-Quevilly,0.46,1
+6443400,Quincampoix,6456462,Le Petit-Quevilly,0.35,1
+2979408,Saint-Jacques-sur-Darnétal,6456462,Le Petit-Quevilly,0.27,1
+3013080,Houppeville,6456462,Le Petit-Quevilly,0.23,1
+2986999,Pitres,6456462,Le Petit-Quevilly,0.44,1
+2972163,Tourville-la-Rivière,6456462,Le Petit-Quevilly,0.30,1
+2999170,Le Thuit-Signol,6456462,Le Petit-Quevilly,0.51,1
+2977808,Saint-Ouen-de-Thouberville,6456462,Le Petit-Quevilly,0.36,1
+3008437,La Londe,6456462,Le Petit-Quevilly,0.39,1
+2977477,Saint-Pierre-de-Varengeville,6456462,Le Petit-Quevilly,0.29,1
+6617648,La Neuville-Champ-d’Oisel,6456462,Le Petit-Quevilly,0.39,1
+3033811,Belbeuf,6456462,Le Petit-Quevilly,0.20,1
+3002247,Léry,6456462,Le Petit-Quevilly,0.49,1
+2980457,Sainte-Marguerite-sur-Duclair,6456462,Le Petit-Quevilly,0.44,1
+3006502,La Saussaye,6456462,Le Petit-Quevilly,0.50,1
+6454701,Préaux,6456462,Le Petit-Quevilly,0.33,1
+6443214,Fontaine-le-Bourg,6456462,Le Petit-Quevilly,0.41,1
+2968401,Villers-Écalles,6456462,Le Petit-Quevilly,0.39,1
+3012885,Igoville,6456462,Le Petit-Quevilly,0.36,1
+3012066,Jumièges,6456462,Le Petit-Quevilly,0.42,1
+6430619,Saint-Ouen-du-Tilleul,6456462,Le Petit-Quevilly,0.43,1
+6443478,Saint-Martin-du-Vivier,6456462,Le Petit-Quevilly,0.23,1
+6443196,Eslettes,6456462,Le Petit-Quevilly,0.32,1
+3038185,Alizay,6456462,Le Petit-Quevilly,0.38,1
+2978412,Saint-Martin-de-Boscherville,6456462,Le Petit-Quevilly,0.17,1
+2982530,Roumare,6456462,Le Petit-Quevilly,0.26,1
+3022447,Criquebeuf-sur-Seine,6456462,Le Petit-Quevilly,0.36,1
+6455763,Les Damps,6456462,Le Petit-Quevilly,0.42,1
+6443143,Cléres,6456462,Le Petit-Quevilly,0.48,1
+2979250,Saint-Jean-du-Cardonnay,6456462,Le Petit-Quevilly,0.22,1
+2977777,Saint-Paër,6456462,Le Petit-Quevilly,0.40,1
+6455782,Le Manoir,6456462,Le Petit-Quevilly,0.42,1
+3013512,Hénouville,6456462,Le Petit-Quevilly,0.21,1
+2992282,Montmain,6456462,Le Petit-Quevilly,0.34,1
+2987007,Pissy-Pôville,6456462,Le Petit-Quevilly,0.29,1
+6457080,Les Authieux-sur-le-Port-Saint-Ouen,6456462,Le Petit-Quevilly,0.29,1
+2992431,Montigny,6456462,Le Petit-Quevilly,0.12,1
+2981996,Sahurs,6456462,Le Petit-Quevilly,0.28,1
+3032455,Blainville-Crevon,6456462,Le Petit-Quevilly,0.49,1
+3037524,Anneville-Ambourville,6456462,Le Petit-Quevilly,0.32,1
+6453901,Poses,6456462,Le Petit-Quevilly,0.49,1
+2982946,Roncherolles,6456462,Le Petit-Quevilly,0.25,1
+2967230,Ymare,6456462,Le Petit-Quevilly,0.32,1
+2986105,Pont-Saint-Pierre,6456462,Le Petit-Quevilly,0.48,1
+2974781,Servaville-Salmonville,6456462,Le Petit-Quevilly,0.41,1
+2981595,Saint-Aubin-Celloville,6456462,Le Petit-Quevilly,0.27,1
+3005736,La Vaupalière,6456462,Le Petit-Quevilly,0.19,1
+3028190,Caumont,6456462,Le Petit-Quevilly,0.34,1
+6443339,Mesnil-Raoul,6456462,Le Petit-Quevilly,0.41,1
+2974603,Sierville,6456462,Le Petit-Quevilly,0.44,1
+2967256,Yainville,6456462,Le Petit-Quevilly,0.41,1
+8286754,Morgny-la-Pommeraye,6456462,Le Petit-Quevilly,0.43,1
+6613915,Saint-Aubin-Epinay,6456462,Le Petit-Quevilly,0.23,1
+6617637,Fresquienne,6456462,Le Petit-Quevilly,0.38,1
+6443398,Quévreville-la-Poterie,6456462,Le Petit-Quevilly,0.33,1
+3021411,Dieppe,2990537,Neuville-lès-Dieppe,0.04,1
+2990537,Neuville-lès-Dieppe,2990537,Neuville-lès-Dieppe,0.00,1
+6443485,Saint-Nicolas-d’Aliermont,2990537,Neuville-lès-Dieppe,0.25,1
+2989715,Offranville,2990537,Neuville-lès-Dieppe,0.18,1
+3022461,Criel-sur-Mer,2990537,Neuville-lès-Dieppe,0.46,1
+3036797,Arques-la-Bataille,2990537,Neuville-lès-Dieppe,0.14,1
+3004907,Luneray,2990537,Neuville-lès-Dieppe,0.43,1
+3020108,Envermeu,2990537,Neuville-lès-Dieppe,0.30,1
+3013673,Hautot-sur-Mer,2990537,Neuville-lès-Dieppe,0.15,1
+6443417,Rouxmesnil-Bouteilles,2990537,Neuville-lès-Dieppe,0.06,1
+2995371,Martin-Église,2990537,Neuville-lès-Dieppe,0.10,1
+6451118,Berneval-le-Grand,2990537,Neuville-lès-Dieppe,0.18,1
+2972161,Tourville-sur-Arques,2990537,Neuville-lès-Dieppe,0.19,1
+2981533,Saint-Aubin-sur-Scie,2990537,Neuville-lès-Dieppe,0.16,1
+3033638,Belleville-sur-Mer,2990537,Neuville-lès-Dieppe,0.12,1
+3035629,Avremesnil,2990537,Neuville-lès-Dieppe,0.38,1
+3022826,Coutances,3022826,Coutances,0.00,1
+3030405,Bréhal,3022826,Coutances,0.43,1
+3015458,Gouville-sur-Mer,3022826,Coutances,0.29,1
+2984771,Quettreville-sur-Sienne,3022826,Coutances,0.21,1
+3038590,Agon-Coutainville,3022826,Coutances,0.24,1
+2995734,Marigny,3022826,Coutances,0.40,1
+2987986,Périers,3022826,Coutances,0.40,1
+2999619,Lessay,3022826,Coutances,0.50,1
+3022641,Créances,3022826,Coutances,0.49,1
+3027891,Cérences,3022826,Coutances,0.36,1
+3028819,Canisy,3022826,Coutances,0.50,1
+2977010,Saint-Sauveur-Lendelin,3022826,Coutances,0.24,1
+3032453,Blainville-sur-Mer,3022826,Coutances,0.26,1
+3016474,Gavray,3022826,Coutances,0.41,1
+2992266,Montmartin-sur-Mer,3022826,Coutances,0.21,1
+3030116,Bricqueville-sur-Mer,3022826,Coutances,0.39,1
+3014023,Hambye,3022826,Coutances,0.43,1
+3027867,Cerisy-la-Salle,3022826,Coutances,0.30,1
+2998222,Lingreville,3022826,Coutances,0.30,1
+8289772,Falaise,8289772,Falaise,0.00,1
+6613857,L’Aigle,6613857,L’Aigle,0.00,1
+2982200,Rugles,6613857,L’Aigle,0.22,1
+2976836,Saint-Sulpice-sur-Risle,6613857,L’Aigle,0.07,1
+2984532,Rai-sur-Rîle,6613857,L’Aigle,0.09,1
+3036380,Aube-sur-Rîle,6613857,L’Aigle,0.16,1
+6439247,Sainte-Gauburge-Sainte-Colombe,6613857,L’Aigle,0.39,1
+3231095,Tourlaville,2970860,Valognes,0.42,1
+2970860,Valognes,2970860,Valognes,0.00,1
+6456111,La Glacerie,2970860,Valognes,0.38,1
+3030120,Bricquebec,2970860,Valognes,0.31,1
+6435529,Picauville,2970860,Valognes,0.37,1
+2980397,Sainte-Mère-Église,2970860,Valognes,0.39,1
+2992744,Montebourg,2970860,Valognes,0.17,1
+2977453,Saint-Pierre-Église,2970860,Valognes,0.46,1
+2984774,Quettehou,2970860,Valognes,0.38,1
+2976712,Saint-Vaast-la-Hougue,2970860,Valognes,0.42,1
+3021376,Digosville,2970860,Valognes,0.35,1
+6435680,Tollevast,2970860,Valognes,0.34,1
+2974155,Sottevast,2970860,Valognes,0.23,1
+2995363,Martinvast,2970860,Valognes,0.43,1
+6435402,Fermanville,2970860,Valognes,0.50,1
+3022774,Couville,2970860,Valognes,0.41,1
+3231573,Bretteville,2970860,Valognes,0.42,1
+2983810,Réville,2970860,Valognes,0.49,1
+3002964,Le Havre,2989753,Octeville-sur-Mer,0.19,1
+2992367,Montivilliers,2989753,Octeville-sur-Mer,0.13,1
+6443239,Gonfreville-l’Orcher,2989753,Octeville-sur-Mer,0.25,1
+2998664,Harfleur,2989753,Octeville-sur-Mer,0.20,1
+2980795,Sainte-Adresse,2989753,Octeville-sur-Mer,0.15,1
+3013173,Honfleur,2989753,Octeville-sur-Mer,0.43,1
+2989753,Octeville-sur-Mer,2989753,Octeville-sur-Mer,0.00,1
+2977146,Saint-Romain-de-Colbosc,2989753,Octeville-sur-Mer,0.44,1
+2982653,Rouelles,2989753,Octeville-sur-Mer,0.13,1
+3015765,Goderville,2989753,Octeville-sur-Mer,0.51,1
+3019981,Épouville,2989753,Octeville-sur-Mer,0.19,1
+6443213,Fontaine-la-Mallet,2989753,Octeville-sur-Mer,0.07,1
+3009338,Criquetot-l’Esneval,2989753,Octeville-sur-Mer,0.36,1
+6443230,Gainneville,2989753,Octeville-sur-Mer,0.26,1
+3006885,La Rivière-Saint-Sauveur,2989753,Octeville-sur-Mer,0.50,1
+2981542,Saint-Aubin-Routot,2989753,Octeville-sur-Mer,0.39,1
+2979158,Saint-Jouin-Bruneval,2989753,Octeville-sur-Mer,0.26,1
+3028144,Cauville,2989753,Octeville-sur-Mer,0.11,1
+2983135,Rogerville,2989753,Octeville-sur-Mer,0.30,1
+2978299,Saint-Martin-du-Manoir,2989753,Octeville-sur-Mer,0.23,1
+2978940,Saint-Laurent-de-Brévedent,2989753,Octeville-sur-Mer,0.26,1
+2971446,Turretot,2989753,Octeville-sur-Mer,0.25,1
+3019962,Équemauville,2989753,Octeville-sur-Mer,0.48,1
+3037649,Angerville-l’Orcher,2989753,Octeville-sur-Mer,0.31,1
+3017926,Fontenay,2989753,Octeville-sur-Mer,0.12,1
+3015677,Gonneville-la-Mallet,2989753,Octeville-sur-Mer,0.30,1
+2996232,Manéglise,2989753,Octeville-sur-Mer,0.25,1
+3019355,Étretat,2989753,Octeville-sur-Mer,0.45,1
+2977025,Saint-Sauveur-d’Émalleville,2989753,Octeville-sur-Mer,0.37,1
+3019471,Étainhus,2989753,Octeville-sur-Mer,0.35,1
+2983055,Rolleville,2989753,Octeville-sur-Mer,0.19,1
+2976617,Saint-Vigor-d’Ymonville,2989753,Octeville-sur-Mer,0.47,1
+3000465,Les Loges,2989753,Octeville-sur-Mer,0.50,1
+6443317,Manneville-la-Goupil,2989753,Octeville-sur-Mer,0.45,1
+3019265,Évreux,3036850,Arnières-sur-Iton,0.11,1
+2976986,Saint-Sébastien-de-Morsent,3036850,Arnières-sur-Iton,0.04,1
+2988848,Pacy-sur-Eure,3036850,Arnières-sur-Iton,0.51,1
+3024026,Conches-en-Ouche,3036850,Arnières-sur-Iton,0.31,1
+2981755,Saint-André-de-l’Eure,3036850,Arnières-sur-Iton,0.40,1
+6430419,Gravigny,3036850,Arnières-sur-Iton,0.18,1
+6616275,La Bonneville,3036850,Arnières-sur-Iton,0.12,1
+3021795,Damville,3036850,Arnières-sur-Iton,0.36,1
+2994542,Ménilles,3036850,Arnières-sur-Iton,0.49,1
+3036850,Arnières-sur-Iton,3036850,Arnières-sur-Iton,0.00,1
+3038681,Acquigny,3036850,Arnières-sur-Iton,0.51,1
+2982038,Sacquenville,3036850,Arnières-sur-Iton,0.25,1
+3018632,Ferrières-Haut-Clocher,3036850,Arnières-sur-Iton,0.24,1
+2995949,Marcilly-la-Campagne,3036850,Arnières-sur-Iton,0.48,1
+2990107,Normanville,3036850,Arnières-sur-Iton,0.25,1
+3009717,La Croix-Saint-Leufroy,3036850,Arnières-sur-Iton,0.40,1
+3035663,Aviron,3036850,Arnières-sur-Iton,0.18,1
+3024705,Claville,3036850,Arnières-sur-Iton,0.21,1
+3013336,Heudreville-sur-Eure,3036850,Arnières-sur-Iton,0.43,1
+2999366,Les Ventes,3036850,Arnières-sur-Iton,0.13,1
+2991899,Boissy-sur-Damville,3036850,Arnières-sur-Iton,0.46,1
+3033308,Bernay,2994529,Menneval,0.05,1
+3030007,Brionne,2994529,Menneval,0.32,1
+3034153,Beaumont-le-Roger,2994529,Menneval,0.28,1
+3005630,Orbec-en-Auge,2994529,Menneval,0.45,1
+2974867,Serquigny,2994529,Menneval,0.16,1
+2972882,Thiberville,2994529,Menneval,0.33,1
+2994529,Menneval,2994529,Menneval,0.00,1
+2990902,Nassandres,2994529,Menneval,0.22,1
+3034996,Barc,2994529,Menneval,0.37,1
+3013948,Harcourt,2994529,Menneval,0.35,1
+3029951,Broglie,2994529,Menneval,0.30,1
+3008758,La Haye-du-Puits,6435531,Pirou,0.35,1
+6435531,Pirou,6435531,Pirou,0.00,1
+6430370,Ézy-sur-Eure,3022285,Croth,0.10,1
+2969575,Ivry-la-Bataille,3022285,Croth,0.19,1
+3009804,La Couture-Boussey,3022285,Croth,0.15,1
+6615063,Nonancourt,3022285,Croth,0.39,1
+3016637,Garennes-sur-Eure,3022285,Croth,0.22,1
+3029655,Bueil,3022285,Croth,0.26,1
+2995943,Marcilly-sur-Eure,3022285,Croth,0.08,1
+3022285,Croth,3022285,Croth,0.00,1
+3030195,Breuilpont,3022285,Croth,0.34,1
+6430591,Saint-Germain-sur-Avre,3022285,Croth,0.31,1
+2990158,La Madeleine-de-Nonancourt,3022285,Croth,0.38,1
+3028610,Carentan,6435596,Saint-Hilaire-Petitville,0.04,1
+3012712,Isigny-sur-Mer,6435596,Saint-Hilaire-Petitville,0.23,1
+2986181,Pont-Hébert,6435596,Saint-Hilaire-Petitville,0.42,1
+6615902,Grandcamp-les-Bains,6435596,Saint-Hilaire-Petitville,0.41,1
+6435596,Saint-Hilaire-Petitville,6435596,Saint-Hilaire-Petitville,0.00,1
+3008193,La Meauffe,6435596,Saint-Hilaire-Petitville,0.41,1
+3013091,Houlgate,3013402,Hérouvillette,0.37,1
+3013402,Hérouvillette,3013402,Hérouvillette,0.00,1
+3028796,Canon,3013402,Hérouvillette,0.49,1
+3035639,Avranches,2977261,Saint-Quentin-sur-le-Homme,0.13,1
+2979531,Saint-Hilaire-du-Harcouët,2977261,Saint-Quentin-sur-le-Homme,0.46,1
+2979401,Saint-James,2977261,Saint-Quentin-sur-le-Homme,0.35,1
+2986136,Pontorson,2977261,Saint-Quentin-sur-le-Homme,0.44,1
+3012713,Isigny-le-Buat,2977261,Saint-Quentin-sur-le-Homme,0.28,1
+3020722,Ducey,2977261,Saint-Quentin-sur-le-Homme,0.09,1
+6455152,Brécey,2977261,Saint-Quentin-sur-le-Homme,0.35,1
+2998963,Le Val-Saint-Père,2977261,Saint-Quentin-sur-le-Homme,0.12,1
+2988511,Parigny,2977261,Saint-Quentin-sur-le-Homme,0.46,1
+2975924,Sartilly,2977261,Saint-Quentin-sur-le-Homme,0.39,1
+6435650,Saint-Senier-sous-Avranches,2977261,Saint-Quentin-sur-le-Homme,0.11,1
+2977261,Saint-Quentin-sur-le-Homme,2977261,Saint-Quentin-sur-le-Homme,0.00,1
+3008753,La Haye-Pesnel,2977261,Saint-Quentin-sur-le-Homme,0.44,1
+2978378,Saint-Martin-de-Landelles,2977261,Saint-Quentin-sur-le-Homme,0.39,1
+3000458,Les Loges-Marchis,2977261,Saint-Quentin-sur-le-Homme,0.51,1
+6443244,Gournay-en-Bray,6456442,La Feuillie,0.38,1
+3018277,Fleury-sur-Andelle,6456442,La Feuillie,0.40,1
+6430521,Perriers-sur-Andelle,6456442,La Feuillie,0.29,1
+6443207,Ferrières-en-Bray,6456442,La Feuillie,0.42,1
+6456442,La Feuillie,6456442,La Feuillie,0.00,1
+3032349,Blangy-sur-Bresle,2997784,Londinières,0.49,1
+2997784,Londinières,2997784,Londinières,0.00,1
+2978279,Saint-Martin-en-Campagne,2997784,Londinières,0.47,1
+3037051,Argentan,2971521,Trun,0.29,1
+2977411,Saint-Pierre-sur-Dives,2971521,Trun,0.50,1
+2968072,Vimoutiers,2971521,Trun,0.38,1
+2998081,Livarot,2971521,Trun,0.50,1
+3016853,Gacé,2971521,Trun,0.50,1
+2978392,Saint-Martin-de-Fresnay,2971521,Trun,0.39,1
+2971406,Écouché,2971521,Trun,0.45,1
+2971521,Trun,2971521,Trun,0.00,1
+2976044,Sarceaux,2971521,Trun,0.37,1
+2969799,Verneuil-sur-Avre,3030857,Bourth,0.24,1
+6616280,Breteuil-sur-Iton,3030857,Bourth,0.27,1
+3030857,Bourth,3030857,Bourth,0.00,1
+6430662,Tillières-sur-Avre,3030857,Bourth,0.46,1
+3004242,Le Fidelaire,3030857,Bourth,0.50,1
+2990680,Neufchâtel-en-Bray,3016812,Gaillefontaine,0.39,1
+6443217,Forges-les-Eaux,3016812,Gaillefontaine,0.17,1
+3029677,Buchy,3016812,Gaillefontaine,0.50,1
+2980470,Aumale,3016812,Gaillefontaine,0.41,1
+3016812,Gaillefontaine,3016812,Gaillefontaine,0.00,1
+2978981,Mortagne-au-Perche,2984087,Rémalard,0.49,1
+2972201,Tourouvre,2984087,Rémalard,0.50,1
+3030254,Bretoncelles,2984087,Rémalard,0.21,1
+2997704,Longny-au-Perche,2984087,Rémalard,0.28,1
+2984087,Rémalard,2984087,Rémalard,0.00,1
+3018794,Fécamp,2988958,Ourville-en-Caux,0.41,1
+6443597,Yvetot,2988958,Ourville-en-Caux,0.41,1
+6443514,Saint-Valéry-en-Caux,2988958,Ourville-en-Caux,0.41,1
+3028754,Cany-Barville,2988958,Ourville-en-Caux,0.17,1
+6443175,Doudeville,2988958,Ourville-en-Caux,0.32,1
+3018928,Fauville-en-Caux,2988958,Ourville-en-Caux,0.21,1
+2980427,Sainte-Marie-des-Champs,2988958,Ourville-en-Caux,0.43,1
+2970901,Valliquerville,2988958,Ourville-en-Caux,0.35,1
+3030448,Bréauté,2988958,Ourville-en-Caux,0.46,1
+6443361,Néville,2988958,Ourville-en-Caux,0.32,1
+3032892,Beuzeville-la-Grenier,2988958,Ourville-en-Caux,0.50,1
+3017022,Froberville,2988958,Ourville-en-Caux,0.49,1
+3038072,Allouville-Bellefosse,2988958,Ourville-en-Caux,0.39,1
+2988958,Ourville-en-Caux,2988958,Ourville-en-Caux,0.00,1
+3002532,Auzebosc,2988958,Ourville-en-Caux,0.43,1
+3015398,Grainville-la-Teinturière,2988958,Ourville-en-Caux,0.08,1
+3037650,Angerville-la-Martel,2988958,Ourville-en-Caux,0.21,1
+6443521,Sassetot-le-Mauconduit,2988958,Ourville-en-Caux,0.25,1
+3019973,Épreville,2988958,Ourville-en-Caux,0.43,1
+3231149,Cherbourg,2984354,Rauville-la-Bigot,0.35,1
+6435542,Querqueville,2984354,Rauville-la-Bigot,0.40,1
+2999982,Les Pieux,2984354,Rauville-la-Bigot,0.22,1
+3034886,Barneville-sur-Mer,2984354,Rauville-la-Bigot,0.40,1
+3029967,Brix,2984354,Rauville-la-Bigot,0.20,1
+2977007,Saint-Sauveur-le-Vicomte,2984354,Rauville-la-Bigot,0.46,1
+2971321,Urville-Nacqueville,2984354,Rauville-la-Bigot,0.44,1
+3018409,Flamanville,2984354,Rauville-la-Bigot,0.33,1
+2986038,Portbail,2984354,Rauville-la-Bigot,0.51,1
+3034158,Beaumont-Hague,2984354,Rauville-la-Bigot,0.49,1
+2973655,Surtainville,2984354,Rauville-la-Bigot,0.29,1
+2967188,Yvetot-Bocage,2984354,Rauville-la-Bigot,0.33,1
+6435694,Vasteville,2984354,Rauville-la-Bigot,0.27,1
+2984354,Rauville-la-Bigot,2984354,Rauville-la-Bigot,0.00,1
+2973039,Teurthéville-Hague,2984354,Rauville-la-Bigot,0.20,1
+3031871,Bolbec,2987596,Petiville,0.37,1
+6453900,Pont-Audemer,2987596,Petiville,0.32,1
+2998322,Lillebonne,2987596,Petiville,0.19,1
+2990056,Notre-Dame-de-Gravenchon,2987596,Petiville,0.09,1
+3014490,Gruchet-le-Valasse,2987596,Petiville,0.33,1
+3028215,Caudebec-en-Caux,2987596,Petiville,0.31,1
+6614452,La Frenaye,2987596,Petiville,0.19,1
+3008353,La Mailleraye-sur-Seine,2987596,Petiville,0.34,1
+2979724,Saint-Germain-Village,2987596,Petiville,0.34,1
+6613802,Routot,2987596,Petiville,0.35,1
+2977883,Saint-Nicolas-de-la-Taille,2987596,Petiville,0.25,1
+6430477,Manneville-sur-Risle,2987596,Petiville,0.30,1
+2981634,Saint-Arnoult,2987596,Petiville,0.24,1
+3023590,Corneville-sur-Risle,2987596,Petiville,0.34,1
+2990240,Nointot,2987596,Petiville,0.43,1
+6430671,Toutainville,2987596,Petiville,0.35,1
+3010515,La Cerlangue,2987596,Petiville,0.34,1
+3006995,La Remuée,2987596,Petiville,0.38,1
+2967251,Yébleron,2987596,Petiville,0.49,1
+3013644,Hauville,2987596,Petiville,0.38,1
+3231391,Tancarville,2987596,Petiville,0.25,1
+2976558,Saint-Wandrille-Rançon,2987596,Petiville,0.37,1
+6443444,Saint-Eustache-la-Forêt,2987596,Petiville,0.35,1
+3028940,Campigny,2987596,Petiville,0.42,1
+3007560,Lanquetot,2987596,Petiville,0.36,1
+2970593,Vatteville,2987596,Petiville,0.21,1
+2987596,Petiville,2987596,Petiville,0.00,1
+2981668,Saint-Antoine-la-Forêt,2987596,Petiville,0.30,1
+2982588,Rougemontiers,2987596,Petiville,0.37,1
+3031103,Bouquetot,2987596,Petiville,0.44,1
+3030903,Bourneville,2987596,Petiville,0.20,1
+3023837,Conteville,2987596,Petiville,0.37,1
+6447932,Appeville-Annebault,2987596,Petiville,0.38,1
+6439093,Flers,2997635,Lonlay-l’Abbaye,0.38,1
+2973949,Sourdeval,2997635,Lonlay-l’Abbaye,0.44,1
+2972555,Tinchebray,2997635,Lonlay-l’Abbaye,0.33,1
+3008532,La Lande-Patry,2997635,Lonlay-l’Abbaye,0.38,1
+2999251,Le Teilleul,2997635,Lonlay-l’Abbaye,0.43,1
+3009508,La Ferrière-aux-Étangs,2997635,Lonlay-l’Abbaye,0.35,1
+2991699,Mortain,2997635,Lonlay-l’Abbaye,0.42,1
+3006439,La Selle-la-Forge,2997635,Lonlay-l’Abbaye,0.39,1
+3026816,Chanu,2997635,Lonlay-l’Abbaye,0.24,1
+3028037,Céaucé,2997635,Lonlay-l’Abbaye,0.45,1
+3034950,Barenton,2997635,Lonlay-l’Abbaye,0.26,1
+2997635,Lonlay-l’Abbaye,2997635,Lonlay-l’Abbaye,0.00,1
+2981358,Saint-Bômer-les-Forges,2997635,Lonlay-l’Abbaye,0.14,1
+3027758,Ceton,3020921,Berd’huis,0.33,1
+6617268,Le Theil-sur-Huisne,3020921,Berd’huis,0.25,1
+6455205,Bellême,3020921,Berd’huis,0.35,1
+3023958,Condé-sur-Huisne,3020921,Berd’huis,0.22,1
+3020921,Berd’huis,3020921,Berd’huis,0.00,1
+3009486,La Ferté-Macé,3033604,Bellou-en-Houlme,0.32,1
+3020752,Condé-sur-Noireau,3033604,Bellou-en-Houlme,0.49,1
+6439080,Domfront,3033604,Bellou-en-Houlme,0.46,1
+2979920,Saint-Georges-des-Groseillers,3033604,Bellou-en-Houlme,0.32,1
+6617245,Athis,3033604,Bellou-en-Houlme,0.35,1
+3035404,Bagnoles-de-l’Orne,3033604,Bellou-en-Houlme,0.38,1
+2994193,Messei-Saint-Gervais,3033604,Bellou-en-Houlme,0.18,1
+3029991,Briouze,3033604,Bellou-en-Houlme,0.14,1
+2977456,Saint-Pierre-du-Regard,3033604,Bellou-en-Houlme,0.47,1
+2996757,Magny-le-Désert,3033604,Bellou-en-Houlme,0.40,1
+3033604,Bellou-en-Houlme,3033604,Bellou-en-Houlme,0.00,1
+2970245,Couterne,3033604,Bellou-en-Houlme,0.50,1
+2984441,Rânes,3033604,Bellou-en-Houlme,0.45,1
+6612581,Granville,3013242,Folligny,0.32,1
+2977774,Saint-Pair-sur-Mer,3013242,Folligny,0.29,1
+6517892,Villedieu-les-Poëles,3013242,Folligny,0.35,1
+3021067,Donville-les-Bains,3013242,Folligny,0.31,1
+6616899,Jullouville-les-Pins,3013242,Folligny,0.31,1
+2988017,Percy,3013242,Folligny,0.48,1
+2979287,Saint-Jean-des-Champs,3013242,Folligny,0.10,1
+2977397,Saint-Planchers,3013242,Folligny,0.21,1
+2996039,Marcey-les-Grèves,3013242,Folligny,0.36,1
+2967213,Yquelon,3013242,Folligny,0.27,1
+3013242,Folligny,3013242,Folligny,0.00,1
+3034483,Bayeux,3036231,Audrieu,0.28,1
+6427560,Villers-Bocage,3036231,Audrieu,0.38,1
+2976637,Saint-Vigor-le-Grand,3036231,Audrieu,0.26,1
+6427384,Port-en-Bessin-Huppain,3036231,Audrieu,0.48,1
+2972560,Tilly-sur-Seulles,3036231,Audrieu,0.11,1
+2969657,Ver-sur-Mer,3036231,Audrieu,0.36,1
+3037760,Anctoville,3036231,Audrieu,0.35,1
+3036231,Audrieu,3036231,Audrieu,0.00,1
+6453910,Vernon,6424470,Écos,0.28,1
+2971635,Gisors,6424470,Écos,0.46,1
+3002172,Les Andelys,6424470,Écos,0.43,1
+3016807,Gaillon,6424470,Écos,0.49,1
+3036371,Aubevoye,6424470,Écos,0.49,1
+3019363,Étrépagny,6424470,Écos,0.41,1
+3016564,Gasny,6424470,Écos,0.19,1
+3023085,Courcelles-sur-Seine,6424470,Écos,0.45,1
+2981538,Saint-Aubin-sur-Gaillon,6424470,Écos,0.50,1
+3032818,Bézu-Saint-Éloi,6424470,Écos,0.42,1
+6430507,Neaufles-Saint-Martin,6424470,Écos,0.39,1
+6430444,Houlbec-Cocherel,6424470,Écos,0.50,1
+3010285,La Chapelle-Réanville,6424470,Écos,0.45,1
+6424470,Écos,6424470,Écos,0.00,1
+2967972,Vire,3005311,Le Bény-Bocage,0.29,1
+2972427,Torigni-sur-Vire,3005311,Le Bény-Bocage,0.38,1
+6435562,Saint-Amand,3005311,Le Bény-Bocage,0.37,1
+2979802,Saint-Germain-de-Tallevende,3005311,Le Bény-Bocage,0.40,1
+2970610,Vassy,3005311,Le Bény-Bocage,0.38,1
+2970495,Vaudry,3005311,Le Bény-Bocage,0.27,1
+3029221,Cahagnes,3005311,Le Bény-Bocage,0.38,1
+3028186,Caumont-l’Éventé,3005311,Le Bény-Bocage,0.43,1
+2976939,Saint-Sever-Calvados,3005311,Le Bény-Bocage,0.47,1
+6612582,Guilberville,3005311,Le Bény-Bocage,0.24,1
+2978355,Saint-Martin-des-Besaces,3005311,Le Bény-Bocage,0.21,1
+3008907,La Graverie,3005311,Le Bény-Bocage,0.14,1
+3005311,Le Bény-Bocage,3005311,Le Bény-Bocage,0.00,1
+3019329,Eu,3019461,Étalondes,0.08,1
+6614571,Le Tréport,3019461,Étalondes,0.09,1
+3012814,Incheville,3019461,Étalondes,0.20,1
+2977451,Saint-Pierre-en-Val,3019461,Étalondes,0.11,1
+3019461,Étalondes,3019461,Étalondes,0.00,1
+2997336,Louviers,6430496,Montaure,0.15,1
+6455786,Le Neubourg,6430496,Montaure,0.41,1
+2990020,Le Vaudreuil,6430496,Montaure,0.22,1
+2977488,Saint-Pierre-des-Fleurs,6430496,Montaure,0.22,1
+3012817,Incarville,6430496,Montaure,0.17,1
+3008754,La Haye-Malherbe,6430496,Montaure,0.04,1
+3037745,Andé,6430496,Montaure,0.28,1
+2977454,Saint-Pierre-du-Vauvray,6430496,Montaure,0.24,1
+3018076,Fontaine-Bellenger,6430496,Montaure,0.34,1
+6430669,Tourville-la-Campagne,6430496,Montaure,0.33,1
+6430496,Montaure,6430496,Montaure,0.00,1
+3003898,Le Gros-Theil,6430496,Montaure,0.45,1
+2977470,Saint-Pierre-du-Bosguérard,6430496,Montaure,0.36,1
+6452432,Alençon,2984582,Radon,0.20,1
+6454473,Sées,2984582,Radon,0.31,1
+2979796,Saint-Germain-du-Corbéis,2984582,Radon,0.23,1
+3021859,Damigni,2984582,Radon,0.16,1
+3023951,Condé-sur-Sarthe,2984582,Radon,0.23,1
+6439332,Valframbert,2984582,Radon,0.11,1
+2991661,Mortrée,2984582,Radon,0.38,1
+2997629,Lonrai,2984582,Radon,0.17,1
+6612705,Saint-Denis-sur-Sarthon,2984582,Radon,0.31,1
+2984582,Radon,2984582,Radon,0.00,1
+2978757,Saint-Lô,3011331,La Barre-de-Semilly,0.10,1
+3038611,Agneaux,3011331,La Barre-de-Semilly,0.14,1
+6435379,Condé-sur-Vire,3011331,La Barre-de-Semilly,0.16,1
+3003316,Le Molay-Littry,3011331,La Barre-de-Semilly,0.47,1
+2973058,Tessy-sur-Vire,3011331,La Barre-de-Semilly,0.38,1
+2979289,Saint-Jean-des-Baisants,3011331,La Barre-de-Semilly,0.12,1
+3013609,Hébécrevon,3011331,La Barre-de-Semilly,0.24,1
+2991262,Moyon,3011331,La Barre-de-Semilly,0.34,1
+3027868,Cerisy-la-Forêt,3011331,La Barre-de-Semilly,0.29,1
+3011331,La Barre-de-Semilly,3011331,La Barre-de-Semilly,0.00,1
+3021185,Domjean,3011331,La Barre-de-Semilly,0.35,1
+2979422,Lisieux,3004989,Le Breuil-en-Auge,0.21,1
+6427383,Pont-l’Évêque,3004989,Le Breuil-en-Auge,0.18,1
+3032896,Beuzeville,3004989,Le Breuil-en-Auge,0.39,1
+2971555,Trouville-sur-Mer,3004989,Le Breuil-en-Auge,0.47,1
+2972307,Touques,3004989,Le Breuil-en-Auge,0.39,1
+3021668,Deauville-les-Bains,3004989,Le Breuil-en-Auge,0.46,1
+6427562,Villers-sur-Mer,3004989,Le Breuil-en-Auge,0.50,1
+6427193,Dozulé,3004989,Le Breuil-en-Auge,0.49,1
+2980861,Saint-Désir,3004989,Le Breuil-en-Auge,0.24,1
+3020094,Épaignes,3004989,Le Breuil-en-Auge,0.42,1
+3032202,Blonville-sur-Mer,3004989,Le Breuil-en-Auge,0.47,1
+2998443,Lieurey,3004989,Le Breuil-en-Auge,0.50,1
+2991280,Moyaux,3004989,Le Breuil-en-Auge,0.25,1
+3029027,Cambremer,3004989,Le Breuil-en-Auge,0.39,1
+6614931,Saint-Gâtien-des-Bois,3004989,Le Breuil-en-Auge,0.34,1
+6447215,Beuvillers,3004989,Le Breuil-en-Auge,0.27,1
+3038755,Ablon,3004989,Le Breuil-en-Auge,0.48,1
+3031145,Boulleville,3004989,Le Breuil-en-Auge,0.49,1
+3023647,Cormeilles,3004989,Le Breuil-en-Auge,0.28,1
+3004989,Le Breuil-en-Auge,3004989,Le Breuil-en-Auge,0.00,1
+3036081,Aunay-sur-Odon,3037961,Amayé-sur-Orne,0.40,1
+6427385,Potigny,3037961,Amayé-sur-Orne,0.47,1
+6427517,Thury-Harcourt,3037961,Amayé-sur-Orne,0.29,1
+3024695,Clécy,3037961,Amayé-sur-Orne,0.48,1
+3037961,Amayé-sur-Orne,3037961,Amayé-sur-Orne,0.00,1
+2967242,Yerville,3003453,Grugny,0.41,1
+6443507,Saint-Saëns,3003453,Grugny,0.34,1
+3035471,Bacqueville-en-Caux,3003453,Grugny,0.50,1
+3036222,Auffay,3003453,Grugny,0.27,1
+3000826,Les Grandes-Ventes,3003453,Grugny,0.50,1
+2972381,Tôtes,3003453,Grugny,0.20,1
+2998296,Limésy,3003453,Grugny,0.33,1
+3031479,Bosc-le-Hard,3003453,Grugny,0.12,1
+2978233,Saint-Martin-Osmonville,3003453,Grugny,0.34,1
+3003453,Grugny,3003453,Grugny,0.00,1

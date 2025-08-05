@@ -1,0 +1,16 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+478,"Mariehamn",478,"Mariehamn",0,2
+417,"Lemland",478,"Mariehamn",0.22,2
+76,"Hammarland",478,"Mariehamn",0.43,2
+43,"Eckerö",478,"Mariehamn",0.64,2
+65,"Geta",478,"Mariehamn",0.78,2
+438,"Lumparland",478,"Mariehamn",0.44,2
+766,"Sottunga",478,"Mariehamn",1,2
+60,"Finström",478,"Mariehamn",0.37,2
+736,"Saltvik",478,"Mariehamn",0.58,2
+771,"Sund",478,"Mariehamn",0.51,2
+62,"Föglö",478,"Mariehamn",0.73,2
+318,"Kökar",478,"Mariehamn",1.42,2
+170,"Jomala",170,"Jomala",0,2
+35,"Brändö",170,"Jomala",1.68,2
+941,"Vårdö",170,"Jomala",0.64,2

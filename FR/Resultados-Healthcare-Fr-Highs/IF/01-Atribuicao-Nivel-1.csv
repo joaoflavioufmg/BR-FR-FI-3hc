@@ -1,0 +1,697 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2978048,"Paris",2978048,"Paris",0,1
+3031137,"Boulogne-Billancourt",3031137,"Boulogne-Billancourt",0,1
+2980916,"Saint-Denis",2980916,"Saint-Denis",0,1
+3037044,"Argenteuil",3037044,"Argenteuil",0,1
+2992090,"Montreuil",2992090,"Montreuil",0,1
+8298013,"Nanterre",8298013,"Nanterre",0,1
+6452043,"Vitry-sur-Seine",6452043,"Vitry-sur-Seine",0,1
+6452018,"Créteil",6452018,"Créteil",0,1
+6452605,"Aubervilliers",6452605,"Aubervilliers",0,1
+8286605,"Versailles",8286605,"Versailles",0,1
+3036145,"Aulnay-sous-Bois",3036145,"Aulnay-sous-Bois",0,1
+3024266,"Colombes",3024266,"Colombes",0,1
+6521954,"Rueil-Malmaison",6521954,"Rueil-Malmaison",0,1
+6452032,"Saint-Maur-des-Fossés",6452032,"Saint-Maur-des-Fossés",0,1
+3020839,"Drancy",3020839,"Drancy",0,1
+6451970,"Issy-les-Moulineaux",6451970,"Issy-les-Moulineaux",0,1
+6612091,"Levallois-Perret",6612091,"Levallois-Perret",0,1
+3037423,"Antony",3037423,"Antony",0,1
+8298130,"Ivry-sur-Seine",8298130,"Ivry-sur-Seine",0,1
+3024597,"Clichy",3024597,"Clichy",0,1
+2990611,"Neuilly-sur-Seine",2990611,"Neuilly-sur-Seine",0,1
+2976043,"Sarcelles",2976043,"Sarcelles",0,1
+3005269,"Le Blanc-Mesnil",3005269,"Le Blanc-Mesnil",0,1
+6451992,"Épinay-sur-Seine",6451992,"Épinay-sur-Seine",0,1
+6454723,"Meaux",6454723,"Meaux",0,1
+6443783,"Othis",6454723,"Meaux",0.5,1
+9177387,"Chelles",9177387,"Chelles",0,1
+2968705,"Villejuif",2968705,"Villejuif",0,1
+6452608,"Bobigny",6452608,"Bobigny",0,1
+6451987,"Bondy",6451987,"Bondy",0,1
+6451966,"Clamart",6451966,"Clamart",0,1
+8286614,"Sartrouville",8286614,"Sartrouville",0,1
+3019597,"Corbeil-Essonnes",3019597,"Corbeil-Essonnes",0,1
+2974681,"Sevran",2974681,"Sevran",0,1
+6508695,"Massy",6508695,"Massy",0,1
+6510057,"Suresnes",6510057,"Suresnes",0,1
+3016321,"Gennevilliers",3016321,"Gennevilliers",0,1
+2994144,"Meudon",2994144,"Meudon",0,1
+2979783,"Saint-Germain-en-Laye",2979783,"Saint-Germain-en-Laye",0,1
+3009670,"Puteaux",3009670,"Puteaux",0,1
+3017910,"Fontenay-sous-Bois",2998056,"Livry-Gargan",0.22,1
+2968054,"Vincennes",2998056,"Livry-Gargan",0.27,1
+3035602,"Rosny-sous-Bois",2998056,"Livry-Gargan",0.18,1
+2998056,"Livry-Gargan",2998056,"Livry-Gargan",0,1
+3016830,"Gagny",2998056,"Livry-Gargan",0.1,1
+2968653,"Villemomble",2998056,"Livry-Gargan",0.12,1
+3024596,"Clichy-sous-Bois",2998056,"Livry-Gargan",0.04,1
+3029392,"Bussy-Saint-Georges",2998056,"Livry-Gargan",0.37,1
+2984004,"Villeparisis",2998056,"Livry-Gargan",0.15,1
+3000060,"Les Pavillons-sous-Bois",2998056,"Livry-Gargan",0.08,1
+2978621,"Saint-Mandé",2998056,"Livry-Gargan",0.3,1
+2972444,"Torcy",2998056,"Livry-Gargan",0.28,1
+6455408,"Thorigny-sur-Marne",2998056,"Livry-Gargan",0.33,1
+2990616,"Neuilly-Plaisance",2998056,"Livry-Gargan",0.17,1
+2993679,"Mitry-Mory",2998056,"Livry-Gargan",0.23,1
+6443774,"Noisiel",2998056,"Livry-Gargan",0.25,1
+6443883,"Vaires-sur-Marne",2998056,"Livry-Gargan",0.22,1
+3024701,"Claye-Souilly",2998056,"Livry-Gargan",0.28,1
+3021848,"Dammartin-en-Goële",2998056,"Livry-Gargan",0.46,1
+2970469,"Vaujours",2998056,"Livry-Gargan",0.08,1
+6451994,"Gournay-sur-Marne",2998056,"Livry-Gargan",0.18,1
+3022868,"Courtry",2998056,"Livry-Gargan",0.12,1
+6443847,"Saint-Thibault-des-Vignes",2998056,"Livry-Gargan",0.31,1
+6443606,"Chessy",2998056,"Livry-Gargan",0.43,1
+3023375,"Coubron",2998056,"Livry-Gargan",0.08,1
+3029855,"Brou-sur-Chantereine",2998056,"Livry-Gargan",0.2,1
+6443797,"Pomponne",2998056,"Livry-Gargan",0.3,1
+3026867,"Chanteloup",2998056,"Livry-Gargan",0.41,1
+2978550,"Saint-Mard",2998056,"Livry-Gargan",0.44,1
+3021806,"Dampmart",2998056,"Livry-Gargan",0.37,1
+3037531,"Annet-sur-Marne",2998056,"Livry-Gargan",0.34,1
+6443623,"Coupvray",2998056,"Livry-Gargan",0.48,1
+6443717,"Longperrier",2998056,"Livry-Gargan",0.43,1
+2968249,"Villevaudé",2998056,"Livry-Gargan",0.24,1
+6443701,"Juilly",2998056,"Livry-Gargan",0.4,1
+6456485,"Le Pin",2998056,"Livry-Gargan",0.17,1
+2991361,"Moussy-le-Vieux",2998056,"Livry-Gargan",0.39,1
+3027524,"Chalifert",2998056,"Livry-Gargan",0.44,1
+3015463,"Gouvernes",2998056,"Livry-Gargan",0.33,1
+2994179,"Messy",2998056,"Livry-Gargan",0.33,1
+3014367,"Guermantes",2998056,"Livry-Gargan",0.36,1
+2996148,"Mantes-la-Jolie",2996148,"Mantes-la-Jolie",0,1
+6446292,"Magny-en-Vexin",2996148,"Mantes-la-Jolie",0.47,1
+6452000,"Noisy-le-Sec",6452000,"Noisy-le-Sec",0,1
+3038213,"Alfortville",3038213,"Alfortville",0,1
+6454724,"Melun",6454724,"Melun",0,1
+2973841,"Stains",2973841,"Stains",0,1
+2986501,"Poissy",2986501,"Poissy",0,1
+3026083,"Châtillon",3026083,"Châtillon",0,1
+8298054,"Villepinte",8298054,"Villepinte",0,1
+3035403,"Bagnolet",3035403,"Bagnolet",0,1
+3036460,"Athis-Mons",3036460,"Athis-Mons",0,1
+2967244,"Villeneuve-Saint-Georges",2967244,"Villeneuve-Saint-Georges",0,1
+6613133,"Châtenay-Malabry",6613133,"Châtenay-Malabry",0,1
+2992415,"Montigny-le-Bretonneux",2992415,"Montigny-le-Bretonneux",0,1
+3000192,"Les Mureaux",3000192,"Les Mureaux",0,1
+6444090,"Trappes",6444090,"Trappes",0,1
+2986930,"Plaisir",2986930,"Plaisir",0,1
+6446231,"Viry-Châtillon",6446231,"Viry-Châtillon",0,1
+2967990,"Pontoise",2967990,"Pontoise",0,1
+10283420,"Charenton-le-Pont",10283420,"Charenton-le-Pont",0,1
+2987271,"Pierrefitte-sur-Seine",2987271,"Pierrefitte-sur-Seine",0,1
+8286631,"Malakoff",8286631,"Malakoff",0,1
+3026033,"Chatou",3026033,"Chatou",0,1
+8297997,"Saint-Cloud",8297997,"Saint-Cloud",0,1
+6452064,"Bezons",6452064,"Bezons",0,1
+12122717,"Ris-Orangis",12122717,"Ris-Orangis",0,1
+3009169,"La Garenne-Colombes",3009169,"La Garenne-Colombes",0,1
+3019897,"Ermont",3019897,"Ermont",0,1
+6457182,"Le Plessis-Robinson",6457182,"Le Plessis-Robinson",0,1
+2967245,"Yerres",2967245,"Yerres",0,1
+3020832,"Draveil",3020832,"Draveil",0,1
+3014143,"Guyancourt",3014143,"Guyancourt",0,1
+6614115,"Bois-Colombes",6614115,"Bois-Colombes",0,1
+6455402,"Le Chesnay",6455402,"Le Chesnay",0,1
+6455392,"Romainville",6455392,"Romainville",0,1
+2992616,"Montfermeil",2992616,"Montfermeil",0,1
+2984513,"Rambouillet",2984513,"Rambouillet",0,1
+3012874,"Brunoy",3012874,"Brunoy",0,1
+3020310,"Élancourt",3020310,"Élancourt",0,1
+6457187,"Le Kremlin-Bicêtre",6457187,"Le Kremlin-Bicêtre",0,1
+8297830,"Étampes",8297830,"Étampes",0,1
+3017924,"Fontenay-aux-Roses",3017924,"Fontenay-aux-Roses",0,1
+6612920,"Cormeilles-en-Parisis",6612920,"Cormeilles-en-Parisis",0,1
+6451986,"Villeneuve-la-Garenne",6451986,"Villeneuve-la-Garenne",0,1
+2996564,"Maisons-Laffitte",2996564,"Maisons-Laffitte",0,1
+6451981,"Sèvres",6451981,"Sèvres",0,1
+3000491,"Les Lilas",3000491,"Les Lilas",0,1
+8297845,"Longjumeau",8297845,"Longjumeau",0,1
+3038712,"Achères",3038712,"Achères",0,1
+3010529,"La Celle-Saint-Cloud",3010529,"La Celle-Saint-Cloud",0,1
+2975469,"Sceaux",2975469,"Sceaux",0,1
+3030101,"Brie-Comte-Robert",3030101,"Brie-Comte-Robert",0,1
+3013657,"Garches",3013657,"Garches",0,1
+3002499,"Le Pré-Saint-Gervais",3002499,"Le Pré-Saint-Gervais",0,1
+6446153,"Juvisy-sur-Orge",6446153,"Juvisy-sur-Orge",0,1
+6444102,"Viroflay",6444102,"Viroflay",0,1
+6455393,"Le Bourget",6455393,"Le Bourget",0,1
+2998854,"Le Vésinet",2998854,"Le Vésinet",0,1
+2989204,"Orsay",2989204,"Orsay",0,1
+2992671,"Montereau-faut-Yonne",3018074,"Fontainebleau",0.46,1
+3018074,"Fontainebleau",3018074,"Fontainebleau",0,1
+6454726,"Nemours",3018074,"Fontainebleau",0.39,1
+2977425,"Saint-Pierre-lès-Nemours",3018074,"Fontainebleau",0.4,1
+3035419,"Bagneaux-sur-Loing",3018074,"Fontainebleau",0.49,1
+2968679,"Villemaréchal",3018074,"Fontainebleau",0.5,1
+6444032,"Montesson",6444032,"Montesson",0,1
+6443622,"Coulommiers",6443622,"Coulommiers",0,1
+3009490,"La Ferté-Gaucher",6443622,"Coulommiers",0.42,1
+3025275,"Chevru",6443622,"Coulommiers",0.3,1
+3002401,"Le Raincy",3002401,"Le Raincy",0,1
+8297891,"Courcouronnes",6446138,"Fleury-Mérogis",0.13,1
+8287136,"Choisy-le-Roi",6446138,"Fleury-Mérogis",0.38,1
+2975525,"Savigny-sur-Orge",6446138,"Fleury-Mérogis",0.14,1
+2980558,"Sainte-Geneviève-des-Bois",6446138,"Fleury-Mérogis",0.04,1
+2988758,"Palaiseau",6446138,"Fleury-Mérogis",0.32,1
+6446222,"Vigneux-sur-Seine",6446138,"Fleury-Mérogis",0.22,1
+6443853,"Savigny-le-Temple",6446138,"Fleury-Mérogis",0.43,1
+2972893,"Thiais",6446138,"Fleury-Mérogis",0.38,1
+3014643,"Grigny",6446138,"Fleury-Mérogis",0.09,1
+3017178,"Fresnes",6446138,"Fleury-Mérogis",0.36,1
+2998305,"Limeil-Brévannes",6446138,"Fleury-Mérogis",0.4,1
+3030257,"Brétigny-sur-Orge",6446138,"Fleury-Mérogis",0.11,1
+6452034,"Sucy-en-Brie",6446138,"Fleury-Mérogis",0.49,1
+6455343,"Orly",6446138,"Fleury-Mérogis",0.32,1
+8297907,"Montgeron",6446138,"Fleury-Mérogis",0.28,1
+3024107,"Combs-la-Ville",6446138,"Fleury-Mérogis",0.38,1
+6613167,"Villeneuve-le-Roi",6446138,"Fleury-Mérogis",0.31,1
+2991719,"Morsang-sur-Orge",6446138,"Fleury-Mérogis",0.09,1
+8286678,"Chilly-Mazarin",6446138,"Fleury-Mérogis",0.22,1
+3006025,"Saint-Michel-sur-Orge",6446138,"Fleury-Mérogis",0.11,1
+3025314,"Chevilly-Larue",6446138,"Fleury-Mérogis",0.38,1
+6452010,"Bonneuil-sur-Marne",6446138,"Fleury-Mérogis",0.46,1
+6443740,"Moissy-Cramayel",6446138,"Fleury-Mérogis",0.42,1
+3031898,"Boissy-Saint-Léger",6446138,"Fleury-Mérogis",0.43,1
+2971027,"Valenton",6446138,"Fleury-Mérogis",0.38,1
+2994534,"Mennecy",6446138,"Fleury-Mérogis",0.23,1
+6455395,"Saint-Fargeau",6446138,"Fleury-Mérogis",0.43,1
+6446138,"Fleury-Mérogis",6446138,"Fleury-Mérogis",0,1
+6446175,"Morangis",6446138,"Fleury-Mérogis",0.22,1
+6455406,"Lieusaint",6446138,"Fleury-Mérogis",0.34,1
+6446134,"Épinay-sous-Sénart",6446138,"Fleury-Mérogis",0.33,1
+6446135,"Épinay-sur-Orge",6446138,"Fleury-Mérogis",0.14,1
+6452037,"Villecresnes",6446138,"Fleury-Mérogis",0.41,1
+6446205,"Saint-Pierre-du-Perray",6446138,"Fleury-Mérogis",0.25,1
+6446200,"Saint-Germain-lès-Arpajon",6446138,"Fleury-Mérogis",0.22,1
+6451172,"Cesson",6446138,"Fleury-Mérogis",0.47,1
+8297880,"Villebon-sur-Yvette",6446138,"Fleury-Mérogis",0.31,1
+3031818,"Bondoufle",6446138,"Fleury-Mérogis",0.06,1
+3030203,"Breuillet",6446138,"Fleury-Mérogis",0.39,1
+6446163,"Marcoussis",6446138,"Fleury-Mérogis",0.24,1
+3005524,"La Ville-du-Bois",6446138,"Fleury-Mérogis",0.19,1
+3030787,"Boussy-Saint-Antoine",6446138,"Fleury-Mérogis",0.36,1
+6446174,"Montlhéry",6446138,"Fleury-Mérogis",0.17,1
+3035228,"Ballancourt",6446138,"Fleury-Mérogis",0.29,1
+2988589,"Paray-Vieille-Poste",6446138,"Fleury-Mérogis",0.22,1
+2979752,"Saint-Germain-lès-Corbeil",6446138,"Fleury-Mérogis",0.24,1
+6446159,"Lisses",6446138,"Fleury-Mérogis",0.15,1
+2969199,"Wissous",6446138,"Fleury-Mérogis",0.29,1
+6446158,"Linas",6446138,"Fleury-Mérogis",0.17,1
+6454877,"Étréchy",6446138,"Fleury-Mérogis",0.49,1
+6446150,"Itteville",6446138,"Fleury-Mérogis",0.32,1
+2975785,"Saulx-les-Chartreux",6446138,"Fleury-Mérogis",0.25,1
+6443767,"Nandy",6446138,"Fleury-Mérogis",0.4,1
+3020346,"Égly",6446138,"Fleury-Mérogis",0.29,1
+6446206,"Saintry-sur-Seine",6446138,"Fleury-Mérogis",0.27,1
+2982146,"Rungis",6446138,"Fleury-Mérogis",0.33,1
+2995571,"Marolles-en-Hurepoix",6446138,"Fleury-Mérogis",0.22,1
+3007017,"Lardy",6446138,"Fleury-Mérogis",0.35,1
+6446223,"Villabé",6446138,"Fleury-Mérogis",0.21,1
+2993715,"Saint-Chéron",6446138,"Fleury-Mérogis",0.48,1
+2995573,"Marolles-en-Brie",6446138,"Fleury-Mérogis",0.45,1
+6446178,"Le Coudray-Montceaux",6446138,"Fleury-Mérogis",0.29,1
+6452025,"Mandres-les-Roses",6446138,"Fleury-Mérogis",0.39,1
+2989601,"Ollainville",6446138,"Fleury-Mérogis",0.28,1
+2968139,"Villiers-sur-Orge",6446138,"Fleury-Mérogis",0.13,1
+3035230,"Ballainvilliers",6446138,"Fleury-Mérogis",0.17,1
+6446156,"Leuville-sur-Orge",6446138,"Fleury-Mérogis",0.18,1
+6456630,"La Norville",6446138,"Fleury-Mérogis",0.22,1
+2972611,"Tigery",6446138,"Fleury-Mérogis",0.27,1
+6456631,"Le Plessis-Pâté",6446138,"Fleury-Mérogis",0.07,1
+2976109,"Santeny",6446138,"Fleury-Mérogis",0.47,1
+3017728,"Forges-les-Bains",6446138,"Fleury-Mérogis",0.48,1
+6455337,"Boissy-sous-Saint-Yon",6446138,"Fleury-Mérogis",0.35,1
+3031917,"Boissise-le-Roi",6446138,"Fleury-Mérogis",0.49,1
+3009496,"La Ferté-Alais",6446138,"Fleury-Mérogis",0.41,1
+3029717,"Bruyères-le-Châtel",6446138,"Fleury-Mérogis",0.33,1
+3027836,"Cerny",6446138,"Fleury-Mérogis",0.43,1
+3030044,"Briis-sous-Forges",6446138,"Fleury-Mérogis",0.44,1
+2974747,"Servon",6446138,"Fleury-Mérogis",0.48,1
+6446137,"Étiolles",6446138,"Fleury-Mérogis",0.21,1
+6454882,"Saint-Vrain",6446138,"Fleury-Mérogis",0.25,1
+2969616,"Vert-le-Petit",6446138,"Fleury-Mérogis",0.22,1
+6446118,"Champlan",6446138,"Fleury-Mérogis",0.27,1
+3015727,"Gometz-le-Châtel",6446138,"Fleury-Mérogis",0.43,1
+2968704,"Villejust",6446138,"Fleury-Mérogis",0.27,1
+2969617,"Vert-le-Grand",6446138,"Fleury-Mérogis",0.16,1
+3031098,"Bouray-sur-Juine",6446138,"Fleury-Mérogis",0.33,1
+6446122,"Cheptainville",6446138,"Fleury-Mérogis",0.28,1
+2989263,"Ormoy",6446138,"Fleury-Mérogis",0.22,1
+2975247,"Seine-Port",6446138,"Fleury-Mérogis",0.41,1
+2984294,"Réau",6446138,"Fleury-Mérogis",0.48,1
+3017915,"Fontenay-le-Vicomte",6446138,"Fleury-Mérogis",0.24,1
+2978126,"Saint-Maurice-Montcouronne",6446138,"Fleury-Mérogis",0.45,1
+6446131,"D’Huison-Longueville",6446138,"Fleury-Mérogis",0.48,1
+3015728,"Gometz-la-Ville",6446138,"Fleury-Mérogis",0.44,1
+2999040,"Leudeville",6446138,"Fleury-Mérogis",0.19,1
+2970474,"Vaugrigneuse",6446138,"Fleury-Mérogis",0.45,1
+3031905,"Boissy-le-Cutté",6446138,"Fleury-Mérogis",0.46,1
+3034541,"Baulne",6446138,"Fleury-Mérogis",0.38,1
+2974384,"Soisy-sur-École",6446138,"Fleury-Mérogis",0.49,1
+3035866,"Auvers-Saint-Georges",6446138,"Fleury-Mérogis",0.46,1
+3027446,"Chamarande",6446138,"Fleury-Mérogis",0.41,1
+2977006,"Saint-Sauveur-sur-École",6446138,"Fleury-Mérogis",0.5,1
+3019256,"Évry",6446138,"Fleury-Mérogis",0.15,1
+2968655,"Villemoisson-sur-Orge",6446138,"Fleury-Mérogis",0.11,1
+3038754,"Ablon-sur-Seine",6446138,"Fleury-Mérogis",0.29,1
+3012499,"Janville-sur-Juine",6446138,"Fleury-Mérogis",0.36,1
+6451134,"Avon",6451134,"Avon",0,1
+2979770,"Saint-Germain-Laval",6451134,"Avon",0.5,1
+3028806,"Cannes-Écluse",6451134,"Avon",0.5,1
+6443750,"Montévrain",6443750,"Montévrain",0,1
+2985229,"Provins",2985229,"Provins",0,1
+2991295,"Bray-sur-Seine",2985229,"Provins",0.42,1
+6613861,"Longueville",2985229,"Provins",0.16,1
+3012163,"Jouy-le-Châtel",2985229,"Provins",0.43,1
+2973944,"Sourdun",2985229,"Provins",0.11,1
+6454720,"Gouaix",2985229,"Provins",0.21,1
+6454716,"Chenoise",2985229,"Provins",0.25,1
+2968151,"Villiers-Saint-Georges",2985229,"Provins",0.32,1
+3036402,"Aubergenville",3036402,"Aubergenville",0,1
+3007102,"La Queue-en-Brie",3007102,"La Queue-en-Brie",0,1
+6443721,"Magny-le-Hongre",3007102,"La Queue-en-Brie",0.48,1
+3035329,"Bailly-Romainvilliers",3007102,"La Queue-en-Brie",0.48,1
+2968548,"Villeneuve-le-Comte",3007102,"La Queue-en-Brie",0.47,1
+3036823,"Arpajon",3036823,"Arpajon",0,1
+3020925,"Dourdan",3020925,"Dourdan",0,1
+3009481,"La Ferté-sous-Jouarre",3009481,"La Ferté-sous-Jouarre",0,1
+6446113,"Bures-sur-Yvette",6446113,"Bures-sur-Yvette",0,1
+3022301,"Crosne",3022301,"Crosne",0,1
+6497274,"Serris",6497274,"Serris",0,1
+2984678,"Quincy-sous-Sénart",2984678,"Quincy-sous-Sénart",0,1
+6443768,"Nangis",6443768,"Nangis",0,1
+6443729,"Marolles-sur-Seine",6443768,"Nangis",0.47,1
+6443753,"Montigny-Lencoup",6443768,"Nangis",0.3,1
+2976415,"Salins",6443768,"Nangis",0.37,1
+3017936,"Fontenailles",6443768,"Nangis",0.12,1
+6443599,"Châtenay-sur-Seine",6443768,"Nangis",0.41,1
+2972253,"Tournan-en-Brie",2972253,"Tournan-en-Brie",0,1
+2983755,"Saint-Rémy-lès-Chevreuse",2983755,"Saint-Rémy-lès-Chevreuse",0,1
+2974383,"Soisy-sur-Seine",2974383,"Soisy-sur-Seine",0,1
+2997351,"Louveciennes",2997351,"Louveciennes",0,1
+6456501,"Le Mesnil-Saint-Denis",6456501,"Le Mesnil-Saint-Denis",0,1
+6444000,"Limay",2982756,"Rosny-sur-Seine",0.19,1
+3016622,"Gargenville",2982756,"Rosny-sur-Seine",0.33,1
+2982756,"Rosny-sur-Seine",2982756,"Rosny-sur-Seine",0,1
+3031667,"Bonnières-sur-Seine",2982756,"Rosny-sur-Seine",0.14,1
+3017219,"Freneuse",2982756,"Rosny-sur-Seine",0.14,1
+3012656,"Issou",2982756,"Rosny-sur-Seine",0.29,1
+3011978,"Juziers",2982756,"Rosny-sur-Seine",0.39,1
+3018154,"Follainville-Dennemont",2982756,"Rosny-sur-Seine",0.16,1
+3033477,"Bennecourt",2982756,"Rosny-sur-Seine",0.17,1
+3014362,"Guernes",2982756,"Rosny-sur-Seine",0.03,1
+2997698,"Longpont-sur-Orge",2997698,"Longpont-sur-Orge",0,1
+2996802,"Magnanville",2996802,"Magnanville",0,1
+3027242,"Champagne-sur-Seine",6451149,"Bois-le-Roi",0.29,1
+6451149,"Bois-le-Roi",6451149,"Bois-le-Roi",0,1
+6443893,"Veneux-les-Sablons",6451149,"Bois-le-Roi",0.32,1
+2991842,"Moret-sur-Loing",6451149,"Bois-le-Roi",0.35,1
+6443886,"Varennes-sur-Seine",6451149,"Bois-le-Roi",0.5,1
+2972754,"Thomery",6451149,"Bois-le-Roi",0.24,1
+6443831,"Saint-Mammès",6451149,"Bois-le-Roi",0.32,1
+2999382,"La Grande-Paroisse",6451149,"Bois-le-Roi",0.45,1
+6451160,"Bourron-Marlotte",6451149,"Bois-le-Roi",0.37,1
+2967542,"Vulaines-sur-Seine",6451149,"Bois-le-Roi",0.17,1
+2992387,"Montigny-sur-Loing",6451149,"Bois-le-Roi",0.39,1
+2969749,"Vernou-sur-Seine",6451149,"Bois-le-Roi",0.36,1
+3013452,"Héricy",6451149,"Bois-le-Roi",0.14,1
+3010315,"La Chapelle-la-Reine",6451149,"Bois-le-Roi",0.49,1
+6443851,"Samoreau",6451149,"Bois-le-Roi",0.17,1
+6443646,"Écuelles",6451149,"Bois-le-Roi",0.41,1
+2976281,"Samois-sur-Seine",6451149,"Bois-le-Roi",0.11,1
+6443746,"Montcourt-Fromonville",6451149,"Bois-le-Roi",0.47,1
+3014671,"Grez-sur-Loing",6451149,"Bois-le-Roi",0.44,1
+2994131,"Achères-la-Forêt",6451149,"Bois-le-Roi",0.43,1
+2971045,"Valence-en-Brie",6451149,"Bois-le-Roi",0.37,1
+6443662,"Fontaine-le-Port",6451149,"Bois-le-Roi",0.13,1
+2986272,"Jouars-Pontchartrain",2986272,"Jouars-Pontchartrain",0,1
+6454736,"Chevreuse",6454736,"Chevreuse",0,1
+6451975,"Montrouge",6456506,"Le Port-Marly",0.42,1
+3035409,"Bagneux",6456506,"Le Port-Marly",0.44,1
+2998632,"L’Haÿ-les-Roses",6456506,"Le Port-Marly",0.5,1
+6455401,"Cachan",6456506,"Le Port-Marly",0.47,1
+6509676,"Vélizy-Villacoublay",6456506,"Le Port-Marly",0.3,1
+6613168,"Arcueil",6456506,"Le Port-Marly",0.46,1
+2994477,"Gif-sur-Yvette",6456506,"Le Port-Marly",0.5,1
+3030990,"Bourg-la-Reine",6456506,"Le Port-Marly",0.47,1
+3025715,"Chaville",6456506,"Le Port-Marly",0.24,1
+6444066,"Saint-Cyr-l’École",6456506,"Le Port-Marly",0.24,1
+3009094,"Maurepas",6456506,"Le Port-Marly",0.44,1
+6456496,"Les Clayes-sous-Bois",6456506,"Le Port-Marly",0.28,1
+12307023,"Vauréal",6456506,"Le Port-Marly",0.45,1
+6444014,"Marly-le-Roi",6456506,"Le Port-Marly",0.04,1
+3028521,"Carrières-sous-Poissy",6456506,"Le Port-Marly",0.23,1
+3012162,"Jouy-le-Moutier",6456506,"Le Port-Marly",0.39,1
+6444094,"Verneuil-sur-Seine",6456506,"Le Port-Marly",0.37,1
+6456504,"Le Pecq",6456506,"Le Port-Marly",0.05,1
+6451213,"Bois-d’Arcy",6456506,"Le Port-Marly",0.26,1
+6446218,"Verrières-le-Buisson",6456506,"Le Port-Marly",0.46,1
+3017919,"Fontenay-le-Fleury",6456506,"Le Port-Marly",0.21,1
+3037692,"Andrésy",6456506,"Le Port-Marly",0.3,1
+2971689,"Triel-sur-Seine",6456506,"Le Port-Marly",0.34,1
+6451985,"Ville-d’Avray",6456506,"Le Port-Marly",0.21,1
+2968475,"Villepreux",6456506,"Le Port-Marly",0.24,1
+2967745,"Voisins-le-Bretonneux",6456506,"Le Port-Marly",0.35,1
+3026862,"Chanteloup-les-Vignes",6456506,"Le Port-Marly",0.31,1
+6446149,"Igny",6456506,"Le Port-Marly",0.44,1
+3022380,"Croissy-sur-Seine",6456506,"Le Port-Marly",0.06,1
+6612811,"Magny-les-Hameaux",6456506,"Le Port-Marly",0.43,1
+6451220,"Bougival",6456506,"Le Port-Marly",0.07,1
+6613136,"Vaucresson",6456506,"Le Port-Marly",0.13,1
+6443995,"Jouy-en-Josas",6456506,"Le Port-Marly",0.33,1
+3032872,"Beynes",6456506,"Le Port-Marly",0.44,1
+6444042,"Noisy-le-Roi",6456506,"Le Port-Marly",0.13,1
+6454887,"Courdimanche",6456506,"Le Port-Marly",0.47,1
+6455400,"La Verrière",6456506,"Le Port-Marly",0.43,1
+2989372,"Orgeval",6456506,"Le Port-Marly",0.27,1
+3003375,"Le Mesnil-le-Roi",6456506,"Le Port-Marly",0.14,1
+2995110,"Maule",6456506,"Le Port-Marly",0.48,1
+6443930,"Buc",6456506,"Le Port-Marly",0.3,1
+2994494,"Menucourt",6456506,"Le Port-Marly",0.47,1
+3027351,"Chambourcy",6456506,"Le Port-Marly",0.15,1
+6456506,"Le Port-Marly",6456506,"Le Port-Marly",0,1
+6444099,"Villennes-sur-Seine",6456506,"Le Port-Marly",0.26,1
+6444092,"Vaux-sur-Seine",6456506,"Le Port-Marly",0.45,1
+2977854,"Saint-Nom-la-Bretêche",6456506,"Le Port-Marly",0.17,1
+3032695,"Bièvres",6456506,"Le Port-Marly",0.39,1
+6614248,"L’Étang-la-Ville",6456506,"Le Port-Marly",0.08,1
+3024406,"Coignières",6456506,"Le Port-Marly",0.5,1
+2995059,"Maurecourt",6456506,"Le Port-Marly",0.34,1
+3020426,"Ecquevilly",6456506,"Le Port-Marly",0.4,1
+2982043,"Saclay",6456506,"Le Port-Marly",0.43,1
+6443969,"Fourqueux",6456506,"Le Port-Marly",0.08,1
+6444060,"Rocquencourt",6456506,"Le Port-Marly",0.12,1
+3035340,"Bailly",6456506,"Le Port-Marly",0.12,1
+6444012,"Mareil-Marly",6456506,"Le Port-Marly",0.06,1
+6444038,"Neauphle-le-Château",6456506,"Le Port-Marly",0.42,1
+2991898,"Morainvilliers",6456506,"Le Port-Marly",0.34,1
+3018587,"Feucherolles",6456506,"Le Port-Marly",0.25,1
+6614000,"Villiers-Saint-Frédéric",6456506,"Le Port-Marly",0.43,1
+6443964,"Flins-sur-Seine",6456506,"Le Port-Marly",0.49,1
+3031409,"Bouafle",6456506,"Le Port-Marly",0.46,1
+6446217,"Vauhallan",6456506,"Le Port-Marly",0.44,1
+6612930,"Neuville-sur-Oise",6456506,"Le Port-Marly",0.39,1
+2979832,"Saint-Germain-de-la-Grange",6456506,"Le Port-Marly",0.41,1
+6613134,"Marnes-la-Coquette",6456506,"Le Port-Marly",0.18,1
+3025732,"Chavenay",6456506,"Le Port-Marly",0.24,1
+2995859,"Mareil-sur-Mauldre",6456506,"Le Port-Marly",0.44,1
+3022562,"Crespières",6456506,"Le Port-Marly",0.34,1
+3034451,"Bazemont",6456506,"Le Port-Marly",0.47,1
+3000460,"Les-Loges-en-Josas",6456506,"Le Port-Marly",0.33,1
+3026281,"Châteaufort",6456506,"Le Port-Marly",0.4,1
+6444018,"Médan",6456506,"Le Port-Marly",0.29,1
+3026765,"Chapet",6456506,"Le Port-Marly",0.4,1
+6446229,"Villiers-le-Bâcle",6456506,"Le Port-Marly",0.43,1
+3002184,"Les Alluets-le-Roi",6456506,"Le Port-Marly",0.36,1
+2972143,"Toussus-le-Noble",6456506,"Le Port-Marly",0.37,1
+3038516,"Aigremont",6456506,"Le Port-Marly",0.18,1
+2972794,"Thiverval-Grignon",6456506,"Le Port-Marly",0.36,1
+2970761,"Vanves",6456506,"Le Port-Marly",0.37,1
+2973963,"Souppes-sur-Loing",2973963,"Souppes-sur-Loing",0,1
+3026268,"Château-Landon",2973963,"Souppes-sur-Loing",0.11,1
+2998269,"Limours",2989874,"Nozay",0.31,1
+2989874,"Nozay",2989874,"Nozay",0,1
+3031744,"Bonnelles",2989874,"Nozay",0.41,1
+3000268,"Les Molières",2989874,"Nozay",0.32,1
+3037648,"Angervilliers",2989874,"Nozay",0.38,1
+2974905,"Sermaise",2989874,"Nozay",0.46,1
+6443935,"Cernay-la-Ville",2989874,"Nozay",0.49,1
+6456632,"Le Val-Saint-Germain",2989874,"Nozay",0.42,1
+3012236,"Jouarre",3012236,"Jouarre",0,1
+6443700,"Jouy-sur-Morin",3012236,"Jouarre",0.45,1
+6451175,"Chailly-en-Brie",3012236,"Jouarre",0.38,1
+3025057,"Choisy-en-Brie",3012236,"Jouarre",0.49,1
+6443651,"Esbly",2995828,"Mareuil-lès-Meaux",0.11,1
+2990957,"Nanteuil-lès-Meaux",2995828,"Mareuil-lès-Meaux",0.07,1
+2977709,"Saint-Pathus",2995828,"Mareuil-lès-Meaux",0.41,1
+2991407,"Mouroux",2995828,"Mareuil-lès-Meaux",0.44,1
+6443804,"Quincy-Voisins",2995828,"Mareuil-lès-Meaux",0.08,1
+3022613,"Crégy-lès-Meaux",2995828,"Mareuil-lès-Meaux",0.15,1
+2971673,"Trilport",2995828,"Mareuil-lès-Meaux",0.18,1
+2968502,"Villenoy",2995828,"Mareuil-lès-Meaux",0.04,1
+2979730,"Saint-Germain-sur-Morin",2995828,"Mareuil-lès-Meaux",0.13,1
+6443757,"Montry",2995828,"Mareuil-lès-Meaux",0.13,1
+2998027,"Lizy-sur-Ourcq",2995828,"Mareuil-lès-Meaux",0.4,1
+2976883,"Saint-Soupplets",2995828,"Mareuil-lès-Meaux",0.32,1
+2995828,"Mareuil-lès-Meaux",2995828,"Mareuil-lès-Meaux",0,1
+2986408,"Pommeuse",2995828,"Mareuil-lès-Meaux",0.42,1
+3019040,"Faremoutiers",2995828,"Mareuil-lès-Meaux",0.43,1
+6443684,"Guérard",2995828,"Mareuil-lès-Meaux",0.34,1
+2989645,"Oissery",2995828,"Mareuil-lès-Meaux",0.41,1
+6443620,"Couilly-Pont-aux-Dames",2995828,"Mareuil-lès-Meaux",0.12,1
+2970650,"Varreddes",2995828,"Mareuil-lès-Meaux",0.24,1
+2968140,"Villiers-sur-Morin",2995828,"Mareuil-lès-Meaux",0.19,1
+6443818,"Saint-Augustin",2995828,"Mareuil-lès-Meaux",0.5,1
+2992476,"Monthyon",2995828,"Mareuil-lès-Meaux",0.23,1
+3031167,"Bouleurs",2995828,"Mareuil-lès-Meaux",0.15,1
+3008705,"La Houssaye-en-Brie",2995828,"Mareuil-lès-Meaux",0.48,1
+2967639,"Voulangis",2995828,"Mareuil-lès-Meaux",0.22,1
+2991695,"Mortcerf",2995828,"Mareuil-lès-Meaux",0.4,1
+6443618,"Condé-Sainte-Libiaire",2995828,"Mareuil-lès-Meaux",0.1,1
+3016918,"Fublaines",2995828,"Mareuil-lès-Meaux",0.14,1
+3026934,"Changis-sur-Marne",2995828,"Mareuil-lès-Meaux",0.3,1
+3016220,"Germigny-l’Evêque",2995828,"Mareuil-lès-Meaux",0.24,1
+2988131,"Penchard",2995828,"Mareuil-lès-Meaux",0.16,1
+3010523,"La Celle-sur-Morin",2995828,"Mareuil-lès-Meaux",0.39,1
+2979218,"Saint-Jean-les-Deux-Jumeaux",2995828,"Mareuil-lès-Meaux",0.3,1
+3036902,"Armentières-en-Brie",2995828,"Mareuil-lès-Meaux",0.33,1
+3022808,"Coutevroult",2995828,"Mareuil-lès-Meaux",0.18,1
+2995330,"Mary-sur-Marne",2995828,"Mareuil-lès-Meaux",0.39,1
+2976285,"Sammeron",2995828,"Mareuil-lès-Meaux",0.41,1
+3021844,"Dammartin-sur-Tigeaux",2995828,"Mareuil-lès-Meaux",0.32,1
+3012702,"Isles-lès-Villenoy",2995828,"Mareuil-lès-Meaux",0.08,1
+2971287,"Ussy-sur-Marne",2995828,"Mareuil-lès-Meaux",0.4,1
+2993843,"Milly-la-Forêt",3027200,"Champcueil",0.31,1
+6617946,"Boutigny-sur-Essonnes",3027200,"Champcueil",0.26,1
+3027200,"Champcueil",3027200,"Champcueil",0,1
+2996559,"Maisse",3027200,"Champcueil",0.36,1
+3026464,"Chartrettes",3027200,"Champcueil",0.48,1
+6443713,"Livry-sur-Seine",3027200,"Champcueil",0.44,1
+3027609,"Chailly-en-Bière",3027200,"Champcueil",0.33,1
+2987834,"Perthes-en-Gâtinais",3027200,"Champcueil",0.23,1
+3004848,"Noisy-sur-École",3027200,"Champcueil",0.41,1
+3027970,"Cély-en-Bière",3027200,"Champcueil",0.22,1
+6451140,"Barbizon",3027200,"Champcueil",0.35,1
+2995702,"Marines",6446258,"Ennery",0.3,1
+6446258,"Ennery",6446258,"Ennery",0,1
+3013926,"Hardricourt",6446258,"Ennery",0.43,1
+3026474,"Chars",6446258,"Ennery",0.39,1
+3031911,"Boissy-l’Aillerie",6446258,"Ennery",0.14,1
+3023644,"Cormeilles-en-Vexin",6446258,"Ennery",0.19,1
+2971316,"Us",6446258,"Ennery",0.26,1
+2974991,"Seraincourt",6446258,"Ennery",0.45,1
+3038759,"Ableiges",6446258,"Ennery",0.23,1
+2969083,"Vigny",6446258,"Ennery",0.32,1
+2989670,"Oinville-sur-Montcient",6446258,"Ennery",0.49,1
+2973069,"Tessancourt-sur-Aubette",6446258,"Ennery",0.37,1
+6452013,"Champigny-sur-Marne",2970693,"Varennes-Jarcy",0.4,1
+8298036,"Noisy-le-Grand",2970693,"Varennes-Jarcy",0.47,1
+2996568,"Maisons-Alfort",2970693,"Varennes-Jarcy",0.42,1
+6614566,"Le Perreux-Sur-Marne",2970693,"Varennes-Jarcy",0.47,1
+2990265,"Nogent-sur-Marne",2970693,"Varennes-Jarcy",0.46,1
+2968142,"Villiers-sur-Marne",2970693,"Varennes-Jarcy",0.42,1
+3027014,"Champs-Sur-Marne",2970693,"Varennes-Jarcy",0.49,1
+2983074,"Roissy-en-Brie",2970693,"Varennes-Jarcy",0.36,1
+3021852,"Dammarie-lè-Lys",2970693,"Varennes-Jarcy",0.47,1
+3003481,"Le Mée-sur-Seine",2970693,"Varennes-Jarcy",0.42,1
+9177111,"Ozoir-la-Ferrière",2970693,"Varennes-Jarcy",0.35,1
+3002647,"Le Plessis-Trévise",2970693,"Varennes-Jarcy",0.37,1
+6452022,"Joinville-le-Pont",2970693,"Varennes-Jarcy",0.43,1
+6452015,"Chennevières-sur-Marne",2970693,"Varennes-Jarcy",0.34,1
+6452011,"Bry-sur-Marne",2970693,"Varennes-Jarcy",0.46,1
+2997904,"Lognes",2970693,"Varennes-Jarcy",0.46,1
+6455344,"Saint-Maurice",2970693,"Varennes-Jarcy",0.45,1
+6443890,"Vaux-le-Pénil",2970693,"Varennes-Jarcy",0.48,1
+6452028,"Ormesson-sur-Marne",2970693,"Varennes-Jarcy",0.3,1
+3014697,"Gretz-Armainvilliers",2970693,"Varennes-Jarcy",0.37,1
+2969608,"Vert-Saint-Denis",2970693,"Varennes-Jarcy",0.33,1
+3020247,"Émerainville",2970693,"Varennes-Jarcy",0.38,1
+3000602,"Lésigny",2970693,"Varennes-Jarcy",0.21,1
+2990195,"Noiseau",2970693,"Varennes-Jarcy",0.28,1
+6617677,"Guignes-Rabutin",2970693,"Varennes-Jarcy",0.45,1
+3025270,"Chevry-Cossigny",2970693,"Varennes-Jarcy",0.23,1
+8296617,"La Rochette",2970693,"Varennes-Jarcy",0.47,1
+3018633,"Ferrières-en-Brie",2970693,"Varennes-Jarcy",0.48,1
+3024328,"Collégien",2970693,"Varennes-Jarcy",0.49,1
+6443813,"Rubelles",2970693,"Varennes-Jarcy",0.4,1
+6443682,"Grisy-Suisnes",2970693,"Varennes-Jarcy",0.2,1
+2985402,"Presles-en-Brie",2970693,"Varennes-Jarcy",0.35,1
+2970693,"Varennes-Jarcy",2970693,"Varennes-Jarcy",0,1
+2986279,"Pontcarré",2970693,"Varennes-Jarcy",0.42,1
+6443633,"Croissy-Beaubourg",2970693,"Varennes-Jarcy",0.46,1
+6443862,"Soignolles-en-Brie",2970693,"Varennes-Jarcy",0.27,1
+6443785,"Ozouer-le-Voulgis",2970693,"Varennes-Jarcy",0.4,1
+2996674,"Maincy",2970693,"Varennes-Jarcy",0.44,1
+2993589,"Moisenay",2970693,"Varennes-Jarcy",0.46,1
+2998076,"Liverdy-en-Brie",2970693,"Varennes-Jarcy",0.4,1
+3018675,"Férolles-Attilly",2970693,"Varennes-Jarcy",0.2,1
+2974362,"Solers",2970693,"Varennes-Jarcy",0.29,1
+3031918,"Boissise-la-Bertrand",2970693,"Varennes-Jarcy",0.42,1
+6443922,"Voisenon",2970693,"Varennes-Jarcy",0.35,1
+3018880,"Favières",2970693,"Varennes-Jarcy",0.46,1
+3033598,"Belloy-en-France",3033598,"Belloy-en-France",0,1
+2981629,"Saint-Arnoult-en-Yvelines",6446140,"Fontenay-lès-Briis",0.42,1
+2991792,"Morigny-Champigny",6446140,"Fontenay-lès-Briis",0.48,1
+6446140,"Fontenay-lès-Briis",6446140,"Fontenay-lès-Briis",0,1
+3023725,"Corbreuse",6446140,"Fontenay-lès-Briis",0.49,1
+2998738,"Lévis-Saint-Nom",6446140,"Fontenay-lès-Briis",0.47,1
+6446193,"Roinville",6446140,"Fontenay-lès-Briis",0.32,1
+3030085,"Brières-les-Scellés",6446140,"Fontenay-lès-Briis",0.45,1
+3000763,"Les Granges-le-Roi",6446140,"Fontenay-lès-Briis",0.41,1
+3020335,"Égreville",3020335,"Égreville",0,1
+2967631,"Voulx",3020335,"Égreville",0.34,1
+6456497,"Les Essarts-le-Roi",6443932,"Bullion",0.32,1
+6456505,"Le Perray-en-Yvelines",6443932,"Bullion",0.33,1
+3038756,"Ablis",6443932,"Bullion",0.42,1
+3036223,"Auffargis",6443932,"Bullion",0.3,1
+6443932,"Bullion",6443932,"Bullion",0,1
+2974263,"Sonchamp",6443932,"Bullion",0.25,1
+3016456,"Gazeran",6443932,"Bullion",0.41,1
+2989432,"Orcemont",6443932,"Bullion",0.35,1
+3017902,"Fontenay-Trésigny",3023389,"Coubert",0.33,1
+2991754,"Mormant",3023389,"Coubert",0.4,1
+6456473,"Le Châtelet-en-Brie",3023389,"Coubert",0.5,1
+3025910,"Chaumes-en-Brie",3023389,"Coubert",0.27,1
+6443895,"Verneuil-l’Étang",3023389,"Coubert",0.27,1
+2982317,"Rozay-en-Brie",3023389,"Coubert",0.48,1
+3023389,"Coubert",3023389,"Coubert",0,1
+2995670,"Marles-en-Brie",3023389,"Coubert",0.37,1
+3010332,"La Chapelle-Gauthier",3023389,"Coubert",0.5,1
+2975249,"Courpalay",3023389,"Coubert",0.49,1
+2974434,"Sivry-Courtry",3023389,"Coubert",0.41,1
+3037654,"Angerville",6446195,"Saclas",0.27,1
+2994416,"Méréville",6446195,"Saclas",0.14,1
+2985041,"Pussay",6446195,"Saclas",0.25,1
+6446195,"Saclas",6446195,"Saclas",0,1
+6613994,"Châlo-Saint-Mars",6446195,"Saclas",0.22,1
+8296740,"Mantes-la-Ville",2975783,"Richebourg",0.44,1
+3019985,"Épône",2975783,"Richebourg",0.49,1
+6444023,"Mézières-sur-Seine",2975783,"Richebourg",0.48,1
+3013120,"Houdan",2975783,"Richebourg",0.11,1
+2986071,"Porcheville",2975783,"Richebourg",0.49,1
+3029684,"Buchelay",2975783,"Richebourg",0.44,1
+2994428,"Montfort-l’Amaury",2975783,"Richebourg",0.34,1
+3016733,"Gambais",2975783,"Richebourg",0.15,1
+2989376,"Orgerus",2975783,"Richebourg",0.12,1
+3016690,"Garancières",2975783,"Richebourg",0.21,1
+2975019,"Septeuil",2975783,"Richebourg",0.21,1
+6614549,"La Queue-lès-Yvelines",2975783,"Richebourg",0.24,1
+6443983,"Guerville",2975783,"Richebourg",0.38,1
+6443929,"Bréval",2975783,"Richebourg",0.39,1
+6444020,"Méré",2975783,"Richebourg",0.35,1
+2977196,"Saint-Rémy-l’Honoré",2975783,"Richebourg",0.48,1
+2997706,"Longnes",2975783,"Richebourg",0.29,1
+3034463,"Bazainville",2975783,"Richebourg",0.08,1
+2975783,"Richebourg",2975783,"Richebourg",0,1
+2978822,"Saint-Léger-en-Yvelines",2975783,"Richebourg",0.37,1
+3021847,"Dammartin-en-Serve",2975783,"Richebourg",0.22,1
+2982228,"Les Bréviaires",2975783,"Richebourg",0.46,1
+3023948,"Condé-sur-Vesgre",2975783,"Richebourg",0.23,1
+3016745,"Galluis",2975783,"Richebourg",0.3,1
+3036142,"Aulnay-sur-Mauldre",2975783,"Richebourg",0.47,1
+6444041,"Nézel",2975783,"Richebourg",0.5,1
+2973582,"Tacoignières",2975783,"Richebourg",0.08,1
+3031906,"Boissy-le-Châtel",3027307,"Chamigny",0.42,1
+2984284,"Rebais",3027307,"Chamigny",0.38,1
+2980932,"Saint-Cyr-sur-Morin",3027307,"Chamigny",0.2,1
+6443634,"Crouy-sur-Ourcq",3027307,"Chamigny",0.35,1
+2982094,"Saâcy-sur-Marne",3027307,"Chamigny",0.11,1
+3027307,"Chamigny",3027307,"Chamigny",0,1
+2968519,"Villeneuve-sur-Bellot",3027307,"Chamigny",0.46,1
+6443719,"Luzancy",3027307,"Chamigny",0.07,1
+3020968,"Doue",3027307,"Chamigny",0.3,1
+6443602,"Chauffry",3027307,"Chamigny",0.44,1
+6455398,"Carrières-sur-Seine",2993578,"Moisselles",0.4,1
+6455399,"Courbevoic",2993578,"Moisselles",0.45,1
+6454886,"Cergy",2993578,"Moisselles",0.5,1
+8285608,"Pantin",2993578,"Moisselles",0.44,1
+2977824,"Saint-Ouen",2993578,"Moisselles",0.38,1
+3009824,"La Courneuve",2993578,"Moisselles",0.35,1
+3016621,"Garges-lès-Gonesse",2993578,"Moisselles",0.25,1
+6446266,"Franconville",2993578,"Moisselles",0.26,1
+3023924,"Conflans-Sainte-Honorine",2993578,"Moisselles",0.46,1
+6612809,"Houilles",2993578,"Moisselles",0.44,1
+8286153,"Goussainville",2993578,"Moisselles",0.26,1
+6446359,"Villiers-le-Bel",2993578,"Moisselles",0.15,1
+6446335,"Sannois",2993578,"Moisselles",0.26,1
+6446342,"Taverny",2993578,"Moisselles",0.21,1
+3015689,"Gonesse",2993578,"Moisselles",0.27,1
+6446255,"Eaubonne",2993578,"Moisselles",0.19,1
+8286141,"Saint-Ouen-l’Aumône",2993578,"Moisselles",0.41,1
+3021516,"Deuil-la-Barre",2993578,"Moisselles",0.2,1
+6612927,"Montigny-lès-Cormeilles",2993578,"Moisselles",0.3,1
+6454892,"Montmorency",2993578,"Moisselles",0.17,1
+6446329,"Saint-Gratien",2993578,"Moisselles",0.24,1
+2974385,"Soisy-sous-Montmorency",2993578,"Moisselles",0.19,1
+6612921,"Éragny",2993578,"Moisselles",0.46,1
+6446317,"Osny",2993578,"Moisselles",0.5,1
+2978768,"Saint-Leu-la-Forêt",2993578,"Moisselles",0.19,1
+3021150,"Domont",2993578,"Moisselles",0.06,1
+6446326,"Saint-Brice-sous-Forêt",2993578,"Moisselles",0.15,1
+6452048,"Arnouville-lès-Gonesse",2993578,"Moisselles",0.23,1
+2992287,"Montmagny",2993578,"Moisselles",0.21,1
+2987847,"Persan",2993578,"Moisselles",0.31,1
+2988490,"L’Isle-Adam",2993578,"Moisselles",0.27,1
+6446257,"Enghien-les-Bains",2993578,"Moisselles",0.23,1
+2991860,"Dugny",2993578,"Moisselles",0.31,1
+6454890,"Louvres",2993578,"Moisselles",0.31,1
+2994283,"Méry-sur-Oise",2993578,"Moisselles",0.28,1
+3017660,"Fosses",2993578,"Moisselles",0.34,1
+6446264,"Ézanville",2993578,"Moisselles",0.08,1
+3034141,"Beaumont-sur-Oise",2993578,"Moisselles",0.27,1
+6446320,"Pierrelaye",2993578,"Moisselles",0.35,1
+6452056,"Beauchamp",2993578,"Moisselles",0.28,1
+2992229,"Groslay",2993578,"Moisselles",0.18,1
+6456638,"Le Plessis-Bouchard",2993578,"Moisselles",0.22,1
+2998329,"L’Île-Saint-Denis",2993578,"Moisselles",0.32,1
+3033098,"Bessancourt",2993578,"Moisselles",0.23,1
+3020440,"Écouen",2993578,"Moisselles",0.12,1
+8298284,"Saint-Prix",2993578,"Moisselles",0.18,1
+3035864,"Auvers-sur-Oise",2993578,"Moisselles",0.3,1
+3031294,"Bouffémont",2993578,"Moisselles",0.07,1
+2995653,"Marly-la-Ville",2993578,"Moisselles",0.31,1
+6446318,"Parmain",2993578,"Moisselles",0.29,1
+2969423,"Viarmes",2993578,"Moisselles",0.23,1
+2994396,"Mériel",2993578,"Moisselles",0.25,1
+3027243,"Champagne-sur-Oise",2993578,"Moisselles",0.3,1
+6614539,"La Frette-sur-Seine",2993578,"Moisselles",0.36,1
+2996982,"Luzarches",2993578,"Moisselles",0.24,1
+2999186,"Le Thillay",2993578,"Moisselles",0.28,1
+3029715,"Bruyères-sur-Oise",2993578,"Moisselles",0.3,1
+6446341,"Survilliers",2993578,"Moisselles",0.4,1
+6454895,"Presles",2993578,"Moisselles",0.21,1
+6446307,"Montsoult",2993578,"Moisselles",0.08,1
+2985107,"Puiseux-en-France",2993578,"Moisselles",0.3,1
+3017208,"Frépillon",2993578,"Moisselles",0.24,1
+3025882,"Chaumontel",2993578,"Moisselles",0.27,1
+2991362,"Moussy-le-Neuf",2993578,"Moisselles",0.49,1
+6446304,"Montlignon",2993578,"Moisselles",0.15,1
+6446294,"Margency",2993578,"Moisselles",0.16,1
+2983073,"Roissy-en-France",2993578,"Moisselles",0.36,1
+3036562,"Asnières-sur-Oise",2993578,"Moisselles",0.23,1
+2978287,"Saint-Martin-du-Tertre",2993578,"Moisselles",0.16,1
+3033294,"Bernes-sur-Oise",2993578,"Moisselles",0.32,1
+2970163,"Vémars",2993578,"Moisselles",0.43,1
+3037713,"Andilly",2993578,"Moisselles",0.14,1
+2976557,"Saint-Witz",2993578,"Moisselles",0.44,1
+3029377,"Butry-sur-Oise",2993578,"Moisselles",0.27,1
+3017922,"Fontenay-en-Parisis",2993578,"Moisselles",0.21,1
+3035362,"Baillet-en-France",2993578,"Moisselles",0.08,1
+2996827,"Maffliers",2993578,"Moisselles",0.09,1
+2990729,"Nesles-la-Vallée",2993578,"Moisselles",0.37,1
+3036456,"Attainville",2993578,"Moisselles",0.03,1
+2991398,"Mours",2993578,"Moisselles",0.26,1
+2993578,"Moisselles",2993578,"Moisselles",0,1
+2968448,"Villeron",2993578,"Moisselles",0.38,1
+2970866,"Valmondois",2993578,"Moisselles",0.29,1
+3031713,"Bonneuil-en-France",2993578,"Moisselles",0.27,1
+3003415,"Le Mesnil-Amelot",2993578,"Moisselles",0.47,1
+2974717,"Seugy",2993578,"Moisselles",0.22,1
+3034160,"Beaumont-en-Gâtinais",3034160,"Beaumont-en-Gâtinais",0,1
+2977101,"Saints",2990651,"Neufmoutiers-en-Brie",0.4,1
+2972301,"Touquin",2990651,"Neufmoutiers-en-Brie",0.34,1
+2990651,"Neufmoutiers-en-Brie",2990651,"Neufmoutiers-en-Brie",0,1
+2990612,"Neuilly-sur-Marne",2990612,"Neuilly-sur-Marne",0,1
+3016292,"Gentilly",3016292,"Gentilly",0,1

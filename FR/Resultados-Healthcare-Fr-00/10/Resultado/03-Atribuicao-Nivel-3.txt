@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6427260,Hérouville-Saint-Clair,6427260,Hérouville-Saint-Clair,0.00
+3022826,Coutances,6427260,Hérouville-Saint-Clair,2.08
+8289772,Falaise,6427260,Hérouville-Saint-Clair,0.89
+6456462,Le Petit-Quevilly,6456462,Le Petit-Quevilly,0.00
+2990537,Neuville-lès-Dieppe,6456462,Le Petit-Quevilly,1.38
+6613857,L’Aigle,6456462,Le Petit-Quevilly,2.01

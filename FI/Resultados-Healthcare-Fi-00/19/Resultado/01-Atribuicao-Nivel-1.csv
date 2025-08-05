@@ -1,0 +1,28 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+853,"Turku",853,"Turku",0,1
+680,"Raisio",853,"Turku",0.17,1
+423,"Lieto",853,"Turku",0.28,1
+529,"Naantali",853,"Turku",0.34,1
+481,"Masku",853,"Turku",0.4,1
+704,"Rusko",853,"Turku",0.26,1
+538,"Nousiainen",853,"Turku",0.49,1
+734,"Salo",734,"Salo",0,1
+202,"Kaarina",202,"Kaarina",0,1
+430,"Loimaa",430,"Loimaa",0,1
+561,"Oripää",430,"Loimaa",0.49,1
+895,"Uusikaupunki",895,"Uusikaupunki",0,1
+400,"Laitila",895,"Uusikaupunki",0.46,1
+631,"Pyhäranta",895,"Uusikaupunki",0.46,1
+445,"Pargas",445,"Pargas",0,1
+577,"Paimio",738,"Sauvo",0.32,1
+322,"Kimitoön",738,"Sauvo",0.5,1
+738,"Sauvo",738,"Sauvo",0,1
+761,"Somero",284,"Koski Tl",0.51,1
+284,"Koski Tl",284,"Koski Tl",0,1
+19,"Aura",480,"Marttila",0.46,1
+480,"Marttila",480,"Marttila",0,1
+636,"Pöytyä",480,"Marttila",0.23,1
+833,"Taivassalo",304,"Kustavi",0.34,1
+304,"Kustavi",304,"Kustavi",0,1
+503,"Mynämäki",918,"Vehmaa",0.36,1
+918,"Vehmaa",918,"Vehmaa",0,1

@@ -1,0 +1,70 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    153676446.14
+Primary   Care Cost:	     42435646.00
+Secondary Care Cost:	     79072320.00
+Tertiary  Care Cost:	     27517776.00
+Add Infrastruc Cost:	      4531910.00
+Populat ExtLog Cost:	       118794.14
+HC Cost per capita (now):	     4628.56
+HC Cost per capita (fut):	     4773.01
+----------------------------------------
+
+-----------------------------------
+State population:	32197
+Max municipa pop:	12047
+Min municipa pop:	113
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			4000   		1.70
+[3]			10000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 16 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  16 mun >  15 mun (100.00% coverage)
+Care Level [2]:  15 mun >   2 mun
+Care Level [3]:   2 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	170	Jomala                   :	859467.80
+    1	417	Lemland                  :	305907.80
+    1	76	Hammarland               :	222214.80
+    1	43	Eckerö                  :	133908.80
+    1	35	Brändö                 :	60759.80
+    1	65	Geta                     :	74467.00
+    1	941	Vårdö                  :	68272.40
+    1	438	Lumparland               :	50743.00
+    1	766	Sottunga                 :	56146.80
+    1	736	Saltvik                  :	235922.00
+    1	771	Sund                     :	130350.20
+    1	62	Föglö                  :	71962.80
+    1	318	Kökar                   :	29786.80
+    2	170	Jomala                   :	2232000.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	43	Eckerö                  :	1037.10
+    2	35	Brändö                 :	87753.66
+    2	65	Geta                     :	2811.58
+    2	941	Vårdö                  :	528.76
+    2	766	Sottunga                 :	2298.84
+    2	736	Saltvik                  :	540.69
+    2	771	Sund                     :	4.10
+    2	62	Föglö                  :	1715.78
+    2	318	Kökar                   :	22103.62
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	3227183	Ajaccio	255891.00	55.72	202.22	64.71	0.00	72.80	1.35	1.07	0.72	0.36

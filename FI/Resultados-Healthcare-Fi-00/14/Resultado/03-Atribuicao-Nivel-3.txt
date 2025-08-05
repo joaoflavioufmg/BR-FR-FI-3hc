@@ -1,0 +1,5 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+244	                       Kempele	244	                       Kempele	    0.00
+305	                       Kuusamo	305	                       Kuusamo	    0.00
+678	                         Raahe	977	                     Ylivieska	    1.70
+977	                     Ylivieska	977	                     Ylivieska	    0.00

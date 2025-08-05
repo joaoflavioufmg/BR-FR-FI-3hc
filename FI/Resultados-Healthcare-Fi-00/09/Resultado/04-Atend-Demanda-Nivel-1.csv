@@ -1,0 +1,5 @@
+NIVEL,CODIGO,DESTINO,POP_ATENDIDA,Physicians,Nurses,OtherCadres,CommunityBased,Beds,CTScanner,MRIUnit,Mammography,Radiotherapy
+1,286,"Kouvola",73577,9.565,46.3535,26.4877,25.7519,0,0,0,0,0
+1,285,"Kotka",52141,6.7783,32.8488,18.7708,18.2494,0,0,0,0,0
+1,75,"Hamina",18025,2.3433,11.3558,6.489,6.3088,0,0,0,0,0
+1,489,"Miehikkälä",4290,0.5577,2.7027,1.5444,1.5015,0,0,0,0,0

@@ -1,0 +1,77 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   9560360631.56
+Primary   Care Cost:	   2561731320.00
+Secondary Care Cost:	   3415784316.00
+Tertiary  Care Cost:	   3573273057.00
+Add Infrastruc Cost:	      9355292.20
+Populat ExtLog Cost:	       216646.36
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4470.93
+----------------------------------------
+
+----------------------------------------
+State population:	2138340
+Max municipa pop:	282828
+Min municipa pop:	1003
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1266   		0.71
+Care Level [3]	1783   		0.99
+----------------------------------------
+
+
+Demand met by level: (Estate has 491 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 491 mun >  80 mun (100.00% coverage)
+Care Level [2]:  80 mun >  64 mun
+Care Level [3]:  64 mun >  61 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3005270	Le Blanc                 :	894187.20
+    1	3037018	Argenton-sur-Creuse      :	810207.40
+    1	3022911	Courtenay                :	475126.80
+    1	3037015	Argent-sur-Sauldre       :	905568.20
+    1	3030147	Brezolles                :	219473.60
+    1	6432973	Saint-Gaultier           :	216957.80
+    1	6428188	Henrichemont             :	208811.40
+    1	6433122	Saint-Paterne-Racan      :	542334.60
+    1	2990758	Nérondes                :	1510198.80
+    1	6616035	Lignières               :	162568.60
+    1	2975216	Selles-Saint-Denis       :	160292.40
+    1	3011188	La Bazoche-Gouet         :	445536.20
+    1	6616632	Abilly-Sur-Claise        :	422414.80
+    1	3027632	Chaillac                 :	130462.20
+    1	2985789	Pouligny-Saint-Pierre    :	126149.40
+    1	6430834	Orgères-en-Beauce       :	123154.40
+    1	2976533	Sainville                :	122914.80
+    2	3005270	Le Blanc                 :	1878933.60
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3038458	Aigurande                :	2423.03
+    1	2967165	Yzeures-sur-Creuse       :	690.92
+    2	3037018	Argenton-sur-Creuse      :	21097.44
+    2	3022911	Courtenay                :	10351.77
+    2	3037015	Argent-sur-Sauldre       :	1119.65
+    2	3030147	Brezolles                :	4241.05
+    2	6432973	Saint-Gaultier           :	55576.27
+    2	6428188	Henrichemont             :	3224.59
+    2	6433122	Saint-Paterne-Racan      :	1121.73
+    2	2990758	Nérondes                :	2962.73
+    2	6616035	Lignières               :	7568.41
+    2	2975216	Selles-Saint-Denis       :	4843.45
+    2	3011188	La Bazoche-Gouet         :	18003.07
+    2	6616632	Abilly-Sur-Claise        :	337.72
+    2	3027632	Chaillac                 :	77558.85
+    2	6430834	Orgères-en-Beauce       :	3911.85
+    2	2976533	Sainville                :	1613.82
+----------------------------------------------------------------

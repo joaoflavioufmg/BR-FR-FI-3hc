@@ -1,0 +1,62 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    763509752.86
+Primary   Care Cost:	    234209918.00
+Secondary Care Cost:	    320788000.00
+Tertiary  Care Cost:	    173057586.00
+Add Infrastruc Cost:	     29091951.00
+Populat ExtLog Cost:	      6362297.86
+HC Cost per capita (now):	     4097.08
+HC Cost per capita (fut):	     4296.60
+----------------------------------------
+
+-----------------------------------
+State population:	177701
+Max municipa pop:	67724
+Min municipa pop:	1319
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.40
+[3]			30000  		2.10
+-----------------------------------
+
+
+Demand met by level: (Estate has 15 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  15 mun >   8 mun (100.00% coverage)
+Care Level [2]:   8 mun >   4 mun
+Care Level [3]:   4 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	598	Jakobstad                :	2410094.80
+    1	499	Korsholm                 :	2558633.40
+    1	475	Malax                    :	698935.40
+    1	152	Isokyrö                 :	2301887.00
+    1	280	Korsnäs                 :	256746.40
+    1	231	Kaskinen                 :	2204486.80
+    1	599	Pedersöre               :	4064184.80
+    2	598	Jakobstad                :	5441913.60
+    2	499	Korsholm                 :	5777308.80
+    2	599	Pedersöre               :	3377760.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	152	Isokyrö                 :	33421.38
+    2	280	Korsnäs                 :	30361.87
+    2	231	Kaskinen                 :	333872.54
+    3	598	Jakobstad                :	3847123.95
+    3	599	Pedersöre               :	2117518.13
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

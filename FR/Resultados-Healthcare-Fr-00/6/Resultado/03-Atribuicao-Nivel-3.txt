@@ -1,0 +1,8 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6433030,Joué-lés-Tours,6433030,Joué-lés-Tours,0.00
+3020810,Dreux,3020810,Dreux,0.00
+2969257,Vierzon,2969257,Vierzon,0.00
+8290211,Saint-Doulchard,2969257,Vierzon,0.67
+6448604,Déols,2969257,Vierzon,1.29
+6434714,Saint-Jean-de-Braye,6434714,Saint-Jean-de-Braye,0.00
+3026222,Châteauneuf-sur-Loire,6434714,Saint-Jean-de-Braye,0.48

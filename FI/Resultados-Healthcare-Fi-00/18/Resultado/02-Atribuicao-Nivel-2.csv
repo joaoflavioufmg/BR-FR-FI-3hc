@@ -1,0 +1,14 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+49,"Espoo",49,"Espoo",0,2
+92,"Vantaa",92,"Vantaa",0,2
+638,"Porvoo",638,"Porvoo",0,2
+407,"Lapinjärvi",638,"Porvoo",0.96,2
+616,"Pukkila",638,"Porvoo",0.71,2
+444,"Lohja",444,"Lohja",0,2
+224,"Karkkila",444,"Lohja",0.82,2
+149,"Ingå",444,"Lohja",0.57,2
+106,"Hyvinkää",106,"Hyvinkää",0,2
+543,"Nurmijärvi",543,"Nurmijärvi",0,2
+257,"Kirkkonummi",257,"Kirkkonummi",0,2
+710,"Raasepori",710,"Raasepori",0,2
+78,"Hanko",710,"Raasepori",0.78,2

@@ -1,0 +1,8 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+2990474,Nevers,2990474,Nevers,0.00
+3035768,Avallon,2990474,Nevers,1.98
+11962198,Sens,11962198,Sens,0.00
+3021263,Dole,3021263,Dole,0.00
+6454607,Vesoul,3021263,Dole,1.93
+2977229,Saint-Rémy,3021263,Dole,1.54
+2997439,Louhans,3021263,Dole,1.39

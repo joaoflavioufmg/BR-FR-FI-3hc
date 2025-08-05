@@ -1,0 +1,750 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6508863,Le Mans,6508863,Le Mans,0.00,1
+3038086,Allonnes,6508863,Le Mans,0.13,1
+3023291,Coulaines,6508863,Le Mans,0.05,1
+3026941,Changé,6508863,Le Mans,0.17,1
+3036876,Arnage,6508863,Le Mans,0.23,1
+2991207,Mulsanne,6508863,Le Mans,0.28,1
+6442653,Parigné-l’Évêque,6508863,Le Mans,0.37,1
+3006330,La Suze-sur-Sarthe,6508863,Le Mans,0.46,1
+2975926,Yvré-l’Évêque,6508863,Le Mans,0.13,1
+2975560,Savigné-l’Évêque,6508863,Le Mans,0.26,1
+3027260,Champagné,6508863,Le Mans,0.25,1
+2993419,Moncé-en-Belin,6508863,Le Mans,0.31,1
+6613905,Sargé-lès-le-Mans,6508863,Le Mans,0.11,1
+3011187,La Bazoge,6508863,Le Mans,0.27,1
+2982287,Ruaudin,6508863,Le Mans,0.22,1
+3014430,Guécélard,6508863,Le Mans,0.39,1
+2973192,Teloché,6508863,Le Mans,0.36,1
+12104186,Montfort-le-Gesnois,6508863,Le Mans,0.42,1
+2973869,Spay,6508863,Le Mans,0.25,1
+2978521,Saint-Mars-la-Brière,6508863,Le Mans,0.33,1
+3008133,La Milesse,6508863,Le Mans,0.20,1
+2983141,Roézé-sur-Sarthe,6508863,Le Mans,0.40,1
+6454645,Saint-Saturnin,6508863,Le Mans,0.16,1
+2990515,Neuville-sur-Sarthe,6508863,Le Mans,0.19,1
+2978525,Saint-Mars-d’Outillé,6508863,Le Mans,0.46,1
+3010281,La Chapelle-Saint-Aubin,6508863,Le Mans,0.10,1
+3008684,Laigné-en-Belin,6508863,Le Mans,0.36,1
+2982556,Rouillon,6508863,Le Mans,0.12,1
+2979912,Saint-Georges-du-Bois,6508863,Le Mans,0.21,1
+3030245,Brette-les-Pins,6508863,Le Mans,0.37,1
+2979701,Saint-Gervais-en-Belin,6508863,Le Mans,0.36,1
+2980532,Sainte-Jamme-sur-Sarthe,6508863,Le Mans,0.38,1
+3019401,Étival-lès-le-Mans,6508863,Le Mans,0.25,1
+6617565,Saint-Pavace,6508863,Le Mans,0.09,1
+2997804,Lombron,6508863,Le Mans,0.45,1
+3023891,Conlie,6508863,Le Mans,0.51,1
+2992919,Montbizot,6508863,Le Mans,0.39,1
+2979357,Saint-Jean-d’Assé,6508863,Le Mans,0.42,1
+3038535,Aigné,6508863,Le Mans,0.22,1
+3023279,Coulans-sur-Gée,6508863,Le Mans,0.35,1
+3034325,Beaufay,6508863,Le Mans,0.49,1
+6442575,Fillé,6508863,Le Mans,0.33,1
+2981016,Saint-Corneille,6508863,Le Mans,0.31,1
+2972064,Trangé,6508863,Le Mans,0.17,1
+6442601,Louplande,6508863,Le Mans,0.34,1
+2972455,Torcé-en-Vallée,6508863,Le Mans,0.51,1
+3035211,Ballon,6508863,Le Mans,0.47,1
+2967741,Voivres-lès-le-Mans,6508863,Le Mans,0.32,1
+2985213,Pruillé-le-Chétif,6508863,Le Mans,0.17,1
+2977804,Saint-Ouen-en-Belin,6508863,Le Mans,0.48,1
+3012220,Joué-l’Abbé,6508863,Le Mans,0.29,1
+3027508,Challes,6508863,Le Mans,0.45,1
+2974012,Souligné-sous-Ballon,6508863,Le Mans,0.37,1
+3008838,La Guierche,6508863,Le Mans,0.30,1
+2988517,Parigné-le-Pôlin,6508863,Le Mans,0.47,1
+3025949,Chaufour-Notre-Dame,6508863,Le Mans,0.23,1
+2974549,Sillé-le-Philippe,6508863,Le Mans,0.40,1
+3021191,Domfront-en-Champagne,6508863,Le Mans,0.42,1
+3025053,Cholet,3025053,Cholet,0.00,1
+6449395,Beaupréau,3025053,Cholet,0.45,1
+6455148,Chemillé,3025053,Cholet,0.51,1
+2978658,Saint-Macaire-en-Mauges,3025053,Cholet,0.28,1
+2991700,Mortagne-sur-Sèvre,3025053,Cholet,0.24,1
+3006454,La Séguinière,3025053,Cholet,0.12,1
+3005640,La Verrie,3025053,Cholet,0.35,1
+3003514,Le May-sur-Èvre,3025053,Cholet,0.21,1
+2978865,Saint-Laurent-sur-Sèvre,3025053,Cholet,0.28,1
+3012549,Jallais,3025053,Cholet,0.38,1
+3006285,La Tessoualle,3025053,Cholet,0.16,1
+2995104,Maulévrier,3025053,Cholet,0.29,1
+3009153,La Gaubretière,3025053,Cholet,0.48,1
+2971861,Trémentines,3025053,Cholet,0.25,1
+2978809,Saint-Léger-sous-Cholet,3025053,Cholet,0.11,1
+2979731,Saint-Germain-sur-Moine,3025053,Cholet,0.49,1
+6435274,Saint-André-de-la-Marche,3025053,Cholet,0.25,1
+3001157,Les Epesses,3025053,Cholet,0.49,1
+2981149,Saint-Christophe-du-Bois,3025053,Cholet,0.15,1
+2968805,Villedieu-la-Blouère,3025053,Cholet,0.43,1
+2972430,Torfou,3025053,Cholet,0.45,1
+6458635,Montfaucon,3025053,Cholet,0.48,1
+3003672,Le Longeron,3025053,Cholet,0.36,1
+3033870,Bégrolles-en-Mauges,3025053,Cholet,0.25,1
+3002444,Le Puy-Saint-Bonnet,3025053,Cholet,0.18,1
+3037691,Andrezé,3025053,Cholet,0.34,1
+3006739,La Romagne,3025053,Cholet,0.27,1
+2967169,Yzernay,3025053,Cholet,0.35,1
+2969463,Vezins,3025053,Cholet,0.36,1
+2978632,Saint-Malô-du-Bois,3025053,Cholet,0.37,1
+2994705,Melay,3025053,Cholet,0.48,1
+6435194,Coron,3025053,Cholet,0.48,1
+2972613,Tiffauges,3025053,Cholet,0.46,1
+3027335,Chambretaud,3025053,Cholet,0.42,1
+6458639,Saint-Georges-du-Puy-de-la-Garde,3025053,Cholet,0.34,1
+6435260,Nuaillé,3025053,Cholet,0.18,1
+3006196,La Tourlandry,3025053,Cholet,0.41,1
+2981568,Saint-Aubin-des-Ormeaux,3025053,Cholet,0.37,1
+2972137,Toutlemonde,3025053,Cholet,0.21,1
+2971902,Treize-Vents,3025053,Cholet,0.39,1
+6435273,Roussay,3025053,Cholet,0.36,1
+3008576,La Jubaudière,3025053,Cholet,0.31,1
+3010357,La Chapelle-du-Genêt,3025053,Cholet,0.43,1
+2994842,Mazières-en-Mauges,3025053,Cholet,0.12,1
+3007234,La Poitevinière,3025053,Cholet,0.47,1
+2978330,Saint-Martin-des-Tilleuls,3025053,Cholet,0.41,1
+3006986,La Renaudière,3025053,Cholet,0.38,1
+3007264,La Plaine,3025053,Cholet,0.46,1
+2990969,Nantes,2979590,Saint-Herblain,0.18,1
+2979590,Saint-Herblain,2979590,Saint-Herblain,0.00,1
+8292991,Rezé,2979590,Saint-Herblain,0.20,1
+2976984,Saint-Sébastien-sur-Loire,2979590,Saint-Herblain,0.28,1
+2989170,Orvault,2979590,Saint-Herblain,0.17,1
+2969612,Vertou,2979590,Saint-Herblain,0.36,1
+6449087,Couëron,2979590,Saint-Herblain,0.14,1
+3028535,Carquefou,2979590,Saint-Herblain,0.38,1
+6492231,Bouguenais,2979590,Saint-Herblain,0.11,1
+3010237,La Chapelle-sur-Erdre,2979590,Saint-Herblain,0.30,1
+6434524,Sainte-Luce-sur-Loire,2979590,Saint-Herblain,0.32,1
+2972696,Thouaré-sur-Loire,2979590,Saint-Herblain,0.42,1
+2971908,Treillières,2979590,Saint-Herblain,0.33,1
+3034699,Basse-Goulaine,2979590,Saint-Herblain,0.35,1
+2977602,Saint-Philbert-de-Grand-Lieu,2979590,Saint-Herblain,0.49,1
+2999572,Les Sorinières,2979590,Saint-Herblain,0.29,1
+2975702,Sautron,2979590,Saint-Herblain,0.15,1
+3031403,Bouaye,2979590,Saint-Herblain,0.20,1
+2980259,Saint-Étienne-de-Montluc,2979590,Saint-Herblain,0.30,1
+2979109,Saint-Julien-de-Concelles,2979590,Saint-Herblain,0.51,1
+2980372,Sainte-Pazanne,2979590,Saint-Herblain,0.43,1
+3008096,La Montagne,2979590,Saint-Herblain,0.09,1
+6434495,Pont-Saint-Martin,2979590,Saint-Herblain,0.28,1
+3015298,Grandchamps-des-Fontaines,2979590,Saint-Herblain,0.43,1
+2969111,Vigneux-de-Bretagne,2979590,Saint-Herblain,0.36,1
+2979344,Saint-Jean-de-Boiseau,2979590,Saint-Herblain,0.15,1
+3013766,Haute-Goulaine,2979590,Saint-Herblain,0.42,1
+3010040,La Chevrolière,2979590,Saint-Herblain,0.34,1
+6456023,Le Pellerin,2979590,Saint-Herblain,0.20,1
+3008809,La Haie-Fouassière,2979590,Saint-Herblain,0.50,1
+3034697,Basse Indre,2979590,Saint-Herblain,0.06,1
+2981888,Saint-Aignan-Grandlieu,2979590,Saint-Herblain,0.25,1
+3005282,Le Bignon,2979590,Saint-Herblain,0.44,1
+3023697,Cordemais,2979590,Saint-Herblain,0.48,1
+6615510,Geneston,2979590,Saint-Herblain,0.51,1
+3026195,Château-Thébaud,2979590,Saint-Herblain,0.50,1
+2982682,Rouans,2979590,Saint-Herblain,0.40,1
+2985932,Port-Saint-Père,2979590,Saint-Herblain,0.29,1
+3030603,Brains,2979590,Saint-Herblain,0.18,1
+2978529,Saint-Mars-de-Coutais,2979590,Saint-Herblain,0.32,1
+3028428,Casson,2979590,Saint-Herblain,0.51,1
+2979552,Saint-Hilaire-de-Chaléons,2979590,Saint-Herblain,0.51,1
+2990039,Notre-Dame-des-Landes,2979590,Saint-Herblain,0.48,1
+6434526,Saint-Lumine-de-Coutais,2979590,Saint-Herblain,0.46,1
+2999236,Le Temple-de-Bretagne,2979590,Saint-Herblain,0.42,1
+2978814,Saint-Léger-les-Vignes,2979590,Saint-Herblain,0.26,1
+2967549,Vue,2979590,Saint-Herblain,0.44,1
+2980127,Saint-Fiacre-sur-Maine,2979590,Saint-Herblain,0.48,1
+6449083,Cheix-en-Retz,2979590,Saint-Herblain,0.32,1
+3037656,Angers,2999908,Les Ponts-de-Cé,0.15,1
+2971896,Trélazé,2999908,Les Ponts-de-Cé,0.13,1
+3035612,Avrillé,2999908,Les Ponts-de-Cé,0.26,1
+2999908,Les Ponts-de-Cé,2999908,Les Ponts-de-Cé,0.00,1
+2981457,Saint-Barthélemy-d’Anjou,2999908,Les Ponts-de-Cé,0.13,1
+2992085,Montreuil-Juigné,2999908,Les Ponts-de-Cé,0.33,1
+3031368,Bouchemaine,2999908,Les Ponts-de-Cé,0.16,1
+3027491,Chalonnes-sur-Loire,2999908,Les Ponts-de-Cé,0.49,1
+2991128,Mûrs-Erigné,2999908,Les Ponts-de-Cé,0.07,1
+3034339,Beaucouzé,2999908,Les Ponts-de-Cé,0.25,1
+2994891,Mazé,2999908,Les Ponts-de-Cé,0.48,1
+2976827,Saint-Sylvain-d’Anjou,2999908,Les Ponts-de-Cé,0.28,1
+3020439,Écouflant,2999908,Les Ponts-de-Cé,0.29,1
+2979885,Saint-Georges-sur-Loire,2999908,Les Ponts-de-Cé,0.45,1
+6458652,Sainte-Gemmes-sur-Loire,2999908,Les Ponts-de-Cé,0.06,1
+3030599,Brain-sur-l’Authion,2999908,Les Ponts-de-Cé,0.22,1
+3023611,Corné,2999908,Les Ponts-de-Cé,0.35,1
+2968242,Villevêque,2999908,Les Ponts-de-Cé,0.42,1
+3030020,Briollay,2999908,Les Ponts-de-Cé,0.39,1
+2978983,Saint-Lambert-la-Potherie,2999908,Les Ponts-de-Cé,0.33,1
+3012120,Juigné sur Loire,2999908,Les Ponts-de-Cé,0.10,1
+3037747,Andard,2999908,Les Ponts-de-Cé,0.26,1
+2974130,Soucelles,2999908,Les Ponts-de-Cé,0.45,1
+2988169,Pellouailles-les-Vignes,2999908,Les Ponts-de-Cé,0.31,1
+2978197,Saint-Mathurin-sur-Loire,2999908,Les Ponts-de-Cé,0.39,1
+3002669,Le Plessis-Grammoire,2999908,Les Ponts-de-Cé,0.28,1
+6456083,La Possonnière,2999908,Les Ponts-de-Cé,0.33,1
+2983262,Rochefort-sur-Loire,2999908,Les Ponts-de-Cé,0.31,1
+3028773,Cantenay-Épinard,2999908,Les Ponts-de-Cé,0.31,1
+3008189,La Meignanne,2999908,Les Ponts-de-Cé,0.38,1
+3018730,Feneu,2999908,Les Ponts-de-Cé,0.43,1
+2978985,Saint-Lambert-du-Lattay,2999908,Les Ponts-de-Cé,0.39,1
+2981054,Saint-Clément-de-la-Place,2999908,Les Ponts-de-Cé,0.50,1
+2978065,Saint-Melaine-sur-Aubance,2999908,Les Ponts-de-Cé,0.17,1
+3008166,La Ménitré,2999908,Les Ponts-de-Cé,0.49,1
+3008176,La Membrolle-sur-Longuenée,2999908,Les Ponts-de-Cé,0.47,1
+2991255,Mozé-sur-Louet,2999908,Les Ponts-de-Cé,0.19,1
+2972697,Thouarcé,2999908,Les Ponts-de-Cé,0.44,1
+3023492,Corzé,2999908,Les Ponts-de-Cé,0.45,1
+2978834,Saint-Léger-des-Bois,2999908,Les Ponts-de-Cé,0.36,1
+2979280,Saint-Jean-des-Mauvrets,2999908,Les Ponts-de-Cé,0.16,1
+2979282,Saint-Jean-de-Linières,2999908,Les Ponts-de-Cé,0.27,1
+3034529,Bauné,2999908,Les Ponts-de-Cé,0.44,1
+2978303,Saint-Martin-du-Fouilloux,2999908,Les Ponts-de-Cé,0.34,1
+2970564,Vauchrétien,2999908,Les Ponts-de-Cé,0.27,1
+2974047,Soulaire,2999908,Les Ponts-de-Cé,0.43,1
+6435328,Soulaines-sur-Aubance,2999908,Les Ponts-de-Cé,0.17,1
+3018842,Faye-d’Anjou,2999908,Les Ponts-de-Cé,0.37,1
+3021601,Denée,2999908,Les Ponts-de-Cé,0.20,1
+3034240,Beaulieu-sur-Layon,2999908,Les Ponts-de-Cé,0.34,1
+2975593,Savennières,2999908,Les Ponts-de-Cé,0.27,1
+6435316,Saint-Saturnin-sur-Loire,2999908,Les Ponts-de-Cé,0.19,1
+3025773,Chavagnes,2999908,Les Ponts-de-Cé,0.45,1
+3002658,Le Plessis-Macé,2999908,Les Ponts-de-Cé,0.43,1
+6456947,La Bohalle,2999908,Les Ponts-de-Cé,0.26,1
+2981580,Saint-Aubin-de-Luigné,2999908,Les Ponts-de-Cé,0.38,1
+6456060,La Daguenière,2999908,Les Ponts-de-Cé,0.17,1
+3019259,Évron,3019259,Évron,0.00,1
+6436438,Montsûrs,3019259,Évron,0.29,1
+3037017,Argentré,3019259,Évron,0.49,1
+2974550,Sillé-le-Guillaume,3019259,Évron,0.51,1
+6617029,Martigné-sur-Mayenne,3019259,Évron,0.49,1
+3036837,Aron,3019259,Évron,0.49,1
+3024087,Commer,3019259,Évron,0.47,1
+2971179,Vaiges,3019259,Évron,0.35,1
+2997333,Louvigné,3019259,Évron,0.50,1
+2974022,Soulgé-sur-Ouette,3019259,Évron,0.41,1
+3011185,La Bazoge-Montpinçon,3019259,Évron,0.47,1
+3026823,Chantonnay,3026823,Chantonnay,0.00,1
+3001134,Les Essarts,3026823,Chantonnay,0.42,1
+2985708,Pouzauges,3026823,Chantonnay,0.49,1
+6457155,La Ferrière,3026823,Chantonnay,0.51,1
+3010483,La Chaize-le-Vicomte,3026823,Chantonnay,0.46,1
+3030902,Bournezeau,3026823,Chantonnay,0.27,1
+3005099,Le Boupère,3026823,Chantonnay,0.38,1
+2980541,Sainte-Hermine,3026823,Chantonnay,0.36,1
+2991575,Mouchamps,3026823,Chantonnay,0.26,1
+2978337,Saint-Martin-des-Noyers,3026823,Chantonnay,0.26,1
+6445174,Saint-André-Goule-d’Oie,3026823,Chantonnay,0.49,1
+2970105,Vendrennes,3026823,Chantonnay,0.41,1
+2977309,Saint-Prouant,3026823,Chantonnay,0.27,1
+2980716,Sainte-Cécile,3026823,Chantonnay,0.20,1
+2979819,Saint-Germain-de-Prinçay,3026823,Chantonnay,0.11,1
+3026271,Château-Guibert,3026823,Chantonnay,0.46,1
+3008186,La Meilleraie-Tillay,3026823,Chantonnay,0.42,1
+2994250,Mesnard-la-Barotière,3026823,Chantonnay,0.49,1
+2991538,Mouilleron-en-Pareds,3026823,Chantonnay,0.39,1
+2980604,Sainte-Florence,3026823,Chantonnay,0.36,1
+2972713,Thorigny,3026823,Chantonnay,0.42,1
+3017616,Fougeré,3026823,Chantonnay,0.36,1
+2997885,L’Oie,3026823,Chantonnay,0.34,1
+3034422,Bazoges-en-Pareds,3026823,Chantonnay,0.27,1
+3006978,La Réorthe,3026823,Chantonnay,0.22,1
+2979508,Saint-Hilaire-le-Vouhis,3026823,Chantonnay,0.15,1
+2977599,Saint-Philbert-du-Pont-Charrault,3026823,Chantonnay,0.14,1
+2981296,Saint-Brevin-les-Pins,2992206,Montoir-de-Bretagne,0.23,1
+2986059,Pornichet,2992206,Montoir-de-Bretagne,0.40,1
+2975597,Savenay,2992206,Montoir-de-Bretagne,0.40,1
+3021093,Donges,2992206,Montoir-de-Bretagne,0.14,1
+2971680,Trignac,2992206,Montoir-de-Bretagne,0.08,1
+2992206,Montoir-de-Bretagne,2992206,Montoir-de-Bretagne,0.00,1
+3013484,Herbignac,2992206,Montoir-de-Bretagne,0.46,1
+6434532,Saint-Michel-Chef-Chef,2992206,Montoir-de-Bretagne,0.41,1
+2978662,Saint-Lyphard,2992206,Montoir-de-Bretagne,0.36,1
+2985302,Prinquiau,2992206,Montoir-de-Bretagne,0.28,1
+6449097,Frossay,2992206,Montoir-de-Bretagne,0.47,1
+3033108,Besné,2992206,Montoir-de-Bretagne,0.22,1
+3010312,La Chapelle-Launay,2992206,Montoir-de-Bretagne,0.36,1
+2988797,Paimbœuf,2992206,Montoir-de-Bretagne,0.25,1
+3022300,Crossac,2992206,Montoir-de-Bretagne,0.23,1
+2980761,Sainte-Anne-sur-Brivet,2992206,Montoir-de-Bretagne,0.46,1
+3023512,Corsept,2992206,Montoir-de-Bretagne,0.22,1
+2976678,Saint-Viaud,2992206,Montoir-de-Bretagne,0.32,1
+2990085,Nort-sur-Erdre,2973748,Sucé-sur-Erdre,0.30,1
+3003661,Le Loroux-Bottereau,2973748,Sucé-sur-Erdre,0.44,1
+2973748,Sucé-sur-Erdre,2973748,Sucé-sur-Erdre,0.00,1
+3013457,Héric,2973748,Sucé-sur-Erdre,0.31,1
+3010396,La Chapelle-Basse-Mer,2973748,Sucé-sur-Erdre,0.41,1
+2998404,Ligné,2973748,Sucé-sur-Erdre,0.37,1
+2978524,Saint-Mars-du-Désert,2973748,Sucé-sur-Erdre,0.26,1
+2982023,Saffré,2973748,Sucé-sur-Erdre,0.48,1
+3004813,Le Cellier,2973748,Sucé-sur-Erdre,0.35,1
+2989058,Oudon,2973748,Sucé-sur-Erdre,0.47,1
+2987658,Petit-Mars,2973748,Sucé-sur-Erdre,0.22,1
+2994981,Mauves-sur-Loire,2973748,Sucé-sur-Erdre,0.28,1
+3027008,Champtoceaux,2973748,Sucé-sur-Erdre,0.50,1
+2999485,Les Touches,2973748,Sucé-sur-Erdre,0.36,1
+2991292,Mouzeil,2973748,Sucé-sur-Erdre,0.47,1
+3005763,La Varenne,2973748,Sucé-sur-Erdre,0.40,1
+3035040,Barbechat,2973748,Sucé-sur-Erdre,0.49,1
+2972056,Trans-sur-Erdre,2973748,Sucé-sur-Erdre,0.50,1
+6436516,Villaines-la-Juhel,6436516,Villaines-la-Juhel,0.00,1
+3006380,Lassay-les-Châteaux,6436516,Villaines-la-Juhel,0.48,1
+2977482,Saint-Pierre-des-Nids,6436516,Villaines-la-Juhel,0.37,1
+2985491,Pré-en-Pail,6436516,Villaines-la-Juhel,0.35,1
+2979543,Saint-Hilaire-de-Riez,2981146,Saint-Christophe-du-Ligneron,0.45,1
+3022348,Saint-Gilles-Croix-de-Vie,2981146,Saint-Christophe-du-Ligneron,0.49,1
+3004258,Le Fenouiller,2981146,Saint-Christophe-du-Ligneron,0.39,1
+2974007,Soullans,2981146,Saint-Christophe-du-Ligneron,0.27,1
+3024088,Commequiers,2981146,Saint-Christophe-du-Ligneron,0.22,1
+3024447,Coëx,2981146,Saint-Christophe-du-Ligneron,0.35,1
+2976387,Sallertaine,2981146,Saint-Christophe-du-Ligneron,0.38,1
+2981146,Saint-Christophe-du-Ligneron,2981146,Saint-Christophe-du-Ligneron,0.00,1
+3015900,Givrand,2981146,Saint-Christophe-du-Ligneron,0.48,1
+2990043,Notre-Dame-de-Riez,2981146,Saint-Christophe-du-Ligneron,0.35,1
+2988323,Paulx,2981146,Saint-Christophe-du-Ligneron,0.39,1
+3017003,Froidfond,2981146,Saint-Christophe-du-Ligneron,0.13,1
+3037365,Apremont,2981146,Saint-Christophe-du-Ligneron,0.21,1
+2980260,Saint-Étienne-de-Mer-Morte,2981146,Saint-Christophe-du-Ligneron,0.30,1
+3019088,Falleron,2981146,Saint-Christophe-du-Ligneron,0.20,1
+6618280,La Marne,2981146,Saint-Christophe-du-Ligneron,0.48,1
+2995370,Martinet,2981146,Saint-Christophe-du-Ligneron,0.44,1
+3010484,La Chaize-Giraud,2981146,Saint-Christophe-du-Ligneron,0.50,1
+3027513,Challans,3031220,Bouin,0.42,1
+2979299,Saint-Jean-de-Monts,3031220,Bouin,0.51,1
+2996905,Machecoul,3031220,Bouin,0.34,1
+3009168,La Garnache,3031220,Bouin,0.40,1
+6445160,Noirmoutier-en-l’Île,3031220,Bouin,0.46,1
+3036679,Arthon-en-Retz,3031220,Bouin,0.41,1
+3033968,Beauvoir-sur-Mer,3031220,Bouin,0.18,1
+3030970,Bourgneuf-en-Retz,3031220,Bouin,0.21,1
+3025826,Chauvé,3031220,Bouin,0.49,1
+2979707,Saint-Gervais,3031220,Bouin,0.20,1
+3025609,Chémeré,3031220,Bouin,0.44,1
+3011332,La Barre-de-Monts,3031220,Bouin,0.33,1
+3031220,Bouin,3031220,Bouin,0.00,1
+2990045,Notre-Dame-de-Monts,3031220,Bouin,0.47,1
+3002961,Le Perrier,3031220,Bouin,0.43,1
+3032062,Bois-de-Céné,3031220,Bouin,0.24,1
+2976731,Saint-Urbain,3031220,Bouin,0.27,1
+3035046,Barbâtre,3031220,Bouin,0.35,1
+3008854,La Guérinière,3031220,Bouin,0.44,1
+3017197,Fresnay-en-Retz,3031220,Bouin,0.28,1
+6434531,Saint-Même-le-Tenu,3031220,Bouin,0.41,1
+3006183,La Tranche-sur-Mer,3004763,Le Champ-Saint-Père,0.49,1
+3037618,Angles,3004763,Le Champ-Saint-Père,0.30,1
+2980113,Saint-Florent-des-Bois,3004763,Le Champ-Saint-Père,0.24,1
+8297422,Mareuil sur Lay,3004763,Le Champ-Saint-Père,0.26,1
+3012484,Jard-sur-Mer,3004763,Le Champ-Saint-Père,0.51,1
+6617845,Longeville-sur-Mer,3004763,Le Champ-Saint-Père,0.36,1
+2977968,Saint-Michel-en-l’Herm,3004763,Le Champ-Saint-Père,0.47,1
+3000201,Moutiers-les-Mauxfaits,3004763,Le Champ-Saint-Père,0.16,1
+3008668,L’Aiguillon-sur-Mer,3004763,Le Champ-Saint-Père,0.49,1
+3004763,Le Champ-Saint-Père,3004763,Le Champ-Saint-Père,0.00,1
+3000443,Les Magnils-Reigniers,3004763,Le Champ-Saint-Père,0.26,1
+2976585,Saint-Vincent-sur-Graon,3004763,Le Champ-Saint-Père,0.08,1
+2976583,Saint-Vincent-sur-Jard,3004763,Le Champ-Saint-Père,0.47,1
+3005308,Le Bernard,3004763,Le Champ-Saint-Père,0.30,1
+2986525,Poiroux,3004763,Le Champ-Saint-Père,0.36,1
+3033114,Escoublac,3036512,Assérac,0.40,1
+3014392,Guérande,3036512,Assérac,0.29,1
+2981745,Saint-André-des-Eaux,3036512,Assérac,0.35,1
+2993692,Missillac,3036512,Assérac,0.46,1
+3006090,La Turballe,3036512,Assérac,0.32,1
+6456026,Le Pouliguen,3036512,Assérac,0.43,1
+6614560,Le Croisic,3036512,Assérac,0.44,1
+2979179,Saint-Joachim,3036512,Assérac,0.38,1
+2978636,Saint-Malo-de-Guersac,3036512,Assérac,0.45,1
+3034585,Batz-sur-Mer,3036512,Assérac,0.46,1
+2977943,Saint-Molf,3036512,Assérac,0.12,1
+2987043,Piriac-sur-Mer,3036512,Assérac,0.32,1
+2994203,Mesquer,3036512,Assérac,0.15,1
+3036512,Assérac,3036512,Assérac,0.00,1
+3005866,Laval,2997855,Loiron,0.31,1
+2981382,Saint-Berthevin,2997855,Loiron,0.20,1
+3031835,Bonchamp-lès-Laval,2997855,Loiron,0.44,1
+2997345,Louverné,2997855,Loiron,0.44,1
+2998542,L’Huisserie,2997855,Loiron,0.32,1
+3023466,Cossé-le-Vivien,2997855,Loiron,0.32,1
+2977446,Saint-Pierre-la-Cour,2997855,Loiron,0.23,1
+2984846,Quelaines-Saint-Gault,2997855,Loiron,0.45,1
+6617023,Le Genest-Saint-Isle,2997855,Loiron,0.14,1
+3038563,Ahuillé,2997855,Loiron,0.16,1
+2986032,Port-Brillet,2997855,Loiron,0.16,1
+2977810,Saint-Ouën-des-Toits,2997855,Loiron,0.23,1
+3005076,Le Bourgneuf-la-Forêt,2997855,Loiron,0.30,1
+2997855,Loiron,2997855,Loiron,0.00,1
+2979193,Saint-Jean-sur-Mayenne,2997855,Loiron,0.40,1
+2992443,Montigné-le-Brillant,2997855,Loiron,0.26,1
+3035206,Ballots,2997855,Loiron,0.50,1
+2989846,Nuillé-sur-Vicoin,2997855,Loiron,0.35,1
+2979764,Saint-Germain-le-Fouilloux,2997855,Loiron,0.35,1
+2994479,Méral,2997855,Loiron,0.29,1
+3017796,Forcé,2997855,Loiron,0.44,1
+2992356,Montjean,2997855,Loiron,0.15,1
+3006767,La Roche-sur-Yon,2979928,Saint-Georges-de-Pointindoux,0.38,1
+6498004,Les Sables-d’Olonne,2979928,Saint-Georges-de-Pointindoux,0.51,1
+2989572,Olonne-sur-Mer,2979928,Saint-Georges-de-Pointindoux,0.42,1
+3026291,Château-d’Olonne,2979928,Saint-Georges-de-Pointindoux,0.45,1
+3038341,Aizenay,2979928,Saint-Georges-de-Pointindoux,0.27,1
+3002620,Le Poiré-sur-Vie,2979928,Saint-Georges-de-Pointindoux,0.41,1
+2973473,Talmont-Saint-Hilaire,2979928,Saint-Georges-de-Pointindoux,0.49,1
+3030264,Bretignolles-sur-Mer,2979928,Saint-Georges-de-Pointindoux,0.45,1
+2970157,Venansault,2979928,Saint-Georges-de-Pointindoux,0.24,1
+3036348,Aubigny,2979928,Saint-Georges-de-Pointindoux,0.35,1
+3008052,La Mothe-Achard,2979928,Saint-Georges-de-Pointindoux,0.10,1
+2990727,Nesmy,2979928,Saint-Georges-de-Pointindoux,0.45,1
+3001386,Les Clouzeaux,2979928,Saint-Georges-de-Pointindoux,0.22,1
+2978409,Brem-sur-Mer,2979928,Saint-Georges-de-Pointindoux,0.41,1
+2998331,L’Île-d’Olonne,2979928,Saint-Georges-de-Pointindoux,0.38,1
+2990382,Nieul-le-Dolent,2979928,Saint-Georges-de-Pointindoux,0.29,1
+2980606,Sainte-Flaive-des-Loups,2979928,Saint-Georges-de-Pointindoux,0.12,1
+3007873,Landeronde,2979928,Saint-Georges-de-Pointindoux,0.11,1
+6445191,Sainte-Foy,2979928,Saint-Georges-de-Pointindoux,0.29,1
+2978198,Saint-Mathurin,2979928,Saint-Georges-de-Pointindoux,0.28,1
+3034243,Beaulieu-sous-la-Roche,2979928,Saint-Georges-de-Pointindoux,0.09,1
+3014549,Grosbreuil,2979928,Saint-Georges-de-Pointindoux,0.29,1
+3010414,La Chapelle-Achard,2979928,Saint-Georges-de-Pointindoux,0.16,1
+3008667,L’Aiguillon-sur-Vie,2979928,Saint-Georges-de-Pointindoux,0.40,1
+2979090,Saint-Julien-des-Landes,2979928,Saint-Georges-de-Pointindoux,0.17,1
+2971162,Vairé,2979928,Saint-Georges-de-Pointindoux,0.28,1
+2979928,Saint-Georges-de-Pointindoux,2979928,Saint-Georges-de-Pointindoux,0.00,1
+2996906,Maché,2979928,Saint-Georges-de-Pointindoux,0.33,1
+2977186,Saint-Révérend,2979928,Saint-Georges-de-Pointindoux,0.42,1
+3007854,Landevieille,2979928,Saint-Georges-de-Pointindoux,0.35,1
+6457136,La Boissière-des-Landes,2979928,Saint-Georges-de-Pointindoux,0.38,1
+2978642,Saint-Maixent-sur-Vie,2979928,Saint-Georges-de-Pointindoux,0.46,1
+6445178,Saint-Avaugourd-des-Landes,2979928,Saint-Georges-de-Pointindoux,0.45,1
+3004098,Le Girouard,2979928,Saint-Georges-de-Pointindoux,0.22,1
+2986271,Pontchâteau,2974701,Sévérac,0.32,1
+3014413,Guémené-Penfao,2974701,Sévérac,0.51,1
+3010368,La Chapelle-des-Marais,2974701,Sévérac,0.42,1
+3028966,Campbon,2974701,Sévérac,0.43,1
+2979680,Saint-Gildas-des-Bois,2974701,Sévérac,0.12,1
+3014398,Guenrouet,2974701,Sévérac,0.24,1
+2977879,Saint-Nicolas-de-Redon,2974701,Sévérac,0.26,1
+3035696,Avessac,2974701,Sévérac,0.33,1
+6449095,Fégréac,2974701,Sévérac,0.11,1
+2980345,Sainte-Reine-de-Bretagne,2974701,Sévérac,0.38,1
+3020828,Drefféac,2974701,Sévérac,0.21,1
+2974701,Sévérac,2974701,Sévérac,0.00,1
+2984708,Quilly,2974701,Sévérac,0.34,1
+2989890,Noyen-sur-Sarthe,3029775,Brûlon,0.36,1
+2988572,Parcé-sur-Sarthe,3029775,Brûlon,0.35,1
+2997456,Loué,3029775,Brûlon,0.17,1
+3029775,Brûlon,3029775,Brûlon,0.00,1
+3035867,Auvers-le-Hamon,3029775,Brûlon,0.28,1
+2967997,Vion,3029775,Brûlon,0.41,1
+2973166,Tennie,3029775,Brûlon,0.49,1
+3032462,Blain,3010044,La Chevallerais,0.17,1
+2986785,Plessé,3010044,La Chevallerais,0.45,1
+3018859,Fay-de-Bretagne,3010044,La Chevallerais,0.27,1
+2996306,Malville,3010044,La Chevallerais,0.47,1
+3030718,Bouvron,3010044,La Chevallerais,0.36,1
+2970293,Vay,3010044,La Chevallerais,0.25,1
+3004119,Le Gâvre,3010044,La Chevallerais,0.21,1
+3008884,La Grigonnais,3010044,La Chevallerais,0.16,1
+3010044,La Chevallerais,3010044,La Chevallerais,0.00,1
+2995507,Marsac-sur-Don,3010044,La Chevallerais,0.36,1
+2985161,Puceul,3010044,La Chevallerais,0.18,1
+6449084,Conquereuil,3010044,La Chevallerais,0.46,1
+2970923,Vallet,3007004,La Regrippière,0.18,1
+2993619,Clisson,3007004,La Regrippière,0.33,1
+3015658,Gorges,3007004,La Regrippière,0.33,1
+3010726,La Bruffière,3007004,La Regrippière,0.47,1
+3016162,Gétigné,3007004,La Regrippière,0.33,1
+6451619,Cugand,3007004,La Regrippière,0.36,1
+2977415,Saint-Pierre-Montlimart,3007004,La Regrippière,0.38,1
+3010321,La Chapelle-Heulin,3007004,La Regrippière,0.31,1
+3003042,Le Pallet,3007004,La Regrippière,0.33,1
+6456919,Le Landreau,3007004,La Regrippière,0.25,1
+2996628,Maisdon-sur-Sèvre,3007004,La Regrippière,0.46,1
+2991285,Mouzillon,3007004,La Regrippière,0.23,1
+3016167,Gesté,3007004,La Regrippière,0.12,1
+3030822,Boussay,3007004,La Regrippière,0.38,1
+6435230,Liré,3007004,La Regrippière,0.45,1
+2979551,Saint-Hilaire-de-Clisson,3007004,La Regrippière,0.42,1
+2978917,Saint-Laurent-des-Autels,3007004,La Regrippière,0.29,1
+2993245,Monnières,3007004,La Regrippière,0.37,1
+3020847,Drain,3007004,La Regrippière,0.44,1
+2978670,Saint-Lumine-de-Clisson,3007004,La Regrippière,0.41,1
+6456064,Le Fuilet,3007004,La Regrippière,0.30,1
+3011093,La Bernardière,3007004,La Regrippière,0.40,1
+3007878,Landemont,3007004,La Regrippière,0.26,1
+2972584,Tillières,3007004,La Regrippière,0.11,1
+3004238,Le Fief-Sauvin,3007004,La Regrippière,0.28,1
+2980993,Saint-Crespin-sur-Moine,3007004,La Regrippière,0.23,1
+3007004,La Regrippière,3007004,La Regrippière,0.00,1
+3030675,Bouzillé,3007004,La Regrippière,0.45,1
+3010278,La Chapelle-Saint-Florent,3007004,La Regrippière,0.48,1
+3006534,La Salle-et-Chapelle-Aubry,3007004,La Regrippière,0.41,1
+3006999,La Remaudière,3007004,La Regrippière,0.20,1
+2992054,Montrevault,3007004,La Regrippière,0.33,1
+3002483,Le Puiset-Doré,3007004,La Regrippière,0.18,1
+3011001,La Boissière-du-Doré,3007004,La Regrippière,0.16,1
+2994935,Mayenne,2980905,Saint-Denis-de-Gastines,0.46,1
+3019895,Ernée,2980905,Saint-Denis-de-Gastines,0.19,1
+3037886,Ambrières-les-Vallées,2980905,Saint-Denis-de-Gastines,0.45,1
+3015642,Gorron,2980905,Saint-Denis-de-Gastines,0.21,1
+6452386,Andouillé,2980905,Saint-Denis-de-Gastines,0.48,1
+3011402,La Baconnière,2980905,Saint-Denis-de-Gastines,0.45,1
+2980905,Saint-Denis-de-Gastines,2980905,Saint-Denis-de-Gastines,0.00,1
+6436412,Juvigné,2980905,Saint-Denis-de-Gastines,0.45,1
+2979951,Saint-Georges-Buttavent,2980905,Saint-Denis-de-Gastines,0.31,1
+2992690,Montenay,2980905,Saint-Denis-de-Gastines,0.16,1
+6436400,Fougerolles-du-Plessis,2980905,Saint-Denis-de-Gastines,0.42,1
+2989648,Oisseau,2980905,Saint-Denis-de-Gastines,0.35,1
+3027629,Chailland,2980905,Saint-Denis-de-Gastines,0.33,1
+3007841,Landivy,2980905,Saint-Denis-de-Gastines,0.50,1
+2981444,Saint-Baudelle,2980905,Saint-Denis-de-Gastines,0.44,1
+3007044,Larchamp,2980905,Saint-Denis-de-Gastines,0.27,1
+3026054,Châtillon-sur-Colmont,2980905,Saint-Denis-de-Gastines,0.21,1
+3009494,La Ferté-Bernard,3003653,Le Luart,0.35,1
+3031723,Bonnétable,3003653,Le Luart,0.42,1
+2981263,Saint-Calais,3003653,Le Luart,0.51,1
+6450949,Connerré,3003653,Le Luart,0.17,1
+2969411,Vibraye,3003653,Le Luart,0.28,1
+3031129,Bouloire,3003653,Le Luart,0.28,1
+3025430,Cherré,3003653,Le Luart,0.32,1
+2972716,Thorigné-sur-Dué,3003653,Le Luart,0.13,1
+3005028,Le Breil-sur-Mérize,3003653,Le Luart,0.27,1
+2971493,Tuffé,3003653,Le Luart,0.18,1
+3021253,Dollon,3003653,Le Luart,0.09,1
+3003653,Le Luart,3003653,Le Luart,0.00,1
+3020696,Duneau,3003653,Le Luart,0.12,1
+6456561,Les Herbiers,2977659,Saint-Paul-en-Pareds,0.14,1
+3009438,La Flocellière,2977659,Saint-Paul-en-Pareds,0.24,1
+6614870,Les Landes-Genusson,2977659,Saint-Paul-en-Pareds,0.47,1
+2977957,Saint-Michel-Mont-Mercure,2977659,Saint-Paul-en-Pareds,0.19,1
+2978043,Saint-Mesmin,2977659,Saint-Paul-en-Pareds,0.48,1
+6445149,Montournais,2977659,Saint-Paul-en-Pareds,0.48,1
+6451590,Bazoges-en-Paillers,2977659,Saint-Paul-en-Pareds,0.37,1
+2977659,Saint-Paul-en-Pareds,2977659,Saint-Paul-en-Pareds,0.00,1
+2975758,Saumur,2977600,Saint-Philbert-du-Peuple,0.38,1
+3034309,Beaufort-en-Vallée,2977600,Saint-Philbert-du-Peuple,0.35,1
+2978986,Saint-Lambert-des-Levées,2977600,Saint-Philbert-du-Peuple,0.31,1
+6435355,Vivy,2977600,Saint-Philbert-du-Peuple,0.19,1
+3016330,Gennes,2977600,Saint-Philbert-du-Peuple,0.38,1
+2999725,Les Rosiers-sur-Loire,2977600,Saint-Philbert-du-Peuple,0.36,1
+3030600,Brain-sur-Allonnes,2977600,Saint-Philbert-du-Peuple,0.33,1
+2969850,Vernantes,2977600,Saint-Philbert-du-Peuple,0.18,1
+2970681,Varennes-sur-Loire,2977600,Saint-Philbert-du-Peuple,0.47,1
+2989913,Noyant,2977600,Saint-Philbert-du-Peuple,0.45,1
+2968873,Villebernier,2977600,Saint-Philbert-du-Peuple,0.39,1
+2977600,Saint-Philbert-du-Peuple,2977600,Saint-Philbert-du-Peuple,0.00,1
+2969776,Vernoil-le-Fourrier,2977600,Saint-Philbert-du-Peuple,0.23,1
+2998834,Le Vieil-Baugé,2977600,Saint-Philbert-du-Peuple,0.41,1
+3030011,Brion,2977600,Saint-Philbert-du-Peuple,0.25,1
+2978376,Saint-Martin-de-la-Place,2977600,Saint-Philbert-du-Peuple,0.29,1
+3012073,Jumelles,2977600,Saint-Philbert-du-Peuple,0.16,1
+6435281,Saint-Clément-des-Levées,2977600,Saint-Philbert-du-Peuple,0.32,1
+6434534,Saint-Nazaire,2985490,Préfailles,0.42,1
+2986060,Pornic,2985490,Préfailles,0.21,1
+8293018,Saint-Père-en-Retz,2985490,Préfailles,0.39,1
+3007262,La Plaine-sur-Mer,2985490,Préfailles,0.05,1
+3011090,La Bernerie-en-Retz,2985490,Préfailles,0.36,1
+3000205,Les Moutiers-en-Retz,2985490,Préfailles,0.44,1
+3002789,L’Épine,2985490,Préfailles,0.43,1
+2985490,Préfailles,2985490,Préfailles,0.00,1
+3026286,Château-du-Loir,2982188,Ruillé-sur-Loir,0.41,1
+3033066,Bessé-sur-Braye,2982188,Ruillé-sur-Loir,0.33,1
+3003986,Le Grand-Lucé,2982188,Ruillé-sur-Loir,0.43,1
+3010181,La Chartre-sur-le-Loir,2982188,Ruillé-sur-Loir,0.11,1
+2982188,Ruillé-sur-Loir,2982188,Ruillé-sur-Loir,0.00,1
+2995927,Marçon,2982188,Ruillé-sur-Loir,0.23,1
+2975314,Segré,2989820,Nyoiseau,0.12,1
+3018162,Le Lion-d’Angers,2989820,Nyoiseau,0.45,1
+3022690,Craon,2989820,Nyoiseau,0.37,1
+2985893,Pouancé,2989820,Nyoiseau,0.49,1
+3028851,Candé,2989820,Nyoiseau,0.49,1
+3024126,Combrée,2989820,Nyoiseau,0.22,1
+2984012,Renazé,2989820,Nyoiseau,0.34,1
+2969839,Vern-d’Anjou,2989820,Nyoiseau,0.36,1
+3007174,La Pouëze,2989820,Nyoiseau,0.50,1
+2989909,Noyant-la-Gravoyère,2989820,Nyoiseau,0.08,1
+2980092,Saint-Fort,2989820,Nyoiseau,0.43,1
+3025612,Chemazé,2989820,Nyoiseau,0.33,1
+2989820,Nyoiseau,2989820,Nyoiseau,0.00,1
+3025663,Chazé-sur-Argos,2989820,Nyoiseau,0.28,1
+2972620,Tiercé,2975467,Sceaux-d’Anjou,0.26,1
+3026221,Châteauneuf-sur-Sarthe,2975467,Sceaux-d’Anjou,0.28,1
+3033927,Bécon-les-Granits,2975467,Sceaux-d’Anjou,0.49,1
+3027130,Champigné,2975467,Sceaux-d’Anjou,0.14,1
+2990561,Grez-Neuville,2975467,Sceaux-d’Anjou,0.15,1
+2972718,Thorigné-d’Anjou,2975467,Sceaux-d’Anjou,0.12,1
+2975467,Sceaux-d’Anjou,2975467,Sceaux-d’Anjou,0.00,1
+6613155,Ancenis,3006640,La Rouxière,0.28,1
+2994280,Mésanger,3006640,La Rouxière,0.31,1
+6434556,Varades,3006640,La Rouxière,0.18,1
+3003656,Le Louroux Béconnais,3006640,La Rouxière,0.41,1
+2992354,Montjean-sur-Loire,3006640,La Rouxière,0.42,1
+2979873,Saint-Géréon,3006640,La Rouxière,0.32,1
+2980109,Saint-Florent-le-Vieil,3006640,La Rouxière,0.25,1
+2979589,Saint-Herblon,3006640,La Rouxière,0.11,1
+3023315,Couffé,3006640,La Rouxière,0.45,1
+2978520,Saint-Mars-la-Jaille,3006640,La Rouxière,0.32,1
+6452327,Anetz,3006640,La Rouxière,0.18,1
+6449427,Champtocé-sur-Loire,3006640,La Rouxière,0.39,1
+3033618,Belligné,3006640,La Rouxière,0.10,1
+2973219,Teillé,3006640,La Rouxière,0.40,1
+3025972,Chaudron-en-Mauges,3006640,La Rouxière,0.46,1
+3003392,Le Mesnil-en-Vallée,3006640,La Rouxière,0.33,1
+2988634,Pannecé,3006640,La Rouxière,0.34,1
+2977204,Saint-Rémy-en-Mauges,3006640,La Rouxière,0.48,1
+2981525,Saint-Augustin-des-Bois,3006640,La Rouxière,0.51,1
+3006640,La Rouxière,3006640,La Rouxière,0.00,1
+6456072,Le Marillais,3006640,La Rouxière,0.23,1
+3017259,Freigné,3006640,La Rouxière,0.31,1
+2995089,Maumusson,3006640,La Rouxière,0.13,1
+2985854,Pouillé-les-Côteaux,3006640,La Rouxière,0.18,1
+2977280,Saint-Quentin-en-Mauges,3006640,La Rouxière,0.51,1
+3009443,La Flèche,6442669,Requeil,0.50,1
+3020462,Écommoy,6442669,Requeil,0.24,1
+6456406,Le Lude,6442669,Requeil,0.39,1
+3027918,Cérans-Foulletourte,6442669,Requeil,0.20,1
+2994928,Mayet,6442669,Requeil,0.22,1
+3036352,Aubigné-Racan,6442669,Requeil,0.33,1
+2994036,Mézeray,6442669,Requeil,0.36,1
+6442608,Malicorne-sur-Sarthe,6442669,Requeil,0.47,1
+2967175,Yvré-le-Pôlin,6442669,Requeil,0.10,1
+2986087,Pontvallain,6442669,Requeil,0.11,1
+2995747,Marigné-Laillé,6442669,Requeil,0.35,1
+2997223,Luché-Pringé,6442669,Requeil,0.28,1
+2996163,Mansigné,6442669,Requeil,0.12,1
+2971251,Vaas,6442669,Requeil,0.43,1
+2989639,Oizé,6442669,Requeil,0.13,1
+3024641,Clermont-Créans,6442669,Requeil,0.38,1
+2997242,Luceau,6442669,Requeil,0.48,1
+6442669,Requeil,6442669,Requeil,0.00,1
+2969027,Villaines-sous-Malicorne,6442669,Requeil,0.49,1
+3017921,Fontenay-le-Comte,3017456,Foussais-Payré,0.29,1
+3033495,Benet,3017456,Foussais-Payré,0.48,1
+3010161,La Châtaigneraie,3017456,Foussais-Payré,0.35,1
+6445200,Saint-Hilaire-des-Loges,3017456,Foussais-Payré,0.17,1
+2997725,Longèves,3017456,Foussais-Payré,0.35,1
+2977467,Saint-Pierre-du-Chemin,3017456,Foussais-Payré,0.46,1
+3006313,La Tardière,3017456,Foussais-Payré,0.37,1
+2990378,Nieul-sur-l’Autise,3017456,Foussais-Payré,0.30,1
+6445220,Saint-Michel-le-Cloucq,3017456,Foussais-Payré,0.18,1
+2987009,Pissotte,3017456,Foussais-Payré,0.26,1
+3017456,Foussais-Payré,3017456,Foussais-Payré,0.00,1
+3037442,Antigny,3017456,Foussais-Payré,0.30,1
+2994301,Mervent,3017456,Foussais-Payré,0.14,1
+3020964,Doué-la-Fontaine,2970534,Vaudelnay,0.21,1
+2979503,Saint-Hilaire-Saint-Florent,2970534,Vaudelnay,0.41,1
+2992084,Montreuil-Bellay,2970534,Vaudelnay,0.10,1
+2995399,Martigné-Briand,2970534,Vaudelnay,0.50,1
+3021315,Distré,2970534,Vaudelnay,0.30,1
+3017850,Fontevraud-l’Abbaye,2970534,Vaudelnay,0.50,1
+6458627,Chacé,2970534,Vaudelnay,0.33,1
+2989851,Nueil-sur-Layon,2970534,Vaudelnay,0.31,1
+3030155,Brézé,2970534,Vaudelnay,0.29,1
+2970651,Varrains,2970534,Vaudelnay,0.36,1
+3002446,Le Puy-Notre-Dame,2970534,Vaudelnay,0.07,1
+2970534,Vaudelnay,2970534,Vaudelnay,0.00,1
+3007213,La Pommeraye,3026808,Chanzeaux,0.48,1
+6454204,Vihiers,3026808,Chanzeaux,0.39,1
+2978927,Saint-Laurent-de-la-Plaine,3026808,Chanzeaux,0.34,1
+3002782,Le Pin-en-Mauges,3026808,Chanzeaux,0.48,1
+3008571,La Jumellière,3026808,Chanzeaux,0.17,1
+2992381,Montilliers,3026808,Chanzeaux,0.35,1
+3026808,Chanzeaux,3026808,Chanzeaux,0.00,1
+3006536,La Salle-de-Vihiers,3026808,Chanzeaux,0.30,1
+2979532,Saint-Hilaire-du-Bois,3026808,Chanzeaux,0.39,1
+6454806,Montaigu,2976839,Saint-Sulpice-le-Verdon,0.30,1
+2991537,Mouilleron-le-Captif,2976839,Saint-Sulpice-le-Verdon,0.49,1
+2979545,Saint-Hilaire-de-Loulay,2976839,Saint-Sulpice-le-Verdon,0.35,1
+3004114,Legé,2976839,Saint-Sulpice-le-Verdon,0.34,1
+2987714,Saint-Georges-de-Montaigu,2976839,Saint-Sulpice-le-Verdon,0.28,1
+3021124,Dompierre-sur-Yon,2976839,Saint-Sulpice-le-Verdon,0.44,1
+3033635,Belleville-sur-Vie,2976839,Saint-Sulpice-le-Verdon,0.31,1
+3038520,Aigrefeuille-sur-Maine,2976839,Saint-Sulpice-le-Verdon,0.51,1
+2969316,Vieillevigne,2976839,Saint-Sulpice-le-Verdon,0.22,1
+2980059,Saint-Fulgent,2976839,Saint-Sulpice-le-Verdon,0.48,1
+3025772,Chavagnes-en-Paillers,2976839,Saint-Sulpice-le-Verdon,0.32,1
+3000446,Les Lucs-sur-Boulogne,2976839,Saint-Sulpice-le-Verdon,0.20,1
+2977603,Saint-Philbert-de-Bouaine,2976839,Saint-Sulpice-le-Verdon,0.32,1
+3031293,Boufféré,2976839,Saint-Sulpice-le-Verdon,0.24,1
+2981033,Saint-Colomban,2976839,Saint-Sulpice-le-Verdon,0.45,1
+2983221,Rocheservière,2976839,Saint-Sulpice-le-Verdon,0.21,1
+6445247,Treize-Septiers,2976839,Saint-Sulpice-le-Verdon,0.44,1
+2998626,L’Herbergement,2976839,Saint-Sulpice-le-Verdon,0.09,1
+2992925,Montbert,2976839,Saint-Sulpice-le-Verdon,0.48,1
+2979336,Corcoué-sur-Logne,2976839,Saint-Sulpice-le-Verdon,0.36,1
+3001698,Les Brouzils,2976839,Saint-Sulpice-le-Verdon,0.19,1
+3008820,La Guyonnière,2976839,Saint-Sulpice-le-Verdon,0.38,1
+3007259,La Planche,2976839,Saint-Sulpice-le-Verdon,0.34,1
+3026005,Chauché,2976839,Saint-Sulpice-le-Verdon,0.33,1
+3008470,La Limouzinière,2976839,Saint-Sulpice-le-Verdon,0.43,1
+2980883,Saint-Denis-la-Chevasse,2976839,Saint-Sulpice-le-Verdon,0.23,1
+3010990,La Boissière-de-Montaigu,2976839,Saint-Sulpice-le-Verdon,0.46,1
+2976433,Saligny,2976839,Saint-Sulpice-le-Verdon,0.24,1
+6614664,La Genétouze,2976839,Saint-Sulpice-le-Verdon,0.49,1
+2984038,Remouillé,2976839,Saint-Sulpice-le-Verdon,0.46,1
+2972128,Touvois,2976839,Saint-Sulpice-le-Verdon,0.50,1
+6617839,Beaufou,2976839,Saint-Sulpice-le-Verdon,0.28,1
+2981711,Saint-André-Treize-Voies,2976839,Saint-Sulpice-le-Verdon,0.12,1
+2988701,Palluau,2976839,Saint-Sulpice-le-Verdon,0.45,1
+2976839,Saint-Sulpice-le-Verdon,2976839,Saint-Sulpice-le-Verdon,0.00,1
+3009927,La Copechagnière,2976839,Saint-Sulpice-le-Verdon,0.19,1
+3008157,La Merlatière,2976839,Saint-Sulpice-le-Verdon,0.42,1
+2996291,Mamers,2990679,Neufchâtel-en-Saosnois,0.24,1
+3017189,Fresnay-sur-Sarthe,2990679,Neufchâtel-en-Saosnois,0.49,1
+2995569,Marolles-les-Braults,2990679,Neufchâtel-en-Saosnois,0.37,1
+3034140,Beaumont-sur-Sarthe,2990679,Neufchâtel-en-Saosnois,0.47,1
+2981013,Saint-Cosme-en-Vairais,2990679,Neufchâtel-en-Saosnois,0.49,1
+3037168,Arçonnay,2990679,Neufchâtel-en-Saosnois,0.30,1
+2977712,Saint-Paterne,2990679,Neufchâtel-en-Saosnois,0.27,1
+3027152,Champfleur,2990679,Neufchâtel-en-Saosnois,0.22,1
+2990679,Neufchâtel-en-Saosnois,2990679,Neufchâtel-en-Saosnois,0.00,1
+2977816,Saint-Ouen-de-Mimbré,2990679,Neufchâtel-en-Saosnois,0.43,1
+3034555,Baugé,2999825,Les Rairies,0.34,1
+2978791,Durtal,2999825,Les Rairies,0.09,1
+2975288,Seiches-sur-le-Loir,2999825,Les Rairies,0.36,1
+3012447,Jarzé,2999825,Les Rairies,0.27,1
+3010378,La Chapelle-d’Aligné,2999825,Les Rairies,0.23,1
+6435210,Étriché,2999825,Les Rairies,0.45,1
+3021688,Daumeray,2999825,Les Rairies,0.32,1
+3034411,Bazouges-sur-le-Loir,2999825,Les Rairies,0.13,1
+3005371,Le Bailleul,2999825,Les Rairies,0.34,1
+3022302,Crosmières,2999825,Les Rairies,0.28,1
+2999825,Les Rairies,2999825,Les Rairies,0.00,1
+2997210,Luçon,3003726,Le Langon,0.42,1
+2991027,Nalliers,3003726,Le Langon,0.18,1
+2980570,Sainte-Gemme-la-Plaine,3003726,Le Langon,0.34,1
+3027627,Chaillé-les-Marais,3003726,Le Langon,0.18,1
+2967801,Vix,3003726,Le Langon,0.27,1
+3027250,Champagné-les-Marais,3003726,Le Langon,0.37,1
+2998332,L’Île-d’Elle,3003726,Le Langon,0.30,1
+2991289,Mouzeuil-Saint-Martin,3003726,Le Langon,0.10,1
+3023551,Corpe,3003726,Le Langon,0.48,1
+3003726,Le Langon,3003726,Le Langon,0.00,1
+3026303,Châteaubriant,2997433,Louisfert,0.16,1
+3021552,Derval,2997433,Louisfert,0.45,1
+3019944,Erbray,2997433,Louisfert,0.22,1
+3012217,Joué-sur-Erdre,2997433,Louisfert,0.50,1
+2983735,Riaillé,2997433,Louisfert,0.50,1
+2982615,Rougé,2997433,Louisfert,0.30,1
+3038799,Abbaretz,2997433,Louisfert,0.39,1
+2974108,Soudan,2997433,Louisfert,0.30,1
+2993590,Moisdon-la-Rivière,2997433,Louisfert,0.19,1
+3012676,Issé,2997433,Louisfert,0.15,1
+2981574,Saint-Aubin-des-Châteaux,2997433,Louisfert,0.16,1
+2974485,Sion-les-Mines,2997433,Louisfert,0.34,1
+3008185,La Meilleraye-de-Bretagne,2997433,Louisfert,0.33,1
+2976603,Saint-Vincent-des-Landes,2997433,Louisfert,0.13,1
+3012506,Jans,2997433,Louisfert,0.37,1
+2997064,Lusanger,2997433,Louisfert,0.29,1
+2997433,Louisfert,2997433,Louisfert,0.00,1
+2971180,Sablé-sur-Sarthe,3014683,Grez-en-Bouère,0.36,1
+6449657,Château-Gontier,3014683,Grez-en-Bouère,0.36,1
+6449633,Azé,3014683,Grez-en-Bouère,0.34,1
+6442662,Précigné,3014683,Grez-en-Bouère,0.48,1
+2994263,Meslay-du-Maine,3014683,Grez-en-Bouère,0.22,1
+6449677,Entrammes,3014683,Grez-en-Bouère,0.49,1
+2991888,Morannes,3014683,Grez-en-Bouère,0.41,1
+2980909,Saint-Denis-d’Anjou,3014683,Grez-en-Bouère,0.28,1
+2988479,Parné-sur-Roc,3014683,Grez-en-Bouère,0.46,1
+3012119,Juigné-sur-Sarthe,3014683,Grez-en-Bouère,0.44,1
+2968190,Villiers-Charlemagne,3014683,Grez-en-Bouère,0.32,1
+3034415,Bazougers,3014683,Grez-en-Bouère,0.41,1
+3031307,Bouère,3014683,Grez-en-Bouère,0.09,1
+3016328,Gennes-sur-Glaize,3014683,Grez-en-Bouère,0.17,1
+3014683,Grez-en-Bouère,3014683,Grez-en-Bouère,0.00,1

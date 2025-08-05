@@ -1,0 +1,59 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    325518583.53
+Primary   Care Cost:	     86128664.00
+Secondary Care Cost:	    155535680.00
+Tertiary  Care Cost:	     78079170.00
+Add Infrastruc Cost:	      4700310.80
+Populat ExtLog Cost:	      1074758.73
+HC Cost per capita (now):	     4892.93
+HC Cost per capita (fut):	     4981.31
+----------------------------------------
+
+-----------------------------------
+State population:	65348
+Max municipa pop:	47598
+Min municipa pop:	634
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			5000   		2.00
+[3]			25000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 8 municipalities).
+----------------------------------------------------------------
+Care Level [1]:   8 mun >   7 mun (100.00% coverage)
+Care Level [2]:   7 mun >   2 mun
+Care Level [3]:   2 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	217	Kannus                   :	670466.60
+    1	849	Toholampi                :	312497.80
+    1	584	Perho                    :	291541.60
+    1	74	Halsua                   :	117038.40
+    1	421	Lestijärvi              :	83561.20
+    1	236	Kaustinen                :	864344.40
+    2	217	Kannus                   :	2360860.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	849	Toholampi                :	164951.77
+    2	584	Perho                    :	648005.40
+    2	74	Halsua                   :	126146.03
+    2	421	Lestijärvi              :	46804.04
+    2	236	Kaustinen                :	88851.50
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

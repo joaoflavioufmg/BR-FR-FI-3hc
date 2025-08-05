@@ -1,0 +1,60 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   North Savo (15)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	20000
+2	2130	# Q1
+3	3441	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 1.6
+3 1.7; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+297	15	62.8925	27.6783	125383	0	'Kuopio'	
+140	15	63.5611	27.1889	19508	0	'Iisalmi'	
+749	15	63.075	27.66	20136	0	'Siilinjärvi'	
+915	15	62.3167	27.8833	17961	1	'Varkaus'	
+402	15	63.3667	27.3833	8388	1	'Lapinlahti'	
+420	15	62.4917	27.7875	8440	1	'Leppävirta'	
+263	15	63.6528	26.6194	6695	1	'Kiuruvesi'	
+778	15	62.625	27.1222	6158	1	'Suonenjoki'	
+595	15	63.2333	26.7583	3633	1	'Pielavesi'	
+762	15	63.6667	27.5167	3248	1	'Sonkajärvi'	
+925	15	63.7431	27.0014	3130	1	'Vieremä'	
+686	15	62.6217	26.8333	2639	1	'Rautalampi'	
+204	15	62.975	28.4833	2347	1	'Kaavi'	
+857	15	62.8083	28.4917	2058	1	'Tuusniemi'	
+239	15	63.1783	26.35	1836	1	'Keitele'	
+921	15	62.9333	26.4167	1636	1	'Vesanto'	
+687	15	63.4944	28.2986	1287	1	'Rautavaara'	
+844	15	62.9556	26.7556	1368	1	'Tervo'				
+;
+
+
+end;

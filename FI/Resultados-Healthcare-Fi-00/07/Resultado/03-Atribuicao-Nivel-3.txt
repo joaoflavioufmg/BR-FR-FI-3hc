@@ -1,0 +1,3 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+272	                       Kokkola	272	                       Kokkola	    0.00
+217	                        Kannus	272	                       Kokkola	    0.98

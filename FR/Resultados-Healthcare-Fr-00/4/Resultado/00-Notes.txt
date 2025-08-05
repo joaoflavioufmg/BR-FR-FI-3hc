@@ -1,0 +1,142 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   3363962945.44
+Primary   Care Cost:	   2549626240.00
+Secondary Care Cost:	    351595475.00
+Tertiary  Care Cost:	    243289395.00
+Add Infrastruc Cost:	    212080190.50
+Populat ExtLog Cost:	      7371644.94
+HC Cost per capita (now):	     1745.15
+HC Cost per capita (fut):	     1866.94
+----------------------------------------
+
+-----------------------------------
+State population:	1801856
+Max municipa pop:	156854
+Min municipa pop:	1005
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			6000   		1.70
+[3]			20000  		2.00
+-----------------------------------
+
+
+Demand met by level: (Estate has 474 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 474 mun >  48 mun (100.00% coverage)
+Care Level [2]:  48 mun >   7 mun
+Care Level [3]:   7 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3035768	Avallon                  :	1084597.50
+    1	2997439	Louhans                  :	3729657.00
+    1	3026046	Châtillon-sur-Seine     :	757591.00
+    1	3031090	Bourbon-Lancy            :	853386.50
+    1	6428942	Venarey-les-Laumes       :	1848980.50
+    1	6454608	Charolles                :	2380030.00
+    1	2975819	Saulieu                  :	337477.50
+    1	2989425	Orchamps-Vennes          :	4983347.00
+    1	2978666	Saint-Lupicin            :	3125169.00
+    1	3019443	Étang-sur-Arroux        :	2564263.00
+    1	6456379	La Clayette              :	1162139.50
+    1	3012026	Jussey                   :	223711.50
+    1	2988722	Palinges                 :	3961858.50
+    1	3025944	Chaulgnes                :	1381323.00
+    1	2991474	Moulins-Engilbert        :	721508.50
+    1	2984675	Quingey                  :	21598984.50
+    1	2990479	Neuvy-sur-Loire          :	2081040.50
+    1	6452589	Aillant-sur-Tholon       :	11531967.00
+    1	3036862	Arnay-le-Duc             :	719810.50
+    1	6614331	Frahier-et-Châtebier    :	24869474.00
+    1	2975081	Sennecé-lès-Mâcon     :	10079469.50
+    1	2997559	Lormes                   :	388134.50
+    1	3023756	Corbenay                 :	3042957.50
+    1	2981416	Saint-Benin-d’Azy      :	1655408.50
+    1	2998359	Ligny-le-Châtel         :	3648436.00
+    1	3021809	Dampierre-sur-Salon      :	1696160.50
+    1	2996020	Marchaux                 :	4957311.00
+    1	3021219	Domblans                 :	4696668.00
+    1	3032430	Blamont                  :	13570982.00
+    1	3023010	Courlon-sur-Yonne        :	1158460.50
+    1	2970637	Varzy                    :	906166.00
+    1	3026846	Chantenay-Saint-Imbert   :	638872.50
+    1	6428919	Til-Châtel              :	2063211.50
+    1	3023370	Couchey                  :	40098977.50
+    1	3025988	Chaudenay                :	4040815.50
+    1	6442338	Montpont-en-Bresse       :	1748232.50
+    1	2987808	Pesmes                   :	737781.00
+    1	3018134	Foncine-le-Haut          :	3439440.50
+    1	3024624	Clerval                  :	1620175.00
+    1	6429698	Chaffois                 :	4984196.00
+    1	2981274	Saint-Bris-le-Vineux     :	335355.00
+    1	6442430	Saint-Laurent-d’Andenay:	9625537.50
+    1	2979310	Saint-Jean-de-Losne      :	1138084.50
+    2	3035768	Avallon                  :	3952641.00
+    2	2997439	Louhans                  :	1940400.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6455085	Arbois                   :	1449.30
+    1	6442377	Romanèche-Thorins       :	879.02
+    1	2995983	Marcigny                 :	767.07
+    1	6438052	Pouilly-sur-Loire        :	708.90
+    1	2968026	Vinneuf                  :	685.73
+    1	6441995	Magny-Vernois            :	607.44
+    1	3032278	Bléneau                 :	538.78
+    1	3021839	Dampierre                :	507.30
+    1	2968550	Villeneuve-l’Archevêque:	493.30
+    1	2969959	Verdun-sur-le-Doubs      :	468.38
+    2	3026046	Châtillon-sur-Seine     :	758932.38
+    2	3031090	Bourbon-Lancy            :	619109.02
+    2	6428942	Venarey-les-Laumes       :	56347.40
+    2	6454608	Charolles                :	234455.86
+    2	2975819	Saulieu                  :	16549.25
+    2	2989425	Orchamps-Vennes          :	240022.15
+    2	2978666	Saint-Lupicin            :	104063.33
+    2	3019443	Étang-sur-Arroux        :	98735.68
+    2	6456379	La Clayette              :	261132.09
+    2	3012026	Jussey                   :	4815.47
+    2	2988722	Palinges                 :	92925.12
+    2	2991474	Moulins-Engilbert        :	70017.14
+    2	2984675	Quingey                  :	4367.73
+    2	2990479	Neuvy-sur-Loire          :	178235.46
+    2	6452589	Aillant-sur-Tholon       :	15390.92
+    2	3036862	Arnay-le-Duc             :	63090.38
+    2	6614331	Frahier-et-Châtebier    :	40670.99
+    2	2975081	Sennecé-lès-Mâcon     :	40486.49
+    2	2997559	Lormes                   :	137200.00
+    2	3023756	Corbenay                 :	7092.04
+    2	2998359	Ligny-le-Châtel         :	52731.96
+    2	3021809	Dampierre-sur-Salon      :	13685.68
+    2	2996020	Marchaux                 :	7976.75
+    2	3021219	Domblans                 :	15995.26
+    2	3032430	Blamont                  :	116821.96
+    2	2970637	Varzy                    :	32598.72
+    2	3026846	Chantenay-Saint-Imbert   :	3170.67
+    2	6428919	Til-Châtel              :	71796.12
+    2	3023370	Couchey                  :	27748.50
+    2	6442338	Montpont-en-Bresse       :	8162.34
+    2	2987808	Pesmes                   :	66.49
+    2	3018134	Foncine-le-Haut          :	163268.05
+    2	3024624	Clerval                  :	11313.64
+    2	6429698	Chaffois                 :	128635.15
+    2	2981274	Saint-Bris-le-Vineux     :	90236.15
+    2	6442430	Saint-Laurent-d’Andenay:	645.64
+    3	6454607	Vesoul                   :	2143217.07
+    3	2977229	Saint-Rémy              :	254802.39
+    3	3035768	Avallon                  :	1062019.64
+    3	2997439	Louhans                  :	116008.62
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

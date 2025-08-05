@@ -1,0 +1,101 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+2988800	                          Nice	2988800	                          Nice	    0.00
+2969187	                     Marseille	2969187	                     Marseille	    0.00
+2980772	                        Toulon	2980772	                        Toulon	    0.00
+3038354	               Aix-en-Provence	3038354	               Aix-en-Provence	    0.00
+3035681	                       Avignon	3035681	                       Avignon	    0.00
+3028808	                        Cannes	3028808	                        Cannes	    0.00
+2977162	                       Antibes	2977162	                       Antibes	    0.00
+2974657	              La Seyne-sur-Mer	2974657	              La Seyne-sur-Mer	    0.00
+3012937	                       Hyères	3012937	                       Hyères	    0.00
+3017253	                       Fréjus	3017253	                       Fréjus	    0.00
+3036938	                         Arles	3036938	                         Arles	    0.00
+3029227	                Cagnes-sur-Mer	3029227	                Cagnes-sur-Mer	    0.00
+3014856	                        Grasse	3014856	                        Grasse	    0.00
+6454958	                     Martigues	6454958	                     Martigues	    0.00
+3036433	                       Aubagne	3036433	                       Aubagne	    0.00
+2976341	             Salon-de-Provence	2976341	             Salon-de-Provence	    0.00
+3012647	                        Istres	3012647	                        Istres	    0.00
+3004871	                     Le Cannet	3004871	                     Le Cannet	    0.00
+3016702	                           Gap	3016702	                           Gap	    0.00
+3006511	                     La Saulce	3016702	                           Gap	    0.40
+3020850	                    Draguignan	3020850	                    Draguignan	    0.00
+6456718	                     La Ciotat	6456718	                     La Ciotat	    0.00
+6445063	                Saint-Raphaël	6445063	                Saint-Raphaël	    0.00
+2967870	                     Vitrolles	2967870	                     Vitrolles	    0.00
+2995750	                     Marignane	2995750	                     Marignane	    0.00
+2989460	                        Orange	2989460	                        Orange	    0.00
+6451561	                       Lapalud	2989460	                        Orange	    0.52
+2978891	          Saint-Laurent-du-Var	2978891	          Saint-Laurent-du-Var	    0.00
+3028542	                    Carpentras	3028542	                    Carpentras	    0.00
+3015661	                        Gordes	3028542	                    Carpentras	    0.50
+6425695	                     Vallauris	6425695	                     Vallauris	    0.00
+6614137	                     Cavaillon	6614137	                     Cavaillon	    0.00
+3009198	                      La Garde	3009198	                      La Garde	    0.00
+2996255	          Mandelieu-la-Napoule	2996255	          Mandelieu-la-Napoule	    0.00
+6425528	                      Manosque	6425528	                      Manosque	    0.00
+3038159	                       Allauch	3038159	                       Allauch	    0.00
+3016667	                      Gardanne	3016667	                      Gardanne	    0.00
+2987825	                       Pertuis	2987825	                       Pertuis	    0.00
+2991551	                       Mougins	2991551	                       Mougins	    0.00
+2974188	                       Sorgues	2974188	                       Sorgues	    0.00
+2970148	                         Vence	2970148	                         Vence	    0.00
+2999891	                       La Crau	2999891	                       La Crau	    0.00
+3030057	                     Brignoles	3030057	                     Brignoles	    0.00
+2976258	                Sanary-sur-Mer	2976258	                Sanary-sur-Mer	    0.00
+6618043	               Digne-les-Bains	6618043	               Digne-les-Bains	    0.00
+2973393	                      Tarascon	2973393	                      Tarascon	    0.00
+3031387	                  Bouc-Bel-Air	3031387	                  Bouc-Bel-Air	    0.00
+2982875	         Roquebrune-sur-Argens	2982875	         Roquebrune-sur-Argens	    0.00
+2989590	                     Ollioules	2989590	                     Ollioules	    0.00
+3003188	                       Cogolin	3003188	                       Cogolin	    0.00
+3030142	                     Briançon	3030142	                     Briançon	    0.00
+3037352	                           Apt	3037352	                           Apt	    0.00
+3003650	                        Le Luc	3003650	                        Le Luc	    0.00
+2977214	       Saint-Rémy-de-Provence	2977214	       Saint-Rémy-de-Provence	    0.00
+3028534	                  Carqueiranne	3028534	                  Carqueiranne	    0.00
+6615256	                      Valréas	6615256	                      Valréas	    0.00
+6447163	                    Roquevaire	6447163	                    Roquevaire	    0.00
+2988220	                      Pégomas	2988220	                      Pégomas	    0.00
+6447121	                     Éguilles	6447121	                     Éguilles	    0.00
+2974446	                      Sisteron	2974446	                      Sisteron	    0.00
+3007082	            Laragne-Montéglin	2974446	                      Sisteron	    0.43
+3023842	                        Contes	3023842	                        Contes	    0.00
+3019219	                    Eyguières	3019219	                    Eyguières	    0.00
+2976656	                Saint-Victoret	2976656	                Saint-Victoret	    0.00
+3007401	         La Penne-sur-Huveaune	3007401	         La Penne-sur-Huveaune	    0.00
+3000866	               La Bouilladisse	3000866	               La Bouilladisse	    0.00
+6446638	                        Embrun	6446638	                        Embrun	    0.00
+2994901	                         Mazan	2994901	                         Mazan	    0.00
+2991750	                     Mormoiron	2994901	                         Mazan	    0.12
+2975953	                      Sarrians	2975953	                      Sarrians	    0.00
+2987297	              Pierrefeu-du-Var	2987297	              Pierrefeu-du-Var	    0.00
+2971154	             Vaison-la-Romaine	2971154	             Vaison-la-Romaine	    0.00
+3002443	       Le Puy-Sainte-Réparade	3002443	       Le Puy-Sainte-Réparade	    0.00
+2974337	               Solliès-Toucas	2974337	               Solliès-Toucas	    0.00
+6618146	      Saint-André-de-la-Roche	6618146	      Saint-André-de-la-Roche	    0.00
+2987547	                        Peypin	2987547	                        Peypin	    0.00
+3017798	                   Forcalquier	3017798	                   Forcalquier	    0.00
+2990987	                 Nans-les-Pins	2990987	                 Nans-les-Pins	    0.00
+3009663	                 La Destrousse	2990987	                 Nans-les-Pins	    0.36
+2998916	                        Levens	2998916	                        Levens	    0.00
+2985142	               Puget-Théniers	2998916	                        Levens	    0.71
+3027745	                      Ceyreste	3027745	                      Ceyreste	    0.00
+2993832	                         Mimet	2993832	                         Mimet	    0.00
+3002357	            Le Revest-les-Eaux	3002357	            Le Revest-les-Eaux	    0.00
+2974162	                        Sospel	2974162	                        Sospel	    0.00
+2982881	                Roquebillière	2974162	                        Sospel	    0.47
+3014717	             Gréoux-les-Bains	3014717	             Gréoux-les-Bains	    0.00
+2983580	                          Riez	3014717	             Gréoux-les-Bains	    0.45
+3018513	                   Figanières	3018513	                   Figanières	    0.00
+3029125	                        Callas	3018513	                   Figanières	    0.11
+3028382	                    Castellane	3018513	                   Figanières	    0.77
+3034991	                 Barcelonnette	3034991	                 Barcelonnette	    0.00
+2980247	      Saint-Étienne-de-Tinée	3034991	                 Barcelonnette	    0.65
+2974661	                         Seyne	3034991	                 Barcelonnette	    0.60
+2999179	                   Le Thoronet	2999179	                   Le Thoronet	    0.00
+3036067	                          Aups	2999179	                   Le Thoronet	    0.52
+2980759	                       Évenos	2980759	                       Évenos	    0.00
+2973485	                       Tallard	2973485	                       Tallard	    0.00
+2973180	                         Tende	2973180	                         Tende	    0.00
+2980325	      Saintes-Maries-de-la-Mer	2980325	      Saintes-Maries-de-la-Mer	    0.00

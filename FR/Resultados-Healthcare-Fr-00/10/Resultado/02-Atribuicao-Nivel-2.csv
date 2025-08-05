@@ -1,0 +1,39 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+6427260,Hérouville-Saint-Clair,6427260,Hérouville-Saint-Clair,0.00,2
+2989753,Octeville-sur-Mer,6427260,Hérouville-Saint-Clair,1.26,2
+3013402,Hérouvillette,6427260,Hérouville-Saint-Clair,0.16,2
+3036231,Audrieu,6427260,Hérouville-Saint-Clair,0.49,2
+3004989,Le Breuil-en-Auge,6427260,Hérouville-Saint-Clair,1.00,2
+3037961,Amayé-sur-Orne,6427260,Hérouville-Saint-Clair,0.39,2
+6456462,Le Petit-Quevilly,6456462,Le Petit-Quevilly,0.00,2
+3036850,Arnières-sur-Iton,6456462,Le Petit-Quevilly,1.21,2
+2994529,Menneval,6456462,Le Petit-Quevilly,1.21,2
+6456442,La Feuillie,6456462,Le Petit-Quevilly,0.84,2
+2997784,Londinières,6456462,Le Petit-Quevilly,1.28,2
+3016812,Gaillefontaine,6456462,Le Petit-Quevilly,1.19,2
+2988958,Ourville-en-Caux,6456462,Le Petit-Quevilly,1.16,2
+2987596,Petiville,6456462,Le Petit-Quevilly,0.85,2
+6424470,Écos,6456462,Le Petit-Quevilly,1.25,2
+6430496,Montaure,6456462,Le Petit-Quevilly,0.55,2
+3003453,Grugny,6456462,Le Petit-Quevilly,0.54,2
+2990537,Neuville-lès-Dieppe,2990537,Neuville-lès-Dieppe,0.00,2
+3019461,Étalondes,2990537,Neuville-lès-Dieppe,0.58,2
+3022826,Coutances,3022826,Coutances,0.00,2
+2970860,Valognes,3022826,Coutances,1.29,2
+6435531,Pirou,3022826,Coutances,0.40,2
+6435596,Saint-Hilaire-Petitville,3022826,Coutances,0.82,2
+2977261,Saint-Quentin-sur-le-Homme,3022826,Coutances,1.13,2
+2984354,Rauville-la-Bigot,3022826,Coutances,1.38,2
+3013242,Folligny,3022826,Coutances,0.62,2
+3005311,Le Bény-Bocage,3022826,Coutances,1.15,2
+3011331,La Barre-de-Semilly,3022826,Coutances,0.77,2
+8289772,Falaise,8289772,Falaise,0.00,2
+2971521,Trun,8289772,Falaise,0.45,2
+2997635,Lonlay-l’Abbaye,8289772,Falaise,1.17,2
+3033604,Bellou-en-Houlme,8289772,Falaise,0.73,2
+6613857,L’Aigle,6613857,L’Aigle,0.00,2
+3022285,Croth,6613857,L’Aigle,1.39,2
+3030857,Bourth,6613857,L’Aigle,0.33,2
+2984087,Rémalard,6613857,L’Aigle,0.97,2
+3020921,Berd’huis,6613857,L’Aigle,1.19,2
+2984582,Radon,6613857,L’Aigle,1.21,2

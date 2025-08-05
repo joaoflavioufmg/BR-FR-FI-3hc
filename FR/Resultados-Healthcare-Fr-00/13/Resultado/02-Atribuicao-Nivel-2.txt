@@ -1,0 +1,35 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3014856,Grasse,3014856,Grasse,0.00
+6446679,Breil-sur-Roya,3014856,Grasse,1.42
+3009193,La Garde-Freinet,3014856,Grasse,1.33
+2977662,Saint-Paul-en-Forêt,3014856,Grasse,0.53
+3007506,Lantosque,3014856,Grasse,1.16
+2981375,Saint-Blaise,3014856,Grasse,0.78
+6454958,Martigues,6454958,Martigues,0.00
+2986891,Plan-d’Aups-Sainte-Baume,6454958,Martigues,1.37
+3029248,Cadolive,6454958,Martigues,1.01
+2980325,Saintes-Maries-de-la-Mer,6454958,Martigues,1.26
+2988609,Paradou,6454958,Martigues,1.02
+3023576,Cornillon-Confoux,6454958,Martigues,0.44
+2997384,Lourmarin,6454958,Martigues,1.18
+2970408,Vauvenargues,6454958,Martigues,1.20
+3016702,Gap,3016702,Gap,0.00
+2974831,Serres,3016702,Gap,0.81
+3001268,Crots,3016702,Gap,0.78
+8288944,Savines-le-Lac,3016702,Gap,0.65
+3003297,Le Monêtier-les-Bains,3016702,Gap,1.44
+6618043,Digne-les-Bains,6618043,Digne-les-Bains,0.00
+2980247,Saint-Étienne-de-Tinée,6618043,Digne-les-Bains,1.45
+3023736,Corbières-en-Provence,6618043,Digne-les-Bains,1.34
+3010787,La Brillanne,6618043,Digne-les-Bains,0.83
+3012406,Jausiers,6618043,Digne-les-Bains,1.34
+3002132,Mison,6618043,Digne-les-Bains,0.89
+3037512,Annot,6618043,Digne-les-Bains,0.94
+3037352,Apt,3037352,Apt,0.00
+2980711,Sainte-Cécile-les-Vignes,3037352,Apt,1.45
+3012282,Jonquerettes,3037352,Apt,0.95
+2968290,Villes-sur-Auzon,3037352,Apt,0.60
+3003650,Le Luc,3003650,Le Luc,0.00
+3002357,Le Revest-les-Eaux,3003650,Le Luc,0.99
+3008116,La Môle,3003650,Le Luc,0.60
+2992583,Montfort-sur-Argens,3003650,Le Luc,0.44

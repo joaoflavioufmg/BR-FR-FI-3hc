@@ -1,0 +1,69 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2990969,"Nantes",2990969,"Nantes",0,3
+3037656,"Angers",3037656,"Angers",0,3
+6508863,"Le Mans",6508863,"Le Mans",0,3
+6434534,"Saint-Nazaire",6434534,"Saint-Nazaire",0,3
+3006767,"La Roche-sur-Yon",3006767,"La Roche-sur-Yon",0,3
+3025053,"Cholet",3025053,"Cholet",0,3
+2994250,"Mesnard-la-Barotière",3025053,"Cholet",0.7,3
+3005866,"Laval",3005866,"Laval",0,3
+2979590,"Saint-Herblain",2979590,"Saint-Herblain",0,3
+2976984,"Saint-Sébastien-sur-Loire",2976984,"Saint-Sébastien-sur-Loire",0,3
+2975758,"Saumur",2975758,"Saumur",0,3
+2989170,"Orvault",2989170,"Orvault",0,3
+2969612,"Vertou",2969612,"Vertou",0,3
+3027513,"Challans",3027513,"Challans",0,3
+3028535,"Carquefou",3028535,"Carquefou",0,3
+6492231,"Bouguenais",6492231,"Bouguenais",0,3
+3014392,"Guérande",3014392,"Guérande",0,3
+2986060,"Pornic",2986060,"Pornic",0,3
+2971896,"Trélazé",2971896,"Trélazé",0,3
+3035612,"Avrillé",3035612,"Avrillé",0,3
+3017921,"Fontenay-le-Comte",3017921,"Fontenay-le-Comte",0,3
+2994935,"Mayenne",2994935,"Mayenne",0,3
+2999908,"Les Ponts-de-Cé",2999908,"Les Ponts-de-Cé",0,3
+2971180,"Sablé-sur-Sarthe",2971180,"Sablé-sur-Sarthe",0,3
+3026303,"Châteaubriant",3026303,"Châteaubriant",0,3
+6449657,"Château-Gontier",6449657,"Château-Gontier",0,3
+3038086,"Allonnes",3038086,"Allonnes",0,3
+2986271,"Pontchâteau",2986271,"Pontchâteau",0,3
+3032462,"Blain",3032462,"Blain",0,3
+2997210,"Luçon",2997210,"Luçon",0,3
+2975597,"Savenay",2975597,"Savenay",0,3
+3009494,"La Ferté-Bernard",3009494,"La Ferté-Bernard",0,3
+2979299,"Saint-Jean-de-Monts",2979299,"Saint-Jean-de-Monts",0,3
+3019259,"Évron",3019259,"Évron",0,3
+3003661,"Le Loroux-Bottereau",3003661,"Le Loroux-Bottereau",0,3
+3022348,"Saint-Gilles-Croix-de-Vie",3022348,"Saint-Gilles-Croix-de-Vie",0,3
+2993619,"Clisson",2993619,"Clisson",0,3
+2975314,"Segré",2975314,"Segré",0,3
+3034309,"Beaufort-en-Vallée",3034309,"Beaufort-en-Vallée",0,3
+3026941,"Changé",3026941,"Changé",0,3
+3027491,"Chalonnes-sur-Loire",3027491,"Chalonnes-sur-Loire",0,3
+2969111,"Vigneux-de-Bretagne",2969111,"Vigneux-de-Bretagne",0,3
+3019895,"Ernée",3019895,"Ernée",0,3
+2996291,"Mamers",2996291,"Mamers",0,3
+3022690,"Craon",3022690,"Craon",0,3
+6456406,"Le Lude",6456406,"Le Lude",0,3
+6614560,"Le Croisic",6614560,"Le Croisic",0,3
+3031723,"Bonnétable",3031723,"Bonnétable",0,3
+3003986,"Le Grand-Lucé",3031723,"Bonnétable",0.88,3
+3034555,"Baugé",3034555,"Baugé",0,3
+6451619,"Cugand",6451619,"Cugand",0,3
+3012549,"Jallais",3012549,"Jallais",0,3
+6458652,"Sainte-Gemmes-sur-Loire",6458652,"Sainte-Gemmes-sur-Loire",0,3
+2981263,"Saint-Calais",2981263,"Saint-Calais",0,3
+2988797,"Paimbœuf",2988797,"Paimbœuf",0,3
+2979336,"Corcoué-sur-Logne",2979336,"Corcoué-sur-Logne",0,3
+3006183,"La Tranche-sur-Mer",3006183,"La Tranche-sur-Mer",0,3
+3012484,"Jard-sur-Mer",3006183,"La Tranche-sur-Mer",0.33,3
+3028851,"Candé",3028851,"Candé",0,3
+2993590,"Moisdon-la-Rivière",3028851,"Candé",0.65,3
+6436516,"Villaines-la-Juhel",6436516,"Villaines-la-Juhel",0,3
+2979707,"Saint-Gervais",2979707,"Saint-Gervais",0,3
+3010161,"La Châtaigneraie",3010161,"La Châtaigneraie",0,3
+6454645,"Saint-Saturnin",6454645,"Saint-Saturnin",0,3
+3034140,"Beaumont-sur-Sarthe",6454645,"Saint-Saturnin",0.47,3
+2984012,"Renazé",2984012,"Renazé",0,3
+2974550,"Sillé-le-Guillaume",2974550,"Sillé-le-Guillaume",0,3
+6458635,"Montfaucon",6458635,"Montfaucon",0,3

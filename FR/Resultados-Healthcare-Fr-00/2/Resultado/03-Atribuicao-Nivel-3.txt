@@ -1,0 +1,17 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+8297635,Limoges,8297635,Limoges,0.00
+3014383,Guéret,8297635,Limoges,1.50
+3029974,Brive-la-Gaillarde,3029974,Brive-la-Gaillarde,0.00
+2971298,Ussel,3029974,Brive-la-Gaillarde,1.86
+6429352,Coulounieix,3029974,Brive-la-Gaillarde,1.65
+2973495,Talence,2973495,Talence,0.00
+2995642,Marmande,2973495,Talence,1.70
+6432268,Lanton,2973495,Talence,0.93
+3026141,Châtellerault,3026141,Châtellerault,0.00
+2988447,Parthenay,3026141,Châtellerault,1.58
+2992771,Mont-de-Marsan,2992771,Mont-de-Marsan,0.00
+2989187,Orthez,2992771,Mont-de-Marsan,1.24
+2976600,Saint-Vincent-de-Tyrosse,2992771,Mont-de-Marsan,1.74
+6453739,Saintes,6453739,Saintes,0.00
+2976542,Saint-Yrieix-sur-Charente,6453739,Saintes,1.49
+3009052,Lagord,6453739,Saintes,1.59

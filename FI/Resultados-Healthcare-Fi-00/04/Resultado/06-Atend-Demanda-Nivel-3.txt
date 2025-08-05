@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	740	Savonlinna	124860.00	20.60	74.77	23.93	0.00	26.92	0.50	0.40	0.27	0.13

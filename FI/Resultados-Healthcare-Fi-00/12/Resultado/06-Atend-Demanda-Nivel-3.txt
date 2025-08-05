@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	905	Vaasa	177701.00	72.40	262.74	84.08	0.00	94.59	1.75	1.39	0.93	0.47

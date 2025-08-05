@@ -1,0 +1,9 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+905	                         Vaasa	905	                         Vaasa	    0.00
+475	                         Malax	905	                         Vaasa	    0.45
+152	                      Isokyrö	905	                         Vaasa	    0.92
+280	                      Korsnäs	905	                         Vaasa	    1.04
+231	                      Kaskinen	905	                         Vaasa	    2.05
+598	                     Jakobstad	598	                     Jakobstad	    0.00
+499	                      Korsholm	499	                      Korsholm	    0.00
+599	                    Pedersöre	599	                    Pedersöre	    0.00

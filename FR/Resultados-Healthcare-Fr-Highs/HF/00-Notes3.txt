@@ -1,0 +1,50 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  22378769254.52
+Primary   Care Cost:	   6001668520.00
+Secondary Care Cost:	   8002558676.00
+Tertiary  Care Cost:	   8371526027.00
+Add Infrastruc Cost:	      2983619.00
+Populat ExtLog Cost:	        32412.52
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4467.05
+----------------------------------------
+
+----------------------------------------
+State population:	5009740
+Max municipa pop:	232787
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1416   		0.53
+Care Level [3]	2282   		1.00
+----------------------------------------
+
+
+Demand met by level: (Estate has 952 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 952 mun > 142 mun (100.00% coverage)
+Care Level [2]: 142 mun > 131 mun
+Care Level [3]: 131 mun > 124 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3017024	Friville-Escarbotin      :	2084040.80
+    1	2980344	Saint-Erme-Outre-et-Ramecourt:	471173.40
+    1	2993532	Moliens                  :	308485.00
+    1	2982294	Rozoy-sur-Serre          :	119919.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6444438	Flixecourt               :	13762.09
+    2	3017024	Friville-Escarbotin      :	4587.36
+    2	3013365	Hesdin                   :	9240.75
+    2	2982294	Rozoy-sur-Serre          :	4822.32
+----------------------------------------------------------------

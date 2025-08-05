@@ -1,0 +1,3 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+2	405	Lappeenranta	85957.00	41.02	23.67	56.80	0.00	93.88	0.39	0.28	0.13	0.01
+2	153	Imatra	33634.00	16.16	9.33	22.38	0.00	36.99	0.16	0.11	0.05	0.00

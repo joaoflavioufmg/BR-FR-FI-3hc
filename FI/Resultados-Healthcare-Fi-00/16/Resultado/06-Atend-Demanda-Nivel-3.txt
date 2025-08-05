@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	398	Lahti	199927.00	108.21	392.70	125.66	0.00	141.37	2.62	2.08	1.40	0.70

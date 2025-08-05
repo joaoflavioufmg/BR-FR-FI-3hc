@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	109	Hämeenlinna	164397.00	69.08	250.68	80.22	0.00	90.24	1.67	1.33	0.89	0.45

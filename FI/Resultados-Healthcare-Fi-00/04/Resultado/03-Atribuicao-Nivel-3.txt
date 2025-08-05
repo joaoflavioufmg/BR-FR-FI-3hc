@@ -1,0 +1,3 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+740	                    Savonlinna	740	                    Savonlinna	    0.00
+178	                          Juva	740	                    Savonlinna	    1.35

@@ -1,0 +1,4 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+6454724,Melun,6454724,Melun,0.00
+3013657,Garches,6454724,Melun,1.21
+3007102,La Queue-en-Brie,6454724,Melun,0.71

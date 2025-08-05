@@ -1,0 +1,54 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    572950345.51
+Primary   Care Cost:	    157620938.00
+Secondary Care Cost:	    272735520.00
+Tertiary  Care Cost:	    140718864.00
+Add Infrastruc Cost:	      1469833.60
+Populat ExtLog Cost:	       405189.91
+HC Cost per capita (now):	     4775.24
+HC Cost per capita (fut):	     4790.92
+----------------------------------------
+
+-----------------------------------
+State population:	119591
+Max municipa pop:	72013
+Min municipa pop:	2548
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.70
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 9 municipalities).
+----------------------------------------------------------------
+Care Level [1]:   9 mun >   6 mun (100.00% coverage)
+Care Level [2]:   6 mun >   2 mun
+Care Level [3]:   2 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	700	Ruokolahti               :	563708.60
+    1	739	Savitaipale              :	376684.40
+    1	441	Luumäki                 :	529440.60
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	416	Lemi                     :	1371.04
+    2	580	Parikkala                :	336547.52
+    2	739	Savitaipale              :	14222.11
+    2	441	Luumäki                 :	53049.25
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

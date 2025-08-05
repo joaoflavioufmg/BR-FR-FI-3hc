@@ -1,0 +1,50 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1152587383.12
+Primary   Care Cost:	    306557418.00
+Secondary Care Cost:	    408760283.40
+Tertiary  Care Cost:	    427606655.55
+Add Infrastruc Cost:	      9645267.40
+Populat ExtLog Cost:	        17758.77
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4504.21
+----------------------------------------
+
+----------------------------------------
+State population:	255891
+Max municipa pop:	70659
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	1722   		0.54
+Care Level [3]	2299   		0.92
+----------------------------------------
+
+
+Demand met by level: (Estate has 48 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  48 mun >  17 mun (100.00% coverage)
+Care Level [2]:  17 mun >  11 mun
+Care Level [3]:  11 mun >   9 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3016133	Ghisonaccia              :	961754.40
+    1	2987591	San-Nicolao              :	243313.80
+    1	2987989	Peri                     :	1052323.20
+    1	3037372	Appietto                 :	1814610.60
+    1	2970027	Venzolasca               :	478241.60
+    1	3028606	Cargèse                 :	157297.40
+    2	3037372	Appietto                 :	4937726.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    2	2987591	San-Nicolao              :	17758.77
+----------------------------------------------------------------

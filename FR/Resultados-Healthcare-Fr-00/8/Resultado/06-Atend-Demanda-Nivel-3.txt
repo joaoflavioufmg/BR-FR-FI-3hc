@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	6454724	Melun	11556374.00	43.16	156.64	50.12	0.00	56.39	1.04	0.83	0.56	0.28

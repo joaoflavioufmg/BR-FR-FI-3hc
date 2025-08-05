@@ -1,0 +1,4 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+167,"Joensuu",167,"Joensuu",0,3
+276,"Kontiolahti",167,"Joensuu",0.48,3
+426,"Liperi",167,"Joensuu",0.52,3

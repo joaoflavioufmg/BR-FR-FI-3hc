@@ -1,0 +1,68 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  23454490154.72
+Primary   Care Cost:	   6288524828.00
+Secondary Care Cost:	   8385049716.40
+Tertiary  Care Cost:	   8771652265.30
+Add Infrastruc Cost:	      9108416.00
+Populat ExtLog Cost:	       154929.02
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4468.21
+----------------------------------------
+
+----------------------------------------
+State population:	5249186
+Max municipa pop:	465069
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1351   		0.60
+Care Level [3]	1993   		1.00
+----------------------------------------
+
+
+Demand met by level: (Estate has 941 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 941 mun > 136 mun (100.00% coverage)
+Care Level [2]: 136 mun > 113 mun
+Care Level [3]: 113 mun > 110 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6435793	Dormans                  :	349696.20
+    1	3037186	Arcis-sur-Aube           :	559226.40
+    1	2992260	Montmédy                :	1183983.40
+    1	3018824	Fayl-Billot              :	157057.80
+    1	3020221	Enchenberg               :	147833.20
+    1	2983628	Riedseltz                :	2438648.80
+    1	6616951	Louvercy                 :	960077.20
+    1	3015701	Gondrecourt-le-Château  :	129144.40
+    1	6445777	Uzemain                  :	266195.60
+    1	2995151	Maubert-Fontaine         :	432717.60
+    1	6446911	Auxon                    :	550720.60
+    2	2992260	Montmédy                :	1933114.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6435913	Mourmelon-le-Grand       :	26841.06
+    1	3031158	Bouligny                 :	3933.83
+    1	2992466	Montier-en-Der           :	1669.73
+    1	2986186	Pontfaverger-Moronvilliers:	654.94
+    1	2992885	Montbronn                :	2710.92
+    1	3003495	Lemberg                  :	2634.75
+    1	3033015	Bétheniville            :	654.94
+    2	6435793	Dormans                  :	25288.70
+    2	3037186	Arcis-sur-Aube           :	36416.02
+    2	3018824	Fayl-Billot              :	3274.43
+    2	3020221	Enchenberg               :	14846.25
+    2	2983628	Riedseltz                :	19176.82
+    2	3015701	Gondrecourt-le-Château  :	15746.96
+    2	6446911	Auxon                    :	1079.70
+----------------------------------------------------------------

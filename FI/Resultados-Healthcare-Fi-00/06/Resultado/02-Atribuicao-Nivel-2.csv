@@ -1,0 +1,5 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+109,"Hämeenlinna",109,"Hämeenlinna",0,2
+694,"Riihimäki",694,"Riihimäki",0,2
+61,"Forssa",61,"Forssa",0,2
+103,"Humppila",61,"Forssa",0.45,2

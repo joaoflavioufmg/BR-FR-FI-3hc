@@ -1,0 +1,65 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:   Central Finland (08)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	10000
+# 3	18000
+2	1637	# Q1
+3	3408	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.4
+3 1.5; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+179	08	62.2333	25.7333	151760	0	'Jyväskylä'	
+182	08	61.8639	25.1903	17156	1	'Jämsä'	
+992	08	62.6042	25.7264	16683	1	'Äänekoski'	
+410	08	62.4167	25.95	18487	1	'Laukaa'	
+249	08	62.2597	24.7069	8396	0	'Keuruu'	
+729	08	62.7056	25.2569	8084	1	'Saarijärvi'	
+500	08	62.1292	25.6722	10942	1	'Muurame'	
+931	08	63.075	25.8597	5212	1	'Viitasaari'	
+077	08	62.3889	26.4361	4100	1	'Hankasalmi'	
+172	08	61.7417	26.1153	3720	1	'Joutsa'	
+226	08	62.875	24.8	3211	1	'Karstula'	
+601	08	63.3667	25.575	3380	1	'Pihtipudas'	
+592	08	62.25	25.1833	3408	1	'Petäjävesi'	
+892	08	62.5	25.4367	3564	1	'Uurainen'	
+275	08	62.6283	26.2833	2279	1	'Konnevesi'	
+850	08	62.1	26.0833	2325	1	'Toivakka'	
+291	08	61.5667	25.1833	1905	1	'Kuhmoinen'	
+256	08	63.3667	24.9667	1368	1	'Kinnula'	
+495	08	62.4083	24.795	1327	1	'Multia'	
+216	08	62.975	25.2667	1151	1	'Kannonkoski'	
+312	08	63.0431	24.5639	1086	1	'Kyyjärvi'	
+265	08	63.12	25.075	966	1	'Kivijärvi'	
+435	08	61.8	25.7	676	1	'Luhanka'				
+;
+
+
+end;

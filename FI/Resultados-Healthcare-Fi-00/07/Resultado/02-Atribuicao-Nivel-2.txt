@@ -1,0 +1,8 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+272	                       Kokkola	272	                       Kokkola	    0.00
+849	                     Toholampi	272	                       Kokkola	    1.38
+74	                        Halsua	272	                       Kokkola	    1.65
+236	                     Kaustinen	272	                       Kokkola	    1.07
+217	                        Kannus	217	                        Kannus	    0.00
+584	                         Perho	217	                        Kannus	    2.00
+421	                   Lestijärvi	217	                        Kannus	    1.40

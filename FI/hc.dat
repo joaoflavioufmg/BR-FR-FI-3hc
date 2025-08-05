@@ -1,0 +1,102 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 24/08/2022
+# Versao: 1.0:
+# =========================================================
+
+data;
+
+# Health care unit cost per care level
+# Primary health care unit cost (n = 1)
+# Secondary health care unit cost (n = 2)
+# Tertiary health care unit cost (n = 3)
+# Brazil # Finland # France
+# 1	240	1318	1415
+# 2	828	2480	1925
+# 3	570	1482	2077
+# Brazil	Finland	France (10.5% e PPP)
+# 1	104	    1743	1667
+# 2	359	    3280	2267
+# 3	247	    1960	2447
+# Brazil	Finland	France  (2030)
+# 1	263	    1438	1198
+# 2	913	    2707	1630
+# 3	615	    1630	1759
+
+param HC:= 
+1	1438
+2	2707
+3	1630
+;
+
+# Infrastructure fixed Cost per level: Overhead costs
+# include costs for office management, transport, training courses, 
+# supplies and utilities such as water, gas and electricity
+# https://www.pssru.ac.uk/project-pages/unit-costs/unit-costs-of-health-and-social-care-2021/
+# https://kar.kent.ac.uk/92342/
+param CI:= 
+1	0.10    # Indirect overhead percentage of Health centres 
+2	0.12    # Indirect expenditure cost percentage of Health medical centres
+3	0.21    # Indirect expenditure cost percentage of Hospitals
+;
+
+# Penalty as a logistic cost infrastructure / h.inhabitant
+# out of the radious threshold
+# Brazil	85.75		#	https://databank.worldbank.org/source/icp-2017
+# Finland	97.65		#	https://doi.org/10.1016/j.tranpol.2020.04.006
+# France	117.60		#	https://ars.els-cdn.com/content/image/1-s2.0-S0967070X20301827-mmc1.xlsx
+
+param P:=97.65; 
+
+param DurLower:=
+1 0.5  
+2 0.5 
+3 1.0;
+
+param CR:= # Cost reduction (Efficiency)
+1 1
+2 0.98 
+3 0.95;
+
+# Resources
+param: E: Res:=
+1	'Physicians'      # https://apps.who.int/iris/bitstream/handle/10665/250330/9789241511407-eng.pdf
+2	'Nurses'          # https://apps.who.int/iris/bitstream/handle/10665/250330/9789241511407-eng.pdf
+3	'OtherCadres'     # https://apps.who.int/iris/bitstream/handle/10665/250330/9789241511407-eng.pdf
+4	'CommunityBased'  # https://aps.saude.gov.br/ape/esf/
+5	'Beds'            # https://data.oecd.org/healtheqt/hospital-beds.htm#indicator-chart       
+6	'CTScanner'       # https://data.oecd.org/healtheqt/computed-tomography-ct-scanners.htm
+7	'MRIUnit'         # https://data.oecd.org/healtheqt/magnetic-resonance-imaging-mri-units.htm#indicator-chart
+8	'Mammography'     # https://data.oecd.org/healtheqt/mammography-machines.htm#indicator-chart
+9	'Radiotherapy'    # https://data.oecd.org/healtheqt/radiotherapy-equipment.htm#indicator-chart
+;
+
+
+# Requirements for workforce and equipment on 3 levels of care
+# (resource per 1 thousand pop).
+param DEM:	1		2		3	    4	    5	    6	    7	    8	    9	:=
+1		    0.41	2.53	1.25	4.88	.	    .	    .	    .	    .	
+2		    1.67	1.20	2.51	.	    2.67	0.0066	0.0050	0.0031	0.0003	
+3		    1.99	8.98	2.51	.	    1.82	0.0199	0.0168	0.0156	0.0102	
+;
+
+# # Minimal requirements for workforce and equipment on 3 levels of care
+# # (resource per 1 thousand pop).
+# param DEM:	1	2	    3	    4	    5	    6	    7       8	    9:=
+# 1		0.13	0.63	0.36	0.35	.	    .	    .	    .	    .	
+# 2		0.52	0.30	0.72	.	    1.19	0.005	0.0036	0.0016	0.0001	
+# 3		0.62	2.25	0.72	.	    0.81	0.015	0.0119	0.0080	0.0040	
+# ;													
+
+# ...Or Minimal team requirement for desination
+# (resource on destination municipality).
+# param Qmin:	1  2  3	  4	  5	  6	  7	  8	  9	  :=
+#       1	    1  3  1	  1	  .	  .	  .	  .	  .	  
+#       2	    4  10 5   .	  15  1	  .	  1	  .	  
+#       3	    10 25 10  .	  30  1   1	  1	  1	  
+# ;
+
+end;
+

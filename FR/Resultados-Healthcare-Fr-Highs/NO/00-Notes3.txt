@@ -1,0 +1,68 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  12425365769.61
+Primary   Care Cost:	   3330035076.00
+Secondary Care Cost:	   4440232078.80
+Tertiary  Care Cost:	   4644954185.10
+Add Infrastruc Cost:	     10003300.00
+Populat ExtLog Cost:	       141129.71
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4470.10
+----------------------------------------
+
+----------------------------------------
+State population:	2779662
+Max municipa pop:	494382
+Min municipa pop:	1002
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1262   		0.69
+Care Level [3]	1771   		0.96
+----------------------------------------
+
+
+Demand met by level: (Estate has 579 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 579 mun >  84 mun (100.00% coverage)
+Care Level [2]:  84 mun >  69 mun
+Care Level [3]:  69 mun >  64 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3028610	Carentan                 :	1483124.00
+    1	6616280	Breteuil-sur-Iton        :	2178323.40
+    1	3009804	La Couture-Boussey       :	1948187.60
+    1	2988017	Percy                    :	273743.00
+    1	2980470	Aumale                   :	241157.40
+    1	3028186	Caumont-l’Éventé     :	700350.80
+    1	3023958	Condé-sur-Huisne        :	548324.60
+    1	3028037	Céaucé                 :	482674.20
+    1	2973655	Surtainville             :	737249.20
+    1	6439247	Sainte-Gauburge-Sainte-Colombe:	1410165.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6615063	Nonancourt               :	1382.45
+    1	3016637	Garennes-sur-Eure        :	14317.47
+    1	2991699	Mortain                  :	684.93
+    1	2990158	La Madeleine-de-Nonancourt:	1382.45
+    1	3028796	Canon                    :	6937.42
+    2	3028610	Carentan                 :	1244.09
+    2	6616280	Breteuil-sur-Iton        :	993.96
+    2	3009804	La Couture-Boussey       :	3639.11
+    2	2988017	Percy                    :	11878.09
+    2	2980470	Aumale                   :	3868.40
+    2	3019962	Équemauville            :	84986.27
+    2	3028186	Caumont-l’Éventé     :	2667.89
+    2	3023958	Condé-sur-Huisne        :	369.85
+    2	3028037	Céaucé                 :	3443.61
+    2	2973655	Surtainville             :	848.52
+    2	6439247	Sainte-Gauburge-Sainte-Colombe:	2485.21
+----------------------------------------------------------------

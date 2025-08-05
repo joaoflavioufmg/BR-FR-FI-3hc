@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+398	                         Lahti	398	                         Lahti	    0.00
+98	                       Hollola	98	                       Hollola	    0.00
+576	                     Padasjoki	98	                       Hollola	    1.05
+111	                       Heinola	111	                       Heinola	    0.00
+81	                       Hartola	111	                       Heinola	    1.04
+560	                    Orimattila	560	                    Orimattila	    0.00

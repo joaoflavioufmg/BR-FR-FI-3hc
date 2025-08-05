@@ -1,0 +1,11 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+3227183,Ajaccio,3227183,Ajaccio,0.00
+3028606,Cargèse,3227183,Ajaccio,0.65
+2989579,Olmeto,3227183,Ajaccio,0.69
+2985947,Porto-Vecchio,2985947,Porto-Vecchio,0.00
+2974157,Sotta,2985947,Porto-Vecchio,0.22
+2974365,Solenzara,2985947,Porto-Vecchio,0.78
+2988658,Corte,2988658,Corte,0.00
+6431189,Oletta,2988658,Corte,1.00
+2998221,Linguizzetta,2988658,Corte,0.67
+2976121,Santa-Reparata-di-Balagna,2988658,Corte,0.95

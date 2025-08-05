@@ -1,0 +1,9 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+837,"Tampere",837,"Tampere",0,3
+418,"Lempäälä",837,"Tampere",0.51,3
+536,"Nokia",536,"Nokia",0,3
+790,"Sastamala",536,"Nokia",0.88,3
+980,"Ylöjärvi",211,"Kangasala",0.68,3
+211,"Kangasala",211,"Kangasala",0,3
+908,"Valkeakoski",211,"Kangasala",0.55,3
+20,"Akaa",211,"Kangasala",0.87,3

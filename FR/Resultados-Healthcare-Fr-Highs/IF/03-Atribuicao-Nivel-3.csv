@@ -1,0 +1,133 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2978048,"Paris",2978048,"Paris",0,3
+3031137,"Boulogne-Billancourt",3031137,"Boulogne-Billancourt",0,3
+2980916,"Saint-Denis",2980916,"Saint-Denis",0,3
+3037044,"Argenteuil",3037044,"Argenteuil",0,3
+2992090,"Montreuil",2992090,"Montreuil",0,3
+8298013,"Nanterre",8298013,"Nanterre",0,3
+6452043,"Vitry-sur-Seine",6452043,"Vitry-sur-Seine",0,3
+6452018,"Créteil",6452018,"Créteil",0,3
+6452605,"Aubervilliers",6452605,"Aubervilliers",0,3
+8286605,"Versailles",8286605,"Versailles",0,3
+3036145,"Aulnay-sous-Bois",3036145,"Aulnay-sous-Bois",0,3
+3024266,"Colombes",3024266,"Colombes",0,3
+6521954,"Rueil-Malmaison",6521954,"Rueil-Malmaison",0,3
+6452032,"Saint-Maur-des-Fossés",6452032,"Saint-Maur-des-Fossés",0,3
+3020839,"Drancy",3020839,"Drancy",0,3
+6451970,"Issy-les-Moulineaux",6451970,"Issy-les-Moulineaux",0,3
+6612091,"Levallois-Perret",6612091,"Levallois-Perret",0,3
+3037423,"Antony",3037423,"Antony",0,3
+8298130,"Ivry-sur-Seine",8298130,"Ivry-sur-Seine",0,3
+3024597,"Clichy",3024597,"Clichy",0,3
+2990611,"Neuilly-sur-Seine",2990611,"Neuilly-sur-Seine",0,3
+2976043,"Sarcelles",2976043,"Sarcelles",0,3
+3005269,"Le Blanc-Mesnil",3005269,"Le Blanc-Mesnil",0,3
+6451992,"Épinay-sur-Seine",6451992,"Épinay-sur-Seine",0,3
+6454723,"Meaux",6454723,"Meaux",0,3
+9177387,"Chelles",9177387,"Chelles",0,3
+2968705,"Villejuif",2968705,"Villejuif",0,3
+6452608,"Bobigny",6452608,"Bobigny",0,3
+6451987,"Bondy",6451987,"Bondy",0,3
+6451966,"Clamart",6451966,"Clamart",0,3
+8286614,"Sartrouville",8286614,"Sartrouville",0,3
+3019597,"Corbeil-Essonnes",3019597,"Corbeil-Essonnes",0,3
+2974681,"Sevran",2974681,"Sevran",0,3
+6508695,"Massy",6508695,"Massy",0,3
+6510057,"Suresnes",6510057,"Suresnes",0,3
+3016321,"Gennevilliers",3016321,"Gennevilliers",0,3
+2994144,"Meudon",2994144,"Meudon",0,3
+2979783,"Saint-Germain-en-Laye",2979783,"Saint-Germain-en-Laye",0,3
+3009670,"Puteaux",3009670,"Puteaux",0,3
+2998056,"Livry-Gargan",2998056,"Livry-Gargan",0,3
+2996148,"Mantes-la-Jolie",2996148,"Mantes-la-Jolie",0,3
+6452000,"Noisy-le-Sec",6452000,"Noisy-le-Sec",0,3
+3038213,"Alfortville",3038213,"Alfortville",0,3
+3033598,"Belloy-en-France",3038213,"Alfortville",0.8,3
+6454724,"Melun",6454724,"Melun",0,3
+2973841,"Stains",2973841,"Stains",0,3
+2986501,"Poissy",2986501,"Poissy",0,3
+3026083,"Châtillon",3026083,"Châtillon",0,3
+8298054,"Villepinte",8298054,"Villepinte",0,3
+3035403,"Bagnolet",3035403,"Bagnolet",0,3
+3036460,"Athis-Mons",3036460,"Athis-Mons",0,3
+2967244,"Villeneuve-Saint-Georges",2967244,"Villeneuve-Saint-Georges",0,3
+6613133,"Châtenay-Malabry",6613133,"Châtenay-Malabry",0,3
+2992415,"Montigny-le-Bretonneux",2992415,"Montigny-le-Bretonneux",0,3
+3000192,"Les Mureaux",3000192,"Les Mureaux",0,3
+6444090,"Trappes",6444090,"Trappes",0,3
+2986930,"Plaisir",2986930,"Plaisir",0,3
+6446231,"Viry-Châtillon",6446231,"Viry-Châtillon",0,3
+2967990,"Pontoise",2967990,"Pontoise",0,3
+10283420,"Charenton-le-Pont",10283420,"Charenton-le-Pont",0,3
+2987271,"Pierrefitte-sur-Seine",2987271,"Pierrefitte-sur-Seine",0,3
+8286631,"Malakoff",8286631,"Malakoff",0,3
+3026033,"Chatou",3026033,"Chatou",0,3
+8297997,"Saint-Cloud",8297997,"Saint-Cloud",0,3
+6452064,"Bezons",6452064,"Bezons",0,3
+12122717,"Ris-Orangis",12122717,"Ris-Orangis",0,3
+3009169,"La Garenne-Colombes",3009169,"La Garenne-Colombes",0,3
+3019897,"Ermont",3019897,"Ermont",0,3
+6457182,"Le Plessis-Robinson",6457182,"Le Plessis-Robinson",0,3
+2967245,"Yerres",2967245,"Yerres",0,3
+3020832,"Draveil",3020832,"Draveil",0,3
+3014143,"Guyancourt",3014143,"Guyancourt",0,3
+6614115,"Bois-Colombes",6614115,"Bois-Colombes",0,3
+6455402,"Le Chesnay",6455402,"Le Chesnay",0,3
+6455392,"Romainville",6455392,"Romainville",0,3
+2992616,"Montfermeil",2992616,"Montfermeil",0,3
+2984513,"Rambouillet",2984513,"Rambouillet",0,3
+3012874,"Brunoy",3012874,"Brunoy",0,3
+3020310,"Élancourt",3020310,"Élancourt",0,3
+6457187,"Le Kremlin-Bicêtre",6457187,"Le Kremlin-Bicêtre",0,3
+8297830,"Étampes",8297830,"Étampes",0,3
+3017924,"Fontenay-aux-Roses",3017924,"Fontenay-aux-Roses",0,3
+6612920,"Cormeilles-en-Parisis",6612920,"Cormeilles-en-Parisis",0,3
+6451986,"Villeneuve-la-Garenne",6451986,"Villeneuve-la-Garenne",0,3
+2996564,"Maisons-Laffitte",2996564,"Maisons-Laffitte",0,3
+6451981,"Sèvres",6451981,"Sèvres",0,3
+3000491,"Les Lilas",3000491,"Les Lilas",0,3
+8297845,"Longjumeau",8297845,"Longjumeau",0,3
+3038712,"Achères",3038712,"Achères",0,3
+3010529,"La Celle-Saint-Cloud",3010529,"La Celle-Saint-Cloud",0,3
+2975469,"Sceaux",2975469,"Sceaux",0,3
+3030101,"Brie-Comte-Robert",3030101,"Brie-Comte-Robert",0,3
+3013657,"Garches",3013657,"Garches",0,3
+3002499,"Le Pré-Saint-Gervais",3002499,"Le Pré-Saint-Gervais",0,3
+6446153,"Juvisy-sur-Orge",6446153,"Juvisy-sur-Orge",0,3
+6444102,"Viroflay",6444102,"Viroflay",0,3
+6455393,"Le Bourget",6455393,"Le Bourget",0,3
+2998854,"Le Vésinet",2998854,"Le Vésinet",0,3
+2989204,"Orsay",2989204,"Orsay",0,3
+3018074,"Fontainebleau",3018074,"Fontainebleau",0,3
+6444032,"Montesson",6444032,"Montesson",0,3
+6443622,"Coulommiers",6443622,"Coulommiers",0,3
+6443768,"Nangis",6443622,"Coulommiers",0.74,3
+3002401,"Le Raincy",3002401,"Le Raincy",0,3
+6446138,"Fleury-Mérogis",6446138,"Fleury-Mérogis",0,3
+6451134,"Avon",6451134,"Avon",0,3
+6443750,"Montévrain",6443750,"Montévrain",0,3
+2985229,"Provins",2985229,"Provins",0,3
+3036402,"Aubergenville",3036402,"Aubergenville",0,3
+3007102,"La Queue-en-Brie",3007102,"La Queue-en-Brie",0,3
+3036823,"Arpajon",3036823,"Arpajon",0,3
+3020925,"Dourdan",3020925,"Dourdan",0,3
+3009481,"La Ferté-sous-Jouarre",3009481,"La Ferté-sous-Jouarre",0,3
+6446113,"Bures-sur-Yvette",6446113,"Bures-sur-Yvette",0,3
+3022301,"Crosne",3022301,"Crosne",0,3
+6497274,"Serris",6497274,"Serris",0,3
+2984678,"Quincy-sous-Sénart",2984678,"Quincy-sous-Sénart",0,3
+2972253,"Tournan-en-Brie",2972253,"Tournan-en-Brie",0,3
+2983755,"Saint-Rémy-lès-Chevreuse",2983755,"Saint-Rémy-lès-Chevreuse",0,3
+2974383,"Soisy-sur-Seine",2974383,"Soisy-sur-Seine",0,3
+2997351,"Louveciennes",2997351,"Louveciennes",0,3
+6456501,"Le Mesnil-Saint-Denis",6456501,"Le Mesnil-Saint-Denis",0,3
+2982756,"Rosny-sur-Seine",2982756,"Rosny-sur-Seine",0,3
+2997698,"Longpont-sur-Orge",2997698,"Longpont-sur-Orge",0,3
+3027200,"Champcueil",2997698,"Longpont-sur-Orge",0.45,3
+2996802,"Magnanville",2996802,"Magnanville",0,3
+6451149,"Bois-le-Roi",6451149,"Bois-le-Roi",0,3
+2973963,"Souppes-sur-Loing",6451149,"Bois-le-Roi",0.81,3
+2986272,"Jouars-Pontchartrain",2986272,"Jouars-Pontchartrain",0,3
+6454736,"Chevreuse",6454736,"Chevreuse",0,3
+2990612,"Neuilly-sur-Marne",2990612,"Neuilly-sur-Marne",0,3
+3016292,"Gentilly",3016292,"Gentilly",0,3

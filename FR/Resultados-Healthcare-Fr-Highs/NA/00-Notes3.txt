@@ -1,0 +1,122 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  21251458962.68
+Primary   Care Cost:	   5694435430.00
+Secondary Care Cost:	   7592897459.00
+Tertiary  Care Cost:	   7942976899.25
+Add Infrastruc Cost:	     20635310.40
+Populat ExtLog Cost:	       513864.03
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4470.90
+----------------------------------------
+
+----------------------------------------
+State population:	4753285
+Max municipa pop:	283823
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1290   		0.78
+Care Level [3]	1903   		0.86
+----------------------------------------
+
+
+Demand met by level: (Estate has 1077 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 1077 mun > 180 mun (100.00% coverage)
+Care Level [2]: 180 mun > 134 mun
+Care Level [3]: 134 mun > 124 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6455089	Biscarrosse              :	1670730.80
+    1	6451668	Chauvigny                :	843991.00
+    1	2973672	Surgères                :	1155471.00
+    1	3038394	Aire-sur-l’Adour       :	897302.00
+    1	3010626	Lacanau                  :	898140.60
+    1	3037049	Argentat                 :	492018.60
+    1	3010908	Labouheyre               :	774866.40
+    1	3023919	Confolens                :	470694.20
+    1	3019212	Eymet                    :	313157.20
+    1	3028107	Cavignac                 :	1198359.40
+    1	3003064	Léon                    :	674953.20
+    1	3034964	Bardos                   :	218994.40
+    1	3027576	Chalais                  :	935997.40
+    1	3027470	Châlus                  :	195154.20
+    1	3038524	Aigre                    :	189883.00
+    1	2973399	Taponnat                 :	970020.60
+    1	3006262	Latillé                 :	703705.20
+    1	3013134	Hostens                  :	1969751.60
+    1	3027426	Chamberet                :	571565.80
+    1	3036153	Aulnay                   :	985954.00
+    1	2967232	Ygos-Saint-Saturnin      :	1189134.80
+    1	2968463	Villeréal               :	447093.60
+    1	3016871	Gabarret                 :	154302.40
+    1	3033546	Belvès                  :	695079.60
+    1	2971291	Usson-du-Poitou          :	150588.60
+    1	3030832	Boussac                  :	150349.00
+    1	3006572	Laruns                   :	142562.00
+    1	2976047	Sarbazan                 :	139806.60
+    1	2984314	Razès                   :	139207.60
+    1	3012113	Juillac                  :	133816.60
+    1	2996811	Magnac-Bourg             :	270149.00
+    1	2982770	Rosiers-d’Égletons    :	646201.20
+    1	3006725	La Ronde                 :	124592.00
+    1	3010693	L’Absie                :	121716.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	2988542	Parentis-en-Born         :	4280.49
+    1	2980550	Sainte-Hélène          :	14071.57
+    1	3008469	Lalinde                  :	16093.36
+    1	2993732	Mirebeau                 :	870.85
+    1	3023058	Courçon                 :	853.46
+    1	3016383	Gençay                  :	4357.86
+    1	2978535	Saint-Mariens            :	2891.44
+    1	2979520	Saint-Hilaire-la-Palud   :	35210.11
+    1	3021999	Cussac                   :	6751.50
+    2	6455089	Biscarrosse              :	2885.13
+    2	6451668	Chauvigny                :	6450.84
+    2	2973672	Surgères                :	361.46
+    2	3038394	Aire-sur-l’Adour       :	1290.01
+    2	3010626	Lacanau                  :	1174.35
+    2	3037049	Argentat                 :	1430.73
+    2	3010908	Labouheyre               :	18733.43
+    2	3023919	Confolens                :	6672.07
+    2	3019212	Eymet                    :	1386.91
+    2	3028107	Cavignac                 :	1224.61
+    2	3003064	Léon                    :	13528.12
+    2	3034964	Bardos                   :	258.04
+    2	3027576	Chalais                  :	5426.21
+    2	3027470	Châlus                  :	7343.55
+    2	3038524	Aigre                    :	206.51
+    2	2973399	Taponnat                 :	5662.10
+    2	3006262	Latillé                 :	162.66
+    2	3013134	Hostens                  :	3585.93
+    2	3027426	Chamberet                :	710.23
+    2	3036153	Aulnay                   :	22832.86
+    2	2967232	Ygos-Saint-Saturnin      :	4144.59
+    2	2968463	Villeréal               :	6745.53
+    2	3016871	Gabarret                 :	123136.03
+    2	3033546	Belvès                  :	537.71
+    2	2993721	Mirepeix                 :	108897.42
+    2	2971291	Usson-du-Poitou          :	2149.75
+    2	3030832	Boussac                  :	12510.18
+    2	2976743	Saint-Trojan-les-Bains   :	10137.10
+    2	3006572	Laruns                   :	10229.55
+    2	3019253	Excideuil                :	7343.55
+    2	2976047	Sarbazan                 :	1290.01
+    2	2984314	Razès                   :	3027.02
+    2	3012113	Juillac                  :	1657.20
+    2	2996811	Magnac-Bourg             :	943.66
+    2	2982770	Rosiers-d’Égletons    :	8715.71
+    2	3006725	La Ronde                 :	3735.14
+    2	3010693	L’Absie                :	21957.47
+----------------------------------------------------------------

@@ -1,0 +1,85 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1311006583.58
+Primary   Care Cost:	    357423148.00
+Secondary Care Cost:	    612889840.00
+Tertiary  Care Cost:	    302455452.00
+Add Infrastruc Cost:	     33445180.00
+Populat ExtLog Cost:	      4792963.58
+HC Cost per capita (now):	     4693.34
+HC Cost per capita (fut):	     4834.34
+----------------------------------------
+
+-----------------------------------
+State population:	271186
+Max municipa pop:	151760
+Min municipa pop:	676
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		2.40
+[3]			18000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 23 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  23 mun >  19 mun (100.00% coverage)
+Care Level [2]:  19 mun >   4 mun
+Care Level [3]:   4 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	182	Jämsä                  :	2261160.80
+    1	992	Äänekoski              :	2668554.60
+    1	410	Laukaa                   :	2436586.60
+    1	729	Saarijärvi              :	1065471.20
+    1	931	Viitasaari               :	686941.60
+    1	77	Hankasalmi               :	540380.00
+    1	172	Joutsa                   :	490296.00
+    1	226	Karstula                 :	423209.80
+    1	601	Pihtipudas               :	445484.00
+    1	592	Petäjävesi             :	449174.40
+    1	275	Konnevesi                :	300372.20
+    1	850	Toivakka                 :	306435.00
+    1	291	Kuhmoinen                :	251079.00
+    1	256	Kinnula                  :	180302.40
+    1	495	Multia                   :	1281491.40
+    1	312	Kyyjärvi                :	143134.80
+    1	265	Kivijärvi               :	279020.60
+    1	435	Luhanka                  :	89096.80
+    2	182	Jämsä                  :	5105625.60
+    2	992	Äänekoski              :	8539632.00
+    2	410	Laukaa                   :	5501731.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	729	Saarijärvi              :	543701.04
+    2	931	Viitasaari               :	237752.28
+    2	77	Hankasalmi               :	55355.94
+    2	172	Joutsa                   :	250193.95
+    2	226	Karstula                 :	965973.70
+    2	601	Pihtipudas               :	983082.94
+    2	592	Petäjävesi             :	5484.22
+    2	275	Konnevesi                :	100670.98
+    2	850	Toivakka                 :	571.06
+    2	291	Kuhmoinen                :	432552.91
+    2	256	Kinnula                  :	548608.89
+    2	495	Multia                   :	58617.99
+    2	312	Kyyjärvi                :	216085.88
+    2	265	Kivijärvi               :	108336.65
+    2	435	Luhanka                  :	21191.78
+    3	182	Jämsä                  :	261763.03
+    3	992	Äänekoski              :	3020.34
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

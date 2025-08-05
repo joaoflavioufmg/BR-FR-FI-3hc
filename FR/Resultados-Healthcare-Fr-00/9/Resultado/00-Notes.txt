@@ -1,0 +1,199 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   8409537945.72
+Primary   Care Cost:	   6723930010.00
+Secondary Care Cost:	    703017700.00
+Tertiary  Care Cost:	    557360873.00
+Add Infrastruc Cost:	    417509068.93
+Populat ExtLog Cost:	      7720293.79
+HC Cost per capita (now):	     1680.24
+HC Cost per capita (fut):	     1769.72
+----------------------------------------
+
+-----------------------------------
+State population:	4751894
+Max municipa pop:	486828
+Min municipa pop:	1003
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			8000   		1.75
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 910 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 910 mun >  74 mun (100.00% coverage)
+Care Level [2]:  74 mun >  13 mun
+Care Level [3]:  13 mun >   7 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2991153	Muret                    :	17239935.50
+    1	6427003	Rodez                    :	11346602.00
+    1	2993875	Millau                   :	3949972.50
+    1	2994617	Mende                    :	2100284.50
+    1	3029302	Cabestany                :	9633886.00
+    1	3018506	Figeac                   :	4493049.50
+    1	6431321	Marguerittes             :	27044187.50
+    1	2987376	Pibrac                   :	1205155.50
+    1	3007694	Langogne                 :	408369.00
+    1	2983744	Le Cailar                :	17094473.50
+    1	3035416	Bagnères-de-Luchon      :	324459.50
+    1	2975018	Septfonds                :	4768833.00
+    1	2968062	Vinça                   :	1611968.00
+    1	2979995	Saint-Geniez-d’Olt     :	1774551.50
+    1	2967812	Viviers-lès-Montagnes   :	15554387.50
+    1	3004185	Le Fousseret             :	2049910.50
+    1	3018238	Florac                   :	268001.00
+    1	2987103	Pinet                    :	31100709.50
+    1	2998132	L’Isle-en-Dodon        :	1261897.00
+    1	3006711	Laroque                  :	3450760.50
+    1	3011252	Labastide-Rouairoux      :	1200627.50
+    1	2998445	Lieuran-lès-Béziers    :	19845799.50
+    1	2970978	Vallabrègues            :	17366436.50
+    1	3027915	Cerbère                 :	1782051.00
+    1	3011313	Labarthe-Rivière        :	2472429.50
+    1	2992147	Montpezat                :	2013969.50
+    1	2971046	Valence-d’Albigeois    :	5368227.00
+    1	3011281	Labastide-d’Anjou      :	4923634.00
+    1	2970288	Vayrac                   :	2631617.00
+    1	3035595	Ax-les-Thermes           :	180695.50
+    1	3008825	Laguiole                 :	175177.00
+    1	2995990	Marciac                  :	864989.50
+    1	2976310	Salviac                  :	734809.50
+    1	3015690	Gondrin                  :	2452053.50
+    1	6440945	Tournay                  :	1835821.00
+    1	3028048	Cazes-Mondenard          :	1708188.00
+    1	3003774	Le Houga                 :	1135537.50
+    1	2980152	Saint-Félix-de-Lodez    :	6754785.50
+    1	3024797	Clairvaux-d’Aveyron    :	1185487.00
+    1	6444868	Lombers                  :	4957877.00
+    1	2974002	Pierrefitte-Nestalas     :	734243.50
+    1	3027582	Chalabre                 :	1576027.00
+    1	2981984	Saillagouse              :	519163.50
+    1	3023294	Couiza                   :	1843320.50
+    1	2975056	Senouillac               :	11820485.50
+    1	3019829	Escatalens               :	18374341.00
+    1	3015618	Goudargues               :	7596286.00
+    1	3009315	La Fouillade             :	2439460.00
+    1	3030952	Bourg-Saint-Bernard      :	7936452.00
+    1	3029245	Cadours                  :	581848.00
+    1	2975244	Seissan                  :	856216.50
+    1	2988043	Pépieux                 :	2274895.50
+    1	2978938	Saint-Laurent-de-Cerdans :	698019.50
+    1	2992350	Montjoie-en-Couserans    :	1499617.00
+    1	3019693	Espère                  :	4816518.50
+    1	3002537	Le Poujol-sur-Orb        :	3758806.00
+    1	3004208	Le Fossat                :	2287064.50
+    1	3036097	Aumont-Aubrac            :	1762948.50
+    1	3029071	Camarès                 :	1804125.00
+    1	2981080	Saint-Clar               :	2582092.00
+    1	2977647	Saint-Paul-les-Fonts     :	2947303.50
+    1	2988689	Mirepoix-sur-Tarn        :	6769077.00
+    1	2976375	Salles-Curan             :	377522.00
+    1	2991366	Moussoulens              :	12008256.00
+    1	3015738	Golfech                  :	1286659.50
+    1	2982860	Roquefort-des-Corbières :	1665738.00
+    2	2991153	Muret                    :	6184332.00
+    2	6427003	Rodez                    :	7382067.00
+    2	2993875	Millau                   :	5321316.00
+    2	2994617	Mende                    :	4167702.00
+    2	3029302	Cabestany                :	3411408.00
+    2	3018506	Figeac                   :	3846843.00
+    2	6431321	Marguerittes             :	2487177.00
+    2	2987376	Pibrac                   :	2987292.00
+    3	2991153	Muret                    :	14945365.05
+    3	6427003	Rodez                    :	14757811.95
+    3	2993875	Millau                   :	14929662.93
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3016956	Frontignan               :	9940.83
+    1	3028409	Castanet-Tolosan         :	6039.90
+    1	2980984	Saint-Cyprien            :	4742.35
+    1	3006215	Latour-Bas-Elne          :	1302.35
+    1	2970104	Vendres                  :	1186.03
+    1	3035576	Ayguesvives              :	1164.60
+    1	3030127	Briatexte                :	889.08
+    1	2990890	Naucelle                 :	878.15
+    1	2993230	Mons                     :	775.81
+    1	3030520	Brassac                  :	567.21
+    1	3029168	Cajarc                   :	489.80
+    2	2972665	Thuir                    :	1060339.39
+    2	3023606	Cornebarrieu             :	687434.76
+    2	2978325	Saint-Martin-de-Valgalgues:	472547.65
+    2	3007694	Langogne                 :	30285.14
+    2	2983744	Le Cailar                :	3642.46
+    2	3035416	Bagnères-de-Luchon      :	319653.33
+    2	2975018	Septfonds                :	199741.98
+    2	2968062	Vinça                   :	15078.82
+    2	2979995	Saint-Geniez-d’Olt     :	14614.53
+    2	2967812	Viviers-lès-Montagnes   :	351734.43
+    2	3004185	Le Fousseret             :	147494.39
+    2	3018238	Florac                   :	261.94
+    2	2987103	Pinet                    :	34529.78
+    2	2998132	L’Isle-en-Dodon        :	15164.55
+    2	3006711	Laroque                  :	13309.69
+    2	3011252	Labastide-Rouairoux      :	38412.16
+    2	2998445	Lieuran-lès-Béziers    :	7427.79
+    2	2970978	Vallabrègues            :	174338.37
+    2	3027915	Cerbère                 :	6672.86
+    2	3011313	Labarthe-Rivière        :	72736.73
+    2	2992147	Montpezat                :	5966.05
+    2	2971046	Valence-d’Albigeois    :	20260.05
+    2	3011281	Labastide-d’Anjou      :	47090.70
+    2	2970288	Vayrac                   :	45166.29
+    2	3035595	Ax-les-Thermes           :	7918.10
+    2	3008825	Laguiole                 :	29524.21
+    2	2995990	Marciac                  :	8126.83
+    2	2976310	Salviac                  :	134510.73
+    2	3015690	Gondrin                  :	16666.42
+    2	3028048	Cazes-Mondenard          :	199336.23
+    2	3003774	Le Houga                 :	147662.96
+    2	2980152	Saint-Félix-de-Lodez    :	10846.41
+    2	6444868	Lombers                  :	208861.79
+    2	2974002	Pierrefitte-Nestalas     :	5571.42
+    2	3027582	Chalabre                 :	5986.02
+    2	2981984	Saillagouse              :	171312.87
+    2	3023294	Couiza                   :	67889.19
+    2	2975056	Senouillac               :	151321.53
+    2	3019829	Escatalens               :	123264.39
+    2	3015618	Goudargues               :	17985.68
+    2	3009315	La Fouillade             :	23837.25
+    2	3030952	Bourg-Saint-Bernard      :	8326.37
+    2	3029245	Cadours                  :	15147.49
+    2	2988043	Pépieux                 :	2855.76
+    2	2978938	Saint-Laurent-de-Cerdans :	24422.80
+    2	2992350	Montjoie-en-Couserans    :	11778.67
+    2	3019693	Espère                  :	65682.28
+    2	3002537	Le Poujol-sur-Orb        :	29608.95
+    2	3004208	Le Fossat                :	2240.30
+    2	3036097	Aumont-Aubrac            :	2223.11
+    2	3029071	Camarès                 :	7905.84
+    2	2981080	Saint-Clar               :	4325.07
+    2	2977647	Saint-Paul-les-Fonts     :	2210.22
+    2	2988689	Mirepoix-sur-Tarn        :	4680.77
+    2	2976375	Salles-Curan             :	747.18
+    2	2991366	Moussoulens              :	115521.46
+    2	3015738	Golfech                  :	78492.53
+    2	2982860	Roquefort-des-Corbières :	94.99
+    3	2994617	Mende                    :	584590.67
+    3	3029302	Cabestany                :	393187.76
+    3	3018506	Figeac                   :	181928.13
+    3	3018174	Foix                     :	579917.57
+    3	6431321	Marguerittes             :	115695.51
+    3	2987376	Pibrac                   :	346208.40
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

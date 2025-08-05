@@ -1,0 +1,4 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+109	                  Hämeenlinna	109	                  Hämeenlinna	    0.00
+694	                    Riihimäki	109	                  Hämeenlinna	    0.86
+61	                        Forssa	109	                  Hämeenlinna	    1.23

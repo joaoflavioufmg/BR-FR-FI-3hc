@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	205	Kajaani	67751.00	35.73	129.67	41.50	0.00	46.68	0.86	0.69	0.46	0.23

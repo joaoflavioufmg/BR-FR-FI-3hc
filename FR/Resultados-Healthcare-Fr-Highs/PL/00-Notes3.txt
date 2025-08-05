@@ -1,0 +1,63 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  16614346462.76
+Primary   Care Cost:	   4444747720.00
+Secondary Care Cost:	   5926577636.00
+Tertiary  Care Cost:	   6199829447.00
+Add Infrastruc Cost:	     43153569.00
+Populat ExtLog Cost:	        38090.76
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4478.09
+----------------------------------------
+
+----------------------------------------
+State population:	3710140
+Max municipa pop:	633690
+Min municipa pop:	1001
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.51
+Care Level [2]	1472   		0.49
+Care Level [3]	2223   		0.88
+----------------------------------------
+
+
+Demand met by level: (Estate has 749 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 749 mun >  83 mun (100.00% coverage)
+Care Level [2]:  83 mun >  68 mun
+Care Level [3]:  68 mun >  63 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	3012484	Jard-sur-Mer             :	2123455.00
+    1	6449095	Fégréac                :	967265.20
+    1	6445191	Sainte-Foy               :	277337.00
+    1	2978198	Saint-Mathurin           :	7274495.60
+    1	2993590	Moisdon-la-Rivière      :	234808.00
+    1	2973219	Teillé                  :	215280.60
+    1	2994250	Mesnard-la-Barotière    :	737848.20
+    1	3002446	Le Puy-Notre-Dame        :	534667.40
+    1	3007044	Larchamp                 :	271107.40
+    1	2972056	Trans-sur-Erdre          :	129983.00
+    1	3031307	Bouère                  :	512384.60
+    1	3021191	Domfront-en-Champagne    :	374375.00
+    1	2997433	Louisfert                :	840996.00
+    1	3007264	La Plaine                :	709695.20
+    2	3012484	Jard-sur-Mer             :	15797047.20
+    2	2993590	Moisdon-la-Rivière      :	947095.20
+    2	2994250	Mesnard-la-Barotière    :	11205728.40
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	2994280	Mésanger                :	1697.32
+    1	3026221	Châteauneuf-sur-Sarthe  :	645.94
+    1	3014549	Grosbreuil               :	32610.15
+    1	2977712	Saint-Paterne            :	3137.34
+----------------------------------------------------------------

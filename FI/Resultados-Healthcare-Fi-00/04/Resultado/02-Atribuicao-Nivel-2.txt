@@ -1,0 +1,7 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+740	                    Savonlinna	740	                    Savonlinna	    0.00
+90	                    Heinävesi	740	                    Savonlinna	    1.59
+623	                       Puumala	740	                    Savonlinna	    1.32
+178	                          Juva	178	                          Juva	    0.00
+171	                      Joroinen	178	                          Juva	    0.78
+97	                   Hirvensalmi	178	                          Juva	    1.59

@@ -1,0 +1,131 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   5106244216.20
+Primary   Care Cost:	   4253233885.00
+Secondary Care Cost:	    291373775.00
+Tertiary  Care Cost:	    229799280.00
+Add Infrastruc Cost:	    330060299.26
+Populat ExtLog Cost:	      1776976.94
+HC Cost per capita (now):	     1588.39
+HC Cost per capita (fut):	     1698.79
+----------------------------------------
+
+-----------------------------------
+State population:	3005819
+Max municipa pop:	217728
+Min municipa pop:	1002
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			8000   		1.05
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 737 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 737 mun >  36 mun (100.00% coverage)
+Care Level [2]:  36 mun >   8 mun
+Care Level [3]:   8 mun >   3 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3007794	Lanester                 :	32884458.50
+    1	3007842	Landivisiau              :	12728774.00
+    1	2971931	Trégueux                :	25280107.00
+    1	3019920	Ergué-Gabéric          :	24838910.00
+    1	2984741	Quiberon                 :	2800709.50
+    1	3032125	Bohars                   :	47656492.50
+    1	3021861	Damgan                   :	2663313.00
+    1	2979405	Saint-Jacut-les-Pins     :	9950280.00
+    1	6614095	Baguer-Morvan            :	3668529.00
+    1	6429151	Saint-Nicolas-du-Pélem  :	1853791.50
+    1	2985788	Poullan-sur-Mer          :	7669158.50
+    1	2979595	Saint-Hélen             :	18199588.50
+    1	3013026	Huelgoat                 :	2194948.00
+    1	3014274	Guillac                  :	4411121.00
+    1	2971860	Tréméoc                :	5290119.00
+    1	3030562	Brandivy                 :	6182135.00
+    1	2981473	Saint-Barnabé           :	6192747.50
+    1	2986644	Plounéour-Trez          :	747969.00
+    1	3030863	Bourseul                 :	14488468.00
+    1	3037743	Andel                    :	896827.00
+    1	2977839	Saint-Onen-la-Chapelle   :	5426242.00
+    1	2976982	Saint-Ségal             :	4293393.00
+    1	6432698	Essé                    :	4622946.50
+    1	6614173	Guémené-sur-Scorff     :	6879871.50
+    1	2971949	Tréglamus               :	1108511.00
+    1	6431057	Saint-Thurien            :	7655433.00
+    1	2979542	Saint-Hilaire-des-Landes :	1075400.00
+    1	2980331	Sainte-Sève             :	5583873.00
+    1	2994341	Mernel                   :	5149468.00
+    1	2986121	Pontrieux                :	8086300.50
+    1	3007588	La Noë-Blanche          :	7740899.00
+    1	2992070	Montreuil-sous-Pérouse  :	7921311.50
+    2	3007794	Lanester                 :	5494335.00
+    2	3007842	Landivisiau              :	3522288.00
+    2	2971931	Trégueux                :	3145065.00
+    2	3019920	Ergué-Gabéric          :	3076227.00
+    3	3007794	Lanester                 :	18680288.76
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2986610	Pluméliau               :	1594.49
+    1	6431037	Roscoff                  :	1507.46
+    1	3004513	Le Conquet               :	1194.33
+    1	2997511	Louargat                 :	1019.40
+    1	3035263	Balazé                  :	973.05
+    1	3029126	Callac                   :	968.67
+    1	2988229	Pédernec                :	807.30
+    1	2986046	Porspoder                :	785.00
+    1	2991343	Moustoir-Ac              :	773.19
+    1	2997964	Locmariaquer             :	682.23
+    1	3016828	Gahard                   :	654.68
+    1	2998890	Le Verger                :	629.31
+    1	2978037	Saint-M’Hervé         :	589.08
+    1	3014369	Guerlesquin              :	574.65
+    1	2989122	Ossé                    :	550.59
+    1	2979640	Plougrescant             :	509.92
+    1	6616118	Plouëc-du-Trieux        :	497.24
+    1	2986687	Plouégat-Guérand       :	465.31
+    2	2984741	Quiberon                 :	117402.09
+    2	3032125	Bohars                   :	57078.86
+    2	3021861	Damgan                   :	379.66
+    2	2979405	Saint-Jacut-les-Pins     :	58128.37
+    2	6614095	Baguer-Morvan            :	84432.67
+    2	6429151	Saint-Nicolas-du-Pélem  :	43753.36
+    2	2985788	Poullan-sur-Mer          :	12143.14
+    2	2979595	Saint-Hélen             :	64372.46
+    2	3013026	Huelgoat                 :	7655.27
+    2	3014274	Guillac                  :	15154.36
+    2	2981473	Saint-Barnabé           :	43898.17
+    2	2986644	Plounéour-Trez          :	1104.77
+    2	3030863	Bourseul                 :	22882.49
+    2	2977839	Saint-Onen-la-Chapelle   :	26926.16
+    2	2976982	Saint-Ségal             :	4310.73
+    2	6432698	Essé                    :	6484.34
+    2	6614173	Guémené-sur-Scorff     :	20940.95
+    2	2971949	Tréglamus               :	786.07
+    2	6431057	Saint-Thurien            :	7578.64
+    2	2980331	Sainte-Sève             :	24565.06
+    2	2994341	Mernel                   :	20267.35
+    2	2986121	Pontrieux                :	218.02
+    2	3007588	La Noë-Blanche          :	33807.99
+    2	2992070	Montreuil-sous-Pérouse  :	317.77
+    3	6437369	Saint-Avé               :	60029.59
+    3	2979619	Saint-Grégoire          :	6390.65
+    3	3007842	Landivisiau              :	170094.80
+    3	2971931	Trégueux                :	493981.64
+    3	3019920	Ergué-Gabéric          :	357115.61
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

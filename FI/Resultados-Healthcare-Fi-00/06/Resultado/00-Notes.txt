@@ -1,0 +1,49 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    663426271.44
+Primary   Care Cost:	    216675246.00
+Secondary Care Cost:	    281179920.00
+Tertiary  Care Cost:	    165114066.00
+Add Infrastruc Cost:	       259118.80
+Populat ExtLog Cost:	       197920.64
+HC Cost per capita (now):	     4032.73
+HC Cost per capita (fut):	     4035.51
+----------------------------------------
+
+-----------------------------------
+State population:	164397
+Max municipa pop:	68096
+Min municipa pop:	1966
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.00
+[3]			25000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 11 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  11 mun >   4 mun (100.00% coverage)
+Care Level [2]:   4 mun >   3 mun
+Care Level [3]:   3 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	103	Humppila                 :	259118.80
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    3	61	Forssa                   :	197920.64
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

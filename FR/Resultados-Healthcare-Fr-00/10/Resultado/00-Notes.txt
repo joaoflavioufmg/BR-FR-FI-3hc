@@ -1,0 +1,123 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   3945747325.43
+Primary   Care Cost:	   3295295865.00
+Secondary Care Cost:	    244875400.00
+Tertiary  Care Cost:	    163684216.00
+Add Infrastruc Cost:	    237280228.26
+Populat ExtLog Cost:	      4611616.17
+HC Cost per capita (now):	     1590.44
+HC Cost per capita (fut):	     1694.30
+----------------------------------------
+
+-----------------------------------
+State population:	2328831
+Max municipa pop:	169733
+Min municipa pop:	1002
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.40
+[3]			20000  		2.30
+-----------------------------------
+
+
+Demand met by level: (Estate has 579 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 579 mun >  38 mun (100.00% coverage)
+Care Level [2]:  38 mun >   6 mun
+Care Level [3]:   6 mun >   2 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6427260	Hérouville-Saint-Clair  :	45924532.50
+    1	2990537	Neuville-lès-Dieppe     :	9286362.00
+    1	3022826	Coutances                :	6246659.00
+    1	8289772	Falaise                  :	1144169.00
+    1	6613857	L’Aigle                :	2217163.50
+    1	2970860	Valognes                 :	8071443.00
+    1	2994529	Menneval                 :	4075058.50
+    1	6435531	Pirou                    :	410350.00
+    1	3022285	Croth                    :	2975462.00
+    1	6435596	Saint-Hilaire-Petitville :	2170327.00
+    1	3013402	Hérouvillette           :	587791.00
+    1	2977261	Saint-Quentin-sur-le-Homme:	6366509.50
+    1	6456442	La Feuillie              :	1790541.00
+    1	2997784	Londinières             :	768062.00
+    1	2971521	Trun                     :	4131375.50
+    1	3030857	Bourth                   :	2021327.50
+    1	3016812	Gaillefontaine           :	2063777.50
+    1	2984087	Rémalard                :	1332788.50
+    1	2988958	Ourville-en-Caux         :	8122949.00
+    1	2984354	Rauville-la-Bigot        :	12477470.00
+    1	2987596	Petiville                :	11366412.00
+    1	2997635	Lonlay-l’Abbaye        :	4856704.50
+    1	3020921	Berd’huis              :	1036770.50
+    1	3033604	Bellou-en-Houlme         :	4436308.00
+    1	3013242	Folligny                 :	4843828.00
+    1	3036231	Audrieu                  :	3690603.00
+    1	6424470	Écos                    :	10273466.00
+    1	3005311	Le Bény-Bocage          :	4117367.00
+    1	3019461	Étalondes               :	2104246.50
+    1	6430496	Montaure                 :	5456098.50
+    1	2984582	Radon                    :	6357453.50
+    1	3011331	La Barre-de-Semilly      :	5391857.50
+    1	3004989	Le Breuil-en-Auge        :	8838656.00
+    1	3037961	Amayé-sur-Orne          :	1360381.00
+    1	3003453	Grugny                   :	2414556.00
+    2	6427260	Hérouville-Saint-Clair  :	7635705.00
+    2	2990537	Neuville-lès-Dieppe     :	2462229.00
+    2	3022826	Coutances                :	5473314.00
+    2	8289772	Falaise                  :	2666433.00
+    2	6613857	L’Aigle                :	3225453.00
+    3	6427260	Hérouville-Saint-Clair  :	17088268.26
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	2988848	Pacy-sur-Eure            :	2216.80
+    1	3015765	Goderville               :	1252.06
+    1	2999170	Le Thuit-Signol          :	1077.13
+    1	3038681	Acquigny                 :	698.85
+    1	2986038	Portbail                 :	656.42
+    1	3000458	Les Loges-Marchis        :	438.20
+    2	2970860	Valognes                 :	523679.31
+    2	2989753	Octeville-sur-Mer        :	415143.85
+    2	3036850	Arnières-sur-Iton       :	97460.08
+    2	2994529	Menneval                 :	84848.96
+    2	3022285	Croth                    :	142877.40
+    2	6435596	Saint-Hilaire-Petitville :	10832.39
+    2	2977261	Saint-Quentin-sur-le-Homme:	56405.97
+    2	6456442	La Feuillie              :	11962.65
+    2	2997784	Londinières             :	93860.17
+    2	3016812	Gaillefontaine           :	66018.13
+    2	2984087	Rémalard                :	24743.53
+    2	2988958	Ourville-en-Caux         :	54690.99
+    2	2984354	Rauville-la-Bigot        :	115464.67
+    2	2987596	Petiville                :	11131.14
+    2	2997635	Lonlay-l’Abbaye        :	56096.10
+    2	3020921	Berd’huis              :	59540.47
+    2	3033604	Bellou-en-Houlme         :	4032.56
+    2	3013242	Folligny                 :	929.75
+    2	6424470	Écos                    :	72083.59
+    2	3005311	Le Bény-Bocage          :	49024.38
+    2	3019461	Étalondes               :	368.88
+    2	6430496	Montaure                 :	135.99
+    2	2984582	Radon                    :	60266.01
+    2	3011331	La Barre-de-Semilly      :	5460.54
+    2	3004989	Le Breuil-en-Auge        :	24295.83
+    2	3003453	Grugny                   :	83.06
+    3	2990537	Neuville-lès-Dieppe     :	126395.47
+    3	3022826	Coutances                :	1352894.30
+    3	6613857	L’Aigle                :	1084550.54
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

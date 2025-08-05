@@ -1,0 +1,2 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	743	Seinäjoki	178914.00	80.00	290.32	92.90	0.00	104.52	1.94	1.54	1.03	0.52

@@ -1,0 +1,438 @@
+CODIGO_O,ORIGEM,CODIGO_D,DESTINO,DISTANCIA,NIVEL
+2988800,"Nice",2988800,"Nice",0,1
+2969187,"Marseille",2969187,"Marseille",0,1
+2980772,"Toulon",2980772,"Toulon",0,1
+3038354,"Aix-en-Provence",3038354,"Aix-en-Provence",0,1
+2981259,"Saint-Cannat",3038354,"Aix-en-Provence",0.4,1
+2987472,"Peyrolles-en-Provence",3038354,"Aix-en-Provence",0.43,1
+2983127,"Rognes",3038354,"Aix-en-Provence",0.43,1
+3012200,"Jouques",3038354,"Aix-en-Provence",0.49,1
+2994070,"Meyrargues",3038354,"Aix-en-Provence",0.35,1
+3035681,"Avignon",3035681,"Avignon",0,1
+3028808,"Cannes",3028808,"Cannes",0,1
+2977162,"Antibes",2977162,"Antibes",0,1
+2974657,"La Seyne-sur-Mer",2974657,"La Seyne-sur-Mer",0,1
+3012937,"Hyères",3012937,"Hyères",0,1
+3017253,"Fréjus",3017253,"Fréjus",0,1
+3036938,"Arles",3036938,"Arles",0,1
+2978396,"Saint-Martin-de-Crau",3036938,"Arles",0.39,1
+2991421,"Mouriès",3036938,"Arles",0.49,1
+3029227,"Cagnes-sur-Mer",3029227,"Cagnes-sur-Mer",0,1
+3014856,"Grasse",3014856,"Grasse",0,1
+6454958,"Martigues",6454958,"Martigues",0,1
+6454959,"Miramas",6454958,"Martigues",0.5,1
+3017651,"Fos-sur-Mer",6454958,"Martigues",0.25,1
+6447157,"Port-Saint-Louis-du-Rhône",6454958,"Martigues",0.49,1
+3036433,"Aubagne",3036433,"Aubagne",0,1
+6453664,"Trets",3036433,"Aubagne",0.49,1
+3028431,"Cassis",3036433,"Aubagne",0.22,1
+2982859,"Roquefort-la-Bédoule",3036433,"Aubagne",0.13,1
+2976341,"Salon-de-Provence",2976341,"Salon-de-Provence",0,1
+3014868,"Grans",2976341,"Salon-de-Provence",0.11,1
+3025375,"Cheval-Blanc",2976341,"Salon-de-Provence",0.45,1
+3012647,"Istres",3012647,"Istres",0,1
+3004871,"Le Cannet",3004871,"Le Cannet",0,1
+3016702,"Gap",3016702,"Gap",0,1
+3011218,"La Bâtie-Neuve",3016702,"Gap",0.23,1
+2981355,"Saint-Bonnet-en-Champsaur",3016702,"Gap",0.34,1
+3020850,"Draguignan",3020850,"Draguignan",0,1
+6456718,"La Ciotat",6456718,"La Ciotat",0,1
+6445063,"Saint-Raphaël",6445063,"Saint-Raphaël",0,1
+6451513,"Le Plan-de-la-Tour",6445063,"Saint-Raphaël",0.51,1
+2967870,"Vitrolles",2967870,"Vitrolles",0,1
+3026227,"Châteauneuf-les-Martigues",2967870,"Vitrolles",0.27,1
+3007912,"Lançon-Provence",2967870,"Vitrolles",0.44,1
+6456720,"La Fare-les-Oliviers",2967870,"Vitrolles",0.28,1
+2981209,"Saint-Chamas",2967870,"Vitrolles",0.5,1
+6427089,"Sausset-les-Pins",2967870,"Vitrolles",0.45,1
+2977947,"Saint-Mitre-les-Remparts",2967870,"Vitrolles",0.47,1
+3028510,"Carry-le-Rouet",2967870,"Vitrolles",0.41,1
+3020149,"Ensuès-la-Redonne",2967870,"Vitrolles",0.3,1
+3023576,"Cornillon-Confoux",2967870,"Vitrolles",0.46,1
+2995750,"Marignane",2995750,"Marignane",0,1
+2989460,"Orange",2989460,"Orange",0,1
+3031868,"Bollène",2989460,"Orange",0.41,1
+2993342,"Mondragon",2989460,"Orange",0.34,1
+2991741,"Mornas",2989460,"Orange",0.24,1
+2978891,"Saint-Laurent-du-Var",2978891,"Saint-Laurent-du-Var",0,1
+3028542,"Carpentras",3028542,"Carpentras",0,1
+6425695,"Vallauris",6425695,"Vallauris",0,1
+6614137,"Cavaillon",6614137,"Cavaillon",0,1
+3026211,"Châteaurenard",6614137,"Cavaillon",0.39,1
+2975120,"Sénas",6614137,"Cavaillon",0.27,1
+2989935,"Noves",6614137,"Cavaillon",0.3,1
+6451536,"Caumont-sur-Durance",6614137,"Cavaillon",0.24,1
+3019203,"Eyragues",6614137,"Cavaillon",0.4,1
+3029312,"Cabannes",6614137,"Cavaillon",0.19,1
+2981791,"Saint-Andiol",6614137,"Cavaillon",0.19,1
+2993496,"Mollégès",6614137,"Cavaillon",0.2,1
+3038156,"Alleins",6614137,"Cavaillon",0.45,1
+3008308,"Lamanon",6614137,"Cavaillon",0.39,1
+2969832,"Vernègues",6614137,"Cavaillon",0.5,1
+3019229,"Eygalières",6614137,"Cavaillon",0.28,1
+3036048,"Aureille",6614137,"Cavaillon",0.4,1
+3009198,"La Garde",3009198,"La Garde",0,1
+2996255,"Mandelieu-la-Napoule",2996255,"Mandelieu-la-Napoule",0,1
+2987554,"Peymeinade",2996255,"Mandelieu-la-Napoule",0.29,1
+2979395,"La Roquette-sur-Siagne",2996255,"Mandelieu-la-Napoule",0.1,1
+2981217,"Saint-Cézaire-sur-Siagne",2996255,"Mandelieu-la-Napoule",0.41,1
+2976695,"Saint-Vallier-de-Thiey",2996255,"Mandelieu-la-Napoule",0.46,1
+3036022,"Auribeau-sur-Siagne",2996255,"Mandelieu-la-Napoule",0.16,1
+12072017,"Le Tignet",2996255,"Mandelieu-la-Napoule",0.3,1
+2973418,"Tanneron",2996255,"Mandelieu-la-Napoule",0.18,1
+3029282,"Cabris",2996255,"Mandelieu-la-Napoule",0.33,1
+2972942,"Théoule-sur-Mer",2996255,"Mandelieu-la-Napoule",0.11,1
+2973863,"Spéracèdes",2996255,"Mandelieu-la-Napoule",0.33,1
+6425528,"Manosque",6425528,"Manosque",0,1
+2984118,"Reillanne",6425528,"Manosque",0.28,1
+3011268,"La Bastide-des-Jourdans",6425528,"Manosque",0.33,1
+3015384,"Grambois",6425528,"Manosque",0.44,1
+2977959,"Saint-Michel-l’Observatoire",6425528,"Manosque",0.25,1
+3027889,"Céreste",6425528,"Manosque",0.4,1
+3038159,"Allauch",3038159,"Allauch",0,1
+3016667,"Gardanne",3016667,"Gardanne",0,1
+2987825,"Pertuis",2987825,"Pertuis",0,1
+2991551,"Mougins",2991551,"Mougins",0,1
+2974188,"Sorgues",2974188,"Sorgues",0,1
+3035036,"Barbentane",2974188,"Sorgues",0.39,1
+2970148,"Vence",2970148,"Vence",0,1
+2968533,"Villeneuve-Loubet",2970148,"Vence",0.18,1
+6425693,"Valbonne",2970148,"Vence",0.31,1
+8288967,"Carros",2970148,"Vence",0.21,1
+3006152,"La Trinité",2970148,"Vence",0.41,1
+2991579,"Mouans-Sartoux",2970148,"Vence",0.4,1
+3032579,"Biot",2970148,"Vence",0.26,1
+3009978,"La Colle-sur-Loup",2970148,"Vence",0.1,1
+3009150,"La Gaude",2970148,"Vence",0.08,1
+2968749,"Villefranche-sur-Mer",2970148,"Vence",0.4,1
+2972195,"Tourrette-Levens",2970148,"Vence",0.37,1
+3020834,"Drap",2970148,"Vence",0.43,1
+2979209,"Saint-Jeannet",2970148,"Vence",0.09,1
+3016534,"Gattières",2970148,"Vence",0.16,1
+2972273,"Tourrettes-sur-Loup",2970148,"Vence",0.11,1
+6455473,"Le Bosquet",2970148,"Vence",0.25,1
+3034238,"Beaulieu-sur-Mer",2970148,"Vence",0.44,1
+6615741,"Châteauneuf-Grasse",2970148,"Vence",0.31,1
+3024276,"Colomars",2970148,"Vence",0.25,1
+2977701,"Saint-Paul-de-Vence",2970148,"Vence",0.08,1
+2978284,"Saint-Martin-du-Var",2970148,"Vence",0.32,1
+6615738,"Le Bar-sur-Loup",2970148,"Vence",0.25,1
+2989486,"Opio",2970148,"Vence",0.3,1
+3036540,"Aspremont",2970148,"Vence",0.32,1
+3019174,"Èze",2970148,"Vence",0.5,1
+3019095,"Falicon",2970148,"Vence",0.35,1
+3028418,"Castagniers",2970148,"Vence",0.31,1
+3016053,"Gilette",2970148,"Vence",0.37,1
+2979369,"Saint-Jean-Cap-Ferrat",2970148,"Vence",0.46,1
+3004963,"Le Broc",2970148,"Vence",0.27,1
+2981375,"Saint-Blaise",2970148,"Vence",0.37,1
+3028783,"Cantaron",2970148,"Vence",0.43,1
+2999891,"La Crau",2999891,"La Crau",0,1
+3008432,"La Londe-les-Maures",2999891,"La Crau",0.33,1
+2985141,"Puget-Ville",2999891,"La Crau",0.41,1
+3028558,"Carnoules",2999891,"La Crau",0.48,1
+3030057,"Brignoles",3030057,"Brignoles",0,1
+2999012,"Le Val",3030057,"Brignoles",0.1,1
+3018389,"Flassans-sur-Issole",3030057,"Brignoles",0.34,1
+3028637,"Carcès",3030057,"Brignoles",0.31,1
+3033065,"Besse-sur-Issole",3030057,"Brignoles",0.28,1
+3034918,"Barjols",3030057,"Brignoles",0.44,1
+3023410,"Cotignac",3030057,"Brignoles",0.38,1
+2980783,"Sainte-Anastasie-sur-Issole",3030057,"Brignoles",0.22,1
+3029306,"Cabasse",3030057,"Brignoles",0.33,1
+6451469,"Camps-la-Source",3030057,"Brignoles",0.09,1
+6457116,"La Celle",3030057,"Brignoles",0.05,1
+3029809,"Brue-Auriac",3030057,"Brignoles",0.41,1
+2992583,"Montfort-sur-Argens",3030057,"Brignoles",0.23,1
+2976258,"Sanary-sur-Mer",2976258,"Sanary-sur-Mer",0,1
+6618043,"Digne-les-Bains",6618043,"Digne-les-Bains",0,1
+6618050,"Le Vieil Aiglun",6618043,"Digne-les-Bains",0.22,1
+6425526,"Mallemoisson",6618043,"Digne-les-Bains",0.26,1
+2973393,"Tarascon",2973393,"Tarascon",0,1
+3014803,"Graveson",2973393,"Tarascon",0.26,1
+6447161,"Rognonas",2973393,"Tarascon",0.39,1
+3017816,"Fontvieille",2973393,"Tarascon",0.24,1
+2996711,"Maillane",2973393,"Tarascon",0.26,1
+2980238,"Saint-Étienne-du-Grès",2973393,"Tarascon",0.15,1
+9178745,"Maussane-les-Alpilles",2973393,"Tarascon",0.37,1
+2988609,"Paradou",2973393,"Tarascon",0.35,1
+3031178,"Boulbon",2973393,"Tarascon",0.17,1
+3000047,"Les Pennes-Mirabeau",3031387,"Bouc-Bel-Air",0.24,1
+3031387,"Bouc-Bel-Air",3031387,"Bouc-Bel-Air",0,1
+3033241,"Berre-l’Étang",3031387,"Bouc-Bel-Air",0.5,1
+3036012,"Auriol",3031387,"Bouc-Bel-Air",0.5,1
+2983130,"Rognac",3031387,"Bouc-Bel-Air",0.38,1
+2986889,"Plan-de-Cuques",3031387,"Bouc-Bel-Air",0.31,1
+2975020,"Septèmes-les-Vallons",3031387,"Bouc-Bel-Air",0.18,1
+6447127,"Fuveau",3031387,"Bouc-Bel-Air",0.3,1
+3029283,"Cabriès",3031387,"Bouc-Bel-Air",0.08,1
+3016070,"Gignac-la-Nerthe",3031387,"Bouc-Bel-Air",0.4,1
+6427095,"Velaux",3031387,"Bouc-Bel-Air",0.38,1
+2970092,"Venelles",3031387,"Bouc-Bel-Air",0.42,1
+2994068,"Meyreuil",3031387,"Bouc-Bel-Air",0.19,1
+6427092,"Simiane-Collongue",3031387,"Bouc-Bel-Air",0.07,1
+6427097,"Ventabren",3031387,"Bouc-Bel-Air",0.34,1
+3002271,"Le Rove",3031387,"Bouc-Bel-Air",0.41,1
+2982472,"Rousset",3031387,"Bouc-Bel-Air",0.43,1
+3014767,"Gréasque",3031387,"Bouc-Bel-Air",0.26,1
+3023344,"Coudoux",3031387,"Bouc-Bel-Air",0.44,1
+2987551,"Peynier",3031387,"Bouc-Bel-Air",0.46,1
+2976994,"Saint-Savournin",3031387,"Bouc-Bel-Air",0.26,1
+3026229,"Châteauneuf-le-Rouge",3031387,"Bouc-Bel-Air",0.33,1
+2999182,"Le Tholonet",3031387,"Bouc-Bel-Air",0.27,1
+3029248,"Cadolive",3031387,"Bouc-Bel-Air",0.32,1
+3033803,"Belcodène",3031387,"Bouc-Bel-Air",0.36,1
+2978561,"Saint-Marc-Jaumegarde",3031387,"Bouc-Bel-Air",0.34,1
+2970408,"Vauvenargues",3031387,"Bouc-Bel-Air",0.47,1
+2982875,"Roquebrune-sur-Argens",2982875,"Roquebrune-sur-Argens",0,1
+2980402,"Sainte-Maxime",2982875,"Roquebrune-sur-Argens",0.37,1
+2976742,"Saint-Tropez",2982875,"Roquebrune-sur-Argens",0.48,1
+3009193,"La Garde-Freinet",2982875,"Roquebrune-sur-Argens",0.49,1
+2989590,"Ollioules",2989590,"Ollioules",0,1
+3003188,"Cogolin",3003188,"Cogolin",0,1
+3031532,"Bormes-les-Mimosas",3003188,"Cogolin",0.47,1
+3028129,"Cavalaire-sur-Mer",3003188,"Cogolin",0.23,1
+3003713,"Le Lavandou",3003188,"Cogolin",0.46,1
+3014634,"Grimaud",3003188,"Cogolin",0.06,1
+3009710,"La Croix-Valmer",3003188,"Cogolin",0.15,1
+2983390,"Gassin",3003188,"Cogolin",0.13,1
+2984521,"Ramatuelle",3003188,"Cogolin",0.19,1
+3008116,"La Môle",3003188,"Cogolin",0.18,1
+3030142,"Briançon",3030142,"Briançon",0,1
+6618140,"L’Argentière-la-Bessée",3030142,"Briançon",0.32,1
+2981214,"Saint-Chaffrey",3030142,"Briançon",0.1,1
+2968929,"Villar-Saint-Pancrace",3030142,"Briançon",0.07,1
+6425639,"Saint-Martin-de-Queyrières",3030142,"Briançon",0.18,1
+3003297,"Le Monêtier-les-Bains",3030142,"Briançon",0.33,1
+3037352,"Apt",3037352,"Apt",0,1
+3006703,"La Roque-d’Anthéron",3037352,"Apt",0.48,1
+3029256,"Cadenet",3037352,"Apt",0.4,1
+3005966,"Lauris",3037352,"Apt",0.4,1
+2968701,"Villelaure",3037352,"Apt",0.47,1
+3022164,"Cucuron",3037352,"Apt",0.3,1
+3008015,"La Motte-d’Aigues",3037352,"Apt",0.38,1
+2997384,"Lourmarin",3037352,"Apt",0.32,1
+3037482,"Ansouis",3037352,"Apt",0.41,1
+3003650,"Le Luc",3003650,"Le Luc",0,1
+2987179,"Pignans",3003650,"Le Luc",0.31,1
+3015686,"Gonfaron",3003650,"Le Luc",0.21,1
+3004870,"Le Cannet-des-Maures",3003650,"Le Luc",0.06,1
+2976472,"Salernes",3003650,"Le Luc",0.5,1
+3017799,"Forcalqueiret",3003650,"Le Luc",0.5,1
+3024313,"Collobrières",3003650,"Le Luc",0.44,1
+3020134,"Entrecasteaux",3003650,"Le Luc",0.37,1
+2977214,"Saint-Rémy-de-Provence",2977214,"Saint-Rémy-de-Provence",0,1
+3028534,"Carqueiranne",3028534,"Carqueiranne",0,1
+6615256,"Valréas",6615256,"Valréas",0,1
+2967914,"Visan",6615256,"Valréas",0.21,1
+3014640,"Grillon",6615256,"Valréas",0.12,1
+6447163,"Roquevaire",6447163,"Roquevaire",0,1
+2988220,"Pégomas",2988220,"Pégomas",0,1
+2988186,"Pélissanne",6447121,"Éguilles",0.45,1
+3008208,"Lambesc",6447121,"Éguilles",0.3,1
+6447121,"Éguilles",6447121,"Éguilles",0,1
+3026616,"Charleval",6447121,"Éguilles",0.47,1
+2974446,"Sisteron",2974446,"Sisteron",0,1
+3026312,"Château-Arnoux-Saint-Auban",2974446,"Sisteron",0.3,1
+3000329,"Les Mées",2974446,"Sisteron",0.45,1
+2987459,"Peyruis",2974446,"Sisteron",0.45,1
+2996413,"Malijai",2974446,"Sisteron",0.43,1
+2967718,"Volonne",2974446,"Sisteron",0.26,1
+2988208,"Peipin",2974446,"Sisteron",0.15,1
+6618042,"L’Escale",2974446,"Sisteron",0.33,1
+3023842,"Contes",3023842,"Contes",0,1
+3019219,"Eyguières",3019219,"Eyguières",0,1
+6447156,"Port-de-Bouc",2976656,"Saint-Victoret",0.5,1
+2976656,"Saint-Victoret",2976656,"Saint-Victoret",0,1
+3007401,"La Penne-sur-Huveaune",3007401,"La Penne-sur-Huveaune",0,1
+3000866,"La Bouilladisse",3000866,"La Bouilladisse",0,1
+6446638,"Embrun",6446638,"Embrun",0,1
+3014258,"Guillestre",6446638,"Embrun",0.4,1
+8288911,"Châteauroux-les-Alpes",6446638,"Embrun",0.15,1
+3001268,"Crots",6446638,"Embrun",0.1,1
+2994901,"Mazan",2994901,"Mazan",0,1
+2998127,"L’Isle-sur-la-Sorgue",2975953,"Sarrians",0.48,1
+3002570,"Le Pontet",2975953,"Sarrians",0.4,1
+2992638,"Monteux",2975953,"Sarrians",0.14,1
+2970253,"Vedène",2975953,"Sarrians",0.32,1
+2987945,"Pernes-les-Fontaines",2975953,"Sarrians",0.3,1
+6456555,"Le Thor",2975953,"Sarrians",0.43,1
+6451576,"Morières-lès-Avignon",2975953,"Sarrians",0.42,1
+3020142,"Entraigues-sur-la-Sorgue",2975953,"Sarrians",0.24,1
+2975953,"Sarrians",2975953,"Sarrians",0,1
+3022897,"Courthézon",2975953,"Sarrians",0.17,1
+3036359,"Aubignan",2975953,"Sarrians",0.12,1
+3012277,"Jonquières",2975953,"Sarrians",0.17,1
+2987071,"Piolenc",2975953,"Sarrians",0.49,1
+3033912,"Bédarrides",2975953,"Sarrians",0.19,1
+2977063,"Saint-Saturnin-lès-Avignon",2975953,"Sarrians",0.36,1
+3029069,"Camaret-sur-Aigues",2975953,"Sarrians",0.3,1
+3028551,"Caromb",2975953,"Sarrians",0.28,1
+3026242,"Châteauneuf-de-Gadagne",2975953,"Sarrians",0.44,1
+3033900,"Bédoin",2975953,"Sarrians",0.43,1
+2970187,"Velleron",2975953,"Sarrians",0.37,1
+6452559,"Althen-des-Paluds",2975953,"Sarrians",0.22,1
+2996495,"Malaucène",2975953,"Sarrians",0.41,1
+2974923,"Sérignan-du-Comtat",2975953,"Sarrians",0.39,1
+3029254,"Caderousse",2975953,"Sarrians",0.43,1
+2994783,"Loriol-du-Comtat",2975953,"Sarrians",0.06,1
+2980711,"Sainte-Cécile-les-Vignes",2975953,"Sarrians",0.48,1
+3034218,"Beaumes-de-Venise",2975953,"Sarrians",0.16,1
+3026233,"Châteauneuf-du-Pape",2975953,"Sarrians",0.29,1
+2996449,"Malemort-du-Comtat",2975953,"Sarrians",0.42,1
+2968005,"Violès",2975953,"Sarrians",0.22,1
+3012282,"Jonquerettes",2975953,"Sarrians",0.39,1
+2982075,"Sablet",2975953,"Sarrians",0.31,1
+2971205,"Vacqueyras",2975953,"Sarrians",0.15,1
+3020133,"Entrechaux",2975953,"Sarrians",0.5,1
+3029182,"Cairanne",2975953,"Sarrians",0.42,1
+2970151,"Venasque",2975953,"Sarrians",0.43,1
+2987297,"Pierrefeu-du-Var",2987297,"Pierrefeu-du-Var",0,1
+2971154,"Vaison-la-Romaine",2971154,"Vaison-la-Romaine",0,1
+3002443,"Le Puy-Sainte-Réparade",3002443,"Le Puy-Sainte-Réparade",0,1
+3006213,"La Tour-d’Aigues",3002443,"Le Puy-Sainte-Réparade",0.28,1
+2974337,"Solliès-Toucas",2974337,"Solliès-Toucas",0,1
+6618146,"Saint-André-de-la-Roche",6618146,"Saint-André-de-la-Roche",0,1
+2987547,"Peypin",2987547,"Peypin",0,1
+3017798,"Forcalquier",3017798,"Forcalquier",0,1
+2996234,"Mane",3017798,"Forcalquier",0.06,1
+2980220,"Saint-Étienne-les-Orgues",3017798,"Forcalquier",0.24,1
+2978100,"Saint-Maximin-la-Sainte-Baume",2990987,"Nans-les-Pins",0.28,1
+6451516,"Pourrières",2990987,"Nans-les-Pins",0.38,1
+2972168,"Tourves",2990987,"Nans-les-Pins",0.3,1
+2990987,"Nans-les-Pins",2990987,"Nans-les-Pins",0,1
+6455294,"Bras",2990987,"Nans-les-Pins",0.45,1
+2975256,"Seillons-Source-d’Argens",2990987,"Nans-les-Pins",0.41,1
+2998916,"Levens",2998916,"Levens",0,1
+3027745,"Ceyreste",3027745,"Ceyreste",0,1
+2993832,"Mimet",2993832,"Mimet",0,1
+3022158,"Cuers",3002357,"Le Revest-les-Eaux",0.34,1
+3016635,"Garéoult",3002357,"Le Revest-les-Eaux",0.49,1
+6445057,"Rocbaron",3002357,"Le Revest-les-Eaux",0.49,1
+3002357,"Le Revest-les-Eaux",3002357,"Le Revest-les-Eaux",0,1
+2990787,"Néoules",3002357,"Le Revest-les-Eaux",0.41,1
+3006704,"La Roquebrussanne",3002357,"Le Revest-les-Eaux",0.47,1
+2994497,"Menton",2974162,"Sospel",0.3,1
+3034041,"Beausoleil",2974162,"Sospel",0.38,1
+3028742,"Cap-d’Ail",2974162,"Sospel",0.44,1
+2974162,"Sospel",2974162,"Sospel",0,1
+3006089,"La Turbie",2974162,"Sospel",0.38,1
+8288974,"L’Escarène",2974162,"Sospel",0.22,1
+2988214,"Peille",2974162,"Sospel",0.23,1
+6446679,"Breil-sur-Roya",2974162,"Sospel",0.21,1
+3032308,"Blausasc",2974162,"Sospel",0.26,1
+6446710,"Gorbio",2974162,"Sospel",0.25,1
+2980300,"Peillon",2974162,"Sospel",0.34,1
+12072016,"Sainte-Agnès",2974162,"Sospel",0.25,1
+2997234,"Lucéram",2974162,"Sospel",0.18,1
+3007506,"Lantosque",2974162,"Sospel",0.38,1
+3033242,"Berre-les-Alpes",2974162,"Sospel",0.27,1
+3028380,"Castellar",2974162,"Sospel",0.23,1
+6451561,"Lapalud",6451561,"Lapalud",0,1
+6615537,"Carnoux-en-Provence",3009663,"La Destrousse",0.34,1
+3016398,"Gémenos",3009663,"La Destrousse",0.23,1
+6445065,"Saint-Zacharie",3009663,"La Destrousse",0.2,1
+3009663,"La Destrousse",3009663,"La Destrousse",0,1
+2984944,"Puyloubier",3009663,"La Destrousse",0.44,1
+2982575,"Rougiers",3009663,"La Destrousse",0.5,1
+2985765,"Pourcieux",3009663,"La Destrousse",0.45,1
+3007082,"Laragne-Montéglin",3007082,"Laragne-Montéglin",0,1
+2974831,"Serres",3007082,"Laragne-Montéglin",0.38,1
+3002132,"Mison",3007082,"Laragne-Montéglin",0.15,1
+2968614,"Villeneuve",3014717,"Gréoux-les-Bains",0.38,1
+2983732,"Rians",3014717,"Gréoux-les-Bains",0.49,1
+2968023,"Vinon-sur-Verdon",3014717,"Gréoux-les-Bains",0.17,1
+2987222,"Pierrevert",3014717,"Gréoux-les-Bains",0.31,1
+2980205,"Sainte-Tulle",3014717,"Gréoux-les-Bains",0.25,1
+2967708,"Volx",3014717,"Gréoux-les-Bains",0.34,1
+3014717,"Gréoux-les-Bains",3014717,"Gréoux-les-Bains",0,1
+3016018,"Ginasservis",3014717,"Gréoux-les-Bains",0.25,1
+3005687,"La Verdière",3014717,"Gréoux-les-Bains",0.35,1
+2993771,"Mirabeau",3014717,"Gréoux-les-Bains",0.48,1
+3023736,"Corbières-en-Provence",3014717,"Gréoux-les-Bains",0.27,1
+2970746,"Varages",3014717,"Gréoux-les-Bains",0.47,1
+3034169,"Beaumont-de-Pertuis",3014717,"Gréoux-les-Bains",0.4,1
+2969353,"Vidauban",3018513,"Figanières",0.41,1
+3018513,"Figanières",3018513,"Figanières",0,1
+2968822,"Villecroze",3018513,"Figanières",0.45,1
+3034991,"Barcelonnette",3034991,"Barcelonnette",0,1
+3012406,"Jausiers",3034991,"Barcelonnette",0.18,1
+2999179,"Le Thoronet",2999179,"Le Thoronet",0,1
+2974427,"Six-Fours-les-Plages",2980759,"Évenos",0.19,1
+3005825,"La Valette-du-Var",2980759,"Évenos",0.32,1
+6445059,"Saint-Cyr-sur-Mer",2980759,"Évenos",0.25,1
+2974338,"Solliès-Pont",2980759,"Évenos",0.43,1
+3002510,"Le Pradet",2980759,"Évenos",0.43,1
+3005326,"Le Beausset",2980759,"Évenos",0.1,1
+3009566,"La Farlède",2980759,"Évenos",0.43,1
+3035156,"Bandol",2980759,"Évenos",0.18,1
+2972324,"Saint-Mandrier-sur-Mer",2980759,"Évenos",0.33,1
+6457114,"La Cadière-d’Azur",2980759,"Évenos",0.17,1
+3022152,"Cuges-les-Pins",2980759,"Évenos",0.4,1
+3004838,"Le Castellet",2980759,"Évenos",0.14,1
+2974586,"Signes",2980759,"Évenos",0.34,1
+2974336,"Solliès-Ville",2980759,"Évenos",0.42,1
+3033784,"Belgentier",2980759,"Évenos",0.4,1
+2980759,"Évenos",2980759,"Évenos",0,1
+2994486,"Méounes-lès-Montrieux",2980759,"Évenos",0.42,1
+2986891,"Plan-d’Aups-Sainte-Baume",2980759,"Évenos",0.5,1
+3036067,"Aups",3036067,"Aups",0,1
+2973259,"Tavernes",3036067,"Aups",0.43,1
+2969516,"Veynes",2973485,"Tallard",0.5,1
+3025033,"Chorges",2973485,"Tallard",0.5,1
+2973485,"Tallard",2973485,"Tallard",0,1
+2973180,"Tende",2973180,"Tende",0,1
+2980325,"Saintes-Maries-de-la-Mer",2980325,"Saintes-Maries-de-la-Mer",0,1
+2990906,"Le Muy",3029125,"Callas",0.34,1
+2997581,"Lorgues",3029125,"Callas",0.45,1
+6614189,"Puget-sur-Argens",3029125,"Callas",0.48,1
+3002138,"Les Arcs",3029125,"Callas",0.38,1
+2992978,"Montauroux",3029125,"Callas",0.46,1
+2972058,"Trans-en-Provence",3029125,"Callas",0.27,1
+6451486,"Fayence",3029125,"Callas",0.32,1
+3018355,"Flayosc",3029125,"Callas",0.33,1
+3029118,"Callian",3029125,"Callas",0.44,1
+6617829,"Tourrettes",3029125,"Callas",0.34,1
+3008037,"La Motte",3029125,"Callas",0.28,1
+3035398,"Bagnols-en-Forêt",3029125,"Callas",0.36,1
+2975265,"Seillans",3029125,"Callas",0.24,1
+3029125,"Callas",3029125,"Callas",0,1
+2973396,"Taradeau",3029125,"Callas",0.45,1
+2977662,"Saint-Paul-en-Forêt",3029125,"Callas",0.32,1
+3034939,"Bargemon",3029125,"Callas",0.08,1
+2991750,"Mormoiron",2991750,"Mormoiron",0,1
+2975798,"Sault",2991750,"Mormoiron",0.45,1
+2985142,"Puget-Théniers",2985142,"Puget-Théniers",0,1
+2982881,"Roquebillière",2982881,"Roquebillière",0,1
+2978208,"Saint-Martin-Vésubie",2982881,"Roquebillière",0.19,1
+2989461,"Oraison",2983580,"Riez",0.44,1
+2971033,"Valensole",2983580,"Riez",0.23,1
+2984145,"Régusse",2983580,"Riez",0.46,1
+2979088,"Saint-Julien",2983580,"Riez",0.5,1
+2983580,"Riez",2983580,"Riez",0,1
+3010787,"La Brillanne",2983580,"Riez",0.5,1
+2996397,"Mallemort",3015661,"Gordes",0.5,1
+2983338,"Robion",3015661,"Gordes",0.25,1
+2986883,"Plan-d’Orgon",3015661,"Gordes",0.49,1
+3016624,"Gargas",3015661,"Gordes",0.32,1
+2989362,"Orgon",3015661,"Gordes",0.46,1
+8297344,"Saint-Saturnin-lès-Apt",3015661,"Gordes",0.38,1
+2994379,"Mérindol",3015661,"Gordes",0.43,1
+2995155,"Maubec",3015661,"Gordes",0.22,1
+2973564,"Taillades",3015661,"Gordes",0.3,1
+3029284,"Cabrières-d’Avignon",3015661,"Gordes",0.12,1
+3015661,"Gordes",3015661,"Gordes",0,1
+3009078,"Lagnes",3015661,"Gordes",0.18,1
+6451579,"Oppède le Vieux",3015661,"Gordes",0.2,1
+2968290,"Villes-sur-Auzon",3015661,"Gordes",0.41,1
+3031665,"Bonnieux",3015661,"Gordes",0.32,1
+3015571,"Goult",3015661,"Gordes",0.16,1
+2980247,"Saint-Étienne-de-Tinée",2980247,"Saint-Étienne-de-Tinée",0,1
+3028382,"Castellane",3028382,"Castellane",0,1
+3037512,"Annot",3028382,"Castellane",0.45,1
+2981717,"Saint-André-les-Alpes",3028382,"Castellane",0.34,1
+2982985,"Romette",3006511,"La Saulce",0.48,1
+3006795,"La Roche-des-Arnauds",3006511,"La Saulce",0.4,1
+3006511,"La Saulce",3006511,"La Saulce",0,1
+2974661,"Seyne",2974661,"Seyne",0,1
+8288944,"Savines-le-Lac",2974661,"Seyne",0.5,1

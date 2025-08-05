@@ -1,0 +1,48 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	  91930021124.65
+Primary   Care Cost:	  24655234142.00
+Secondary Care Cost:	  32875017544.60
+Tertiary  Care Cost:	  34390758775.45
+Add Infrastruc Cost:	      9010662.60
+Populat ExtLog Cost:	            0.00
+HC Cost per capita (now):	     4466.45
+HC Cost per capita (fut):	     4466.89
+----------------------------------------
+
+----------------------------------------
+State population:	20580329
+Max municipa pop:	11020000
+Min municipa pop:	1008
+----------------------------------------
+Care Level		Pop. Min	Dur. Max(h).
+----------------------------------------
+Care Level [1]	0      		0.50
+Care Level [2]	2080   		0.50
+Care Level [3]	5533   		0.81
+----------------------------------------
+
+
+Demand met by level: (Estate has 696 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 696 mun > 148 mun (100.00% coverage)
+Care Level [2]: 148 mun > 132 mun
+Care Level [3]: 132 mun > 128 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+    1	6443768	Nangis                   :	1821439.20
+    1	2973963	Souppes-sur-Loing        :	998173.60
+    1	3020335	Égreville               :	460631.00
+    1	3034160	Beaumont-en-Gâtinais    :	142322.40
+    2	6443768	Nangis                   :	2973902.40
+    2	2973963	Souppes-sur-Loing        :	2614194.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE  	DESCRIPTION              :	COST($)
+----------------------------------------------------------------

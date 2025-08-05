@@ -1,0 +1,12 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+167	                       Joensuu	167	                       Joensuu	    0.00
+422	                        Lieksa	167	                       Joensuu	    2.02
+309	                     Outokumpu	167	                       Joensuu	    1.02
+146	                     Ilomantsi	167	                       Joensuu	    1.51
+176	                         Juuka	167	                       Joensuu	    1.90
+848	                   Tohmajärvi	167	                       Joensuu	    1.27
+607	                   Polvijärvi	167	                       Joensuu	    0.87
+707	                   Rääkkylä	167	                       Joensuu	    0.82
+276	                   Kontiolahti	276	                   Kontiolahti	    0.00
+541	                        Nurmes	276	                   Kontiolahti	    2.34
+426	                        Liperi	426	                        Liperi	    0.00

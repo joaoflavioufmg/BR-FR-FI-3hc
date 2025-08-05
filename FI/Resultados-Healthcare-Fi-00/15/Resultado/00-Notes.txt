@@ -1,0 +1,68 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   1073528230.67
+Primary   Care Cost:	    310851618.00
+Secondary Care Cost:	    507162480.00
+Tertiary  Care Cost:	    244570014.00
+Add Infrastruc Cost:	      8906516.80
+Populat ExtLog Cost:	      2037601.87
+HC Cost per capita (now):	     4505.32
+HC Cost per capita (fut):	     4551.72
+----------------------------------------
+
+-----------------------------------
+State population:	235851
+Max municipa pop:	125383
+Min municipa pop:	1287
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.60
+[3]			20000  		1.70
+-----------------------------------
+
+
+Demand met by level: (Estate has 18 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  18 mun >  13 mun (100.00% coverage)
+Care Level [2]:  13 mun >   3 mun
+Care Level [3]:   3 mun >   1 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	402	Lapinlahti               :	1105538.40
+    1	420	Leppävirta              :	3479651.80
+    1	263	Kiuruvesi                :	882401.00
+    1	595	Pielavesi                :	478829.40
+    1	925	Vieremä                 :	412534.00
+    1	686	Rautalampi               :	1159444.60
+    1	857	Tuusniemi                :	580579.00
+    1	239	Keitele                  :	241984.80
+    1	687	Rautavaara               :	169626.60
+    1	844	Tervo                    :	395927.20
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	402	Lapinlahti               :	3558.57
+    2	420	Leppävirta              :	322569.58
+    2	263	Kiuruvesi                :	27859.38
+    2	595	Pielavesi                :	107207.92
+    2	925	Vieremä                 :	560.16
+    2	686	Rautalampi               :	201354.01
+    2	857	Tuusniemi                :	60730.50
+    2	239	Keitele                  :	238017.50
+    2	687	Rautavaara               :	125791.97
+    2	844	Tervo                    :	66262.15
+    3	140	Iisalmi                  :	883690.13
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

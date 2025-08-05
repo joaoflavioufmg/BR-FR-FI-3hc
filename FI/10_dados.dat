@@ -1,0 +1,63 @@
+# ======================================================
+# Model: Hierarchical health care design : 3 levels (brown field)
+# Joao Flavio F. Almeida <joao.flavio@dep.ufmg.br >
+# Fabricio Oliveira <fabricio.oliveira@aalto.fi >
+# Data   : 19/02/2022
+# Versao: 1.0:
+# Region:  Lapland (10)
+# =========================================================
+data;
+
+# param Distmax:=
+# 1 80  # 80
+# 2 120 # + 120
+# 3 250; # + 200
+
+# Minimal population on destination municipality (j) 
+param POPmin:=
+1	0
+# 2	5000
+# 3	6000
+2	2495	# Q1
+3	3135	# Q2 
+;
+
+param DurUpper:=
+1 0.51 
+2 2.8
+3 2.2; 
+
+# # Municipios selecionados que já possuem infraestrutura de nível 3
+# set S3:=
+# 	2973781	
+# 	6454307	
+# 	6496694	
+# ;
+
+# CODIGO	REGIAO (code)	LAT	LONG	POPULACAO 2030	INFR	MUNICIPIO	
+ param: I :	RE	lat	lng	POP	INFR	Mun 	:=
+698	10	66.5028	25.7285	66467	0	'Rovaniemi'	
+851	10	65.8497	24.1441	20066	0	'Tornio'	
+240	10	65.7336	24.5634	17979	0	'Kemi'	
+758	10	67.4149	26.5907	7409	1	'Sodankylä'	
+241	10	65.799	24.5426	7294	1	'Keminmaa'	
+320	10	66.715	27.4306	6243	1	'Kemijärvi'	
+148	10	68.9055	27.0176	6928	1	'Inari'	
+261	10	67.6531	24.9114	6326	1	'Kittilä'	
+976	10	66.3167	23.6667	3284	1	'Ylitornio'	
+683	10	65.9275	26.5184	3135	1	'Ranua'	
+732	10	66.8333	28.6667	2925	1	'Salla'	
+854	10	66.7756	23.9635	2797	1	'Pello'	
+614	10	66.1097	28.1739	2585	1	'Posio'	
+751	10	65.6613	25.0623	2526	1	'Simo'	
+845	10	66.0821	24.808	2495	1	'Tervola'	
+498	10	67.9593	23.6772	2195	1	'Muonio'	
+047	10	68.3847	23.6389	1726	1	'Enontekiö'	
+890	10	69.9078	27.0265	1192	1	'Utsjoki'	
+742	10	67.2917	28.1667	949	1	'Savukoski'	
+583	10	67.1083	27.5167	894	1	'Pelkosenniemi'	
+273	10	67.3317	23.7913	3976	1	'Kolari'				
+;
+
+
+end;

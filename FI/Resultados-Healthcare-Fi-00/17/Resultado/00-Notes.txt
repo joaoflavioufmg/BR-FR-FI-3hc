@@ -1,0 +1,62 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	    920698824.72
+Primary   Care Cost:	    265674532.00
+Secondary Care Cost:	    408847840.00
+Tertiary  Care Cost:	    223396680.00
+Add Infrastruc Cost:	     22445549.40
+Populat ExtLog Cost:	       334223.32
+HC Cost per capita (now):	     4454.54
+HC Cost per capita (fut):	     4567.55
+----------------------------------------
+
+-----------------------------------
+State population:	201574
+Max municipa pop:	79975
+Min municipa pop:	1192
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			10000  		1.20
+[3]			30000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 16 municipalities).
+----------------------------------------------------------------
+Care Level [1]:  16 mun >   9 mun (100.00% coverage)
+Care Level [2]:   9 mun >   5 mun
+Care Level [3]:   5 mun >   2 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    1	886	Ulvila                   :	2337209.40
+    1	50	Eura                     :	2964445.60
+    1	214	Kankaanpää             :	1685194.80
+    1	102	Huittinen                :	1191999.20
+    1	230	Karvia                   :	274407.60
+    1	608	Pomarkku                 :	237240.00
+    1	747	Siikainen                :	537744.00
+    2	886	Ulvila                   :	3437577.60
+    2	50	Eura                     :	5772547.20
+    2	214	Kankaanpää             :	4007184.00
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					COST($)
+    2	102	Huittinen                :	114035.67
+    2	230	Karvia                   :	52855.25
+    2	608	Pomarkku                 :	3149.80
+    2	747	Siikainen                :	68680.45
+    3	214	Kankaanpää             :	95502.15
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

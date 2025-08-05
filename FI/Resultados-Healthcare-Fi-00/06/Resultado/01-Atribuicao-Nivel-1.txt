@@ -1,0 +1,12 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+109	                  Hämeenlinna	109	                  Hämeenlinna	    0.00
+165	                     Janakkala	109	                  Hämeenlinna	    0.35
+82	                       Hattula	109	                  Hämeenlinna	    0.17
+694	                    Riihimäki	694	                    Riihimäki	    0.00
+433	                         Loppi	694	                    Riihimäki	    0.44
+86	                    Hausjärvi	694	                    Riihimäki	    0.39
+61	                        Forssa	61	                        Forssa	    0.00
+834	                       Tammela	61	                        Forssa	    0.21
+169	                     Jokioinen	61	                        Forssa	    0.18
+981	                       Ypäjä	61	                        Forssa	    0.45
+103	                      Humppila	103	                      Humppila	    0.00

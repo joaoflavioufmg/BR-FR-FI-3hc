@@ -1,0 +1,750 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+2990969	                        Nantes	2990969	                        Nantes	    0.00
+3037656	                        Angers	3037656	                        Angers	    0.00
+2978985	       Saint-Lambert-du-Lattay	3037656	                        Angers	    0.50
+6508863	                       Le Mans	6508863	                       Le Mans	    0.00
+3034325	                       Beaufay	6508863	                       Le Mans	    0.49
+6434534	                 Saint-Nazaire	6434534	                 Saint-Nazaire	    0.00
+2981296	         Saint-Brevin-les-Pins	6434534	                 Saint-Nazaire	    0.12
+6434532	        Saint-Michel-Chef-Chef	6434534	                 Saint-Nazaire	    0.30
+3007262	             La Plaine-sur-Mer	6434534	                 Saint-Nazaire	    0.40
+2985490	                   Préfailles	6434534	                 Saint-Nazaire	    0.42
+3006767	              La Roche-sur-Yon	3006767	              La Roche-sur-Yon	    0.00
+3038341	                       Aizenay	3006767	              La Roche-sur-Yon	    0.40
+3002620	             Le Poiré-sur-Vie	3006767	              La Roche-sur-Yon	    0.31
+3001134	                   Les Essarts	3006767	              La Roche-sur-Yon	    0.47
+6457155	                  La Ferrière	3006767	              La Roche-sur-Yon	    0.24
+2991537	          Mouilleron-le-Captif	3006767	              La Roche-sur-Yon	    0.14
+2970157	                    Venansault	3006767	              La Roche-sur-Yon	    0.17
+3021124	             Dompierre-sur-Yon	3006767	              La Roche-sur-Yon	    0.20
+3033635	            Belleville-sur-Vie	3006767	              La Roche-sur-Yon	    0.31
+3036348	                       Aubigny	3006767	              La Roche-sur-Yon	    0.21
+3010483	          La Chaize-le-Vicomte	3006767	              La Roche-sur-Yon	    0.25
+3000446	         Les Lucs-sur-Boulogne	3006767	              La Roche-sur-Yon	    0.50
+3030902	                    Bournezeau	3006767	              La Roche-sur-Yon	    0.49
+3008052	               La Mothe-Achard	3006767	              La Roche-sur-Yon	    0.47
+2990727	                         Nesmy	3006767	              La Roche-sur-Yon	    0.22
+2980113	        Saint-Florent-des-Bois	3006767	              La Roche-sur-Yon	    0.30
+3001386	                 Les Clouzeaux	3006767	              La Roche-sur-Yon	    0.19
+2990382	               Nieul-le-Dolent	3006767	              La Roche-sur-Yon	    0.31
+2978337	       Saint-Martin-des-Noyers	3006767	              La Roche-sur-Yon	    0.49
+2980606	       Sainte-Flaive-des-Loups	3006767	              La Roche-sur-Yon	    0.34
+2980883	       Saint-Denis-la-Chevasse	3006767	              La Roche-sur-Yon	    0.44
+3007873	                    Landeronde	3006767	              La Roche-sur-Yon	    0.28
+3034243	        Beaulieu-sous-la-Roche	3006767	              La Roche-sur-Yon	    0.35
+3014549	                    Grosbreuil	3006767	              La Roche-sur-Yon	    0.51
+3000201	        Moutiers-les-Mauxfaits	3006767	              La Roche-sur-Yon	    0.50
+2976433	                       Saligny	3006767	              La Roche-sur-Yon	    0.38
+3010414	            La Chapelle-Achard	3006767	              La Roche-sur-Yon	    0.48
+6614664	                 La Genétouze	3006767	              La Roche-sur-Yon	    0.23
+3004763	          Le Champ-Saint-Père	3006767	              La Roche-sur-Yon	    0.48
+2979928	  Saint-Georges-de-Pointindoux	3006767	              La Roche-sur-Yon	    0.38
+2976585	       Saint-Vincent-sur-Graon	3006767	              La Roche-sur-Yon	    0.43
+6617839	                       Beaufou	3006767	              La Roche-sur-Yon	    0.47
+3026271	              Château-Guibert	3006767	              La Roche-sur-Yon	    0.44
+6457136	      La Boissière-des-Landes	3006767	              La Roche-sur-Yon	    0.30
+2972713	                      Thorigny	3006767	              La Roche-sur-Yon	    0.39
+3017616	                      Fougeré	3006767	              La Roche-sur-Yon	    0.37
+2995370	                      Martinet	3006767	              La Roche-sur-Yon	    0.48
+6445178	    Saint-Avaugourd-des-Landes	3006767	              La Roche-sur-Yon	    0.45
+3004098	                   Le Girouard	3006767	              La Roche-sur-Yon	    0.44
+3008157	                La Merlatière	3006767	              La Roche-sur-Yon	    0.36
+3025053	                        Cholet	3025053	                        Cholet	    0.00
+6449395	                    Beaupréau	3025053	                        Cholet	    0.45
+2978658	       Saint-Macaire-en-Mauges	3025053	                        Cholet	    0.28
+2991700	           Mortagne-sur-Sèvre	3025053	                        Cholet	    0.24
+3006454	               La Séguinière	3025053	                        Cholet	    0.12
+3005640	                     La Verrie	3025053	                        Cholet	    0.35
+3003514	              Le May-sur-Èvre	3025053	                        Cholet	    0.21
+2978865	      Saint-Laurent-sur-Sèvre	3025053	                        Cholet	    0.28
+3006285	                 La Tessoualle	3025053	                        Cholet	    0.16
+2995104	                   Maulévrier	3025053	                        Cholet	    0.29
+3009153	               La Gaubretière	3025053	                        Cholet	    0.48
+2971861	                  Trémentines	3025053	                        Cholet	    0.25
+2978809	      Saint-Léger-sous-Cholet	3025053	                        Cholet	    0.11
+2979731	       Saint-Germain-sur-Moine	3025053	                        Cholet	    0.49
+6435274	     Saint-André-de-la-Marche	3025053	                        Cholet	    0.25
+3001157	                   Les Epesses	3025053	                        Cholet	    0.49
+2981149	      Saint-Christophe-du-Bois	3025053	                        Cholet	    0.15
+2968805	         Villedieu-la-Blouère	3025053	                        Cholet	    0.43
+2972430	                        Torfou	3025053	                        Cholet	    0.45
+3003672	                   Le Longeron	3025053	                        Cholet	    0.36
+3033870	          Bégrolles-en-Mauges	3025053	                        Cholet	    0.25
+3002444	           Le Puy-Saint-Bonnet	3025053	                        Cholet	    0.18
+3037691	                      Andrezé	3025053	                        Cholet	    0.34
+3006739	                    La Romagne	3025053	                        Cholet	    0.27
+2967169	                       Yzernay	3025053	                        Cholet	    0.35
+2969463	                        Vezins	3025053	                        Cholet	    0.36
+2978632	           Saint-Malô-du-Bois	3025053	                        Cholet	    0.37
+2994705	                         Melay	3025053	                        Cholet	    0.48
+6435194	                         Coron	3025053	                        Cholet	    0.48
+2972613	                     Tiffauges	3025053	                        Cholet	    0.46
+3027335	                   Chambretaud	3025053	                        Cholet	    0.42
+6458639	Saint-Georges-du-Puy-de-la-Garde	3025053	                        Cholet	    0.34
+6435260	                      Nuaillé	3025053	                        Cholet	    0.18
+3006196	                 La Tourlandry	3025053	                        Cholet	    0.41
+2981568	       Saint-Aubin-des-Ormeaux	3025053	                        Cholet	    0.37
+2972137	                   Toutlemonde	3025053	                        Cholet	    0.21
+2971902	                  Treize-Vents	3025053	                        Cholet	    0.39
+6435273	                       Roussay	3025053	                        Cholet	    0.36
+3008576	                La Jubaudière	3025053	                        Cholet	    0.31
+3010357	         La Chapelle-du-Genêt	3025053	                        Cholet	    0.43
+2994842	           Mazières-en-Mauges	3025053	                        Cholet	    0.12
+3007234	              La Poitevinière	3025053	                        Cholet	    0.47
+2978330	     Saint-Martin-des-Tilleuls	3025053	                        Cholet	    0.41
+3006986	                La Renaudière	3025053	                        Cholet	    0.38
+3005866	                         Laval	3005866	                         Laval	    0.00
+2981382	               Saint-Berthevin	3005866	                         Laval	    0.11
+3031835	           Bonchamp-lès-Laval	3005866	                         Laval	    0.13
+2997345	                     Louverné	3005866	                         Laval	    0.17
+2998542	                 L’Huisserie	3005866	                         Laval	    0.14
+2977446	          Saint-Pierre-la-Cour	3005866	                         Laval	    0.49
+6617023	          Le Genest-Saint-Isle	3005866	                         Laval	    0.23
+2986032	                  Port-Brillet	3005866	                         Laval	    0.39
+2997855	                        Loiron	3005866	                         Laval	    0.31
+2979193	        Saint-Jean-sur-Mayenne	3005866	                         Laval	    0.17
+2992443	         Montigné-le-Brillant	3005866	                         Laval	    0.20
+2979764	    Saint-Germain-le-Fouilloux	3005866	                         Laval	    0.18
+3034415	                     Bazougers	3005866	                         Laval	    0.38
+3017796	                        Forcé	3005866	                         Laval	    0.17
+2979590	                Saint-Herblain	2979590	                Saint-Herblain	    0.00
+2976984	    Saint-Sébastien-sur-Loire	2976984	    Saint-Sébastien-sur-Loire	    0.00
+2975758	                        Saumur	2975758	                        Saumur	    0.00
+3020964	             Doué-la-Fontaine	2975758	                        Saumur	    0.42
+2979503	   Saint-Hilaire-Saint-Florent	2975758	                        Saumur	    0.05
+2992084	              Montreuil-Bellay	2975758	                        Saumur	    0.39
+3030600	            Brain-sur-Allonnes	2975758	                        Saumur	    0.29
+2969850	                     Vernantes	2975758	                        Saumur	    0.44
+2970681	            Varennes-sur-Loire	2975758	                        Saumur	    0.25
+3021315	                       Distré	2975758	                        Saumur	    0.12
+3017850	         Fontevraud-l’Abbaye	2975758	                        Saumur	    0.32
+2968873	                  Villebernier	2975758	                        Saumur	    0.09
+6458627	                        Chacé	2975758	                        Saumur	    0.13
+2969776	           Vernoil-le-Fourrier	2975758	                        Saumur	    0.46
+3030155	                       Brézé	2975758	                        Saumur	    0.25
+2970651	                      Varrains	2975758	                        Saumur	    0.11
+2970534	                     Vaudelnay	2975758	                        Saumur	    0.42
+2989170	                       Orvault	2989170	                       Orvault	    0.00
+3031403	                        Bouaye	2989170	                       Orvault	    0.38
+6434495	             Pont-Saint-Martin	2989170	                       Orvault	    0.42
+2979344	         Saint-Jean-de-Boiseau	2989170	                       Orvault	    0.29
+3010040	               La Chevrolière	2989170	                       Orvault	    0.50
+6456023	                   Le Pellerin	2989170	                       Orvault	    0.32
+2981888	        Saint-Aignan-Grandlieu	2989170	                       Orvault	    0.41
+2985932	              Port-Saint-Père	2989170	                       Orvault	    0.45
+3030603	                        Brains	2989170	                       Orvault	    0.34
+2978529	         Saint-Mars-de-Coutais	2989170	                       Orvault	    0.49
+2978814	       Saint-Léger-les-Vignes	2989170	                       Orvault	    0.43
+6449083	                 Cheix-en-Retz	2989170	                       Orvault	    0.44
+2969612	                        Vertou	2969612	                        Vertou	    0.00
+2970923	                        Vallet	2969612	                        Vertou	    0.38
+2977602	  Saint-Philbert-de-Grand-Lieu	2969612	                        Vertou	    0.49
+3015658	                        Gorges	2969612	                        Vertou	    0.37
+3038520	        Aigrefeuille-sur-Maine	2969612	                        Vertou	    0.29
+3005282	                     Le Bignon	2969612	                        Vertou	    0.20
+3016162	                     Gétigné	2969612	                        Vertou	    0.49
+6615510	                      Geneston	2969612	                        Vertou	    0.33
+2981033	                Saint-Colomban	2969612	                        Vertou	    0.49
+3003042	                     Le Pallet	2969612	                        Vertou	    0.27
+2992925	                      Montbert	2969612	                        Vertou	    0.31
+2996628	            Maisdon-sur-Sèvre	2969612	                        Vertou	    0.26
+2991285	                     Mouzillon	2969612	                        Vertou	    0.36
+3007259	                    La Planche	2969612	                        Vertou	    0.43
+2979551	      Saint-Hilaire-de-Clisson	2969612	                        Vertou	    0.42
+2993245	                    Monnières	2969612	                        Vertou	    0.24
+2978670	       Saint-Lumine-de-Clisson	2969612	                        Vertou	    0.35
+2984038	                    Remouillé	2969612	                        Vertou	    0.36
+3011001	        La Boissière-du-Doré	2969612	                        Vertou	    0.50
+3027513	                      Challans	3027513	                      Challans	    0.00
+2996905	                     Machecoul	3027513	                      Challans	    0.42
+2972128	                       Touvois	3027513	                      Challans	    0.40
+2980260	   Saint-Étienne-de-Mer-Morte	3027513	                      Challans	    0.35
+3019088	                      Falleron	3027513	                      Challans	    0.35
+2996906	                        Maché	3027513	                      Challans	    0.44
+6618280	                      La Marne	3027513	                      Challans	    0.49
+8292991	                         Rezé	3028535	                     Carquefou	    0.33
+6449087	                      Couëron	3028535	                     Carquefou	    0.49
+3028535	                     Carquefou	3028535	                     Carquefou	    0.00
+3010237	         La Chapelle-sur-Erdre	3028535	                     Carquefou	    0.11
+6434524	         Sainte-Luce-sur-Loire	3028535	                     Carquefou	    0.13
+2972696	            Thouaré-sur-Loire	3028535	                     Carquefou	    0.13
+2971908	                  Treillières	3028535	                     Carquefou	    0.27
+3034699	                Basse-Goulaine	3028535	                     Carquefou	    0.23
+2990085	                Nort-sur-Erdre	3028535	                     Carquefou	    0.40
+2999572	               Les Sorinières	3028535	                     Carquefou	    0.42
+2975702	                       Sautron	3028535	                     Carquefou	    0.34
+2979109	     Saint-Julien-de-Concelles	3028535	                     Carquefou	    0.24
+2973748	               Sucé-sur-Erdre	3028535	                     Carquefou	    0.13
+3008096	                   La Montagne	3028535	                     Carquefou	    0.47
+3015298	     Grandchamps-des-Fontaines	3028535	                     Carquefou	    0.28
+3013457	                        Héric	3028535	                     Carquefou	    0.44
+3013766	                Haute-Goulaine	3028535	                     Carquefou	    0.30
+3010396	         La Chapelle-Basse-Mer	3028535	                     Carquefou	    0.30
+2998404	                        Ligné	3028535	                     Carquefou	    0.39
+2978524	         Saint-Mars-du-Désert	3028535	                     Carquefou	    0.25
+3008809	           La Haie-Fouassière	3028535	                     Carquefou	    0.43
+3034697	                   Basse Indre	3028535	                     Carquefou	    0.43
+3004813	                    Le Cellier	3028535	                     Carquefou	    0.28
+2989058	                         Oudon	3028535	                     Carquefou	    0.41
+2987658	                    Petit-Mars	3028535	                     Carquefou	    0.28
+3010321	            La Chapelle-Heulin	3028535	                     Carquefou	    0.44
+2994981	              Mauves-sur-Loire	3028535	                     Carquefou	    0.19
+3026195	             Château-Thébaud	3028535	                     Carquefou	    0.50
+6456919	                   Le Landreau	3028535	                     Carquefou	    0.44
+3023315	                       Couffé	3028535	                     Carquefou	    0.46
+3027008	                  Champtoceaux	3028535	                     Carquefou	    0.44
+2999485	                   Les Touches	3028535	                     Carquefou	    0.42
+3028428	                        Casson	3028535	                     Carquefou	    0.28
+2991292	                       Mouzeil	3028535	                     Carquefou	    0.50
+3007878	                     Landemont	3028535	                     Carquefou	    0.48
+3005763	                    La Varenne	3028535	                     Carquefou	    0.33
+3035040	                     Barbechat	3028535	                     Carquefou	    0.39
+3006999	                La Remaudière	3028535	                     Carquefou	    0.50
+2980127	        Saint-Fiacre-sur-Maine	3028535	                     Carquefou	    0.45
+6492231	                    Bouguenais	6492231	                    Bouguenais	    0.00
+3033114	                     Escoublac	3014392	                     Guérande	    0.14
+3014392	                     Guérande	3014392	                     Guérande	    0.00
+2986059	                     Pornichet	3014392	                     Guérande	    0.24
+2971680	                       Trignac	3014392	                     Guérande	    0.45
+3013484	                     Herbignac	3014392	                     Guérande	    0.40
+2981745	         Saint-André-des-Eaux	3014392	                     Guérande	    0.23
+2978662	                 Saint-Lyphard	3014392	                     Guérande	    0.30
+3006090	                   La Turballe	3014392	                     Guérande	    0.15
+3010368	        La Chapelle-des-Marais	3014392	                     Guérande	    0.48
+6456026	                  Le Pouliguen	3014392	                     Guérande	    0.14
+2979179	                 Saint-Joachim	3014392	                     Guérande	    0.46
+2978636	         Saint-Malo-de-Guersac	3014392	                     Guérande	    0.47
+3034585	                  Batz-sur-Mer	3014392	                     Guérande	    0.17
+2977943	                    Saint-Molf	3014392	                     Guérande	    0.18
+2987043	                Piriac-sur-Mer	3014392	                     Guérande	    0.26
+2994203	                       Mesquer	3014392	                     Guérande	    0.21
+3036512	                      Assérac	3014392	                     Guérande	    0.29
+2986060	                        Pornic	2986060	                        Pornic	    0.00
+6445160	       Noirmoutier-en-l’Île	2986060	                        Pornic	    0.41
+3036679	                Arthon-en-Retz	2986060	                        Pornic	    0.31
+3030970	             Bourgneuf-en-Retz	2986060	                        Pornic	    0.35
+3011090	           La Bernerie-en-Retz	2986060	                        Pornic	    0.16
+3025826	                       Chauvé	2986060	                        Pornic	    0.24
+3025609	                     Chémeré	2986060	                        Pornic	    0.36
+2979552	    Saint-Hilaire-de-Chaléons	2986060	                        Pornic	    0.45
+3031220	                         Bouin	2986060	                        Pornic	    0.44
+3000205	          Les Moutiers-en-Retz	2986060	                        Pornic	    0.24
+3002789	                    L’Épine	2986060	                        Pornic	    0.49
+3008854	               La Guérinière	2986060	                        Pornic	    0.48
+3017197	               Fresnay-en-Retz	2986060	                        Pornic	    0.50
+2971896	                     Trélazé	2971896	                     Trélazé	    0.00
+2994891	                         Mazé	2971896	                     Trélazé	    0.36
+2978197	      Saint-Mathurin-sur-Loire	2971896	                     Trélazé	    0.29
+3008166	                  La Ménitré	2971896	                     Trélazé	    0.39
+2972697	                     Thouarcé	2971896	                     Trélazé	    0.50
+3034529	                        Bauné	2971896	                     Trélazé	    0.31
+2970564	                  Vauchrétien	2971896	                     Trélazé	    0.32
+3018842	                Faye-d’Anjou	2971896	                     Trélazé	    0.44
+3034240	            Beaulieu-sur-Layon	2971896	                     Trélazé	    0.44
+3025773	                     Chavagnes	2971896	                     Trélazé	    0.49
+2981580	        Saint-Aubin-de-Luigné	2971896	                     Trélazé	    0.50
+3035612	                      Avrillé	3035612	                      Avrillé	    0.00
+2981457	   Saint-Barthélemy-d’Anjou	3035612	                      Avrillé	    0.21
+2992085	             Montreuil-Juigné	3035612	                      Avrillé	    0.07
+3031368	                   Bouchemaine	3035612	                      Avrillé	    0.24
+2991128	                 Mûrs-Erigné	3035612	                      Avrillé	    0.32
+3034339	                    Beaucouzé	3035612	                      Avrillé	    0.12
+2976827	       Saint-Sylvain-d’Anjou	3035612	                      Avrillé	    0.22
+2972620	                       Tiercé	3035612	                      Avrillé	    0.38
+3020439	                    Écouflant	3035612	                      Avrillé	    0.13
+2979885	       Saint-Georges-sur-Loire	3035612	                      Avrillé	    0.42
+3030599	         Brain-sur-l’Authion	3035612	                      Avrillé	    0.38
+3023611	                        Corné	3035612	                      Avrillé	    0.46
+2968242	                   Villevêque	3035612	                      Avrillé	    0.35
+3030020	                      Briollay	3035612	                      Avrillé	    0.22
+2975288	           Seiches-sur-le-Loir	3035612	                      Avrillé	    0.47
+2978983	     Saint-Lambert-la-Potherie	3035612	                      Avrillé	    0.18
+3033927	            Bécon-les-Granits	3035612	                      Avrillé	    0.40
+3012120	             Juigné sur Loire	3035612	                      Avrillé	    0.35
+3037747	                        Andard	3035612	                      Avrillé	    0.39
+2974130	                     Soucelles	3035612	                      Avrillé	    0.36
+2988169	       Pellouailles-les-Vignes	3035612	                      Avrillé	    0.28
+3002669	          Le Plessis-Grammoire	3035612	                      Avrillé	    0.30
+6456083	               La Possonnière	3035612	                      Avrillé	    0.41
+2983262	           Rochefort-sur-Loire	3035612	                      Avrillé	    0.44
+3028773	             Cantenay-Épinard	3035612	                      Avrillé	    0.08
+3008189	                  La Meignanne	3035612	                      Avrillé	    0.15
+3027130	                    Champigné	3035612	                      Avrillé	    0.44
+3018730	                         Feneu	3035612	                      Avrillé	    0.18
+2981054	    Saint-Clément-de-la-Place	3035612	                      Avrillé	    0.30
+2978065	     Saint-Melaine-sur-Aubance	3035612	                      Avrillé	    0.42
+3008176	   La Membrolle-sur-Longuenée	3035612	                      Avrillé	    0.22
+2991255	               Mozé-sur-Louet	3035612	                      Avrillé	    0.42
+3023492	                        Corzé	3035612	                      Avrillé	    0.40
+2978834	         Saint-Léger-des-Bois	3035612	                      Avrillé	    0.26
+2979280	       Saint-Jean-des-Mauvrets	3035612	                      Avrillé	    0.40
+2979282	       Saint-Jean-de-Linières	3035612	                      Avrillé	    0.19
+2978303	     Saint-Martin-du-Fouilloux	3035612	                      Avrillé	    0.30
+6435210	                     Étriché	3035612	                      Avrillé	    0.48
+2974047	                      Soulaire	3035612	                      Avrillé	    0.21
+6435328	         Soulaines-sur-Aubance	3035612	                      Avrillé	    0.41
+3021601	                        Denée	3035612	                      Avrillé	    0.36
+2975593	                  Savennières	3035612	                      Avrillé	    0.37
+6435316	      Saint-Saturnin-sur-Loire	3035612	                      Avrillé	    0.42
+3002658	              Le Plessis-Macé	3035612	                      Avrillé	    0.19
+6456947	                    La Bohalle	3035612	                      Avrillé	    0.44
+6456060	                La Daguenière	3035612	                      Avrillé	    0.38
+2981525	       Saint-Augustin-des-Bois	3035612	                      Avrillé	    0.41
+2975467	              Sceaux-d’Anjou	3035612	                      Avrillé	    0.32
+3017921	             Fontenay-le-Comte	3017921	             Fontenay-le-Comte	    0.00
+3033495	                         Benet	3017921	             Fontenay-le-Comte	    0.49
+6445200	       Saint-Hilaire-des-Loges	3017921	             Fontenay-le-Comte	    0.27
+2967801	                           Vix	3017921	             Fontenay-le-Comte	    0.30
+2998332	             L’Île-d’Elle	3017921	             Fontenay-le-Comte	    0.47
+2997725	                     Longèves	3017921	             Fontenay-le-Comte	    0.10
+2990378	          Nieul-sur-l’Autise	3017921	             Fontenay-le-Comte	    0.27
+2994935	                       Mayenne	2994935	                       Mayenne	    0.00
+3037886	       Ambrières-les-Vallées	2994935	                       Mayenne	    0.28
+3006380	          Lassay-les-Châteaux	2994935	                       Mayenne	    0.43
+2989648	                       Oisseau	2994935	                       Mayenne	    0.18
+2981444	                Saint-Baudelle	2994935	                       Mayenne	    0.07
+2999908	              Les Ponts-de-Cé	2999908	              Les Ponts-de-Cé	    0.00
+3026808	                     Chanzeaux	2999908	              Les Ponts-de-Cé	    0.50
+2971180	             Sablé-sur-Sarthe	2971180	             Sablé-sur-Sarthe	    0.00
+3029775	                       Brûlon	2971180	             Sablé-sur-Sarthe	    0.40
+2980909	         Saint-Denis-d’Anjou	2971180	             Sablé-sur-Sarthe	    0.24
+3035867	               Auvers-le-Hamon	2971180	             Sablé-sur-Sarthe	    0.18
+3014683	               Grez-en-Bouère	2971180	             Sablé-sur-Sarthe	    0.36
+3026303	                Châteaubriant	3026303	                Châteaubriant	    0.00
+2985893	                      Pouancé	3026303	                Châteaubriant	    0.38
+3019944	                        Erbray	3026303	                Châteaubriant	    0.20
+2982615	                        Rougé	3026303	                Châteaubriant	    0.23
+2974108	                        Soudan	3026303	                Châteaubriant	    0.15
+3012676	                         Issé	3026303	                Châteaubriant	    0.29
+2981574	     Saint-Aubin-des-Châteaux	3026303	                Châteaubriant	    0.21
+2974485	                Sion-les-Mines	3026303	                Châteaubriant	    0.41
+3008185	     La Meilleraye-de-Bretagne	3026303	                Châteaubriant	    0.44
+2976603	      Saint-Vincent-des-Landes	3026303	                Châteaubriant	    0.28
+2997064	                      Lusanger	3026303	                Châteaubriant	    0.41
+6449657	              Château-Gontier	6449657	              Château-Gontier	    0.00
+6449633	                          Azé	6449657	              Château-Gontier	    0.04
+2994263	               Meslay-du-Maine	6449657	              Château-Gontier	    0.44
+6449677	                     Entrammes	6449657	              Château-Gontier	    0.47
+2984846	         Quelaines-Saint-Gault	6449657	              Château-Gontier	    0.32
+2988479	                Parné-sur-Roc	6449657	              Château-Gontier	    0.50
+2989846	            Nuillé-sur-Vicoin	6449657	              Château-Gontier	    0.46
+2968190	          Villiers-Charlemagne	6449657	              Château-Gontier	    0.26
+3016328	             Gennes-sur-Glaize	6449657	              Château-Gontier	    0.19
+3038086	                      Allonnes	3038086	                      Allonnes	    0.00
+3023291	                     Coulaines	3038086	                      Allonnes	    0.18
+3036876	                        Arnage	3038086	                      Allonnes	    0.13
+2991207	                      Mulsanne	3038086	                      Allonnes	    0.23
+6442653	         Parigné-l’Évêque	3038086	                      Allonnes	    0.39
+3020462	                      Écommoy	3038086	                      Allonnes	    0.44
+2975926	            Yvré-l’Évêque	3038086	                      Allonnes	    0.23
+2975560	         Savigné-l’Évêque	3038086	                      Allonnes	    0.39
+3027260	                    Champagné	3038086	                      Allonnes	    0.35
+2993419	               Moncé-en-Belin	3038086	                      Allonnes	    0.22
+6613905	           Sargé-lès-le-Mans	3038086	                      Allonnes	    0.23
+3011187	                     La Bazoge	3038086	                      Allonnes	    0.36
+3014430	                   Guécélard	3038086	                      Allonnes	    0.26
+2973869	                          Spay	3038086	                      Allonnes	    0.13
+3008133	                    La Milesse	3038086	                      Allonnes	    0.27
+2983141	            Roézé-sur-Sarthe	3038086	                      Allonnes	    0.27
+2990515	           Neuville-sur-Sarthe	3038086	                      Allonnes	    0.30
+2978525	       Saint-Mars-d’Outillé	3038086	                      Allonnes	    0.42
+3010281	       La Chapelle-Saint-Aubin	3038086	                      Allonnes	    0.19
+3008684	              Laigné-en-Belin	3038086	                      Allonnes	    0.28
+2982556	                      Rouillon	3038086	                      Allonnes	    0.12
+2979912	         Saint-Georges-du-Bois	3038086	                      Allonnes	    0.11
+3030245	               Brette-les-Pins	3038086	                      Allonnes	    0.37
+2980532	       Sainte-Jamme-sur-Sarthe	3038086	                      Allonnes	    0.48
+3019401	          Étival-lès-le-Mans	3038086	                      Allonnes	    0.14
+6617565	                  Saint-Pavace	3038086	                      Allonnes	    0.20
+2992919	                     Montbizot	3038086	                      Allonnes	    0.50
+2967175	               Yvré-le-Pôlin	3038086	                      Allonnes	    0.42
+3038535	                        Aigné	3038086	                      Allonnes	    0.28
+3023279	              Coulans-sur-Gée	3038086	                      Allonnes	    0.32
+6442575	                        Fillé	3038086	                      Allonnes	    0.21
+2981016	               Saint-Corneille	3038086	                      Allonnes	    0.43
+2972064	                       Trangé	3038086	                      Allonnes	    0.19
+6442601	                     Louplande	3038086	                      Allonnes	    0.23
+2967741	          Voivres-lès-le-Mans	3038086	                      Allonnes	    0.20
+2985213	           Pruillé-le-Chétif	3038086	                      Allonnes	    0.12
+2989639	                         Oizé	3038086	                      Allonnes	    0.45
+2977804	           Saint-Ouen-en-Belin	3038086	                      Allonnes	    0.39
+3012220	               Joué-l’Abbé	3038086	                      Allonnes	    0.41
+3027508	                       Challes	3038086	                      Allonnes	    0.48
+2974012	         Souligné-sous-Ballon	3038086	                      Allonnes	    0.49
+3008838	                   La Guierche	3038086	                      Allonnes	    0.41
+2988517	            Parigné-le-Pôlin	3038086	                      Allonnes	    0.34
+3025949	           Chaufour-Notre-Dame	3038086	                      Allonnes	    0.22
+2986271	                  Pontchâteau	2986271	                  Pontchâteau	    0.00
+2993692	                     Missillac	2986271	                  Pontchâteau	    0.18
+2986785	                       Plessé	2986271	                  Pontchâteau	    0.48
+2980345	      Sainte-Reine-de-Bretagne	2986271	                  Pontchâteau	    0.20
+2974701	                     Sévérac	2986271	                  Pontchâteau	    0.32
+3032462	                         Blain	3032462	                         Blain	    0.00
+3014413	              Guémené-Penfao	3032462	                         Blain	    0.45
+2982023	                       Saffré	3032462	                         Blain	    0.35
+3038799	                      Abbaretz	3032462	                         Blain	    0.48
+2970293	                           Vay	3032462	                         Blain	    0.25
+3004119	                     Le Gâvre	3032462	                         Blain	    0.13
+3008884	                 La Grigonnais	3032462	                         Blain	    0.23
+2995507	                Marsac-sur-Don	3032462	                         Blain	    0.37
+3012506	                          Jans	3032462	                         Blain	    0.49
+2985161	                        Puceul	3032462	                         Blain	    0.30
+6449084	                   Conquereuil	3032462	                         Blain	    0.41
+2997210	                        Luçon	2997210	                        Luçon	    0.00
+2980541	                Sainte-Hermine	2997210	                        Luçon	    0.35
+3037618	                        Angles	2997210	                        Luçon	    0.47
+8297422	               Mareuil sur Lay	2997210	                        Luçon	    0.24
+2977968	      Saint-Michel-en-l’Herm	2997210	                        Luçon	    0.32
+2991027	                      Nalliers	2997210	                        Luçon	    0.27
+3008668	         L’Aiguillon-sur-Mer	2997210	                        Luçon	    0.43
+2980570	        Sainte-Gemme-la-Plaine	2997210	                        Luçon	    0.13
+3027627	           Chaillé-les-Marais	2997210	                        Luçon	    0.32
+3027250	         Champagné-les-Marais	2997210	                        Luçon	    0.22
+3000443	         Les Magnils-Reigniers	2997210	                        Luçon	    0.12
+2991289	         Mouzeuil-Saint-Martin	2997210	                        Luçon	    0.35
+3006978	                   La Réorthe	2997210	                        Luçon	    0.48
+3023551	                         Corpe	2997210	                        Luçon	    0.14
+3003726	                     Le Langon	2997210	                        Luçon	    0.42
+2975597	                       Savenay	2975597	                       Savenay	    0.00
+3021093	                        Donges	2975597	                       Savenay	    0.27
+2980259	     Saint-Étienne-de-Montluc	2975597	                       Savenay	    0.38
+2992206	           Montoir-de-Bretagne	2975597	                       Savenay	    0.40
+8293018	           Saint-Père-en-Retz	2975597	                       Savenay	    0.47
+3028966	                       Campbon	2975597	                       Savenay	    0.15
+2979680	         Saint-Gildas-des-Bois	2975597	                       Savenay	    0.47
+3023697	                     Cordemais	2975597	                       Savenay	    0.23
+3018859	               Fay-de-Bretagne	2975597	                       Savenay	    0.32
+2996306	                      Malville	2975597	                       Savenay	    0.15
+2985302	                     Prinquiau	2975597	                       Savenay	    0.13
+3014398	                     Guenrouet	2975597	                       Savenay	    0.44
+6449097	                       Frossay	2975597	                       Savenay	    0.33
+3033108	                        Besné	2975597	                       Savenay	    0.30
+3010312	            La Chapelle-Launay	2975597	                       Savenay	    0.06
+3030718	                       Bouvron	2975597	                       Savenay	    0.24
+3022300	                       Crossac	2975597	                       Savenay	    0.45
+2980761	        Sainte-Anne-sur-Brivet	2975597	                       Savenay	    0.30
+3023512	                       Corsept	2975597	                       Savenay	    0.32
+2976678	                   Saint-Viaud	2975597	                       Savenay	    0.33
+3020828	                     Drefféac	2975597	                       Savenay	    0.39
+2990039	         Notre-Dame-des-Landes	2975597	                       Savenay	    0.44
+2999236	         Le Temple-de-Bretagne	2975597	                       Savenay	    0.30
+2967549	                           Vue	2975597	                       Savenay	    0.47
+2984708	                        Quilly	2975597	                       Savenay	    0.28
+3009494	             La Ferté-Bernard	3009494	             La Ferté-Bernard	    0.00
+6450949	                     Connerré	3009494	             La Ferté-Bernard	    0.46
+2969411	                       Vibraye	3009494	             La Ferté-Bernard	    0.39
+2981013	        Saint-Cosme-en-Vairais	3009494	             La Ferté-Bernard	    0.43
+3025430	                       Cherré	3009494	             La Ferté-Bernard	    0.04
+2971493	                        Tuffé	3009494	             La Ferté-Bernard	    0.33
+3003653	                      Le Luart	3009494	             La Ferté-Bernard	    0.35
+3020696	                        Duneau	3009494	             La Ferté-Bernard	    0.41
+2979299	           Saint-Jean-de-Monts	2979299	           Saint-Jean-de-Monts	    0.00
+3033968	              Beauvoir-sur-Mer	2979299	           Saint-Jean-de-Monts	    0.34
+3011332	             La Barre-de-Monts	2979299	           Saint-Jean-de-Monts	    0.28
+2990045	           Notre-Dame-de-Monts	2979299	           Saint-Jean-de-Monts	    0.17
+2976731	                  Saint-Urbain	2979299	           Saint-Jean-de-Monts	    0.25
+3035046	                     Barbâtre	2979299	           Saint-Jean-de-Monts	    0.48
+3019259	                        Évron	3019259	                        Évron	    0.00
+6436438	                     Montsûrs	3019259	                        Évron	    0.29
+3037017	                     Argentré	3019259	                        Évron	    0.49
+6617029	         Martigné-sur-Mayenne	3019259	                        Évron	    0.50
+3036837	                          Aron	3019259	                        Évron	    0.49
+3024087	                        Commer	3019259	                        Évron	    0.47
+2971179	                        Vaiges	3019259	                        Évron	    0.35
+2997333	                     Louvigné	3019259	                        Évron	    0.50
+2974022	            Soulgé-sur-Ouette	3019259	                        Évron	    0.41
+3011185	         La Bazoge-Montpinçon	3019259	                        Évron	    0.47
+3003661	           Le Loroux-Bottereau	3003661	           Le Loroux-Bottereau	    0.00
+2979873	                Saint-Géréon	3003661	           Le Loroux-Bottereau	    0.46
+3016167	                        Gesté	3003661	           Le Loroux-Bottereau	    0.48
+6435230	                         Liré	3003661	           Le Loroux-Bottereau	    0.46
+2978917	      Saint-Laurent-des-Autels	3003661	           Le Loroux-Bottereau	    0.33
+3020847	                         Drain	3003661	           Le Loroux-Bottereau	    0.39
+6456064	                     Le Fuilet	3003661	           Le Loroux-Bottereau	    0.46
+2972584	                    Tillières	3003661	           Le Loroux-Bottereau	    0.44
+2980993	       Saint-Crespin-sur-Moine	3003661	           Le Loroux-Bottereau	    0.49
+3002483	               Le Puiset-Doré	3003661	           Le Loroux-Bottereau	    0.44
+2979543	         Saint-Hilaire-de-Riez	3022348	     Saint-Gilles-Croix-de-Vie	    0.07
+3022348	     Saint-Gilles-Croix-de-Vie	3022348	     Saint-Gilles-Croix-de-Vie	    0.00
+3030264	          Bretignolles-sur-Mer	3022348	     Saint-Gilles-Croix-de-Vie	    0.26
+3004258	                 Le Fenouiller	3022348	     Saint-Gilles-Croix-de-Vie	    0.10
+2974007	                      Soullans	3022348	     Saint-Gilles-Croix-de-Vie	    0.29
+3024088	                   Commequiers	3022348	     Saint-Gilles-Croix-de-Vie	    0.27
+3024447	                         Coëx	3022348	     Saint-Gilles-Croix-de-Vie	    0.35
+2976387	                   Sallertaine	3022348	     Saint-Gilles-Croix-de-Vie	    0.45
+2978409	                  Brem-sur-Mer	3022348	     Saint-Gilles-Croix-de-Vie	    0.34
+2998331	           L’Île-d’Olonne	3022348	     Saint-Gilles-Croix-de-Vie	    0.49
+2981146	  Saint-Christophe-du-Ligneron	3022348	     Saint-Gilles-Croix-de-Vie	    0.49
+3015900	                       Givrand	3022348	     Saint-Gilles-Croix-de-Vie	    0.14
+2990043	            Notre-Dame-de-Riez	3022348	     Saint-Gilles-Croix-de-Vie	    0.15
+3002961	                    Le Perrier	3022348	     Saint-Gilles-Croix-de-Vie	    0.35
+3008667	         L’Aiguillon-sur-Vie	3022348	     Saint-Gilles-Croix-de-Vie	    0.23
+2979090	       Saint-Julien-des-Landes	3022348	     Saint-Gilles-Croix-de-Vie	    0.47
+3037365	                      Apremont	3022348	     Saint-Gilles-Croix-de-Vie	    0.41
+2971162	                        Vairé	3022348	     Saint-Gilles-Croix-de-Vie	    0.45
+2977186	              Saint-Révérend	3022348	     Saint-Gilles-Croix-de-Vie	    0.22
+3007854	                  Landevieille	3022348	     Saint-Gilles-Croix-de-Vie	    0.31
+2978642	         Saint-Maixent-sur-Vie	3022348	     Saint-Gilles-Croix-de-Vie	    0.26
+3010484	              La Chaize-Giraud	3022348	     Saint-Gilles-Croix-de-Vie	    0.28
+2993619	                       Clisson	2993619	                       Clisson	    0.00
+6454806	                      Montaigu	2993619	                       Clisson	    0.32
+2987714	     Saint-Georges-de-Montaigu	2993619	                       Clisson	    0.39
+3010726	                 La Bruffière	2993619	                       Clisson	    0.26
+6445247	               Treize-Septiers	2993619	                       Clisson	    0.30
+3008820	                La Guyonnière	2993619	                       Clisson	    0.34
+3030822	                       Boussay	2993619	                       Clisson	    0.22
+6614870	           Les Landes-Genusson	2993619	                       Clisson	    0.46
+3010990	     La Boissière-de-Montaigu	2993619	                       Clisson	    0.42
+3011093	               La Bernardière	2993619	                       Clisson	    0.11
+2975314	                        Segré	2975314	                        Segré	    0.00
+3018162	            Le Lion-d’Angers	2975314	                        Segré	    0.34
+3003656	         Le Louroux Béconnais	2975314	                        Segré	    0.46
+3024126	                      Combrée	2975314	                        Segré	    0.30
+2969839	                Vern-d’Anjou	2975314	                        Segré	    0.25
+3007174	                    La Pouëze	2975314	                        Segré	    0.39
+2989909	          Noyant-la-Gravoyère	2975314	                        Segré	    0.16
+2980092	                    Saint-Fort	2975314	                        Segré	    0.42
+2990561	                 Grez-Neuville	2975314	                        Segré	    0.43
+3025612	                      Chemazé	2975314	                        Segré	    0.33
+2972718	           Thorigné-d’Anjou	2975314	                        Segré	    0.41
+2989820	                      Nyoiseau	2975314	                        Segré	    0.12
+3025663	              Chazé-sur-Argos	2975314	                        Segré	    0.19
+3034309	           Beaufort-en-Vallée	3034309	           Beaufort-en-Vallée	    0.00
+2978986	     Saint-Lambert-des-Levées	3034309	           Beaufort-en-Vallée	    0.50
+6435355	                          Vivy	3034309	           Beaufort-en-Vallée	    0.44
+3016330	                        Gennes	3034309	           Beaufort-en-Vallée	    0.28
+2999725	         Les Rosiers-sur-Loire	3034309	           Beaufort-en-Vallée	    0.25
+2978376	      Saint-Martin-de-la-Place	3034309	           Beaufort-en-Vallée	    0.37
+6435281	    Saint-Clément-des-Levées	3034309	           Beaufort-en-Vallée	    0.31
+3026941	                       Changé	3026941	                       Changé	    0.00
+3027491	           Chalonnes-sur-Loire	3027491	           Chalonnes-sur-Loire	    0.00
+2969111	           Vigneux-de-Bretagne	2969111	           Vigneux-de-Bretagne	    0.00
+2982682	                        Rouans	2969111	           Vigneux-de-Bretagne	    0.45
+3010044	               La Chevallerais	2969111	           Vigneux-de-Bretagne	    0.41
+3019895	                        Ernée	3019895	                        Ernée	    0.00
+3015642	                        Gorron	3019895	                        Ernée	    0.39
+6452386	                    Andouillé	3019895	                        Ernée	    0.43
+3011402	                La Baconnière	3019895	                        Ernée	    0.32
+2977810	         Saint-Ouën-des-Toits	3019895	                        Ernée	    0.44
+3005076	        Le Bourgneuf-la-Forêt	3019895	                        Ernée	    0.37
+2980905	       Saint-Denis-de-Gastines	3019895	                        Ernée	    0.19
+6436412	                      Juvigné	3019895	                        Ernée	    0.26
+2979951	       Saint-Georges-Buttavent	3019895	                        Ernée	    0.44
+2992690	                      Montenay	3019895	                        Ernée	    0.08
+6436400	        Fougerolles-du-Plessis	3019895	                        Ernée	    0.50
+3027629	                     Chailland	3019895	                        Ernée	    0.23
+3026054	        Châtillon-sur-Colmont	3019895	                        Ernée	    0.37
+2996291	                        Mamers	2996291	                        Mamers	    0.00
+2977712	                 Saint-Paterne	2996291	                        Mamers	    0.51
+3022690	                         Craon	3022690	                         Craon	    0.00
+3038563	                      Ahuillé	3022690	                         Craon	    0.50
+3035206	                       Ballots	3022690	                         Craon	    0.22
+2994479	                        Méral	3022690	                         Craon	    0.32
+2992356	                      Montjean	3022690	                         Craon	    0.44
+6456406	                       Le Lude	6456406	                       Le Lude	    0.00
+3036352	                Aubigné-Racan	6456406	                       Le Lude	    0.25
+2989913	                        Noyant	6456406	                       Le Lude	    0.38
+2986087	                   Pontvallain	6456406	                       Le Lude	    0.30
+2996163	                     Mansigné	6456406	                       Le Lude	    0.29
+2971251	                          Vaas	6456406	                       Le Lude	    0.31
+6442669	                       Requeil	6456406	                       Le Lude	    0.39
+6614560	                    Le Croisic	6614560	                    Le Croisic	    0.00
+3031723	                   Bonnétable	3031723	                   Bonnétable	    0.00
+3034555	                        Baugé	3034555	                        Baugé	    0.00
+3012447	                        Jarzé	3034555	                        Baugé	    0.25
+2977600	      Saint-Philbert-du-Peuple	3034555	                        Baugé	    0.45
+2998834	               Le Vieil-Baugé	3034555	                        Baugé	    0.06
+3030011	                         Brion	3034555	                        Baugé	    0.32
+3012073	                      Jumelles	3034555	                        Baugé	    0.32
+6451619	                        Cugand	6451619	                        Cugand	    0.00
+3025772	         Chavagnes-en-Paillers	6451619	                        Cugand	    0.47
+3001698	                  Les Brouzils	6451619	                        Cugand	    0.50
+6451590	           Bazoges-en-Paillers	6451619	                        Cugand	    0.49
+6455148	                     Chemillé	3012549	                       Jallais	    0.27
+3012549	                       Jallais	3012549	                       Jallais	    0.00
+3006536	           La Salle-de-Vihiers	3012549	                       Jallais	    0.45
+6458652	       Sainte-Gemmes-sur-Loire	6458652	       Sainte-Gemmes-sur-Loire	    0.00
+2981263	                  Saint-Calais	2981263	                  Saint-Calais	    0.00
+3033066	              Bessé-sur-Braye	2981263	                  Saint-Calais	    0.24
+3021253	                        Dollon	2981263	                  Saint-Calais	    0.44
+2988797	                     Paimbœuf	2988797	                     Paimbœuf	    0.00
+2979545	       Saint-Hilaire-de-Loulay	2979336	            Corcoué-sur-Logne	    0.48
+3004114	                         Legé	2979336	            Corcoué-sur-Logne	    0.23
+2969316	                  Vieillevigne	2979336	            Corcoué-sur-Logne	    0.27
+2977603	     Saint-Philbert-de-Bouaine	2979336	            Corcoué-sur-Logne	    0.12
+3031293	                    Boufféré	2979336	            Corcoué-sur-Logne	    0.45
+2983221	                Rocheservière	2979336	            Corcoué-sur-Logne	    0.15
+2998626	              L’Herbergement	2979336	            Corcoué-sur-Logne	    0.41
+2979336	            Corcoué-sur-Logne	2979336	            Corcoué-sur-Logne	    0.00
+2981711	     Saint-André-Treize-Voies	2979336	            Corcoué-sur-Logne	    0.32
+2988701	                       Palluau	2979336	            Corcoué-sur-Logne	    0.45
+2976839	       Saint-Sulpice-le-Verdon	2979336	            Corcoué-sur-Logne	    0.36
+2973473	         Talmont-Saint-Hilaire	3006183	            La Tranche-sur-Mer	    0.48
+3006183	            La Tranche-sur-Mer	3006183	            La Tranche-sur-Mer	    0.00
+6617845	            Longeville-sur-Mer	3006183	            La Tranche-sur-Mer	    0.24
+2976583	        Saint-Vincent-sur-Jard	3006183	            La Tranche-sur-Mer	    0.29
+3005308	                    Le Bernard	3006183	            La Tranche-sur-Mer	    0.27
+2986525	                       Poiroux	3006183	            La Tranche-sur-Mer	    0.48
+2994280	                     Mésanger	3028851	                        Candé	    0.51
+3028851	                        Candé	3028851	                        Candé	    0.00
+2978520	          Saint-Mars-la-Jaille	3028851	                        Candé	    0.29
+2983735	                      Riaillé	3028851	                        Candé	    0.50
+3033618	                     Belligné	3028851	                        Candé	    0.26
+2988634	                      Pannecé	3028851	                        Candé	    0.43
+3017259	                      Freigné	3028851	                        Candé	    0.16
+2995089	                     Maumusson	3028851	                        Candé	    0.25
+2985854	         Pouillé-les-Côteaux	3028851	                        Candé	    0.38
+6436516	            Villaines-la-Juhel	6436516	            Villaines-la-Juhel	    0.00
+2977482	         Saint-Pierre-des-Nids	6436516	            Villaines-la-Juhel	    0.37
+2985491	                  Pré-en-Pail	6436516	            Villaines-la-Juhel	    0.35
+2979707	                 Saint-Gervais	2979707	                 Saint-Gervais	    0.00
+2989572	                Olonne-sur-Mer	3012484	                  Jard-sur-Mer	    0.50
+3012484	                  Jard-sur-Mer	3012484	                  Jard-sur-Mer	    0.00
+2985708	                     Pouzauges	3010161	             La Châtaigneraie	    0.41
+3010161	             La Châtaigneraie	3010161	             La Châtaigneraie	    0.00
+2978043	                  Saint-Mesmin	3010161	             La Châtaigneraie	    0.40
+6445149	                   Montournais	3010161	             La Châtaigneraie	    0.26
+3008186	          La Meilleraie-Tillay	3010161	             La Châtaigneraie	    0.33
+2991538	          Mouilleron-en-Pareds	3010161	             La Châtaigneraie	    0.22
+2977467	        Saint-Pierre-du-Chemin	3010161	             La Châtaigneraie	    0.15
+3006313	                  La Tardière	3010161	             La Châtaigneraie	    0.03
+6445220	        Saint-Michel-le-Cloucq	3010161	             La Châtaigneraie	    0.46
+2987009	                      Pissotte	3010161	             La Châtaigneraie	    0.45
+3034422	             Bazoges-en-Pareds	3010161	             La Châtaigneraie	    0.34
+3017456	               Foussais-Payré	3010161	             La Châtaigneraie	    0.35
+3037442	                       Antigny	3010161	             La Châtaigneraie	    0.10
+2994301	                       Mervent	3010161	             La Châtaigneraie	    0.35
+2977599	Saint-Philbert-du-Pont-Charrault	3010161	             La Châtaigneraie	    0.48
+12104186	           Montfort-le-Gesnois	6454645	                Saint-Saturnin	    0.50
+6454645	                Saint-Saturnin	6454645	                Saint-Saturnin	    0.00
+2997804	                       Lombron	6454645	                Saint-Saturnin	    0.50
+3023891	                        Conlie	6454645	                Saint-Saturnin	    0.36
+2979357	          Saint-Jean-d’Assé	6454645	                Saint-Saturnin	    0.27
+2972455	             Torcé-en-Vallée	6454645	                Saint-Saturnin	    0.50
+3035211	                        Ballon	6454645	                Saint-Saturnin	    0.36
+2974549	            Sillé-le-Philippe	6454645	                Saint-Saturnin	    0.40
+2973166	                        Tennie	6454645	                Saint-Saturnin	    0.44
+3023466	              Cossé-le-Vivien	2984012	                       Renazé	    0.50
+2984012	                       Renazé	2984012	                       Renazé	    0.00
+2977879	        Saint-Nicolas-de-Redon	6449095	                     Fégréac	    0.17
+3035696	                       Avessac	6449095	                     Fégréac	    0.22
+6449095	                     Fégréac	6449095	                     Fégréac	    0.00
+6445191	                    Sainte-Foy	6445191	                    Sainte-Foy	    0.00
+6498004	         Les Sables-d’Olonne	2978198	                Saint-Mathurin	    0.23
+3026291	           Château-d’Olonne	2978198	                Saint-Mathurin	    0.17
+2978198	                Saint-Mathurin	2978198	                Saint-Mathurin	    0.00
+2974550	           Sillé-le-Guillaume	2974550	           Sillé-le-Guillaume	    0.00
+6458635	                    Montfaucon	6458635	                    Montfaucon	    0.00
+3017189	            Fresnay-sur-Sarthe	3034140	           Beaumont-sur-Sarthe	    0.25
+2995569	          Marolles-les-Braults	3034140	           Beaumont-sur-Sarthe	    0.35
+3034140	           Beaumont-sur-Sarthe	3034140	           Beaumont-sur-Sarthe	    0.00
+3037168	                     Arçonnay	3034140	           Beaumont-sur-Sarthe	    0.48
+3027152	                    Champfleur	3034140	           Beaumont-sur-Sarthe	    0.44
+2990679	       Neufchâtel-en-Saosnois	3034140	           Beaumont-sur-Sarthe	    0.47
+2977816	         Saint-Ouen-de-Mimbré	3034140	           Beaumont-sur-Sarthe	    0.24
+2993590	           Moisdon-la-Rivière	2993590	           Moisdon-la-Rivière	    0.00
+3026286	              Château-du-Loir	3003986	                Le Grand-Lucé	    0.49
+2982287	                       Ruaudin	3003986	                Le Grand-Lucé	    0.44
+2994928	                         Mayet	3003986	                Le Grand-Lucé	    0.47
+2973192	                      Teloché	3003986	                Le Grand-Lucé	    0.38
+2978521	         Saint-Mars-la-Brière	3003986	                Le Grand-Lucé	    0.49
+3031129	                      Bouloire	3003986	                Le Grand-Lucé	    0.34
+2979701	        Saint-Gervais-en-Belin	3003986	                Le Grand-Lucé	    0.47
+3003986	                Le Grand-Lucé	3003986	                Le Grand-Lucé	    0.00
+2972716	            Thorigné-sur-Dué	3003986	                Le Grand-Lucé	    0.50
+2995747	              Marigné-Laillé	3003986	                Le Grand-Lucé	    0.27
+3005028	          Le Breil-sur-Mérize	3003986	                Le Grand-Lucé	    0.40
+3010181	        La Chartre-sur-le-Loir	3003986	                Le Grand-Lucé	    0.43
+2997242	                        Luceau	3003986	                Le Grand-Lucé	    0.45
+2982188	              Ruillé-sur-Loir	3003986	                Le Grand-Lucé	    0.43
+2995927	                       Marçon	3003986	                Le Grand-Lucé	    0.44
+2973219	                       Teillé	2973219	                       Teillé	    0.00
+3009438	               La Flocellière	2994250	         Mesnard-la-Barotière	    0.46
+2977957	     Saint-Michel-Mont-Mercure	2994250	         Mesnard-la-Barotière	    0.42
+2994250	         Mesnard-la-Barotière	2994250	         Mesnard-la-Barotière	    0.00
+6613155	                       Ancenis	3025972	            Chaudron-en-Mauges	    0.44
+3007213	                  La Pommeraye	3025972	            Chaudron-en-Mauges	    0.30
+6434556	                       Varades	3025972	            Chaudron-en-Mauges	    0.28
+2977415	       Saint-Pierre-Montlimart	3025972	            Chaudron-en-Mauges	    0.09
+2992354	            Montjean-sur-Loire	3025972	            Chaudron-en-Mauges	    0.36
+2980109	        Saint-Florent-le-Vieil	3025972	            Chaudron-en-Mauges	    0.21
+2979589	                 Saint-Herblon	3025972	            Chaudron-en-Mauges	    0.40
+6452327	                         Anetz	3025972	            Chaudron-en-Mauges	    0.34
+6449427	          Champtocé-sur-Loire	3025972	            Chaudron-en-Mauges	    0.41
+3004238	                Le Fief-Sauvin	3025972	            Chaudron-en-Mauges	    0.21
+2978927	    Saint-Laurent-de-la-Plaine	3025972	            Chaudron-en-Mauges	    0.35
+3007004	               La Regrippière	3025972	            Chaudron-en-Mauges	    0.47
+3030675	                     Bouzillé	3025972	            Chaudron-en-Mauges	    0.28
+3025972	            Chaudron-en-Mauges	3025972	            Chaudron-en-Mauges	    0.00
+3003392	          Le Mesnil-en-Vallée	3025972	            Chaudron-en-Mauges	    0.24
+3010278	     La Chapelle-Saint-Florent	3025972	            Chaudron-en-Mauges	    0.19
+3002782	              Le Pin-en-Mauges	3025972	            Chaudron-en-Mauges	    0.19
+3008571	                La Jumellière	3025972	            Chaudron-en-Mauges	    0.48
+2977204	         Saint-Rémy-en-Mauges	3025972	            Chaudron-en-Mauges	    0.18
+3006534	    La Salle-et-Chapelle-Aubry	3025972	            Chaudron-en-Mauges	    0.09
+2992054	                   Montrevault	3025972	            Chaudron-en-Mauges	    0.14
+3006640	                  La Rouxière	3025972	            Chaudron-en-Mauges	    0.46
+6456072	                  Le Marillais	3025972	            Chaudron-en-Mauges	    0.26
+2977280	       Saint-Quentin-en-Mauges	3025972	            Chaudron-en-Mauges	    0.14
+6456561	                  Les Herbiers	2980604	               Sainte-Florence	    0.33
+3026823	                    Chantonnay	2980604	               Sainte-Florence	    0.36
+2980059	                 Saint-Fulgent	2980604	               Sainte-Florence	    0.16
+3005099	                   Le Boupère	2980604	               Sainte-Florence	    0.43
+2991575	                     Mouchamps	2980604	               Sainte-Florence	    0.17
+3026005	                      Chauché	2980604	               Sainte-Florence	    0.25
+6445174	    Saint-André-Goule-d’Oie	2980604	               Sainte-Florence	    0.13
+2970105	                    Vendrennes	2980604	               Sainte-Florence	    0.09
+2977309	                 Saint-Prouant	2980604	               Sainte-Florence	    0.39
+2980716	                Sainte-Cécile	2980604	               Sainte-Florence	    0.16
+2979819	     Saint-Germain-de-Prinçay	2980604	               Sainte-Florence	    0.33
+2977659	          Saint-Paul-en-Pareds	2980604	               Sainte-Florence	    0.33
+2980604	               Sainte-Florence	2980604	               Sainte-Florence	    0.00
+2997885	                       L’Oie	2980604	               Sainte-Florence	    0.04
+2979508	       Saint-Hilaire-le-Vouhis	2980604	               Sainte-Florence	    0.31
+3009927	             La Copechagnière	2980604	               Sainte-Florence	    0.40
+3009443	                    La Flèche	3005371	                   Le Bailleul	    0.25
+3006330	            La Suze-sur-Sarthe	3005371	                   Le Bailleul	    0.48
+3027918	          Cérans-Foulletourte	3005371	                   Le Bailleul	    0.47
+2978791	                        Durtal	3005371	                   Le Bailleul	    0.31
+6442662	                    Précigné	3005371	                   Le Bailleul	    0.30
+2989890	              Noyen-sur-Sarthe	3005371	                   Le Bailleul	    0.31
+2988572	             Parcé-sur-Sarthe	3005371	                   Le Bailleul	    0.22
+2994036	                      Mézeray	3005371	                   Le Bailleul	    0.31
+6442608	          Malicorne-sur-Sarthe	3005371	                   Le Bailleul	    0.19
+2991888	                      Morannes	3005371	                   Le Bailleul	    0.48
+3010378	       La Chapelle-d’Aligné	3005371	                   Le Bailleul	    0.17
+2997223	                Luché-Pringé	3005371	                   Le Bailleul	    0.48
+3021688	                      Daumeray	3005371	                   Le Bailleul	    0.42
+2967997	                          Vion	3005371	                   Le Bailleul	    0.20
+3024641	              Clermont-Créans	3005371	                   Le Bailleul	    0.31
+3034411	          Bazouges-sur-le-Loir	3005371	                   Le Bailleul	    0.22
+3005371	                   Le Bailleul	3005371	                   Le Bailleul	    0.00
+3012119	            Juigné-sur-Sarthe	3005371	                   Le Bailleul	    0.35
+3022302	                   Crosmières	3005371	                   Le Bailleul	    0.07
+2969027	      Villaines-sous-Malicorne	3005371	                   Le Bailleul	    0.11
+2999825	                   Les Rairies	3005371	                   Le Bailleul	    0.34
+2980372	                Sainte-Pazanne	6434531	           Saint-Même-le-Tenu	    0.23
+3009168	                   La Garnache	6434531	           Saint-Même-le-Tenu	    0.37
+3008470	              La Limouzinière	6434531	           Saint-Même-le-Tenu	    0.38
+6434526	       Saint-Lumine-de-Coutais	6434531	           Saint-Même-le-Tenu	    0.16
+3032062	                Bois-de-Céné	6434531	           Saint-Même-le-Tenu	    0.29
+2988323	                         Paulx	6434531	           Saint-Même-le-Tenu	    0.18
+3017003	                     Froidfond	6434531	           Saint-Même-le-Tenu	    0.43
+6434531	           Saint-Même-le-Tenu	6434531	           Saint-Même-le-Tenu	    0.00
+2995399	              Martigné-Briand	3002446	             Le Puy-Notre-Dame	    0.48
+2989851	               Nueil-sur-Layon	3002446	             Le Puy-Notre-Dame	    0.25
+3002446	             Le Puy-Notre-Dame	3002446	             Le Puy-Notre-Dame	    0.00
+3007841	                       Landivy	3007044	                      Larchamp	    0.33
+3007044	                      Larchamp	3007044	                      Larchamp	    0.00
+2972056	               Trans-sur-Erdre	2972056	               Trans-sur-Erdre	    0.00
+3026221	       Châteauneuf-sur-Sarthe	3031307	                       Bouère	    0.51
+3031307	                       Bouère	3031307	                       Bouère	    0.00
+2997456	                         Loué	3021191	         Domfront-en-Champagne	    0.45
+3021191	         Domfront-en-Champagne	3021191	         Domfront-en-Champagne	    0.00
+3021552	                        Derval	2997433	                     Louisfert	    0.45
+3012217	               Joué-sur-Erdre	2997433	                     Louisfert	    0.50
+2997433	                     Louisfert	2997433	                     Louisfert	    0.00
+6454204	                       Vihiers	3007264	                     La Plaine	    0.29
+2992381	                   Montilliers	3007264	                     La Plaine	    0.40
+3007264	                     La Plaine	3007264	                     La Plaine	    0.00
+2979532	         Saint-Hilaire-du-Bois	3007264	                     La Plaine	    0.29

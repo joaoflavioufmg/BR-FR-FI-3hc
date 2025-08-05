@@ -1,0 +1,139 @@
+Optimization settings:
+
+----------------------------------------
+Objective Function: 	   3743006814.25
+Primary   Care Cost:	   2788291460.00
+Secondary Care Cost:	    380341500.00
+Tertiary  Care Cost:	    291438409.00
+Add Infrastruc Cost:	    281304334.01
+Populat ExtLog Cost:	      1631111.24
+HC Cost per capita (now):	     1755.91
+HC Cost per capita (fut):	     1899.50
+----------------------------------------
+
+-----------------------------------
+State population:	1970524
+Max municipa pop:	135787
+Min municipa pop:	1001
+-----------------------------------
+Care Level	Pop. Min	Dur. Max(h).
+-----------------------------------
+[1]			0      		0.51
+[2]			7000   		1.50
+[3]			20000  		1.50
+-----------------------------------
+
+
+Demand met by level: (Estate has 491 municipalities).
+----------------------------------------------------------------
+Care Level [1]: 491 mun >  45 mun (100.00% coverage)
+Care Level [2]:  45 mun >   7 mun
+Care Level [3]:   7 mun >   4 mun
+----------------------------------------------------------------
+
+Municipalities requiring additional infrastructure:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	6433030	Joué-lés-Tours         :	6799216.50
+    1	2969257	Vierzon                  :	4877646.50
+    1	6434714	Saint-Jean-de-Braye      :	4901418.50
+    1	8290211	Saint-Doulchard          :	4349002.50
+    1	3026222	Châteauneuf-sur-Loire   :	9650441.50
+    1	6448604	Déols                   :	9014682.00
+    1	2967236	Yèvres                  :	4523896.50
+    1	2997279	Luant                    :	3881911.00
+    1	6616035	Lignières               :	397898.00
+    1	3030645	Boynes                   :	4081567.50
+    1	2988942	Outarville               :	3074087.50
+    1	2997123	Lunay                    :	1493674.00
+    1	3027350	Chambourg-sur-Indre      :	3640087.50
+    1	6448610	Écueillé               :	1336892.00
+    1	2983902	Restigné                :	2127594.00
+    1	6430795	Margon                   :	1737761.50
+    1	2980514	Sainte-Lizaigne          :	4230001.00
+    1	2968073	Vimory                   :	2171459.00
+    1	2973722	Tournon-Saint-Martin     :	1541076.50
+    1	6434143	Thésée                 :	3650983.00
+    1	2980796	Saint-Dyé-sur-Loire     :	15073429.00
+    1	2980324	Sainte-Solange           :	12785657.00
+    1	2981129	Saint-Christophe-sur-le-Nais:	1455469.00
+    1	2979642	Saint-Gondon             :	5030891.00
+    1	6456039	La Selle-sur-le-Bied     :	10720323.00
+    1	2986183	Pontgouin                :	1218032.00
+    1	3037119	Ardon                    :	16356975.50
+    1	3027632	Chaillac                 :	154093.50
+    1	3017106	Fréteval                :	4017326.50
+    1	2969628	Vert-en-Drouais          :	411340.50
+    1	3003629	Le Magny                 :	1633193.00
+    1	6614652	La Celle-Saint-Avant     :	1789409.00
+    1	2975543	Savigny-en-Sancerre      :	1864828.50
+    1	2998347	Ligré                   :	2892826.00
+    1	2977587	Saint-Piat               :	2391916.00
+    1	3022154	Cuffy                    :	1575885.50
+    1	2974089	Souesmes                 :	3135074.00
+    1	2976533	Sainville                :	357995.00
+    1	3026638	Charenton-du-Cher        :	2279848.00
+    1	3031183	Boulay-les-Barres        :	26446208.50
+    1	3016269	Saint-Ouen-les-Vignes    :	5583590.00
+    1	2982966	Romorantin               :	2846131.00
+    2	6433030	Joué-lés-Tours         :	13567554.00
+    2	2969257	Vierzon                  :	6685140.00
+    2	6434714	Saint-Jean-de-Braye      :	6097014.00
+    2	8290211	Saint-Doulchard          :	3193806.00
+    2	3026222	Châteauneuf-sur-Loire   :	2971815.00
+    2	6448604	Déols                   :	3459918.00
+    3	6433030	Joué-lés-Tours         :	16527789.81
+    3	2969257	Vierzon                  :	18682469.61
+    3	6434714	Saint-Jean-de-Braye      :	12617089.59
+----------------------------------------------------------------
+
+Municipalities (origin) for logistics investiment:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION		COST($)
+    1	3029345	Buzançais               :	1980.21
+    1	3035548	Azay-le-Rideau           :	1527.58
+    1	2967595	Voves                    :	1427.87
+    1	2975184	Semblançay              :	949.87
+    1	2988905	Ouzouer-le-Marché       :	897.39
+    1	6454057	Reugny                   :	746.95
+    1	2967600	Vouzon                   :	643.74
+    1	6433073	Nouzilly                 :	545.34
+    2	3004468	Le Coudray               :	45013.13
+    2	2967236	Yèvres                  :	209658.75
+    2	6616035	Lignières               :	18884.28
+    2	3030645	Boynes                   :	5382.15
+    2	2988942	Outarville               :	10246.41
+    2	2997123	Lunay                    :	108936.47
+    2	3027350	Chambourg-sur-Indre      :	4594.35
+    2	6448610	Écueillé               :	23969.74
+    2	2983902	Restigné                :	9883.75
+    2	6430795	Margon                   :	145887.04
+    2	2980514	Sainte-Lizaigne          :	734.82
+    2	2968073	Vimory                   :	14212.55
+    2	2973722	Tournon-Saint-Martin     :	132109.77
+    2	6434143	Thésée                 :	59835.95
+    2	2980796	Saint-Dyé-sur-Loire     :	47330.06
+    2	2981129	Saint-Christophe-sur-le-Nais:	8057.09
+    2	2979642	Saint-Gondon             :	4421.48
+    2	6456039	La Selle-sur-le-Bied     :	97721.67
+    2	2986183	Pontgouin                :	7322.33
+    2	3027632	Chaillac                 :	91082.22
+    2	3017106	Fréteval                :	110791.54
+    2	3003629	Le Magny                 :	11659.17
+    2	6614652	La Celle-Saint-Avant     :	14876.41
+    2	2975543	Savigny-en-Sancerre      :	66650.45
+    2	2998347	Ligré                   :	21626.03
+    2	2977587	Saint-Piat               :	1528.52
+    2	3022154	Cuffy                    :	85455.12
+    2	2974089	Souesmes                 :	2249.15
+    2	2976533	Sainville                :	73198.94
+    2	3026638	Charenton-du-Cher        :	42747.04
+    2	3016269	Saint-Ouen-les-Vignes    :	2692.97
+    2	2982966	Romorantin               :	2991.20
+    3	6448604	Déols                   :	140641.72
+----------------------------------------------------------------
+
+Municipalities requiring a custom solution:
+----------------------------------------------------------------
+LEVEL	CODE	DESCRIPTION					CLOSEST(h)
+----------------------------------------------------------------

@@ -1,0 +1,4 @@
+NIVEL	CODIGO	DESTINO	POP ATENDIDA	Physicians	Nurses	OtherCadres	CommunityBased	Beds	CTScanner	MRIUnit	Mammography	Radiotherapy
+3	244	Kempele	295198.00	13.41	48.67	15.57	0.00	17.52	0.32	0.26	0.17	0.09
+3	305	Kuusamo	17558.00	8.79	31.90	10.21	0.00	11.48	0.21	0.17	0.11	0.06
+3	977	Ylivieska	103294.00	23.53	85.38	27.32	0.00	30.74	0.57	0.45	0.30	0.15

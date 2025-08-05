@@ -1,0 +1,415 @@
+NIVEL,CODIGO,DESTINO,COD_ESP,RECURSO,POP ATENDIDA,ATEND_FTE
+1,6427260,Hérouville-Saint-Clair,1,Physicians,324555,42.19
+1,6427260,Hérouville-Saint-Clair,2,Nurses,324555,204.47
+1,6427260,Hérouville-Saint-Clair,3,OtherCadres,324555,116.84
+1,6427260,Hérouville-Saint-Clair,4,CommunityBased,324555,113.59
+1,6427260,Hérouville-Saint-Clair,5,Beds,324555,0.00
+1,6427260,Hérouville-Saint-Clair,6,CTScanner,324555,0.00
+1,6427260,Hérouville-Saint-Clair,7,MRIUnit,324555,0.00
+1,6427260,Hérouville-Saint-Clair,8,Mammography,324555,0.00
+1,6427260,Hérouville-Saint-Clair,9,Radiotherapy,324555,0.00
+1,6456462,Le Petit-Quevilly,1,Physicians,561075,72.94
+1,6456462,Le Petit-Quevilly,2,Nurses,561075,353.48
+1,6456462,Le Petit-Quevilly,3,OtherCadres,561075,201.99
+1,6456462,Le Petit-Quevilly,4,CommunityBased,561075,196.37
+1,6456462,Le Petit-Quevilly,5,Beds,561075,0.00
+1,6456462,Le Petit-Quevilly,6,CTScanner,561075,0.00
+1,6456462,Le Petit-Quevilly,7,MRIUnit,561075,0.00
+1,6456462,Le Petit-Quevilly,8,Mammography,561075,0.00
+1,6456462,Le Petit-Quevilly,9,Radiotherapy,561075,0.00
+1,2990537,Neuville-lès-Dieppe,1,Physicians,65628,8.53
+1,2990537,Neuville-lès-Dieppe,2,Nurses,65628,41.35
+1,2990537,Neuville-lès-Dieppe,3,OtherCadres,65628,23.63
+1,2990537,Neuville-lès-Dieppe,4,CommunityBased,65628,22.97
+1,2990537,Neuville-lès-Dieppe,5,Beds,65628,0.00
+1,2990537,Neuville-lès-Dieppe,6,CTScanner,65628,0.00
+1,2990537,Neuville-lès-Dieppe,7,MRIUnit,65628,0.00
+1,2990537,Neuville-lès-Dieppe,8,Mammography,65628,0.00
+1,2990537,Neuville-lès-Dieppe,9,Radiotherapy,65628,0.00
+1,3022826,Coutances,1,Physicians,44146,5.74
+1,3022826,Coutances,2,Nurses,44146,27.81
+1,3022826,Coutances,3,OtherCadres,44146,15.89
+1,3022826,Coutances,4,CommunityBased,44146,15.45
+1,3022826,Coutances,5,Beds,44146,0.00
+1,3022826,Coutances,6,CTScanner,44146,0.00
+1,3022826,Coutances,7,MRIUnit,44146,0.00
+1,3022826,Coutances,8,Mammography,44146,0.00
+1,3022826,Coutances,9,Radiotherapy,44146,0.00
+1,8289772,Falaise,1,Physicians,8086,1.05
+1,8289772,Falaise,2,Nurses,8086,5.09
+1,8289772,Falaise,3,OtherCadres,8086,2.91
+1,8289772,Falaise,4,CommunityBased,8086,2.83
+1,8289772,Falaise,5,Beds,8086,0.00
+1,8289772,Falaise,6,CTScanner,8086,0.00
+1,8289772,Falaise,7,MRIUnit,8086,0.00
+1,8289772,Falaise,8,Mammography,8086,0.00
+1,8289772,Falaise,9,Radiotherapy,8086,0.00
+1,6613857,L’Aigle,1,Physicians,15669,2.04
+1,6613857,L’Aigle,2,Nurses,15669,9.87
+1,6613857,L’Aigle,3,OtherCadres,15669,5.64
+1,6613857,L’Aigle,4,CommunityBased,15669,5.48
+1,6613857,L’Aigle,5,Beds,15669,0.00
+1,6613857,L’Aigle,6,CTScanner,15669,0.00
+1,6613857,L’Aigle,7,MRIUnit,15669,0.00
+1,6613857,L’Aigle,8,Mammography,15669,0.00
+1,6613857,L’Aigle,9,Radiotherapy,15669,0.00
+1,2970860,Valognes,1,Physicians,57042,7.42
+1,2970860,Valognes,2,Nurses,57042,35.94
+1,2970860,Valognes,3,OtherCadres,57042,20.53
+1,2970860,Valognes,4,CommunityBased,57042,19.96
+1,2970860,Valognes,5,Beds,57042,0.00
+1,2970860,Valognes,6,CTScanner,57042,0.00
+1,2970860,Valognes,7,MRIUnit,57042,0.00
+1,2970860,Valognes,8,Mammography,57042,0.00
+1,2970860,Valognes,9,Radiotherapy,57042,0.00
+1,2989753,Octeville-sur-Mer,1,Physicians,272649,35.44
+1,2989753,Octeville-sur-Mer,2,Nurses,272649,171.77
+1,2989753,Octeville-sur-Mer,3,OtherCadres,272649,98.15
+1,2989753,Octeville-sur-Mer,4,CommunityBased,272649,95.43
+1,2989753,Octeville-sur-Mer,5,Beds,272649,0.00
+1,2989753,Octeville-sur-Mer,6,CTScanner,272649,0.00
+1,2989753,Octeville-sur-Mer,7,MRIUnit,272649,0.00
+1,2989753,Octeville-sur-Mer,8,Mammography,272649,0.00
+1,2989753,Octeville-sur-Mer,9,Radiotherapy,272649,0.00
+1,3036850,Arnières-sur-Iton,1,Physicians,90663,11.79
+1,3036850,Arnières-sur-Iton,2,Nurses,90663,57.12
+1,3036850,Arnières-sur-Iton,3,OtherCadres,90663,32.64
+1,3036850,Arnières-sur-Iton,4,CommunityBased,90663,31.73
+1,3036850,Arnières-sur-Iton,5,Beds,90663,0.00
+1,3036850,Arnières-sur-Iton,6,CTScanner,90663,0.00
+1,3036850,Arnières-sur-Iton,7,MRIUnit,90663,0.00
+1,3036850,Arnières-sur-Iton,8,Mammography,90663,0.00
+1,3036850,Arnières-sur-Iton,9,Radiotherapy,90663,0.00
+1,2994529,Menneval,1,Physicians,28799,3.74
+1,2994529,Menneval,2,Nurses,28799,18.14
+1,2994529,Menneval,3,OtherCadres,28799,10.37
+1,2994529,Menneval,4,CommunityBased,28799,10.08
+1,2994529,Menneval,5,Beds,28799,0.00
+1,2994529,Menneval,6,CTScanner,28799,0.00
+1,2994529,Menneval,7,MRIUnit,28799,0.00
+1,2994529,Menneval,8,Mammography,28799,0.00
+1,2994529,Menneval,9,Radiotherapy,28799,0.00
+1,6435531,Pirou,1,Physicians,2900,0.38
+1,6435531,Pirou,2,Nurses,2900,1.83
+1,6435531,Pirou,3,OtherCadres,2900,1.04
+1,6435531,Pirou,4,CommunityBased,2900,1.02
+1,6435531,Pirou,5,Beds,2900,0.00
+1,6435531,Pirou,6,CTScanner,2900,0.00
+1,6435531,Pirou,7,MRIUnit,2900,0.00
+1,6435531,Pirou,8,Mammography,2900,0.00
+1,6435531,Pirou,9,Radiotherapy,2900,0.00
+1,3022285,Croth,1,Physicians,21028,2.73
+1,3022285,Croth,2,Nurses,21028,13.25
+1,3022285,Croth,3,OtherCadres,21028,7.57
+1,3022285,Croth,4,CommunityBased,21028,7.36
+1,3022285,Croth,5,Beds,21028,0.00
+1,3022285,Croth,6,CTScanner,21028,0.00
+1,3022285,Croth,7,MRIUnit,21028,0.00
+1,3022285,Croth,8,Mammography,21028,0.00
+1,3022285,Croth,9,Radiotherapy,21028,0.00
+1,6435596,Saint-Hilaire-Petitville,1,Physicians,15338,1.99
+1,6435596,Saint-Hilaire-Petitville,2,Nurses,15338,9.66
+1,6435596,Saint-Hilaire-Petitville,3,OtherCadres,15338,5.52
+1,6435596,Saint-Hilaire-Petitville,4,CommunityBased,15338,5.37
+1,6435596,Saint-Hilaire-Petitville,5,Beds,15338,0.00
+1,6435596,Saint-Hilaire-Petitville,6,CTScanner,15338,0.00
+1,6435596,Saint-Hilaire-Petitville,7,MRIUnit,15338,0.00
+1,6435596,Saint-Hilaire-Petitville,8,Mammography,15338,0.00
+1,6435596,Saint-Hilaire-Petitville,9,Radiotherapy,15338,0.00
+1,3013402,Hérouvillette,1,Physicians,4154,0.54
+1,3013402,Hérouvillette,2,Nurses,4154,2.62
+1,3013402,Hérouvillette,3,OtherCadres,4154,1.50
+1,3013402,Hérouvillette,4,CommunityBased,4154,1.45
+1,3013402,Hérouvillette,5,Beds,4154,0.00
+1,3013402,Hérouvillette,6,CTScanner,4154,0.00
+1,3013402,Hérouvillette,7,MRIUnit,4154,0.00
+1,3013402,Hérouvillette,8,Mammography,4154,0.00
+1,3013402,Hérouvillette,9,Radiotherapy,4154,0.00
+1,2977261,Saint-Quentin-sur-le-Homme,1,Physicians,44993,5.85
+1,2977261,Saint-Quentin-sur-le-Homme,2,Nurses,44993,28.35
+1,2977261,Saint-Quentin-sur-le-Homme,3,OtherCadres,44993,16.20
+1,2977261,Saint-Quentin-sur-le-Homme,4,CommunityBased,44993,15.75
+1,2977261,Saint-Quentin-sur-le-Homme,5,Beds,44993,0.00
+1,2977261,Saint-Quentin-sur-le-Homme,6,CTScanner,44993,0.00
+1,2977261,Saint-Quentin-sur-le-Homme,7,MRIUnit,44993,0.00
+1,2977261,Saint-Quentin-sur-le-Homme,8,Mammography,44993,0.00
+1,2977261,Saint-Quentin-sur-le-Homme,9,Radiotherapy,44993,0.00
+1,6456442,La Feuillie,1,Physicians,12654,1.64
+1,6456442,La Feuillie,2,Nurses,12654,7.97
+1,6456442,La Feuillie,3,OtherCadres,12654,4.56
+1,6456442,La Feuillie,4,CommunityBased,12654,4.43
+1,6456442,La Feuillie,5,Beds,12654,0.00
+1,6456442,La Feuillie,6,CTScanner,12654,0.00
+1,6456442,La Feuillie,7,MRIUnit,12654,0.00
+1,6456442,La Feuillie,8,Mammography,12654,0.00
+1,6456442,La Feuillie,9,Radiotherapy,12654,0.00
+1,2997784,Londinières,1,Physicians,5428,0.71
+1,2997784,Londinières,2,Nurses,5428,3.42
+1,2997784,Londinières,3,OtherCadres,5428,1.95
+1,2997784,Londinières,4,CommunityBased,5428,1.90
+1,2997784,Londinières,5,Beds,5428,0.00
+1,2997784,Londinières,6,CTScanner,5428,0.00
+1,2997784,Londinières,7,MRIUnit,5428,0.00
+1,2997784,Londinières,8,Mammography,5428,0.00
+1,2997784,Londinières,9,Radiotherapy,5428,0.00
+1,2971521,Trun,1,Physicians,29197,3.80
+1,2971521,Trun,2,Nurses,29197,18.39
+1,2971521,Trun,3,OtherCadres,29197,10.51
+1,2971521,Trun,4,CommunityBased,29197,10.22
+1,2971521,Trun,5,Beds,29197,0.00
+1,2971521,Trun,6,CTScanner,29197,0.00
+1,2971521,Trun,7,MRIUnit,29197,0.00
+1,2971521,Trun,8,Mammography,29197,0.00
+1,2971521,Trun,9,Radiotherapy,29197,0.00
+1,3030857,Bourth,1,Physicians,14285,1.86
+1,3030857,Bourth,2,Nurses,14285,9.00
+1,3030857,Bourth,3,OtherCadres,14285,5.14
+1,3030857,Bourth,4,CommunityBased,14285,5.00
+1,3030857,Bourth,5,Beds,14285,0.00
+1,3030857,Bourth,6,CTScanner,14285,0.00
+1,3030857,Bourth,7,MRIUnit,14285,0.00
+1,3030857,Bourth,8,Mammography,14285,0.00
+1,3030857,Bourth,9,Radiotherapy,14285,0.00
+1,3016812,Gaillefontaine,1,Physicians,14585,1.90
+1,3016812,Gaillefontaine,2,Nurses,14585,9.19
+1,3016812,Gaillefontaine,3,OtherCadres,14585,5.25
+1,3016812,Gaillefontaine,4,CommunityBased,14585,5.10
+1,3016812,Gaillefontaine,5,Beds,14585,0.00
+1,3016812,Gaillefontaine,6,CTScanner,14585,0.00
+1,3016812,Gaillefontaine,7,MRIUnit,14585,0.00
+1,3016812,Gaillefontaine,8,Mammography,14585,0.00
+1,3016812,Gaillefontaine,9,Radiotherapy,14585,0.00
+1,2984087,Rémalard,1,Physicians,9419,1.22
+1,2984087,Rémalard,2,Nurses,9419,5.93
+1,2984087,Rémalard,3,OtherCadres,9419,3.39
+1,2984087,Rémalard,4,CommunityBased,9419,3.30
+1,2984087,Rémalard,5,Beds,9419,0.00
+1,2984087,Rémalard,6,CTScanner,9419,0.00
+1,2984087,Rémalard,7,MRIUnit,9419,0.00
+1,2984087,Rémalard,8,Mammography,9419,0.00
+1,2984087,Rémalard,9,Radiotherapy,9419,0.00
+1,2988958,Ourville-en-Caux,1,Physicians,57406,7.46
+1,2988958,Ourville-en-Caux,2,Nurses,57406,36.17
+1,2988958,Ourville-en-Caux,3,OtherCadres,57406,20.67
+1,2988958,Ourville-en-Caux,4,CommunityBased,57406,20.09
+1,2988958,Ourville-en-Caux,5,Beds,57406,0.00
+1,2988958,Ourville-en-Caux,6,CTScanner,57406,0.00
+1,2988958,Ourville-en-Caux,7,MRIUnit,57406,0.00
+1,2988958,Ourville-en-Caux,8,Mammography,57406,0.00
+1,2988958,Ourville-en-Caux,9,Radiotherapy,57406,0.00
+1,2984354,Rauville-la-Bigot,1,Physicians,88180,11.46
+1,2984354,Rauville-la-Bigot,2,Nurses,88180,55.55
+1,2984354,Rauville-la-Bigot,3,OtherCadres,88180,31.74
+1,2984354,Rauville-la-Bigot,4,CommunityBased,88180,30.86
+1,2984354,Rauville-la-Bigot,5,Beds,88180,0.00
+1,2984354,Rauville-la-Bigot,6,CTScanner,88180,0.00
+1,2984354,Rauville-la-Bigot,7,MRIUnit,88180,0.00
+1,2984354,Rauville-la-Bigot,8,Mammography,88180,0.00
+1,2984354,Rauville-la-Bigot,9,Radiotherapy,88180,0.00
+1,2987596,Petiville,1,Physicians,80328,10.44
+1,2987596,Petiville,2,Nurses,80328,50.61
+1,2987596,Petiville,3,OtherCadres,80328,28.92
+1,2987596,Petiville,4,CommunityBased,80328,28.11
+1,2987596,Petiville,5,Beds,80328,0.00
+1,2987596,Petiville,6,CTScanner,80328,0.00
+1,2987596,Petiville,7,MRIUnit,80328,0.00
+1,2987596,Petiville,8,Mammography,80328,0.00
+1,2987596,Petiville,9,Radiotherapy,80328,0.00
+1,2997635,Lonlay-l’Abbaye,1,Physicians,34323,4.46
+1,2997635,Lonlay-l’Abbaye,2,Nurses,34323,21.62
+1,2997635,Lonlay-l’Abbaye,3,OtherCadres,34323,12.36
+1,2997635,Lonlay-l’Abbaye,4,CommunityBased,34323,12.01
+1,2997635,Lonlay-l’Abbaye,5,Beds,34323,0.00
+1,2997635,Lonlay-l’Abbaye,6,CTScanner,34323,0.00
+1,2997635,Lonlay-l’Abbaye,7,MRIUnit,34323,0.00
+1,2997635,Lonlay-l’Abbaye,8,Mammography,34323,0.00
+1,2997635,Lonlay-l’Abbaye,9,Radiotherapy,34323,0.00
+1,3020921,Berd’huis,1,Physicians,7327,0.95
+1,3020921,Berd’huis,2,Nurses,7327,4.62
+1,3020921,Berd’huis,3,OtherCadres,7327,2.64
+1,3020921,Berd’huis,4,CommunityBased,7327,2.56
+1,3020921,Berd’huis,5,Beds,7327,0.00
+1,3020921,Berd’huis,6,CTScanner,7327,0.00
+1,3020921,Berd’huis,7,MRIUnit,7327,0.00
+1,3020921,Berd’huis,8,Mammography,7327,0.00
+1,3020921,Berd’huis,9,Radiotherapy,7327,0.00
+1,3033604,Bellou-en-Houlme,1,Physicians,31352,4.08
+1,3033604,Bellou-en-Houlme,2,Nurses,31352,19.75
+1,3033604,Bellou-en-Houlme,3,OtherCadres,31352,11.29
+1,3033604,Bellou-en-Houlme,4,CommunityBased,31352,10.97
+1,3033604,Bellou-en-Houlme,5,Beds,31352,0.00
+1,3033604,Bellou-en-Houlme,6,CTScanner,31352,0.00
+1,3033604,Bellou-en-Houlme,7,MRIUnit,31352,0.00
+1,3033604,Bellou-en-Houlme,8,Mammography,31352,0.00
+1,3033604,Bellou-en-Houlme,9,Radiotherapy,31352,0.00
+1,3013242,Folligny,1,Physicians,34232,4.45
+1,3013242,Folligny,2,Nurses,34232,21.57
+1,3013242,Folligny,3,OtherCadres,34232,12.32
+1,3013242,Folligny,4,CommunityBased,34232,11.98
+1,3013242,Folligny,5,Beds,34232,0.00
+1,3013242,Folligny,6,CTScanner,34232,0.00
+1,3013242,Folligny,7,MRIUnit,34232,0.00
+1,3013242,Folligny,8,Mammography,34232,0.00
+1,3013242,Folligny,9,Radiotherapy,34232,0.00
+1,3036231,Audrieu,1,Physicians,26082,3.39
+1,3036231,Audrieu,2,Nurses,26082,16.43
+1,3036231,Audrieu,3,OtherCadres,26082,9.39
+1,3036231,Audrieu,4,CommunityBased,26082,9.13
+1,3036231,Audrieu,5,Beds,26082,0.00
+1,3036231,Audrieu,6,CTScanner,26082,0.00
+1,3036231,Audrieu,7,MRIUnit,26082,0.00
+1,3036231,Audrieu,8,Mammography,26082,0.00
+1,3036231,Audrieu,9,Radiotherapy,26082,0.00
+1,6424470,Écos,1,Physicians,72604,9.44
+1,6424470,Écos,2,Nurses,72604,45.74
+1,6424470,Écos,3,OtherCadres,72604,26.14
+1,6424470,Écos,4,CommunityBased,72604,25.41
+1,6424470,Écos,5,Beds,72604,0.00
+1,6424470,Écos,6,CTScanner,72604,0.00
+1,6424470,Écos,7,MRIUnit,72604,0.00
+1,6424470,Écos,8,Mammography,72604,0.00
+1,6424470,Écos,9,Radiotherapy,72604,0.00
+1,3005311,Le Bény-Bocage,1,Physicians,29098,3.78
+1,3005311,Le Bény-Bocage,2,Nurses,29098,18.33
+1,3005311,Le Bény-Bocage,3,OtherCadres,29098,10.48
+1,3005311,Le Bény-Bocage,4,CommunityBased,29098,10.18
+1,3005311,Le Bény-Bocage,5,Beds,29098,0.00
+1,3005311,Le Bény-Bocage,6,CTScanner,29098,0.00
+1,3005311,Le Bény-Bocage,7,MRIUnit,29098,0.00
+1,3005311,Le Bény-Bocage,8,Mammography,29098,0.00
+1,3005311,Le Bény-Bocage,9,Radiotherapy,29098,0.00
+1,3019461,Étalondes,1,Physicians,14871,1.93
+1,3019461,Étalondes,2,Nurses,14871,9.37
+1,3019461,Étalondes,3,OtherCadres,14871,5.35
+1,3019461,Étalondes,4,CommunityBased,14871,5.20
+1,3019461,Étalondes,5,Beds,14871,0.00
+1,3019461,Étalondes,6,CTScanner,14871,0.00
+1,3019461,Étalondes,7,MRIUnit,14871,0.00
+1,3019461,Étalondes,8,Mammography,14871,0.00
+1,3019461,Étalondes,9,Radiotherapy,14871,0.00
+1,6430496,Montaure,1,Physicians,38559,5.01
+1,6430496,Montaure,2,Nurses,38559,24.29
+1,6430496,Montaure,3,OtherCadres,38559,13.88
+1,6430496,Montaure,4,CommunityBased,38559,13.50
+1,6430496,Montaure,5,Beds,38559,0.00
+1,6430496,Montaure,6,CTScanner,38559,0.00
+1,6430496,Montaure,7,MRIUnit,38559,0.00
+1,6430496,Montaure,8,Mammography,38559,0.00
+1,6430496,Montaure,9,Radiotherapy,38559,0.00
+1,2984582,Radon,1,Physicians,44929,5.84
+1,2984582,Radon,2,Nurses,44929,28.31
+1,2984582,Radon,3,OtherCadres,44929,16.17
+1,2984582,Radon,4,CommunityBased,44929,15.72
+1,2984582,Radon,5,Beds,44929,0.00
+1,2984582,Radon,6,CTScanner,44929,0.00
+1,2984582,Radon,7,MRIUnit,44929,0.00
+1,2984582,Radon,8,Mammography,44929,0.00
+1,2984582,Radon,9,Radiotherapy,44929,0.00
+1,3011331,La Barre-de-Semilly,1,Physicians,38105,4.95
+1,3011331,La Barre-de-Semilly,2,Nurses,38105,24.01
+1,3011331,La Barre-de-Semilly,3,OtherCadres,38105,13.72
+1,3011331,La Barre-de-Semilly,4,CommunityBased,38105,13.34
+1,3011331,La Barre-de-Semilly,5,Beds,38105,0.00
+1,3011331,La Barre-de-Semilly,6,CTScanner,38105,0.00
+1,3011331,La Barre-de-Semilly,7,MRIUnit,38105,0.00
+1,3011331,La Barre-de-Semilly,8,Mammography,38105,0.00
+1,3011331,La Barre-de-Semilly,9,Radiotherapy,38105,0.00
+1,3004989,Le Breuil-en-Auge,1,Physicians,62464,8.12
+1,3004989,Le Breuil-en-Auge,2,Nurses,62464,39.35
+1,3004989,Le Breuil-en-Auge,3,OtherCadres,62464,22.49
+1,3004989,Le Breuil-en-Auge,4,CommunityBased,62464,21.86
+1,3004989,Le Breuil-en-Auge,5,Beds,62464,0.00
+1,3004989,Le Breuil-en-Auge,6,CTScanner,62464,0.00
+1,3004989,Le Breuil-en-Auge,7,MRIUnit,62464,0.00
+1,3004989,Le Breuil-en-Auge,8,Mammography,62464,0.00
+1,3004989,Le Breuil-en-Auge,9,Radiotherapy,62464,0.00
+1,3037961,Amayé-sur-Orne,1,Physicians,9614,1.25
+1,3037961,Amayé-sur-Orne,2,Nurses,9614,6.06
+1,3037961,Amayé-sur-Orne,3,OtherCadres,9614,3.46
+1,3037961,Amayé-sur-Orne,4,CommunityBased,9614,3.36
+1,3037961,Amayé-sur-Orne,5,Beds,9614,0.00
+1,3037961,Amayé-sur-Orne,6,CTScanner,9614,0.00
+1,3037961,Amayé-sur-Orne,7,MRIUnit,9614,0.00
+1,3037961,Amayé-sur-Orne,8,Mammography,9614,0.00
+1,3037961,Amayé-sur-Orne,9,Radiotherapy,9614,0.00
+1,3003453,Grugny,1,Physicians,17064,2.22
+1,3003453,Grugny,2,Nurses,17064,10.75
+1,3003453,Grugny,3,OtherCadres,17064,6.14
+1,3003453,Grugny,4,CommunityBased,17064,5.97
+1,3003453,Grugny,5,Beds,17064,0.00
+1,3003453,Grugny,6,CTScanner,17064,0.00
+1,3003453,Grugny,7,MRIUnit,17064,0.00
+1,3003453,Grugny,8,Mammography,17064,0.00
+1,3003453,Grugny,9,Radiotherapy,17064,0.00
+2,6427260,Hérouville-Saint-Clair,1,Physicians,699518,17.19
+2,6427260,Hérouville-Saint-Clair,2,Nurses,699518,9.92
+2,6427260,Hérouville-Saint-Clair,3,OtherCadres,699518,23.80
+2,6427260,Hérouville-Saint-Clair,4,CommunityBased,699518,0.00
+2,6427260,Hérouville-Saint-Clair,5,Beds,699518,39.34
+2,6427260,Hérouville-Saint-Clair,6,CTScanner,699518,0.17
+2,6427260,Hérouville-Saint-Clair,7,MRIUnit,699518,0.12
+2,6427260,Hérouville-Saint-Clair,8,Mammography,699518,0.05
+2,6427260,Hérouville-Saint-Clair,9,Radiotherapy,699518,0.00
+2,6456462,Le Petit-Quevilly,1,Physicians,979165,17.83
+2,6456462,Le Petit-Quevilly,2,Nurses,979165,10.29
+2,6456462,Le Petit-Quevilly,3,OtherCadres,979165,24.69
+2,6456462,Le Petit-Quevilly,4,CommunityBased,979165,0.00
+2,6456462,Le Petit-Quevilly,5,Beds,979165,40.81
+2,6456462,Le Petit-Quevilly,6,CTScanner,979165,0.17
+2,6456462,Le Petit-Quevilly,7,MRIUnit,979165,0.12
+2,6456462,Le Petit-Quevilly,8,Mammography,979165,0.05
+2,6456462,Le Petit-Quevilly,9,Radiotherapy,979165,0.00
+2,2990537,Neuville-lès-Dieppe,1,Physicians,80499,5.54
+2,2990537,Neuville-lès-Dieppe,2,Nurses,80499,3.20
+2,2990537,Neuville-lès-Dieppe,3,OtherCadres,80499,7.67
+2,2990537,Neuville-lès-Dieppe,4,CommunityBased,80499,0.00
+2,2990537,Neuville-lès-Dieppe,5,Beds,80499,12.68
+2,2990537,Neuville-lès-Dieppe,6,CTScanner,80499,0.05
+2,2990537,Neuville-lès-Dieppe,7,MRIUnit,80499,0.04
+2,2990537,Neuville-lès-Dieppe,8,Mammography,80499,0.02
+2,2990537,Neuville-lès-Dieppe,9,Radiotherapy,80499,0.00
+2,3022826,Coutances,1,Physicians,354034,12.32
+2,3022826,Coutances,2,Nurses,354034,7.11
+2,3022826,Coutances,3,OtherCadres,354034,17.06
+2,3022826,Coutances,4,CommunityBased,354034,0.00
+2,3022826,Coutances,5,Beds,354034,28.20
+2,3022826,Coutances,6,CTScanner,354034,0.12
+2,3022826,Coutances,7,MRIUnit,354034,0.09
+2,3022826,Coutances,8,Mammography,354034,0.04
+2,3022826,Coutances,9,Radiotherapy,354034,0.00
+2,8289772,Falaise,1,Physicians,102958,6.00
+2,8289772,Falaise,2,Nurses,102958,3.46
+2,8289772,Falaise,3,OtherCadres,102958,8.31
+2,8289772,Falaise,4,CommunityBased,102958,0.00
+2,8289772,Falaise,5,Beds,102958,13.74
+2,8289772,Falaise,6,CTScanner,102958,0.06
+2,8289772,Falaise,7,MRIUnit,102958,0.04
+2,8289772,Falaise,8,Mammography,102958,0.02
+2,8289772,Falaise,9,Radiotherapy,102958,0.00
+2,6613857,L’Aigle,1,Physicians,112657,7.26
+2,6613857,L’Aigle,2,Nurses,112657,4.19
+2,6613857,L’Aigle,3,OtherCadres,112657,10.05
+2,6613857,L’Aigle,4,CommunityBased,112657,0.00
+2,6613857,L’Aigle,5,Beds,112657,16.62
+2,6613857,L’Aigle,6,CTScanner,112657,0.07
+2,6613857,L’Aigle,7,MRIUnit,112657,0.05
+2,6613857,L’Aigle,8,Mammography,112657,0.02
+2,6613857,L’Aigle,9,Radiotherapy,112657,0.00
+3,6427260,Hérouville-Saint-Clair,1,Physicians,1156510,24.29
+3,6427260,Hérouville-Saint-Clair,2,Nurses,1156510,88.15
+3,6427260,Hérouville-Saint-Clair,3,OtherCadres,1156510,28.21
+3,6427260,Hérouville-Saint-Clair,4,CommunityBased,1156510,0.00
+3,6427260,Hérouville-Saint-Clair,5,Beds,1156510,31.73
+3,6427260,Hérouville-Saint-Clair,6,CTScanner,1156510,0.59
+3,6427260,Hérouville-Saint-Clair,7,MRIUnit,1156510,0.47
+3,6427260,Hérouville-Saint-Clair,8,Mammography,1156510,0.31
+3,6427260,Hérouville-Saint-Clair,9,Radiotherapy,1156510,0.16
+3,6456462,Le Petit-Quevilly,1,Physicians,1172321,24.57
+3,6456462,Le Petit-Quevilly,2,Nurses,1172321,89.17
+3,6456462,Le Petit-Quevilly,3,OtherCadres,1172321,28.53
+3,6456462,Le Petit-Quevilly,4,CommunityBased,1172321,0.00
+3,6456462,Le Petit-Quevilly,5,Beds,1172321,32.10
+3,6456462,Le Petit-Quevilly,6,CTScanner,1172321,0.59
+3,6456462,Le Petit-Quevilly,7,MRIUnit,1172321,0.47
+3,6456462,Le Petit-Quevilly,8,Mammography,1172321,0.32
+3,6456462,Le Petit-Quevilly,9,Radiotherapy,1172321,0.16

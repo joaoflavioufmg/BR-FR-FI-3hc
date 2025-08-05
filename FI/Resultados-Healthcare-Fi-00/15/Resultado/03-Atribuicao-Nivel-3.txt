@@ -1,0 +1,4 @@
+CODIGO_O	                        ORIGEM	CODIGO_D	                       DESTINO	      DISTANCIA
+297	                        Kuopio	749	                  Siilinjärvi	    0.51
+140	                       Iisalmi	749	                  Siilinjärvi	    1.47
+749	                  Siilinjärvi	749	                  Siilinjärvi	    0.00
