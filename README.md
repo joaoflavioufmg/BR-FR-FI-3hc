@@ -18,8 +18,8 @@ The model serves as a medium- and long-term strategic planning tool, leveraging 
 
 The framework has been applied and validated across three diverse countries:
 - **🇧🇷 Brazil**: Focus on dispersed populations in central-western regions
-- **🇫🇮 Finland**: Addressing northern Finland's unique geographical challenges
 - **🇫🇷 France**: Exploring centralized healthcare model optimization
+- **🇫🇮 Finland**: Addressing northern Finland's unique geographical challenges
 
 ## Research Alignment
 
