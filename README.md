@@ -106,8 +106,8 @@ BR/
 ⚠️ **Important Version Requirements**
 - **Python 3.10** (required for geoplotlib compatibility)
 - **Pip 21.2.3** (required for geoplotlib charts)
-- **GLPK** (standalone solver. Binaries in Gusek: https://gusek.sourceforge.net/gusek_ptbr.html)
-- **Highs** (standalone solver. W64 Binaries: https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases)
+- **GLPK v5.0** (standalone solver. Binaries in Gusek: https://gusek.sourceforge.net/gusek_ptbr.html)
+- **Highs v1.11** (standalone solver. W64 Binaries: https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases)
 
 
 ### Installation Steps
