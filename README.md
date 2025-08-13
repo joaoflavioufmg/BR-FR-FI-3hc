@@ -161,8 +161,19 @@ Python 3.10.0
 Execute the full simulation across all scenarios:
 
 ```bash
-cd BR-FR-FI-3hc
-./run.bat
+> cd BR-FR-FI-3hc
+> cd .\BR\ 
+> ./run.bat
+```
+or ...
+```bash
+> cd .\FI\ 
+> ./run.bat
+```
+or ...
+```bash
+> cd .\FR\
+> ./run.bat
 ```
 
 This command will:
