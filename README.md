@@ -141,7 +141,7 @@ Python 3.10.0
    
    **Windows:**
    ```bash
-   venv\Scripts\activate
+   venv\Scripts\activate.ps1
    ```
    
    **Linux/Mac:**
