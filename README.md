@@ -106,7 +106,7 @@ BR/
 ⚠️ **Important Version Requirements**
 - **Python 3.10.0** (required for geoplotlib compatibility): 
 https://www.python.org/downloads/windows/
-Install in a Folder C:\Python_3.10\ and Create a virtual Environment:
+Install in a Folder C:\Python_3.10.0\ and Create a virtual Environment:
 ```bash
 > . C:\Python_3.10.0\python.exe -m venv venv
 > . .\venv\Scripts\Activate.ps1
