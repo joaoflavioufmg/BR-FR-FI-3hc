@@ -104,10 +104,23 @@ BR/
 ### Prerequisites
 
 ⚠️ **Important Version Requirements**
-- **Python 3.10** (required for geoplotlib compatibility)
+- **Python 3.10** (required for geoplotlib compatibility): 
+Install in a Folder C:\Python_3.10\ and Create a virtual Environment:
+```bash
+> . C:\Python_3.10\python.exe -m venv venv
+> . .\venv\Scripts\Activate.ps1
+   ```
+Check Python version: 
+```bash
+> python --version
+Python 3.10.9
+   ```
 - **Pip 21.2.3** (required for geoplotlib charts)
-- **GLPK v5.0** (standalone solver. Binaries in Gusek: https://gusek.sourceforge.net/gusek_ptbr.html)
-- **Highs v1.11** (standalone solver. W64 Binaries: https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases)
+```bash
+> python -m pip install pip==21.2.3
+```
+- **GLPK v5.0** (standalone solver. Binaries in Gusek: https://gusek.sourceforge.net/gusek_ptbr.html) (Add Glpsol.exe to PATH)
+- **Highs v1.11** (standalone solver. W64 Binaries: https://github.com/JuliaBinaryWrappers/HiGHSstatic_jll.jl/releases) (Add Highs.exe to PATH)
 
 
 ### Installation Steps
