@@ -104,7 +104,8 @@ BR/
 ### Prerequisites
 
 ⚠️ **Important Version Requirements**
-- **Python 3.10** (required for geoplotlib compatibility): 
+- **Python 3.10.0** (required for geoplotlib compatibility): 
+https://www.python.org/downloads/windows/
 Install in a Folder C:\Python_3.10\ and Create a virtual Environment:
 ```bash
 > . C:\Python_3.10\python.exe -m venv venv
@@ -113,7 +114,7 @@ Install in a Folder C:\Python_3.10\ and Create a virtual Environment:
 Check Python version: 
 ```bash
 > python --version
-Python 3.10.9
+Python 3.10.0
    ```
 - **Pip 21.2.3** (required for geoplotlib charts)
 ```bash
