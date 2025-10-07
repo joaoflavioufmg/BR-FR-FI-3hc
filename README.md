@@ -285,7 +285,7 @@ This research tool is designed for:
 
 - **Journal**: Health Systems
 - **Year**: 2025
-- **DOI**: (to be completed upon publication)
+- **DOI**: 10.1080/20476965.2025.2570686
 
 ## Citation
 
@@ -297,7 +297,7 @@ If you use this work in your research, please cite our paper:
   author={Almeida, Jo{\~a}o Fl{\'a}vio de Freitas and Oliveira, Fabricio and Concei{\c{c}}{\~a}o, Samuel Vieira and Goepp, Virginie and de Campos, Francisco Carlos Cardoso},
   journal={Health Systems},
   year={2025},
-  doi={[to be completed]}
+  doi={10.1080/20476965.2025.2570686}
 }
 ```
 
@@ -305,7 +305,7 @@ If you use this work in your research, please cite our paper:
 ```
 Almeida, J. F. F., Oliveira, F., Conceição, S. V., Goepp, V., & de Campos, F. C. C. (2025). 
 Designing a minimum-cost health system for countrywide universal coverage. 
-Health Systems. doi:[to be completed]
+Health Systems. doi:10.1080/20476965.2025.2570686
 ```
 
 ## License
