@@ -308,13 +308,9 @@ Designing a minimum-cost health system for countrywide universal coverage.
 Health Systems. doi:10.1080/20476965.2025.2570686
 ```
 
-## License
-
-[Specify license information]
-
 ## Contact
 
-For questions about the methodology, implementation, or applications to other countries, please contact [research team contact information].
+For questions about the methodology, implementation, or applications to other countries, please contact joao.flavio@dep.ufmg.br.
 
 ---
 
