@@ -4,7 +4,8 @@
 
 This repository contains the implementation and supplementary materials for the research paper **"Designing a Minimum-Cost Health System for Countrywide Universal Coverage"**. The project presents a novel analysis framework for designing national health systems that optimize both effectiveness through universal coverage and efficiency through cost minimization.
 
-**Citation**: Almeida, J. F. de F., Oliveira, F., Conceição, S. V., Goepp, V., & Campos, F. C. C. de. (2025). Designing a minimum-cost health system for countrywide universal coverage. Health Systems. Taylor & Francis. https://doi.org/10.1080/20476965.2025.2570686
+**Citation**: Almeida, J. F. de F., Oliveira, F., Conceição, S. V., Goepp, V., & Campos, F. C. C. de. (2025). Designing a minimum-cost health system for countrywide universal coverage. Health Systems. Taylor & Francis. DOI: https://doi.org/10.1080/20476965.2025.2570686
+
 **Citation**: ```bibtex
 @article{Almeida2025,
   author = {Almeida, João Flávio de Freitas and Oliveira, Fabricio and Conceição, Samuel Vieira and Goepp, Virginie and Campos, Francisco Carlos Cardoso de},
